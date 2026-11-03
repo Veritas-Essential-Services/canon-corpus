@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain Amos Stevens Billingsley (1818-1897), Presbyterian minister and army chaplain, for the Word Hoard: From the Flag to the Cross (Christianity in the Civil War) and his Life of George Whitefield. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 102 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "a. s. billingsley",
+  "amos stevens billingsley",
+  "billingsley"
+ ],
+ "_surname": [
+  "a. s. billingsley",
+  "amos stevens billingsley",
+  "billingsley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "billingsley-flag-to-cross": [
+   "fromflagtocross00bill",
+   "From the flag to the cross (Philadelphia, Pa., Boston, Mass. [etc.] New York publishing Company, 1872)"
+  ],
+  "billingsley-whitefield": [
+   "lifeofgeorgewhit00billuoft",
+   "Life of George Whitefield : \"Prince of Pulpit Orators\" : with specimens of his sermons (New York : J.B. Alden, 1889)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "billingsley-flag-to-cross": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. billingsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "billingsley-whitefield": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. billingsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889, c1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

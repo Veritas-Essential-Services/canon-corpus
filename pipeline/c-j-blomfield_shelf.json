@@ -1,0 +1,204 @@
+{
+ "_about": "Public-domain C. J. Blomfield, Bishop of Chester and then of London, for the Word Hoard: his Twelve Lectures on the Acts of the Apostles, Sermons preached at St Botolph's, Bishopsgate, Twenty-Four Sermons on Christian Doctrine and Practice, his Charge of 1834, sermons on the Church and on a standing ministry, the Coronation sermon for Queen Victoria, a manual of family prayers, and his letters and speeches on church questions. His Greek editions are left to the classical shelves. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 123 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles james blomfield",
+  "c. j. blomfield",
+  "bishop of london",
+  "blomfield"
+ ],
+ "_surname": [
+  "blomfield"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "blomfield-acts": [
+   "twelvelectureson00blom",
+   "Twelve lectures on the Acts of the Apostles : to which is added a new ed. of Five lectures on the Gospel of St. John, as bearing testimony to the divinity of Jesus Christ (London : B. Fellows, 1828)"
+  ],
+  "blomfield-family-prayers": [
+   "manualoffamilypr00blom",
+   "A manual of family prayers (New York : New York Protestant Episcopal Tract Society, 1829)"
+  ],
+  "blomfield-bishopsgate": [
+   "sermonspreached00blomgoog",
+   "Sermons preached in the parish church of st. Botolph, Bishopsgate, 2nd ed (catalogued 1832)"
+  ],
+  "blomfield-charge-1834": [
+   "a621296800churuoft",
+   "A charge delivered to the clergy of the Diocese of London at the visitation in July, MDCCCXXXIV (London : B. Fellowes, 1834)"
+  ],
+  "blomfield-standing-ministry": [
+   "usesastandingmi00blomgoog",
+   "The uses of a standing ministry and an established Church, 2 sermons (catalogued 1834)"
+  ],
+  "blomfield-coronation": [
+   "sermonpreachedat00blom",
+   "A sermon preached at the Coronation of her most excellent Majesty Queen Victoria in the Abbey Church of Westminster, June 28, 1838 (London : B. Fellowes, 1838)"
+  ],
+  "blomfield-three-sermons-church": [
+   "threesermonsonc00blomgoog",
+   "Three sermons on the Church (catalogued 1842)"
+  ],
+  "blomfield-speech-1850": [
+   "speechofbishopof00blom",
+   "Speech of the Bishop of London, in the House of Lords, on moving the second reading of the bill relating to appeals from the ecclesiastical courts, on Monday, June 3, 1850, vol. Talbot Collection of British Pamphlets (London : B. Fellowes, Ludgate Street, 1850)"
+  ],
+  "blomfield-privileges": [
+   "christiansprivi00blomgoog",
+   "The Christian's privileges and duties (catalogued 1858)"
+  ],
+  "blomfield-twenty-four-sermons": [
+   "bwb_P9-CDQ-418",
+   "Twenty-Four Sermons on Christian Doctrine and Practice, and on the Church (catalogued 1859)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "blomfield-greek": "his editions of Aeschylus, Euripides and Callimachus, the Museum Criticum and the Musae Cantabrigienses are classical work for Lane B",
+  "blomfield-others": "the Greek grammar, the histories of Greek literature and philosophy, the Bicester deanery history and the Labrador visit are by other men or translations",
+  "blomfield-replies": "The Reply and Baptismal Regeneration are answers to his charge by others",
+  "blomfield-acts-dup": "12LecturesOnTheActsOfTheApostles, a second scan of the Twelve Lectures",
+  "blomfield-lushington": "alettertocharle00blomgoog is a letter by another man defending the Bishop of London"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "blomfield-family-prayers": {
+   "author": "OCR of the title page: \"A MANUAL OF FAMILY PRAYERS, COMPILED BY C. J. BLOMFIEL.D, D.D. LATE BISHOP OF CHESTER, NOW BISHOP OF LONDON.\"",
+   "title": "OCR of the title page: \"A MANUAL OF FAMILY PRAYERS, COMPILED BY C. J. BLOMFIEL.D, D.D. LATE BISHOP OF CHESTER, NOW BISHOP OF LONDON.\""
+  },
+  "blomfield-charge-1834": {
+   "author": "OCR of the title page: \"CHARGE DELIVERED TO THE CLERGY OF THE DIOCESE OF LONDON AT THE VISITATION IN JULY, MDCCCXXXIV. BY CHARLES JAMES LORD BISHOP OF LONDON.\" C. J. Blomfield was Bishop of London from 1828 to 1856; \"Charles James\" with that see names him.",
+   "title": "OCR of the title page: \"CHARGE DELIVERED TO THE CLERGY OF THE DIOCESE OF LONDON AT THE VISITATION IN JULY, MDCCCXXXIV. BY CHARLES JAMES LORD BISHOP OF LONDON.\" C. J. Blomfield was Bishop of London from 1828 to 1856; \"Charles James\" with that see names him."
+  },
+  "blomfield-coronation": {
+   "author": "OCR of the title page: \"A Sermon PREACHED AT THE CORONATION [OF] HER MOST EXCELLENT MAJESTY QUEEN VICTORIA ... MDCCCXXXVIII. [BY] CHARLES JAMES LORD BISHOP OF LONDON.\" C. J. Blomfield was Bishop of London from 1828 to 1856; \"Charles James\" with that see names him.",
+   "title": "OCR of the title page: \"A Sermon PREACHED AT THE CORONATION [OF] HER MOST EXCELLENT MAJESTY QUEEN VICTORIA ... MDCCCXXXVIII. [BY] CHARLES JAMES LORD BISHOP OF LONDON.\" C. J. Blomfield was Bishop of London from 1828 to 1856; \"Charles James\" with that see names him."
+  },
+  "blomfield-three-sermons-church": {
+   "author": "OCR of the title page: \"PREACHED IN THE PARISH CHURCH OF ST. JAMES, WESTMINSTER, DURING LENT, MDCCCXLII. BY CHARLES JAMES LORD BISHOP OF LONDON.\" C. J. Blomfield was Bishop of London from 1828 to 1856; \"Charles James\" with that see names him.",
+   "title": "OCR of the title page: \"PREACHED IN THE PARISH CHURCH OF ST. JAMES, WESTMINSTER, DURING LENT, MDCCCXLII. BY CHARLES JAMES LORD BISHOP OF LONDON.\" C. J. Blomfield was Bishop of London from 1828 to 1856; \"Charles James\" with that see names him."
+  },
+  "blomfield-speech-1850": {
+   "author": "OCR of the title page: \"SPEECH OF THE BISHOP OF LONDON, IN the House of Lords, ON MOVING THE SECOND READING OF THE BILL RELATING TO APPEALS FROM THE ECCLESIASTICAL COURTS\" (1850). C. J. Blomfield was Bishop of London from 1828 to 1856; \"Charles James\" with that see names him.",
+   "title": "OCR of the title page: \"SPEECH OF THE BISHOP OF LONDON, IN the House of Lords, ON MOVING THE SECOND READING OF THE BILL RELATING TO APPEALS FROM THE ECCLESIASTICAL COURTS\" (1850). C. J. Blomfield was Bishop of London from 1828 to 1856; \"Charles James\" with that see names him."
+  }
+ },
+ "_pending": {
+  "blomfield-remonstrance": "A remonstrance, addressed to H. Brougham, Esq. M.P (Lonodon : Printed for J. Mawman, 39, Ludgate Street, and C. and J. Rivington, 62, St. Paul's Church-Yard, and 8, Waterloo Place, 1823) (IA remonstranceaddr00blom): signed only \"one of the Working Clergy\"; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "blomfield-acts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blomfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blomfield-family-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blomfield-bishopsgate": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blomfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blomfield-charge-1834": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blomfield-standing-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blomfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blomfield-coronation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blomfield-three-sermons-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blomfield-speech-1850": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blomfield-privileges": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blomfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blomfield-twenty-four-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blomfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

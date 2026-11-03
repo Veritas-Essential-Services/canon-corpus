@@ -1,0 +1,52 @@
+{
+ "_about": "TRANSLATOR SHELF: Anthony C. Middleton: d'Holbach's Letters to Eugenia, or A Preservative against Religious Prejudices (Boston, 1870), a deist-atheist polemic. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "anthony c. middleton"
+ ],
+ "_surname": [
+  "anthony c. middleton"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "acm-31275": [
+   31275,
+   "Letters to Eugenia; Or, A Preservative Against Religious Prejudices"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ac-middleton-holbach-letters-to-eugenia-or-a-preservative-aga": {
+   "source": "acm-31275",
+   "of": "Paul-Henri Thiry, baron d'Holbach",
+   "work": "Letters to Eugenia; Or, A Preservative Against Religious Prejudices",
+   "translated": "1870 (see the Gutenberg header)",
+   "translator": "Anthony C. Middleton",
+   "scan_edition": "Project Gutenberg 31275 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-38094": "Another Gutenberg file of the same translation: duplicate, not shelved."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "acm-31275": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anthony c. middleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anthony C. Middleton"
+  }
+ },
+ "_verified": {
+  "acm-31275": {
+   "pg": 31275,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anthony C. Middleton"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,315 @@
+{
+ "_about": "Lucretius in English, translator per title: H. A. J. Munro (prose; 4th ed. vol. 3, the translation, 1900 printing; raw IA), Cyril Bailey (prose, Oxford 1910; raw IA), R. C. Trevelyan (verse selections, 1920; clean Gutenberg). William Ellery Leonard's verse translation (1916) is already on the Adler shelf as lucretius-nature (PG 785), which that shelf labels 'tr. Munro'; PG 785 names Leonard. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "lucretius",
+  "lucreti",
+  "rerum",
+  "natura"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lucretius-trevelyan-selections": [
+   64024,
+   "Translations from Lucretius",
+   "tr. R. C. Trevelyan (verse, 1920)"
+  ]
+ },
+ "internet_archive": {
+  "lucretius-munro-translation": [
+   "lucreticariderer03lucruoft",
+   "De rerum natura libri sex, ed. with notes and a translation by H. A. J. Munro, vol. 3: the translation (1900 printing)",
+   "tr. H. A. J. Munro"
+  ],
+  "lucretius-bailey-1910": [
+   "lucretiusonthena00lucruoft",
+   "Lucretius on the Nature of Things (Oxford, 1910)",
+   "tr. Cyril Bailey"
+  ],
+  "lucretius-creech-v1": [
+   "tlucretiuscaruso01lucr",
+   "T. Lucretius Carus, Of the Nature of Things, vol. 1 (1714)",
+   "tr. Thomas Creech"
+  ],
+  "lucretius-creech-v2": [
+   "tlucretiuscaruso02lucr",
+   "T. Lucretius Carus, Of the Nature of Things, vol. 2: Books V-VI (1714)",
+   "tr. Thomas Creech"
+  ],
+  "lucretius-good-1805-v1": [
+   "natureofthingsdi01lucr",
+   "The Nature of Things: a didactic poem, vol. I (London 1805)",
+   "tr. John Mason Good"
+  ],
+  "lucretius-good-1805-v2": [
+   "natureofthingsdi02lucr",
+   "The Nature of Things: a didactic poem, vol. II (London 1805)",
+   "tr. John Mason Good"
+  ],
+  "lucretius-rouse-loeb-1924": [
+   "text-lucretius-rouse",
+   "Lucretius, De Rerum Natura, with an English translation (Loeb Classical Library; London: Heinemann, New York: Putnam, 1924; Latin facing)",
+   "Text-Lucretius-Rouse_djvu.txt",
+   "tr. W. H. D. Rouse"
+  ],
+  "lucretius-anon-prose-1743-v1": [
+   "tlucretiuscaruso00lucr",
+   "T. Lucretius Carus of the Nature of Things, in six books, with notes and plates engraved by Guernier and others, vol. I: Books I-III (London: Daniel Browne, MDCCXLIII; Latin facing)",
+   "tr. anonymous (English prose)"
+  ],
+  "lucretius-watson-good-bohn-1851": [
+   "lucretiusonnatu00goodgoog",
+   "Lucretius On the Nature of Things, literally translated into English prose, with the metrical version of John Mason Good (Bohn, MDCCCLI)",
+   "tr. John Selby Watson (prose); John Mason Good (verse)"
+  ],
+  "lucretius-johnson-1872": [
+   "lucretiusonnatu00lucr",
+   "Lucretius On the Nature of Things, translated into English verse (London: Sampson Low, 1872)",
+   "tr. Charles Frederick Johnson"
+  ],
+  "lucretius-anon-books-i-ii-1879": [
+   "firstsecondbooks00londiala",
+   "The First and Second Books of Lucretius translated (privately printed, London, 1879)",
+   "tr. unnamed ('the translators', per the preface)"
+  ],
+  "lucretius-baring-1884": [
+   "schemeofepicurus00lucrrich",
+   "The Scheme of Epicurus: a rendering into English verse of the unfinished poem of Lucretius (London, 1884)",
+   "tr. Thomas Charles Baring"
+  ]
+ },
+ "_cross_ref": {
+  "lucretius-nature": "Adler shelf: PG 785 is William Ellery LEONARD's 1916 verse translation, not Munro's as the Adler label says",
+  "dryden-lucretius": "Dryden shelf, lane C (Dryden's passages from Lucretius)"
+ },
+ "_excluded": {
+  "in.ernet.dli.2015.96329": "catalogued as Munro 4th ed.; its text layer is empty (146 bytes)"
+ },
+ "perseus": {
+  "lucretius-perseus-leonard-de-rerum-natura": [
+   "phi0550.phi001.perseus-eng1",
+   "De Rerum Natura",
+   "William Ellery Leonard",
+   "Translation published 1916: US public domain (in or before 1930). Perseus source line: Lucretius. De Rerum Natura. William Ellery Leonard. E. P. Dutton. 1916."
+  ]
+ },
+ "_surname": [
+  "lucretius"
+ ],
+ "_translators": {
+  "lucretius-trevelyan-selections": "R. C. Trevelyan",
+  "lucretius-munro-translation": "H. A. J. Munro",
+  "lucretius-bailey-1910": "Cyril Bailey",
+  "lucretius-creech-v1": "tho. creech",
+  "lucretius-creech-v2": "Thomas Creech",
+  "lucretius-perseus-leonard-de-rerum-natura": "William Ellery Leonard",
+  "lucretius-good-1805-v1": "John Mason Good",
+  "lucretius-good-1805-v2": "John Mason Good",
+  "lucretius-rouse-loeb-1924": "W. H. D. Rouse",
+  "lucretius-watson-good-bohn-1851": "john mason good",
+  "lucretius-johnson-1872": "charles frederick johnson",
+  "lucretius-baring-1884": "thomas charles baring"
+ },
+ "_checks": {
+  "lucretius-trevelyan-selections": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "R. C. Trevelyan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. C. Trevelyan",
+   "translator_match": true
+  },
+  "lucretius-munro-translation": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "H. A. J. Munro",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-bailey-1910": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "Cyril Bailey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-creech-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "tho. creech",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1714",
+   "ia_date": "1714",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucretius-creech-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "Thomas Creech",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1714",
+   "ia_date": "1714",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucretius-good-1805-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "John Mason Good",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-good-1805-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "John Mason Good",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-rouse-loeb-1924": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "W. H. D. Rouse",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: 'LONDON: WILLIAM HEINEMANN / NEW YORK: G. P. PUTNAM'S SONS / MCMXXIV', series editors Capps, Page and Rouse; no reprint or revision line, and nothing in the front matter later than 1921. The 1924 first printing, before the 1937 revision. IA records no date."
+  },
+  "lucretius-anon-prose-1743-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucretius-watson-good-bohn-1851": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "john mason good",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-johnson-1872": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "charles frederick johnson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lucretius-anon-books-i-ii-1879": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-baring-1884": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "thomas charles baring",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "lucretius-perseus-leonard-de-rerum-natura": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0550.phi001.perseus-eng1",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "William Ellery Leonard",
+   "author_seen": "lucretius",
+   "source_years": [
+    1916
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0550/phi001/phi0550.phi001.perseus-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ },
+ "_rights_checked": {
+  "lucretius-rouse-loeb-1924": "Title page read: 'LONDON: WILLIAM HEINEMANN / NEW YORK: G. P. PUTNAM'S SONS / MCMXXIV', series editors Capps, Page and Rouse; no reprint or revision line, and nothing in the front matter later than 1921. The 1924 first printing, before the 1937 revision. IA records no date."
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_translator_unchecked": {
+  "lucretius-anon-prose-1743-v1": "the title page names no translator (the plates are 'engraved by Guernier and others'); anonymous prose translation",
+  "lucretius-anon-books-i-ii-1879": "privately printed; the title page names no translator and the preface speaks only of 'the translators'"
+ }
+}

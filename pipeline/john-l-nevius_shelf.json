@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain John Livingston Nevius (1829-1893), Presbyterian missionary in Shandong, China, author of the 'Nevius method' of self-supporting churches, for the Word Hoard: China and the Chinese (1868), San-Poh, or North of the Hills (1869), Demon Possession and Allied Themes (1894), Methods of Mission Work (1895) and The Planting and Development of Missionary Churches (1899). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 67 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nevius"
+ ],
+ "_surname": [
+  "john l. nevius",
+  "john livingston nevius",
+  "j. l. nevius",
+  "rev. john l. nevius"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nevius-china-chinese": [
+   "chinachinesegene00nevi",
+   "China and the Chinese : a general description of the country and its inhabitants, its civilization and form of government, its religious and social institutions, its intercourse with other nations, and its present condition and prospects (New York : Harper & brothers, 1868)"
+  ],
+  "nevius-san-poh": [
+   "sanpohornorthofh00nevi",
+   "San-Poh, or, North of the hills. : A narrative of missionary work in an outstation in China (Philadelphia : Presbyterian Board of Publication, 1869)"
+  ],
+  "nevius-demon-possession": [
+   "demonpossessiona00nevi",
+   "Demon possession and allied themes : being an inductive study of phenomena of our own times (Chicago : F. H. Revell, 1894)"
+  ],
+  "nevius-methods-mission-work": [
+   "methodsofmission00nevi",
+   "Methods of mission work (New York, Foreign mission library, 1895)"
+  ],
+  "nevius-planting-churches": [
+   "plantingdevelopm00nevi",
+   "The planting and development of missionary churches (New York : Foreign mission library, 1899)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "nevius-other": "The Life of John Livingston Nevius (1895, by his wife Helen S. C. Nevius); his Chinese-language works"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "nevius-china-chinese": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john l. nevius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nevius-san-poh": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john l. nevius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nevius-demon-possession": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john l. nevius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nevius-methods-mission-work": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john l. nevius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nevius-planting-churches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john l. nevius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

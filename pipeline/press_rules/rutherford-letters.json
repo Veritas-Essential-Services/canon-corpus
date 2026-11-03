@@ -1,0 +1,148 @@
+{
+ "corrections": [
+  {
+   "find": "Exhortationn",
+   "replace": "Exhortation",
+   "count": 1,
+   "why": "the scan reads “Exhortation” (archive.org lettersofsamuelr00ruth, leaf 19, printed p. ?): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "lettersofsamuelr00ruth",
+    "leaf": [
+     19
+    ],
+    "page": [
+     ""
+    ],
+    "ocr": "Exhortation",
+    "tesseract": "exhortation"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Ordinanaces",
+   "replace": "Ordinances",
+   "count": 1,
+   "why": "the scan reads “Ordinances” (archive.org lettersofsamuelr00ruth, leaf 19, printed p. ?): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "lettersofsamuelr00ruth",
+    "leaf": [
+     19
+    ],
+    "page": [
+     ""
+    ],
+    "ocr": "Ordinances",
+    "tesseract": "ordinances"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Beginniers",
+   "replace": "Beginners",
+   "count": 1,
+   "why": "the scan reads “Beginners” (archive.org lettersofsamuelr00ruth, leaf 20, printed p. ?): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "lettersofsamuelr00ruth",
+    "leaf": [
+     20
+    ],
+    "page": [
+     ""
+    ],
+    "ocr": "Beginners",
+    "tesseract": "beginners"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "joyful race",
+   "replace": "joyful face",
+   "count": 1,
+   "why": "the scan reads “face” (archive.org lettersofsamuelr00ruth, leaf 96, printed p. 73): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "lettersofsamuelr00ruth",
+    "leaf": [
+     96
+    ],
+    "page": [
+     "73"
+    ],
+    "ocr": "face",
+    "tesseract": "face"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "EYE",
+   "replace": "EVE",
+   "count": 1,
+   "why": "the scan reads “EVE” (archive.org lettersofsamuelr00ruth, leaf 220, printed p. 197): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "lettersofsamuelr00ruth",
+    "leaf": [
+     220
+    ],
+    "page": [
+     "197"
+    ],
+    "ocr": "EVE",
+    "tesseract": "eve"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Octavo",
+   "replace": "Octave",
+   "count": 1,
+   "why": "the scan reads “Octave” (archive.org lettersofsamuelr00ruth, leaf 766, printed p. 739): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "lettersofsamuelr00ruth",
+    "leaf": [
+     766
+    ],
+    "page": [
+     "739"
+    ],
+    "ocr": "Octave",
+    "tesseract": "octave"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "revered",
+   "replace": "reverend",
+   "count": 1,
+   "why": "the scan reads “reverend” (archive.org lettersofsamuelr00ruth, leaf 772, printed p. ?): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "lettersofsamuelr00ruth",
+    "leaf": [
+     772
+    ],
+    "page": [
+     ""
+    ],
+    "ocr": "reverend",
+    "tesseract": "reverend"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "wish to remember",
+   "replace": "are interested in",
+   "count": 1,
+   "why": "the scan reads “are interested in” (archive.org lettersofsamuelr00ruth, leaf 775, printed p. ?): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "lettersofsamuelr00ruth",
+    "leaf": [
+     775
+    ],
+    "page": [
+     ""
+    ],
+    "ocr": "are interested in",
+    "tesseract": "are interested in"
+   },
+   "by": "press_proof"
+  }
+ ]
+}

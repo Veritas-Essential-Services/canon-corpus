@@ -1,0 +1,210 @@
+{
+ "_about": "Public-domain J. A. Alexander (Joseph Addison Alexander, 1809-1860, Princeton Seminary professor of Oriental and Biblical literature) for the Word Hoard: the critical Isaiah (The Earlier Prophecies, 1846; The Later Prophecies, 1847), The Psalms Translated and Explained (1850, 3 vols), The Acts of the Apostles Explained (1857, 2 vols), Mark (1858), Matthew (1861), Notes on New Testament Literature (1861) and Sermons (1860, 2 vols), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "alexander",
+  "joseph",
+  "addison"
+ ],
+ "_surname": [
+  "j. a. alexander",
+  "joseph addison alexander",
+  "joseph a. alexander",
+  "j. addison alexander"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ja-alexander-isaiah-earlier-1846": [
+   "earlierprophecie00alex",
+   "The Earlier Prophecies of Isaiah (New York: Wiley and Putnam, 1846)"
+  ],
+  "ja-alexander-isaiah-later-1847": [
+   "laterprophecieso00alex",
+   "The Later Prophecies of Isaiah (New York: Wiley and Putnam, 1847)"
+  ],
+  "ja-alexander-psalms-1850-v1": [
+   "psalmstranslatedny01alex",
+   "The Psalms Translated and Explained, vol. 1 (New York: Baker and Scribner, 1850)"
+  ],
+  "ja-alexander-psalms-1850-v2": [
+   "psalmstranslatedny02alex",
+   "The Psalms Translated and Explained, vol. 2 (New York: Baker and Scribner, 1850)"
+  ],
+  "ja-alexander-psalms-1850-v3": [
+   "psalmstranslatedny03alex",
+   "The Psalms Translated and Explained, vol. 3 (New York: Baker and Scribner, 1850)"
+  ],
+  "ja-alexander-acts-1857-v1": [
+   "actsofapostlesex01alex",
+   "The Acts of the Apostles Explained, vol. 1 (New York: Scribner, 1857)"
+  ],
+  "ja-alexander-acts-1857-v2": [
+   "actsofapostlesex02alex",
+   "The Acts of the Apostles Explained, vol. 2 (New York: Scribner, 1857)"
+  ],
+  "ja-alexander-mark-1858": [
+   "gospelaccordingtma00alex",
+   "The Gospel according to Mark Explained (New York: C. Scribner, 1858)"
+  ],
+  "ja-alexander-matthew-1861": [
+   "gospelaccordingt00alex",
+   "The Gospel according to Matthew Explained (New York: C. Scribner, 1861)"
+  ],
+  "ja-alexander-nt-literature-1861": [
+   "notesonnewtest00alex",
+   "Notes on New Testament Literature and Ecclesiastical History (New York: Scribner, 1861)"
+  ],
+  "ja-alexander-sermons-1860-v1": [
+   "sermon01alex",
+   "Sermons, vol. 1 (New York: Charles Scribner, 1860)"
+  ],
+  "ja-alexander-sermons-1860-v2": [
+   "sermon02alex",
+   "Sermons, vol. 2 (New York: Charles Scribner, 1860)"
+  ]
+ },
+ "_alternates": {
+  "ja-alexander-isaiah-abridged": "Isaiah Translated and Explained, the author's own abridgement (1851, 2 vols), IA isaiahtranslated01alex / 02alex"
+ },
+ "_excluded": {
+  "ja-alexander-modern-reprints": "Kregel, Zondervan and Banner of Truth reprints on IA (1950s onward): later reprints, not the 19th-century printings"
+ },
+ "_checks": {
+  "ja-alexander-isaiah-earlier-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph addison alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-isaiah-later-1847": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph addison alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-psalms-1850-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. a. alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-psalms-1850-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. a. alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-psalms-1850-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. a. alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-acts-1857-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph addison alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-acts-1857-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph addison alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-mark-1858": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph addison alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "[1858]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-matthew-1861": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph addison alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-nt-literature-1861": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph addison alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-sermons-1860-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph addison alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ja-alexander-sermons-1860-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. a. alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_pending": {
+  "ja-alexander-church-offices-1851": "essaysonprimiti00alexgoog (Essays on the Primitive Church Offices, New York: C. Scribner, 1851): the identity gate refused it, because no form of Alexander's name appears as a word in its text layer, 2026-10-03. Needs another copy."
+ }
+}

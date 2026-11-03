@@ -1,0 +1,152 @@
+{
+ "_about": "The minor Roman historians in J. S. Watson's Bohn translations, raw IA OCR: Justin, Cornelius Nepos and Eutropius (1853); and Sallust, Florus and Velleius Paterculus (1852), taken for Florus and Velleius (Watson's Sallust is already on the sallust shelf from Gutenberg). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
+ "_name_words": [
+  "justin",
+  "nepos",
+  "eutropius",
+  "florus",
+  "velleius",
+  "paterculus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "justin-nepos-eutropius-watson": [
+   "justincorneliusn00watsuoft",
+   "Justin, Cornelius Nepos, and Eutropius (Bohn, 1853)",
+   "tr. John Selby Watson"
+  ],
+  "sallust-florus-velleius-watson": [
+   "sallustflorusve00sall",
+   "Sallust, Florus, and Velleius Paterculus (Bohn, 1852)",
+   "tr. John Selby Watson"
+  ],
+  "florus-forster-nepos-rolfe": [
+   "luciusannaeusflo0000unse",
+   "Lucius Annaeus Florus, Epitome of Roman History; Cornelius Nepos (Loeb, 1929)",
+   "tr. E. S. Forster (Florus), J. C. Rolfe (Nepos)"
+  ],
+  "justin-codrington-1688": [
+   "historyjustinta00codrgoog",
+   "The History of Justin, taken out of the Four and Forty Books of Trogus Pompeius, 5th ed. (London, 1688)",
+   "tr. Robert Codrington"
+  ],
+  "velleius-shipley-res-gestae": [
+   "compendiumofroma00velluoft",
+   "Velleius Paterculus, Compendium of Roman History; Res Gestae Divi Augusti (Loeb, first printed 1924; this scan a 1961 reprint; Latin facing)",
+   "tr. Frederick W. Shipley"
+  ]
+ },
+ "_surname": [
+  "justin",
+  "nepos",
+  "eutropius",
+  "florus",
+  "velleius",
+  "paterculus",
+  "justinus"
+ ],
+ "_translators": {
+  "justin-nepos-eutropius-watson": "John Selby Watson",
+  "sallust-florus-velleius-watson": "John Selby Watson",
+  "florus-forster-nepos-rolfe": "edward seymour forster",
+  "justin-codrington-1688": "Rob. Codrington",
+  "velleius-shipley-res-gestae": "Frederick W. Shipley"
+ },
+ "_checks": {
+  "justin-nepos-eutropius-watson": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "justin",
+   "translator_claimed": "John Selby Watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sallust-florus-velleius-watson": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florus",
+   "translator_claimed": "John Selby Watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "florus-forster-nepos-rolfe": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florus",
+   "translator_claimed": "edward seymour forster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "justin-codrington-1688": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "justin",
+   "translator_claimed": "Rob. Codrington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1688",
+   "ia_date": "1688",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "velleius-shipley-res-gestae": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "velleius",
+   "translator_claimed": "Frederick W. Shipley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null,
+   "rights_override": "Imprint read: 'First printed 1924, Reprinted 1955, 1961' (OCR '3924'); reprinted, not revised; no year after 1930 elsewhere in the file. Taken as the 1924 text, US public domain."
+  }
+ },
+ "_surname_by_slug": {
+  "justin-nepos-eutropius-watson": [
+   "justin",
+   "justinus"
+  ],
+  "sallust-florus-velleius-watson": [
+   "florus",
+   "velleius",
+   "paterculus"
+  ],
+  "florus-forster-nepos-rolfe": [
+   "florus"
+  ],
+  "justin-codrington-1688": [
+   "justin",
+   "justinus"
+  ],
+  "velleius-shipley-res-gestae": [
+   "velleius",
+   "paterculus"
+  ]
+ },
+ "_rights_checked": {
+  "velleius-shipley-res-gestae": "Imprint read: 'First printed 1924, Reprinted 1955, 1961' (OCR '3924'); reprinted, not revised; no year after 1930 elsewhere in the file. Taken as the 1924 text, US public domain."
+ },
+ "_excluded": {
+  "The Roman History of C. Velleius Paterculus (1721, 1722; ECCO)": "PD; the scans found (IA bim_eighteenth-century_the-roman-history-of-c-_velleius-paterculus_1721, _1722) read 0.731 and 0.744, and the 1724 copy serves no text (HTTP 500); refused for OCR quality 2026-10-10. Watson's Bohn Velleius is held"
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Charles Herbert Rust (born 1869), Baptist pastor and chapel-car missionary, for the Word Hoard: A Church on Wheels, or Ten Years on a Chapel Car, Practical Ideals in Evangelism, The Church a Field of Service, and Personal Religion. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 117 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles herbert rust",
+  "charles h. rust",
+  "c. h. rust",
+  "rust"
+ ],
+ "_surname": [
+  "charles herbert rust",
+  "charles h. rust",
+  "c. h. rust",
+  "rust"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chrust-church-wheels": [
+   "churchonwheels00rust",
+   "A church on wheels ; or, ten years on a chapel car (Philadelphia : American Baptist Publication Society, 1905)"
+  ],
+  "chrust-evangelism": [
+   "practicalidealsi00rust",
+   "Practical ideals in evangelism (Philadelphia : Griffith & Rowland Press, 1906)"
+  ],
+  "chrust-field-service": [
+   "churchfieldofser0000char",
+   "The church a field of service (catalogued 1914)"
+  ],
+  "chrust-personal-religion": [
+   "personalreligion00rust",
+   "Personal religion (Boston, Mass. : Gorham Press, 1915)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "chrust-church-wheels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles herbert rust",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chrust-evangelism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles herbert rust",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chrust-field-service": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles herbert rust",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chrust-personal-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles herbert rust",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

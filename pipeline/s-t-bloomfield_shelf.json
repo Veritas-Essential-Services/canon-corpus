@@ -1,0 +1,120 @@
+{
+ "_about": "Public-domain Samuel Thomas Bloomfield (1784?-1869), Anglican vicar of Bisbrooke and New Testament scholar, for the Word Hoard: Recensio Synoptica Annotationis Sacrae, his Greek Testament with English Notes, A Greek and English Lexicon to the New Testament, and Critical Annotations. His Thucydides translation is left out as a classical text. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 98 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "s. t. bloomfield",
+  "samuel thomas bloomfield"
+ ],
+ "_surname": [
+  "s. t. bloomfield",
+  "samuel thomas bloomfield"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bloomfield-recensio-4": [
+   "recensiosynopti04bloogoog",
+   "Recensio synoptica annotationis sacræ : being a critical digest and synoptical arrangement of the most important annotations on the New Testament, exegetical, philological, and doctrinal : carefully collected and condensed, from the best commentators, both ancient and modern, and so digested as to form one consistent body of annotation, in which each portion is systematically attributed to its respective author, and the foreign matter translated into English : the whole accompanied with a copious body of original annotations, vol. 5 (London : C. and J. Rivington, 1826)"
+  ],
+  "bloomfield-recensio-5": [
+   "recensiosynoptic05bloo",
+   "Recensio synoptica annotationis sacrae : being a critical digest and synoptical arrangement of the most important annotations on the New Testament, exegetical, philological, and doctrinal : collected from commentators both ancient and modern, vol. 5 (London : C. and J. Rivington, 1826)"
+  ],
+  "bloomfield-greek-testament-1837": [
+   "hekainediatheker02bloo",
+   "He Kaine Diatheke [romanized]. The Greek Testament, with English notes, critical, philological, and exegetical, partly selected and arranged from the best commentators, ancient and modern, but chiefly original. The whole being especially adapted to the use of academical students, candidates for the sacred office, and ministers, vol. 2 (Boston : Perkins and Marvin, 1837)"
+  ],
+  "bloomfield-lexicon": [
+   "greekenglishlexi00bloo",
+   "A Greek and English lexicon to the New Testament (London, Printed for Longman, Orme, Brown, Green & Longmans, 1840)"
+  ],
+  "bloomfield-greek-testament-1855": [
+   "greektestamentw00bloogoog",
+   "Greek testament with English notes, critical, philological and exegetical, vol. 1 (Lond., Longman, 1855)"
+  ],
+  "bloomfield-critical-annotations": [
+   "criticalannotat00bloogoog",
+   "Critical annotations, additional and supplementary [&c.] (catalogued 1860)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bloomfield-thucydides": "historythucydid00bloogoog: his Thucydides translation (classical, not theology)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "bloomfield-recensio-4": "Title page (OCR): 'Recensio Synoptica Annotationis Sacrae... The whole accompanied with a copious body of original annotations. By the Rev. S. T. Bloomfield, M.A., of Sidney College, Cambridge, Vicar of Bisbrooke in Rutland, and resident curate of Tugby, Leicestershire.'",
+  "bloomfield-greek-testament-1837": "Title page (OCR): 'The Greek Testament, with English notes... By the Rev. S. T. Bloomfield, D. D. F.S.A., Vicar of Bisbrooke, Rutland. First American from the second London edition, in two volumes. Boston.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bloomfield-recensio-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bloomfield-recensio-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. t. bloomfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bloomfield-greek-testament-1837": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bloomfield-lexicon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. t. bloomfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bloomfield-greek-testament-1855": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. t. bloomfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bloomfield-critical-annotations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. t. bloomfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

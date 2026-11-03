@@ -1,0 +1,110 @@
+{
+ "_about": "John C. Calhoun (1782-1850): The Works of John C. Calhoun, edited by Richard K. Cralle, 6 vols. (New York: D. Appleton, 1854-1856), taken whole: vol. I is A Disquisition on Government and A Discourse on the Constitution and Government of the United States, vols. II-IV the speeches, vols. V-VI reports and public letters (the years are read from each title page, two of them garbled). Raw IA OCR, clean 0.92-0.95. Calhoun defended slavery and nullification; the Works are taken as primary sources of American political theory. US public domain. No uids minted.",
+ "_author": "John C. Calhoun",
+ "_name_words": [
+  "john",
+  "caldwell",
+  "calhoun"
+ ],
+ "_surname": [
+  "calhoun"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "calhoun-works-cralle-v1": [
+   "worksofjohnccalh01calh",
+   "The Works, ed. R. K. Cralle, vol. 1: A Disquisition on Government and A Discourse on the Constitution and Government of the United States (New York: Appleton, 1854)"
+  ],
+  "calhoun-works-cralle-v2": [
+   "worksofjohnccalh02calh",
+   "The Works, ed. R. K. Cralle, vol. 2: Speeches, vol. I (New York: Appleton, 1856, the OCR garbles the numeral)"
+  ],
+  "calhoun-works-cralle-v3": [
+   "worksofjohnccalh03calh",
+   "The Works, ed. R. K. Cralle, vol. 3: Speeches, vol. II (New York: Appleton, 1854 or 1855, the OCR shows both)"
+  ],
+  "calhoun-works-cralle-v4": [
+   "worksofjohnccalh04calh",
+   "The Works, ed. R. K. Cralle, vol. 4: Speeches, vol. III (New York: Appleton, 1856)"
+  ],
+  "calhoun-works-cralle-v5": [
+   "worksofjohnccalh05calh",
+   "The Works, ed. R. K. Cralle, vol. 5: Reports and Public Letters (New York: Appleton, 1855)"
+  ],
+  "calhoun-works-cralle-v6": [
+   "worksofjohnccalh06calh",
+   "The Works, ed. R. K. Cralle, vol. 6: Reports and Public Letters, continued (New York: Appleton, 1855)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "calhoun-works-cralle-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "calhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-57",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calhoun-works-cralle-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "calhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-57",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calhoun-works-cralle-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "calhoun",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-57",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calhoun-works-cralle-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "calhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-57",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calhoun-works-cralle-v5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "calhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-57",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calhoun-works-cralle-v6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "calhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-57",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

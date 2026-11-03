@@ -1,0 +1,35 @@
+{
+ "_about": "Thoreau's (1817-1862) Walden with On the Duty of Civil Disobedience, one Gutenberg text. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Henry David Thoreau",
+ "_name_words": [
+  "henry",
+  "david",
+  "thoreau"
+ ],
+ "_surname": [
+  "henry david thoreau",
+  "thoreau"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "thoreau-walden": [
+   205,
+   "Walden, and On the Duty of Civil Disobedience (1854; 1849)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "thoreau-civil-disobedience-71": "the essay alone (PG 71) duplicates the second half of PG 205"
+ },
+ "_checks": {
+  "thoreau-walden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry david thoreau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

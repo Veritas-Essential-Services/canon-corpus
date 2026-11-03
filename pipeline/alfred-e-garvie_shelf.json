@@ -1,0 +1,316 @@
+{
+ "_about": "Public-domain Alfred Ernest Garvie (1861-1945), Congregational theologian and principal of New College, London, for the Word Hoard: The Ritschlian Theology, the Century Bible Romans and Luke, The Gospel for To-day, A Guide to Preachers, Studies in the Inner Life of Jesus, Studies of Paul and his Gospel, The Christian Preacher, A Handbook of Christian Apologetics, The Christian Doctrine of the Godhead, and other books. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 96 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alfred e. garvie",
+  "alfred ernest garvie",
+  "a. e. garvie",
+  "garvie"
+ ],
+ "_surname": [
+  "alfred e. garvie",
+  "alfred ernest garvie",
+  "a. e. garvie",
+  "garvie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "garvie-ritschlian": [
+   "ritschliantheolo00garv",
+   "The Ritschlian theology, critical and constructive; an exposition and an estimate (Edinburgh, T. & T. Clark, 1899)"
+  ],
+  "garvie-romans": [
+   "romansintroduct00garvgoog",
+   "Romans: Introduction, Authorized Version, Revised Version with Notes, Index (T.C. & E.C. Jack, 1901)"
+  ],
+  "garvie-gospel-today": [
+   "gospelfortoday00garvuoft",
+   "Gospel for to-day (London : James Clarke & co, 1904)"
+  ],
+  "garvie-guide-preachers": [
+   "aguidetopreacher00garvuoft",
+   "A guide to preachers (London : Hodder and Stoughton, 1907)"
+  ],
+  "garvie-inner-life-jesus": [
+   "studiesintheinne00garvuoft",
+   "Studies in the inner life of Jesus (London : Hodder and Stoughton, 1907)"
+  ],
+  "garvie-life-teaching-paul": [
+   "lifeteachingofpa00garv",
+   "Life and teaching of Paul (New York : Hodder and Stoughton, 1910)"
+  ],
+  "garvie-luke": [
+   "gospelaccordingt03garv",
+   "The gospel according to St. Luke, vol. 3 (New York : Revell, 1911)"
+  ],
+  "garvie-paul-gospel": [
+   "studiesofpaulhis0000garv",
+   "Studies of Paul and his gospel (London, Hodder and Stoughton, 1911)"
+  ],
+  "garvie-follow-jesus": [
+   "canwestillfollow0000garv",
+   "Can we still follow Jesus? : a study of the teaching of Jesus in its modern applications (London ; New York : Cassell, 1913)"
+  ],
+  "garvie-joy-of-finding": [
+   "joyoffindingorgo0000garv",
+   "The joy of finding, or, God's humanity and man's inhumanity to man; an exposition of Luke XV. 11-32 (New York, C. Scribner's Sons, 1914)"
+  ],
+  "garvie-missionary-obligation": [
+   "missionaryobliga0000garv",
+   "The missionary obligation in the light of the changes of modern thought (London, New York, Hodder and Stoughton, 1914)"
+  ],
+  "garvie-masters-comfort": [
+   "masterscomfortho0000unse",
+   "The Master's Comfort And Hope : Sermons on John 13 : 31-14: 31 (T.&T. Clark, 1917)"
+  ],
+  "garvie-purpose-of-god": [
+   "purposeofgodinch0000garv",
+   "The purpose of God in Christ and its fulfillment through the Holy Spirit considered in relation to the problems raised and the duties enforced by the war (London, Hodder & Stoughton, 1918)"
+  ],
+  "garvie-apologetics": [
+   "handbookofchrist0000garv",
+   "A handbook of Christian apologetics (New York : Scribner, 1920)"
+  ],
+  "garvie-christian-preacher": [
+   "christianpreache0000alfr",
+   "The christian preacher (t. & t. clarke, 1920)"
+  ],
+  "garvie-tutors-unto-christ": [
+   "tutorsuntochrist0000garv",
+   "Tutors unto Christ; introduction to the study of religions (London, New York H. Milford, Oxford University Press, 1920)"
+  ],
+  "garvie-beloved-disciple": [
+   "beloveddisciples0000garv",
+   "The beloved disciple : studies of the fourth gospel (New York : George H. Doran, 1922)"
+  ],
+  "garvie-godhead": [
+   "christiandoctrin0000garv",
+   "The Christian doctrine of the Godhead; or, The apostolic benediction as the Christian creed (New York, George H. Doran, 1926)"
+  ],
+  "garvie-preachers-of-church": [
+   "preachersofchurc0000alfr",
+   "The Preachers of the Church (James Clarke and Co., 1927)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "garvie-christ-civilization": "Christ and Civilization (1910, many authors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "garvie-ritschlian": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-romans": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "garvie-gospel-today": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "garvie-guide-preachers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "garvie-inner-life-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "garvie-life-teaching-paul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "garvie-luke": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "garvie-paul-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-follow-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-joy-of-finding": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-missionary-obligation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-masters-comfort": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-purpose-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-apologetics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred ernest garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-christian-preacher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred ernest garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-tutors-unto-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-beloved-disciple": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-godhead": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garvie-preachers-of-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred e. garvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

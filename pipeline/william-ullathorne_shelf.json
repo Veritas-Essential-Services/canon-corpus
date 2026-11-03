@@ -1,0 +1,107 @@
+{
+ "_about": "Public-domain William Bernard Ullathorne (1806-1889, Benedictine, first Bishop of Birmingham) for the Word Hoard: 5 books from Internet Archive scans: his trilogy The Endowments of Man (1880), The Groundwork of the Christian Virtues (1882) and Christian Patience (1886), and the Autobiography and the Letters, whose title pages carry no year (their prefaces are dated 1891 and 1892). Written in English. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ullathorne"
+ ],
+ "_surname": [
+  "ullathorne",
+  "william bernard ullathorne"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ullathorne-endowments-of-man": [
+   "theendowmentsofm00ullauoft",
+   "The Endowments of Man considered in their relations with his final end (London: Burns & Oates, 1880)"
+  ],
+  "ullathorne-groundwork-virtues": [
+   "bwb_G5-AKF-216",
+   "The Groundwork of the Christian Virtues (London: Burns and Oates, 1882)"
+  ],
+  "ullathorne-christian-patience": [
+   "ChristianPatience",
+   "Christian Patience, the Strength and Discipline of the Soul (London: Burns and Oates, 1886)"
+  ],
+  "ullathorne-autobiography": [
+   "a611465300ullauoft",
+   "The Autobiography of Archbishop Ullathorne, with selections from his letters (London: Burns & Oates; no year on the title page, preface dated 1891)"
+  ],
+  "ullathorne-letters": [
+   "lettersofarchbis00ullauoft",
+   "Letters of Archbishop Ullathorne (London: Burns & Oates; New York: Catholic Publication Society; no year on the title page, preface dated 1892)"
+  ]
+ },
+ "_alternates": {
+  "ullathorne-copies": "Groundwork 4th ed. (1890), Endowments (TheEndowmentsOfMan, 1880), later undated editions"
+ },
+ "_excluded": {
+  "ullathorne-late": "From Cabin-Boy to Archbishop (1941)",
+  "ullathorne-anthology": "Characteristics from the Writings of Ullathorne (1889), by another hand"
+ },
+ "_rights_checked": {
+  "ullathorne-autobiography": "title page read: no year and no editor named; the preface is dated 1891 and the work was printed then, before 1930",
+  "ullathorne-letters": "title page read: no year; the editors are not named; preface dated March 1st, 1892"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ullathorne-endowments-of-man": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ullathorne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ullathorne-groundwork-virtues": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ullathorne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ullathorne-christian-patience": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ullathorne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ullathorne-autobiography": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ullathorne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null,
+   "rights_override": "title page read: no year and no editor named; the preface is dated 1891 and the work was printed then, before 1930"
+  },
+  "ullathorne-letters": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ullathorne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no year; the editors are not named; preface dated March 1st, 1892"
+  }
+ }
+}

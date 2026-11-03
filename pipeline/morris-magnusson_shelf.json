@@ -1,0 +1,420 @@
+{
+ "_about": "TRANSLATOR SHELF: Eiríkr Magnússon (1833-1913) and William Morris (1834-1896): their Icelandic sagas. Grettir the Strong (1869), Frithiof the Bold (1875), Three Northern Love Stories (1875) and the six-volume Saga Library (1891-1905, including their Heimskringla). Their Volsunga Saga is on Lane D's poetic-edda shelf (cross-referenced here). PD everywhere. Morris's Odyssey, Aeneid and Beowulf stay on the homer, virgil and beowulf shelves. Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted. Round 118 (2026-10-17, vetoable): Magnússon's two Runeberg translations without Morris, Lyrical Songs, Idylls and Epigrams (with E. H. Palmer, 1878) and King Fialar (1912).",
+ "_name_words": [
+  "magnússon",
+  "magnusson",
+  "eirikr magnusson",
+  "eiríkr magnússon"
+ ],
+ "_surname": [
+  "magnússon",
+  "magnusson",
+  "eirikr magnusson",
+  "eiríkr magnússon"
+ ],
+ "_surname_note": "Magnússon, not Morris: 'morris' alone would pass Morris dancers, Morris chairs, and other Morrises; every one of these sagas names Magnússon.",
+ "ccel": {},
+ "gutenberg": {
+  "mm-grettir": [
+   12747,
+   "The Story of Grettir the Strong"
+  ],
+  "mm-frithiof": [
+   24420,
+   "The Story of Frithiof the Bold"
+  ],
+  "morris-magnusson-pg24421": [
+   24421,
+   "The Story of Gunnlaug the Worm-Tongue and Raven the Skald"
+  ]
+ },
+ "internet_archive": {
+  "mm-saga-library-1": [
+   "sagalibrarydonei01snoriala",
+   "The Saga Library"
+  ],
+  "mm-saga-library-2": [
+   "sagalibrarydonei02snor",
+   "The Saga Library"
+  ],
+  "mm-saga-library-3": [
+   "sagalibrarydonei03snor",
+   "The Saga Library"
+  ],
+  "mm-saga-library-4": [
+   "sagalibrarydonei04snor",
+   "The Saga Library"
+  ],
+  "mm-saga-library-5": [
+   "sagalibrary05snoruoft",
+   "The Saga Library"
+  ],
+  "mm-saga-library-6": [
+   "sagalibrarydonei06snor",
+   "The Saga Library"
+  ],
+  "mm-three-northern": [
+   "threenorthernlo00morrgoog",
+   "Three Northern Love Stories"
+  ],
+  "mm-runeberg-lyrical-songs": [
+   "lyricalsongsidyl00runerich",
+   "Lyrical Songs, Idylls and Epigrams (1878)"
+  ],
+  "mm-runeberg-king-fialar": [
+   "kingfialarpoemin00runerich",
+   "King Fialar: a Poem in Five Songs (1912)"
+  ]
+ },
+ "titles": {
+  "mm-frithiof-the-bold": {
+   "source": "mm-frithiof",
+   "of": "anonymous (Old Norse)",
+   "work": "The Story of Frithiof the Bold",
+   "translated": 1875,
+   "translator": "Eiríkr Magnússon and William Morris",
+   "scan_edition": "Project Gutenberg 24420 (clean text)"
+  },
+  "mm-grettir-the-strong": {
+   "source": "mm-grettir",
+   "of": "anonymous (Old Norse)",
+   "work": "The Story of Grettir the Strong",
+   "translated": 1869,
+   "translator": "Eiríkr Magnússon and William Morris",
+   "scan_edition": "Project Gutenberg 12747 (clean text); a 1900 printing"
+  },
+  "mm-gunnlaug-worm-tongue": {
+   "source": "morris-magnusson-pg24421",
+   "of": "anonymous (Old Norse)",
+   "work": "The Story of Gunnlaug the Worm-Tongue and Raven the Skald",
+   "translated": "1869 (as printed 1875)",
+   "translator": "Eiríkr Magnússon and William Morris",
+   "scan_edition": "Project Gutenberg 24421 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto",
+   "note": "Like Frithiof (24420), Gutenberg's separate file of a story also printed in Three Northern Love Stories (1875)."
+  },
+  "mm-saga-library-vol-1": {
+   "source": "mm-saga-library-1",
+   "of": "anonymous (Old Norse)",
+   "work": "The Saga Library, vol. 1: The Story of Howard the Halt; The Banded Men; Hen Thorir",
+   "translated": 1891,
+   "translator": "William Morris and Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1891 (raw OCR); title page read"
+  },
+  "mm-saga-library-vol-2": {
+   "source": "mm-saga-library-2",
+   "of": "anonymous (Old Norse)",
+   "work": "The Saga Library, vol. 2: The Story of the Ere-Dwellers (Eyrbyggja Saga), with The Heath-Slayings",
+   "translated": 1892,
+   "translator": "William Morris and Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1892 (raw OCR); title page read"
+  },
+  "mm-saga-library-vol-3": {
+   "source": "mm-saga-library-3",
+   "of": "Snorri Sturluson",
+   "work": "The Saga Library, vol. 3: Heimskringla, vol. I",
+   "translated": 1893,
+   "translator": "William Morris and Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1893 (raw OCR); title page read"
+  },
+  "mm-saga-library-vol-4": {
+   "source": "mm-saga-library-4",
+   "of": "Snorri Sturluson",
+   "work": "The Saga Library, vol. 4: Heimskringla, vol. II",
+   "translated": 1894,
+   "translator": "William Morris and Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1894 (raw OCR); title page read"
+  },
+  "mm-saga-library-vol-5": {
+   "source": "mm-saga-library-5",
+   "of": "Snorri Sturluson",
+   "work": "The Saga Library, vol. 5: Heimskringla, vol. III",
+   "translated": 1895,
+   "translator": "William Morris and Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1895 (raw OCR); title page read; the archive.org id says 05 and the title page says VOL. V"
+  },
+  "mm-saga-library-vol-6": {
+   "source": "mm-saga-library-6",
+   "of": "Snorri Sturluson",
+   "work": "The Saga Library, vol. 6: Heimskringla, vol. IV (Magnússon's life of Snorri, notes and indexes)",
+   "translated": 1905,
+   "translator": "Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1905 (raw OCR); title page read"
+  },
+  "mm-three-northern-love-stories": {
+   "source": "mm-three-northern",
+   "of": "anonymous (Old Norse)",
+   "work": "Three Northern Love Stories and Other Tales",
+   "translated": 1875,
+   "translator": "Eiríkr Magnússon and William Morris",
+   "scan_edition": "Ellis and White, London, 1875 (raw OCR; Google scan with its boilerplate page at the head)"
+  },
+  "mm-volsunga-saga": {
+   "of": "anonymous (Old Norse)",
+   "work": "The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda",
+   "translated": 1870,
+   "translator": "Eiríkr Magnússon and William Morris",
+   "held_in": {
+    "file": "pipeline/poetic-edda_shelf.json",
+    "slug": "edda-volsunga-morris",
+    "gutenberg_id": 1152
+   },
+   "note": "Cross-reference only: Lane D has held this text since 2026-10-03; lane C fetched it again in round 12 by mistake, and the duplicate was removed 2026-10-10."
+  },
+  "mm-runeberg-lyrical-songs": {
+   "source": "mm-runeberg-lyrical-songs",
+   "of": "Johan Ludvig Runeberg",
+   "work": "Lyrical Songs, Idylls and Epigrams",
+   "translated": 1878,
+   "translator": "Eiríkr Magnússon and E. H. Palmer",
+   "scan_edition": "C. Kegan Paul & Co., London 1878; archive.org scan",
+   "note": "Translated by Magnússon without Morris."
+  },
+  "mm-runeberg-king-fialar": {
+   "source": "mm-runeberg-king-fialar",
+   "of": "Johan Ludvig Runeberg",
+   "work": "King Fialar: a Poem in Five Songs",
+   "translated": 1912,
+   "translator": "Eiríkr Magnússon",
+   "scan_edition": "J. M. Dent & Sons, London 1912; archive.org scan",
+   "note": "Translated by Magnússon without Morris."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-347": "Another Grettir's Saga with no translator named (apparently G. A. Hight's 1914 Everyman version); not Magnússon and Morris.",
+  "pg-48622": "Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json.",
+  "sagalibrary01snoruoft": "Labelled vol. 1 on archive.org, but its title page reads Saga Library VOL. III (Heimskringla I); the cdl copy is used for vol. 3.",
+  "heimskringla-laing": "Laing's Heimskringla (a different translation) is on sturluson_shelf.json; the Saga Library Heimskringla here is Morris and Magnússon's, a second witness.",
+  "mm-volsunga": "PG 1152 (Volsunga Saga) lives on Lane D's poetic-edda_shelf.json as edda-volsunga-morris; this shelf only cross-references it."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mm-grettir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnússon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eiríkr Magnússon; William Morris"
+  },
+  "mm-frithiof": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnússon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eiríkr Magnússon; William Morris"
+  },
+  "morris-magnusson-pg24421": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnússon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eiríkr Magnússon; William Morris"
+  },
+  "mm-saga-library-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-saga-library-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-saga-library-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-saga-library-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-saga-library-5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mm-saga-library-6": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-three-northern": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-runeberg-lyrical-songs": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-runeberg-king-fialar": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "mm-grettir": {
+   "pg": 12747,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eiríkr Magnússon"
+  },
+  "mm-frithiof": {
+   "pg": 24420,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eiríkr Magnússon"
+  },
+  "morris-magnusson-pg24421": {
+   "pg": 24421,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eiríkr Magnússon"
+  },
+  "mm-saga-library-1": {
+   "ia": "sagalibrarydonei01snoriala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1870,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-saga-library-2": {
+   "ia": "sagalibrarydonei02snor",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1892
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-saga-library-3": {
+   "ia": "sagalibrarydonei03snor",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-saga-library-4": {
+   "ia": "sagalibrarydonei04snor",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-saga-library-5": {
+   "ia": "sagalibrary05snoruoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-saga-library-6": {
+   "ia": "sagalibrarydonei06snor",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-three-northern": {
+   "ia": "threenorthernlo00morrgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1839,
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-runeberg-lyrical-songs": {
+   "ia": "lyricalsongsidyl00runerich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1834,
+    1836,
+    1837,
+    1841,
+    1843,
+    1878
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-runeberg-king-fialar": {
+   "ia": "kingfialarpoemin00runerich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1844,
+    1846,
+    1878,
+    1879,
+    1903,
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,90 @@
+{
+ "_about": "George Herbert Palmer (1842-1933), Harvard moral philosopher. Gutenberg: The Nature of Goodness; Altruism, its Nature and Varieties; The Teacher, essays and addresses on education (with Alice Freeman Palmer). Raw IA OCR: The Field of Ethics, the William Belden Noble Lectures (Boston: Houghton Mifflin, 1901), clean 0.95; The Problem of Freedom, Lowell Lectures (Boston: Houghton Mifflin, 1911), clean 0.94. His Odyssey and Antigone are on the homer and sophocles shelves. Not the E. H. Palmer of the palmer shelf. US public domain. No uids minted.",
+ "_author": "George Herbert Palmer",
+ "_name_words": [
+  "george",
+  "herbert",
+  "palmer"
+ ],
+ "_surname": [
+  "palmer",
+  "george herbert palmer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "palmer-nature-of-goodness": [
+   6101,
+   "The Nature of Goodness"
+  ],
+  "palmer-altruism": [
+   57749,
+   "Altruism: Its Nature and Varieties"
+  ],
+  "palmer-the-teacher": [
+   36774,
+   "The Teacher: Essays and Addresses on Education"
+  ]
+ },
+ "internet_archive": {
+  "palmer-field-of-ethics-1901": [
+   "thefieldofethics00palmuoft",
+   "The Field of Ethics (Houghton Mifflin, 1901)"
+  ],
+  "palmer-problem-of-freedom-1911": [
+   "in.ernet.dli.2015.202828",
+   "The Problem of Freedom (Houghton Mifflin, 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "palmer-nature-of-goodness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george herbert palmer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "palmer-altruism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george herbert palmer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "palmer-the-teacher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george herbert palmer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "palmer-field-of-ethics-1901": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george herbert palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "palmer-problem-of-freedom-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george herbert palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

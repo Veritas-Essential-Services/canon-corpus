@@ -1,0 +1,56 @@
+{
+ "_about": "Francis Haverfield (1860-1919), Camden Professor at Oxford. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Romanization of Roman Britain, Ancient Town-Planning, Roman Britain in 1914, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "haverfield"
+ ],
+ "_surname": [
+  "f. haverfield",
+  "francis haverfield",
+  "haverfield, f"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "haverfield-romanization-roman-britain": [
+   14173,
+   "The Romanization of Roman Britain"
+  ],
+  "haverfield-ancient-town-planning": [
+   14189,
+   "Ancient Town-Planning"
+  ],
+  "haverfield-roman-britain-1914": [
+   19115,
+   "Roman Britain in 1914"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "haverfield-romanization-roman-britain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. haverfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haverfield-ancient-town-planning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. haverfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haverfield-roman-britain-1914": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. haverfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

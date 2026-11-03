@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain Jonathan Shipley (1714-1788), Bishop of St Asaph and friend of Franklin, for the Word Hoard: his Works (1792) and his sermons before the House of Lords (1770) and the Society for the Propagation of the Gospel (1773). Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 138 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jonathan shipley",
+  "j. shipley",
+  "shipley",
+  "bishop of st. asaph"
+ ],
+ "_surname": [
+  "shipley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "shipley-lords-1770": [
+   "bim_eighteenth-century_a-sermon-preached-before_shipley-jonathan_1770",
+   "A sermon preached before the House of Lords, in the Abbey church of St. Peter, Westminster, on Tuesday, January, 30, 1770, ... By ... Jonathan Lord Bishop of St. Asaph.  1770 (catalogued 1770)"
+  ],
+  "shipley-spg-1773": [
+   "sermonpreachedbe00ship",
+   "Sermon preached before the incorporated Society for the Propagation of the Gospel in Foreign Parts : at their anniversary meeting in the parish church of St. Mary-le-Bow, on Friday, February 19, 1773 / by Reverend Jonathan, Lord Bishop of St. Asaph (Philadelphia : Robert Bell, 1773)"
+  ],
+  "shipley-works-2": [
+   "bim_eighteenth-century_the-works-of-the-right-r_shipley-jonathan_1792_2",
+   "The works of the Right Reverend Jonathan Shipley, D.D. ... In two volumes. ...  1792: Vol 2, vol. 2 (catalogued 1792)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "shipley-political": "the 1774 speech on the Massachusetts charters and its Welsh translation are political",
+  "shipley-others": "Daboll's almanack is not his",
+  "shipley-dups": "the ECCO copy of the 1773 sermon"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "shipley-lords-1770": "title page (image): 'By the Right Reverend Father in God Jonathan Lord Bishop of St. Asaph', 30 January 1770"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "shipley-lords-1770": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1770",
+   "ia_date": "1770",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shipley-spg-1773": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "shipley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shipley-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "shipley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1792",
+   "ia_date": "1792",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

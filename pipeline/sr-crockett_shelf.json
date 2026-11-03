@@ -1,0 +1,320 @@
+{
+ "_about": "S. R. Crockett's Galloway romances and stories: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "S. R. Crockett",
+ "_name_words": [
+  "crockett"
+ ],
+ "_surname": [
+  "s. r. crockett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "srcrockett-lilac-sunbonnet": [
+   4918,
+   "The Lilac Sunbonnet: A Love Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "srcrockett-red-axe": [
+   12191,
+   "The Red Axe"
+  ],
+  "srcrockett-bog-myrtle-and-peat-tales-chiefly-of-galloway-gat": [
+   13667,
+   "Bog-Myrtle and Peat Tales Chiefly of Galloway Gathered from the Years 1889 to 1895",
+   {
+    "contents_only": true
+   }
+  ],
+  "srcrockett-black-douglas": [
+   17733,
+   "The Black Douglas"
+  ],
+  "srcrockett-patsy": [
+   21893,
+   "Patsy",
+   {
+    "contents_only": true
+   }
+  ],
+  "srcrockett-red-cap-tales-stolen-from-the-treasure-chest-of-t": [
+   22656,
+   "Red Cap Tales, Stolen from the Treasure Chest of the Wizard of the North (retold from Scott's novels)"
+  ],
+  "srcrockett-dew-of-their-youth": [
+   23736,
+   "The Dew of Their Youth"
+  ],
+  "srcrockett-men-of-the-moss-hags-being-a-history-of-adventure": [
+   32137,
+   "The Men of the Moss-Hags Being a history of adventure taken from the papers of William Gordon of Earlstoun in Galloway",
+   {
+    "contents_only": true
+   }
+  ],
+  "srcrockett-white-plumes-of-navarre": [
+   33215,
+   "The White Plumes of Navarre: A Romance of the Wars of Religion"
+  ],
+  "srcrockett-firebrand": [
+   33602,
+   "The Firebrand",
+   {
+    "contents_only": true
+   }
+  ],
+  "srcrockett-deep-moat-grange": [
+   34017,
+   "Deep Moat Grange"
+  ],
+  "srcrockett-sweethearts-at-home": [
+   34230,
+   "Sweethearts at Home"
+  ],
+  "srcrockett-a-tatter-of-scarlet": [
+   36945,
+   "A Tatter of Scarlet: Adventurous Episodes of the Commune in the Midi 1871"
+  ],
+  "srcrockett-surprising-adventures-of-sir-toady-lion-with-thos": [
+   39340,
+   "The Surprising Adventures of Sir Toady Lion with Those of General Napoleon Smith An Improving History for Old Boys, Young Boys, Good Boys, Bad Boys, Big Boys, Little Boys, Cow Boys, and Tom-Boys",
+   {
+    "contents_only": true
+   }
+  ],
+  "srcrockett-joan-of-the-sword-hand": [
+   41803,
+   "Joan of the Sword Hand",
+   {
+    "contents_only": true
+   }
+  ],
+  "srcrockett-lochinvar": [
+   45495,
+   "Lochinvar: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "srcrockett-cleg-kelly-arab-of-the-city": [
+   48354,
+   "Cleg Kelly, Arab of the City: His Progress and Adventures",
+   {
+    "contents_only": true
+   }
+  ],
+  "srcrockett-grey-man": [
+   49301,
+   "The Grey Man"
+  ],
+  "srcrockett-stickit-ministers-wooing-and-other-galloway-stori": [
+   49342,
+   "The Stickit Minister's Wooing, and Other Galloway Stories"
+  ],
+  "srcrockett-standard-bearer": [
+   53164,
+   "The Standard Bearer"
+  ],
+  "srcrockett-maid-margaret-of-galloway": [
+   76337,
+   "Maid Margaret of Galloway",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "srcrockett-lilac-sunbonnet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-red-axe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-bog-myrtle-and-peat-tales-chiefly-of-galloway-gat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-black-douglas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-patsy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-red-cap-tales-stolen-from-the-treasure-chest-of-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-dew-of-their-youth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-men-of-the-moss-hags-being-a-history-of-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-white-plumes-of-navarre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-firebrand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-deep-moat-grange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-sweethearts-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-a-tatter-of-scarlet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-surprising-adventures-of-sir-toady-lion-with-thos": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-joan-of-the-sword-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-lochinvar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-cleg-kelly-arab-of-the-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-grey-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-stickit-ministers-wooing-and-other-galloway-stori": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-standard-bearer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srcrockett-maid-margaret-of-galloway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. r. crockett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

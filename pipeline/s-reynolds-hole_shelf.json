@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain Samuel Reynolds Hole (1819-1904), Dean of Rochester, for the Word Hoard: Addresses spoken to Workingmen from Pulpit and Platform, Our Duty in Danger, The Memories of Dean Hole, More Memories, Then and Now, and A Little Tour in America. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 109 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "s. reynolds hole",
+  "samuel reynolds hole",
+  "reynolds hole",
+  "dean hole"
+ ],
+ "_surname": [
+  "s. reynolds hole",
+  "samuel reynolds hole",
+  "reynolds hole",
+  "hole"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hole-addresses": [
+   "addressesspokent00holerich",
+   "Addresses spoken to workingmen from pulpit and platform (New York : Thomas Whittaker, [189)"
+  ],
+  "hole-duty-in-danger": [
+   "ourdutyindanger00hole",
+   "Our duty in danger, vol. Talbot Collection of British Pamphlets (London : Printed for the Church Defence Institution, 9, Bridge Street, Westminster, 1883)"
+  ],
+  "hole-memories": [
+   "memoriesofdeanho0000hole",
+   "The memories of Dean Hole (New York : Macm., 1892)"
+  ],
+  "hole-more-memories": [
+   "morememoriesbein0000hole",
+   "More memories; being thoughts about England spoken in America (New York and London, Macmillan and Co., 1894)"
+  ],
+  "hole-then-and-now": [
+   "thenandnow00holeuoft",
+   "Then and now (London : Hutchinson, 1901)"
+  ],
+  "hole-tour-america": [
+   "littletourinamer00holeuoft",
+   "A little tour in America (London : E. Arnold, 1895)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hole-gardens": "His rose and garden books and Irish and Riviera travel books are left to another lane"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hole-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. reynolds hole",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "[1894]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hole-duty-in-danger": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hole",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hole-memories": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hole",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hole-more-memories": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. reynolds hole",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hole-then-and-now": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. reynolds hole",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hole-tour-america": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. reynolds hole",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

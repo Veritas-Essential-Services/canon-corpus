@@ -1,0 +1,227 @@
+{
+ "_about": "Richard Dowling's novels and sketches. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Richard Dowling",
+ "_name_words": [
+  "dowling",
+  "richard"
+ ],
+ "_surname": [
+  "richard dowling"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rdowling-weird-sisters": [
+   41552,
+   "The Weird Sisters: A Romance. Volume 1 (of 3)"
+  ],
+  "rdowling-weird-sisters-41553": [
+   41553,
+   "The Weird Sisters: A Romance. Volume 2 (of 3)"
+  ],
+  "rdowling-weird-sisters-41554": [
+   41554,
+   "The Weird Sisters: A Romance. Volume 3 (of 3)"
+  ],
+  "rdowling-miracle-gold": [
+   42496,
+   "Miracle Gold: A Novel (Vol. 2 of 3)"
+  ],
+  "rdowling-miracle-gold-42498": [
+   42498,
+   "Miracle Gold: A Novel (Vol. 1 of 3)"
+  ],
+  "rdowling-miracle-gold-42499": [
+   42499,
+   "Miracle Gold: A Novel (Vol. 3 of 3)"
+  ],
+  "rdowling-last-call": [
+   42595,
+   "The Last Call: A Romance (Vol. 1 of 3)"
+  ],
+  "rdowling-last-call-42596": [
+   42596,
+   "The Last Call: A Romance (Vol. 2 of 3)"
+  ],
+  "rdowling-last-call-42597": [
+   42597,
+   "The Last Call: A Romance (Vol. 3 of 3)"
+  ],
+  "rdowling-dukes-sweetheart": [
+   42599,
+   "The Duke's Sweetheart: A Romance"
+  ],
+  "rdowling-under-st-pauls": [
+   42600,
+   "Under St Paul's: A Romance"
+  ],
+  "rdowling-tempest-driven": [
+   42750,
+   "Tempest-Driven: A Romance (Vol. 1 of 3)"
+  ],
+  "rdowling-tempest-driven-42751": [
+   42751,
+   "Tempest-Driven: A Romance (Vol. 2 of 3)"
+  ],
+  "rdowling-tempest-driven-42752": [
+   42752,
+   "Tempest-Driven: A Romance (Vol. 3 of 3)"
+  ],
+  "rdowling-isle-of-surrey": [
+   42756,
+   "An Isle of Surrey: A Novel"
+  ],
+  "rdowling-ignorant-essays": [
+   53169,
+   "Ignorant Essays"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rdowling-weird-sisters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-weird-sisters-41553": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-weird-sisters-41554": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-miracle-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-miracle-gold-42498": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-miracle-gold-42499": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-last-call": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-last-call-42596": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-last-call-42597": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-dukes-sweetheart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-under-st-pauls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-tempest-driven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-tempest-driven-42751": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-tempest-driven-42752": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-isle-of-surrey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdowling-ignorant-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dowling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "_about": "G. E. Lessing (1729-1781) as a philosopher of religion, raw IA OCR: The Education of the Human Race, translated by Frederick W. Robertson, 4th ed., revised (London: Kegan Paul, Trench, Trübner, 1896). His plays and the Laocoon are on lane C's ernest-bell, ellen-frothingham and singles-literature shelves. US public domain. No uids minted.",
+ "_author": "Gotthold Ephraim Lessing",
+ "_name_words": [
+  "gotthold",
+  "ephraim",
+  "g",
+  "e",
+  "lessing"
+ ],
+ "_surname": [
+  "lessing"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lessing-robertson-education-1896": [
+   "educationofhuman00lessuoft",
+   "The Education of the Human Race, 4th ed., revised (London: Kegan Paul, Trench, Trübner, 1896)",
+   "tr. Frederick W. Robertson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "lessing-robertson-education-1896": "Robertson"
+ },
+ "_checks": {
+  "lessing-robertson-education-1896": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lessing",
+   "translator_claimed": "Robertson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

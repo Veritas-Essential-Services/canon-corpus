@@ -1,0 +1,42 @@
+{
+ "_about": "Wilhelm Busch's Max and Maurice: A Juvenile History in Seven Tricks, in Charles T. Brooks's verse translation (entered 1870, copyright 1898, this printing 1902). Plish and Plum (PG 37188) and Buzz a Buzz (PG 38902) have no plain-text file at Gutenberg and are not taken. Gutenberg catalogue: Busch 1832-1908, Brooks 1813-1883. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Wilhelm Busch; tr. Charles T. Brooks",
+ "_name_words": [
+  "maurice"
+ ],
+ "_surname": [
+  "wilhelm busch"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wbusch-max-and-maurice": [
+   28847,
+   "Max and Maurice: A Juvenile History in Seven Tricks",
+   {
+    "levels": [
+     {
+      "re": "PREFACE\\.$|TRICK [A-Z]+\\.?$|LAST TRICK$|CONCLUSION\\.$|NONSENSE BOOKS$|CHILDREN'S FRIEND SERIES\\.?$"
+     }
+    ],
+    "start": "PREFACE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wbusch-max-and-maurice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wilhelm busch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Timothy Brooks"
+  }
+ },
+ "_translators": {
+  "wbusch-max-and-maurice": "Charles T. Brooks"
+ }
+}

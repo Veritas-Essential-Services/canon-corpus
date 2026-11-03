@@ -1,0 +1,97 @@
+{
+ "_about": "W. B. Yeats (1865-1939) as collector and editor of Irish folk tales, not as poet or playwright: Fairy and Folk Tales of the Irish Peasantry (1888), Irish Fairy Tales (1892) and The Celtic Twilight (1893, enlarged 1902). Clean Gutenberg text; US public domain (all before 1929). Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto). Two books of his own folk-rooted tales were added later: The Secret Rose (1897) and Stories of Red Hanrahan (1904). Widened at the coordinator's standing relay (2026-10-02/03: Lane D chooses its own batches; Adam may veto).",
+ "_author": "W. B. Yeats",
+ "_name_words": [
+  "fairy",
+  "folk",
+  "irish",
+  "celtic",
+  "twilight",
+  "hanrahan",
+  "rose"
+ ],
+ "_surname": [
+  "w. b. yeats"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "yeats-fairy-and-folk-tales-irish-peasantry": [
+   33887,
+   "Fairy and Folk Tales of the Irish Peasantry, ed. W. B. Yeats (1888)",
+   {
+    "contents_only": true
+   }
+  ],
+  "yeats-irish-fairy-tales": [
+   31763,
+   "Irish Fairy Tales, ed. W. B. Yeats (1892)",
+   {
+    "contents_only": true
+   }
+  ],
+  "yeats-celtic-twilight": [
+   10459,
+   "The Celtic Twilight (1893; enlarged 1902)"
+  ],
+  "yeats-stories-of-red-hanrahan": [
+   5793,
+   "Stories of Red Hanrahan (1904)"
+  ],
+  "yeats-secret-rose": [
+   5795,
+   "The Secret Rose (1897)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "yeats-poems-plays": "Yeats's poems, plays, essays and autobiographies: outside a storytellers shelf (a poets' lane would hold them)",
+  "yeats-stories": "Rosa Alchemica (PG 5794) and John Sherman and Dhoya (49109): his other fiction; Rosa Alchemica is an occult story, John Sherman a novel. Red Hanrahan and The Secret Rose are held: tales built on Irish folk material"
+ },
+ "_checks": {
+  "yeats-fairy-and-folk-tales-irish-peasantry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. b. yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-irish-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. b. yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-celtic-twilight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. b. yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-stories-of-red-hanrahan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. b. yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-secret-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. b. yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

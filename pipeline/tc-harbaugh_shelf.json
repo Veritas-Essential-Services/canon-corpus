@@ -1,0 +1,135 @@
+{
+ "_about": "T. C. Harbaugh's writing at Gutenberg: dime novels and boys' books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "T. C. Harbaugh",
+ "_name_words": [
+  "harbaugh"
+ ],
+ "_surname": [
+  "harbaugh"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tcharbaugh-little-oskaloo": [
+   33352,
+   "Little Oskaloo; or, The White Whirlwind"
+  ],
+  "tcharbaugh-midnight-jack-or-the-road-agent": [
+   52788,
+   "Midnight Jack, or The road-agent"
+  ],
+  "tcharbaugh-island-trapper": [
+   65528,
+   "The Island Trapper; or, The Young White-Buffalo Hunters"
+  ],
+  "tcharbaugh-wolf-queen": [
+   65667,
+   "The Wolf Queen; or, The Giant Hermit of the Scioto"
+  ],
+  "tcharbaugh-wolf-cap": [
+   66231,
+   "Wolf-Cap; or, The Night-Hawks of the Fire-Lands: A Tale of the Bloody Fort"
+  ],
+  "tcharbaugh-silver-rifle-the-girl-trailer": [
+   66310,
+   "Silver Rifle, the Girl Trailer; Or, The White Tigers of Lake Superior"
+  ],
+  "tcharbaugh-yellow-hunter": [
+   67958,
+   "The Yellow Hunter; or, The Winding Trail of Death"
+  ],
+  "tcharbaugh-girl-avenger": [
+   68016,
+   "The Girl Avenger; or, The Beautiful Terror of the Maumee"
+  ],
+  "tcharbaugh-squaw-spy": [
+   68102,
+   "The squaw spy; or the rangers of the lava-beds"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "tcharbaugh-little-oskaloo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harbaugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcharbaugh-midnight-jack-or-the-road-agent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harbaugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcharbaugh-island-trapper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harbaugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcharbaugh-wolf-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harbaugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcharbaugh-wolf-cap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harbaugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcharbaugh-silver-rifle-the-girl-trailer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harbaugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcharbaugh-yellow-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harbaugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcharbaugh-girl-avenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harbaugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcharbaugh-squaw-spy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harbaugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

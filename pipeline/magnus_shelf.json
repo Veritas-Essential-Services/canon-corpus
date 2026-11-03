@@ -1,0 +1,49 @@
+{
+ "_about": "Russian Folk-Tales from Afanasyev's collection, translated direct from the Russian by Leonard A. Magnus (first published October 1915). Ralston's Russian Fairy Tales, from the same collection, is on the ralston shelf. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Leonard A. Magnus, tr.",
+ "_name_words": [
+  "magnus"
+ ],
+ "_surname": [
+  "leonard a. magnus"
+ ],
+ "_translators": {
+  "magnus-russian-folk-tales": "Magnus"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "magnus-russian-folk-tales": [
+   62509,
+   "Russian Folk-Tales",
+   {
+    "levels": [
+     {
+      "re": "(?:NOTES|GLOSSARY)$"
+     },
+     {
+      "re": "(?!RUSSIAN FOLK-TALES$)[A-ZÁÉÍÓÚ][^a-z]+$",
+      "number_repeats": true
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "magnus-russian-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "leonard a. magnus",
+   "translator_claimed": "Magnus",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leonard A. Magnus",
+   "translator_match": true
+  }
+ }
+}

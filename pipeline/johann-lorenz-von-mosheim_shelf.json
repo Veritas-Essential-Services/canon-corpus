@@ -1,0 +1,154 @@
+{
+ "_about": "Public-domain Johann Lorenz von Mosheim (1693-1755), Chancellor of Göttingen and father of modern church history, in English translation for the Word Hoard: An Ecclesiastical History, Antient and Modern, tr. Archibald Maclaine (London: Millar, 1765, two volumes), the Institutes of Ecclesiastical History in James Murdock's new and literal translation (New Haven, 1832, three volumes) and the Commentaries on the Affairs of the Christians before Constantine, tr. Robert Studley Vidal (1813, two volumes), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mosheim"
+ ],
+ "_surname": [
+  "mosheim",
+  "john lawrence mosheim",
+  "john laurence mosheim"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mosheim-maclaine-1765-1": [
+   "bim_eighteenth-century_an-ecclesiastical-histor_mosheim-johann-lorenz_1765_1",
+   "An Ecclesiastical History, Antient and Modern, tr. Archibald Maclaine, vol. I (London: A. Millar, 1765)"
+  ],
+  "mosheim-maclaine-1765-2": [
+   "bim_eighteenth-century_an-ecclesiastical-histor_mosheim-johann-lorenz_1765_2",
+   "An Ecclesiastical History, Antient and Modern, tr. Archibald Maclaine, vol. II (London: A. Millar, 1765)"
+  ],
+  "mosheim-murdock-1": [
+   "instituteseccle08murdgoog",
+   "Institutes of Ecclesiastical History, Ancient and Modern, a new and literal translation by James Murdock, vol. I (New Haven: A. H. Maltby, 1832)"
+  ],
+  "mosheim-murdock-2": [
+   "instituteseccle11murdgoog",
+   "Institutes of Ecclesiastical History, tr. James Murdock, vol. II (New Haven: A. H. Maltby, 1832)"
+  ],
+  "mosheim-murdock-3": [
+   "instituteseccle12murdgoog",
+   "Institutes of Ecclesiastical History, tr. James Murdock, vol. III (New Haven: A. H. Maltby, 1832)"
+  ],
+  "mosheim-commentaries-1": [
+   "commentariesonaf01mosh",
+   "Commentaries on the Affairs of the Christians before the Time of Constantine the Great, tr. Robert Studley Vidal, vol. I (London: T. Cadell and W. Davies, 1813)"
+  ],
+  "mosheim-commentaries-2": [
+   "commentariesonaf02mosh",
+   "Commentaries on the Affairs of the Christians before the Time of Constantine the Great, tr. Robert Studley Vidal, vol. II (London: T. Cadell and W. Davies, 1813)"
+  ]
+ },
+ "_alternates": {
+  "mosheim-copies": "Maclaine's new edition (Cadell, 1790, vols II-VI); Murdock's later editions (Harper 1839-1842, Soames's London edition 1841, New York 1854); Vidal's third volume (1835); Murdock's Historical Commentaries (New York: Converse, copyright 1851)"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "mosheim-maclaine-1765-1": "title page read: ECCO OCR very garbled; the first edition of Maclaine's translation",
+  "mosheim-maclaine-1765-2": "title page read: JOHN LAWRENCE MOSHEIM, D.D. ... Translated from the Original, and accompanied with Notes and Chronological Tables, by ARC HI BALD MAC LAIN. E [Archibald Maclaine] (OCR garble), London 1765"
+ },
+ "_pending": {},
+ "_translators": {
+  "mosheim-maclaine-1765-1": "maclaine",
+  "mosheim-murdock-1": "murdock",
+  "mosheim-murdock-2": "murdock",
+  "mosheim-murdock-3": "murdock",
+  "mosheim-commentaries-1": "vidal",
+  "mosheim-commentaries-2": "vidal"
+ },
+ "_checks": {
+  "mosheim-maclaine-1765-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mosheim",
+   "translator_claimed": "maclaine",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: ECCO OCR very garbled; the first edition of Maclaine's translation"
+  },
+  "mosheim-maclaine-1765-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mosheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: JOHN LAWRENCE MOSHEIM, D.D. ... Translated from the Original, and accompanied with Notes and Chronological Tables, by ARC HI BALD MAC LAIN. E [Archibald Maclaine] (OCR garble), London 1765"
+  },
+  "mosheim-murdock-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mosheim",
+   "translator_claimed": "murdock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mosheim-murdock-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mosheim",
+   "translator_claimed": "murdock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mosheim-murdock-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mosheim",
+   "translator_claimed": "murdock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mosheim-commentaries-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mosheim",
+   "translator_claimed": "vidal",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mosheim-commentaries-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mosheim",
+   "translator_claimed": "vidal",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

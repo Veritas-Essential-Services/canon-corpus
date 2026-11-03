@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Frances Douglas (1870-1969): Blasco Ibáñez's The Dead Command (1919), The Blood of the Arena (1911) and Sónnica (1912). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "frances douglas"
+ ],
+ "_surname": [
+  "frances douglas"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fdo-27068": [
+   27068,
+   "The Dead Command From the Spanish Los Muertos Mandan"
+  ],
+  "fdo-31821": [
+   31821,
+   "Sónnica"
+  ],
+  "fdo-33799": [
+   33799,
+   "The Blood of the Arena"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "frances-douglas-ibanez-sonnica": {
+   "source": "fdo-31821",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "Sónnica",
+   "translated": "1911-1919 (see the Gutenberg header)",
+   "translator": "Frances Douglas",
+   "scan_edition": "Project Gutenberg 31821 (clean text)"
+  },
+  "frances-douglas-ibanez-the-blood-of-the-arena": {
+   "source": "fdo-33799",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "The Blood of the Arena",
+   "translated": "1911-1919 (see the Gutenberg header)",
+   "translator": "Frances Douglas",
+   "scan_edition": "Project Gutenberg 33799 (clean text)"
+  },
+  "frances-douglas-ibanez-the-dead-command-from-the-spanish-los-mu": {
+   "source": "fdo-27068",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "The Dead Command From the Spanish Los Muertos Mandan",
+   "translated": "1911-1919 (see the Gutenberg header)",
+   "translator": "Frances Douglas",
+   "scan_edition": "Project Gutenberg 27068 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fdo-27068": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Douglas"
+  },
+  "fdo-31821": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Douglas"
+  },
+  "fdo-33799": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Douglas"
+  }
+ },
+ "_verified": {
+  "fdo-27068": {
+   "pg": 27068,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances Douglas"
+  },
+  "fdo-31821": {
+   "pg": 31821,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances Douglas"
+  },
+  "fdo-33799": {
+   "pg": 33799,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances Douglas"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

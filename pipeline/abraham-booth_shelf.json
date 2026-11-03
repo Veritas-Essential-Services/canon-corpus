@@ -1,0 +1,99 @@
+{
+ "_about": "Public-domain Abraham Booth (1734-1806, Particular Baptist minister of Prescot Street, London) for the Word Hoard: The Reign of Grace (Hartford, 1814, from the second London edition), Glad Tidings to Perishing Sinners (Philadelphia, 1797) and Paedobaptism Examined (3 vols, London: Ebenezer Palmer, 1829), raw Internet Archive OCR (long s in the 1797 printing). Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "booth",
+  "abraham"
+ ],
+ "_surname": [
+  "abraham booth",
+  "a. booth",
+  "booth, abraham"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "booth-reign-of-grace-1814": [
+   "reignofgracefrom00boot",
+   "The Reign of Grace, from its Rise to its Consummation (Hartford: James Hadlock, 1814)"
+  ],
+  "booth-glad-tidings-1797": [
+   "gladtidingstoper00boot",
+   "Glad Tidings to Perishing Sinners: or, The Genuine Gospel a Complete Warrant for the Ungodly to Believe in Jesus (Philadelphia: Stephen C. Ustick, 1797)"
+  ],
+  "booth-paedobaptism-1": [
+   "pdobaptismexamin01boot",
+   "Paedobaptism Examined, with Replies to the Arguments and Objections of Dr. Williams and Mr. Peter Edwards, vol. 1 (London: Ebenezer Palmer, 1829)"
+  ],
+  "booth-paedobaptism-2": [
+   "pdobaptismexamin02boot",
+   "Paedobaptism Examined, with Replies to the Arguments and Objections of Dr. Williams and Mr. Peter Edwards, vol. 2 (London: Ebenezer Palmer, 1829)"
+  ],
+  "booth-paedobaptism-3": [
+   "pdobaptismexamin03boot",
+   "Paedobaptism Examined, with Replies to the Arguments and Objections of Dr. Williams and Mr. Peter Edwards, vol. 3 (London: Ebenezer Palmer, 1829)"
+  ]
+ },
+ "_alternates": {
+  "booth-apology-baptists": "An Apology for the Baptists (1778; IA anapologyforbap00bootgoog, 1808 Boston printing): not yet shelved",
+  "booth-kingdom-of-christ": "An Essay on the Kingdom of Christ (1788; IA essayonkingdomof00boot returned no text)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "booth-reign-of-grace-1814": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "abraham booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "booth-glad-tidings-1797": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "abraham booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1797",
+   "ia_date": "1797",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "booth-paedobaptism-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "abraham booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "booth-paedobaptism-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "abraham booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "booth-paedobaptism-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "abraham booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

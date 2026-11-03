@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain Edward Nares (1762-1841), Regius Professor of Modern History at Oxford and Bampton lecturer, for the Word Hoard: his theological books only: Sermons composed for Country Congregations (1803), A View of the Evidences of Christianity (Bampton Lectures, 1805), Remarks on the Unitarian Improved Version of the New Testament (1814), Discourses on the Three Creeds (1819) and Man, as known to us theologically and geologically (1834). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 87 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "edward nares",
+  "e. nares"
+ ],
+ "_surname": [
+  "edward nares",
+  "e. nares",
+  "nares"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nares-sixth-commandment": [
+   "bim_eighteenth-century_a-sermon-on-the-sixth-c_nares-edward_1799",
+   "A sermon, on the sixth commandment, \"Thou shal't do no murder.\" By the Rev. Edward Nares, ...  1799 (catalogued 1799)"
+  ],
+  "nares-country-sermons": [
+   "sermonscomposedf00nare",
+   "Sermons composed for country congregations (London : Printed for F. and C. Rivington, 1803)"
+  ],
+  "nares-evidences": [
+   "viewofevidenceso00nare",
+   "A view of the evidences of Christianity at the close of the pretended Age of Reason : in eight sermons preached before the University of Oxford, at St. Mary's, in the year MDCCCV (Oxford : University Press, 1805)"
+  ],
+  "nares-improved-version": [
+   "remarksonversion00nare",
+   "Remarks on the version of the New Testament : with the title of \"An improved version upon the basis of Archbishop Newcome's new translation, with a corrected text, and notes critical and explanatory. London, 1808\" (London : T. Cadell and W. Davies, 1814)"
+  ],
+  "nares-three-creeds": [
+   "discoursesonthre00nare",
+   "Discourses on the three creeds : and on the homage offered to our saviour, on certain and particular occasions during his ministry, as expressed in the evangelical writings, by the Greek term BROSKYNEŌ (London : Printed for Baldwin, Cradock and Joy, 1819)"
+  ],
+  "nares-man-theologically": [
+   "manasknowntousth00nare",
+   "Man, as known to us theologically and geologically (London, Printed for J. G. & F. Rivington, 1834)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "nares-secular": "his novels (Thinks-I-to-Myself, I Says Says I), Heraldic Anomalies, the Memoirs of Lord Burghley, and his edition of Tytler's Elements of General History"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "nares-sixth-commandment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward nares",
+   "identity": "ok",
+   "ia_rights": "ok: published 1799",
+   "ia_date": "1799",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nares-country-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward nares",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nares-evidences": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward nares",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nares-improved-version": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward nares",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nares-three-creeds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward nares",
+   "identity": "ok",
+   "ia_rights": "ok: published 1819",
+   "ia_date": "1819",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nares-man-theologically": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. nares",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

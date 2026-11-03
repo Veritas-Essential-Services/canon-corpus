@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Karl Friedrich Neumann (1793?-1870), for the Oriental Translation Fund: Yuan Yung-lun's History of the Pirates who Infested the China Sea (1831) and Vahram's Chronicle of the Armenian Kingdom in Cilicia (1831). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "neumann"
+ ],
+ "_surname": [
+  "neumann"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "neu-44261": [
+   44261,
+   "History of the Pirates Who Infested the China Sea From 1807 to 1810"
+  ],
+  "neu-60171": [
+   60171,
+   "Vahram's chronicle of the Armenian kingdom in Cilicia, during the time of the Crusades."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "neumann-vahram-vahram-s-chronicle-of-the-armenian-kingd": {
+   "source": "neu-60171",
+   "of": "Vahram",
+   "work": "Vahram's chronicle of the Armenian kingdom in Cilicia, during the time of the Crusades.",
+   "translated": "1831 (see the Gutenberg header)",
+   "translator": "Charles Fried. Neumann",
+   "scan_edition": "Project Gutenberg 60171 (clean text)"
+  },
+  "neumann-yuan-history-of-the-pirates-who-infested-the": {
+   "source": "neu-44261",
+   "of": "Yung-lun Yüan",
+   "work": "History of the Pirates Who Infested the China Sea From 1807 to 1810",
+   "translated": "1831 (see the Gutenberg header)",
+   "translator": "Charles Fried. Neumann",
+   "scan_edition": "Project Gutenberg 44261 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "neu-44261": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "neumann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Karl Friedrich Neumann"
+  },
+  "neu-60171": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "neumann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Karl Friedrich Neumann"
+  }
+ },
+ "_verified": {
+  "neu-44261": {
+   "pg": 44261,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Karl Friedrich Neumann"
+  },
+  "neu-60171": {
+   "pg": 60171,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Karl Friedrich Neumann"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

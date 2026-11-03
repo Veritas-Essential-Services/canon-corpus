@@ -1,0 +1,214 @@
+{
+ "_about": "Public-domain Francis Fulford (1803-1868), first Anglican Bishop of Montreal and Metropolitan of Canada, for the Word Hoard: his pastoral letter, charges to the clergy of Montreal (1855, 1859), Five Occasional Lectures, his letters of 1862-1864 to the bishops and clergy of the Church in Canada, Sermons, Addresses and Statistics of the Diocese of Montreal, and sermons at Montreal, before the General Convention (1865), and on a pan-Anglican synod (1867). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 114 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "francis fulford",
+  "f. fulford",
+  "francis montreal",
+  "fulford"
+ ],
+ "_surname": [
+  "francis fulford",
+  "f. fulford",
+  "fulford"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fulford-pastoral-1851": [
+   "cihm_22260",
+   "A pastoral letter addressed to the clergy of his diocese ([Montreal? : s.n., 1851)"
+  ],
+  "fulford-gts-address": [
+   "cihm_44526",
+   "An address delivered in the chapel of the General Theological Seminary of the Protestant Episcopal Church in the United States on Friday, November 13th, 1852 (New York : Church Depository, 1852)"
+  ],
+  "fulford-charge-1855": [
+   "cihm_63046",
+   "A charge, delivered to the clergy of the Dioceses of Montreal, on the 17th January, 1855, at the triennial visitation, held in the Cathedral Church of Montreal (Montreal : J. Lovell, 1855)"
+  ],
+  "fulford-occasional-lectures": [
+   "fiveoccasionall00fulf",
+   "Five occasional lectures (Montreal, John Lovell, 1859)"
+  ],
+  "fulford-charge-1859": [
+   "cihm_89864",
+   "A charge, delivered to the clergy of the Diocese of Montreal, on the 19th January, 1859, at the third triennial visitation, held in St. John's Church, Montreal ([Montréal? : s.n.], 1859)"
+  ],
+  "fulford-letter-1862": [
+   "cihm_22969",
+   "A letter to the bishops and clergy of the United Church of England and Ireland in Canada ([Montreal? : s.n.], 1862)"
+  ],
+  "fulford-second-letter-1862": [
+   "cihm_22971",
+   "Second letter to the Bishops and clergy of the United Church of England and Ireland in Canada ([Montreal? : s.n.], 1862)"
+  ],
+  "fulford-sermon-1862": [
+   "sermonpreachedon00fulf",
+   "A sermon, preached on Sunday, 5th January, 1862, in Christ Church Cathedral, Montreal, after the death of H.R.H. the Prince Consort (Montreal : Printed by John Lovell, 1862)"
+  ],
+  "fulford-letter-1864": [
+   "cihm_44527",
+   "A letter to the bishops, clergy and laity of the United Church of England and Ireland in the Province of Canada ([Montreal? : s.n.], 1864)"
+  ],
+  "fulford-sermons-addresses": [
+   "sermonsaddresse00fulfgoog",
+   "Sermons, Addresses, and Statistics of the Diocese of Montreal (Dawson Brothers, 1865)"
+  ],
+  "fulford-convention-1865": [
+   "sermonpreachedat00fulf",
+   "The sermon preached at the opening of the triennial meeting of the General Convention of the Protestant Episcopal Church in the United States of America : in St. Luke's Church, Philadelphia, October 4th, 1865 / by Francis Fulford (King & Baird, Printers, 1865)"
+  ],
+  "fulford-pan-anglican": [
+   "albertatest_01254",
+   "A pan-Anglican synod : a sermon preached at the general ordination held by the Right Reverend the Lord Bishop of Oxford, in the Cathedral Church of Christ in Oxford, on Sunday Dec. 23, 1866 (Oxford : Rivingtons; Montreal : Dawsons, 1867)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "fulford-replies": "Replies, correspondence, resolutions and addresses written TO him by others (cihm_35389, cihm_35390, cihm_36433, cihm_22970, cihm_89234, cihm_50565, cihm_23635) are not his",
+  "fulford-baconiana": "1679baconianaorc00baco (Bacon's remains)",
+  "fulford-geography": "cihm_46610: by Francis Drummond Fulford, Esq., per its title page, a different man",
+  "fulford-misapplication": "misapplicationof00fulf: by Francis Drummond Fulford, Esq., per its title page, a different man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "fulford-sermons-addresses": "Title page (OCR): \"SERMONS, ADDRESSES, [AND] STATISTICS [OF THE] DIOCESE OF MONTREAL. [By] FRANCIS FULFGRD, D.D., LORD BISHOP OF MONTREAL AND METROPOLITAN OF CANADA. Montreal: Dawson Brothers; London and Cambridge: Rivingtons. 1865.\""
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "fulford-pastoral-1851": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fulford-gts-address": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fulford-charge-1855": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fulford-occasional-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fulford-charge-1859": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fulford-letter-1862": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fulford-second-letter-1862": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fulford-sermon-1862": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fulford-letter-1864": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fulford-sermons-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fulford-convention-1865": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fulford-pan-anglican": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis fulford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

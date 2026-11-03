@@ -1,0 +1,61 @@
+{
+ "_about": "Public-domain William Wake (1657-1737), Archbishop of Canterbury, for the Word Hoard: his translation The Genuine Epistles of the Apostolical Fathers (1719 printing), The Principles of the Christian Religion explained in a brief commentary upon the Church Catechism (1827 printing) and A Brief Discourse of the Real Presence (1686), from Internet Archive scans. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wake"
+ ],
+ "_surname": [
+  "william wake",
+  "dr. wake",
+  "w. wake",
+  "archbishop wake"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wake-apostolical-fathers-1719": [
+   "genuineepistleso1719wake",
+   "The genuine epistles of the Apostolical Fathers, : St. Barnabas, St. Clement, St. Ignatius, St. Polycarp; the Shepherd of Hermas, and the martyrdoms of St. Ignatius and St. Polycarp, written by those who were present at their sufferings (London: : Printed by W.B. for Richard Sare..., 1719)"
+  ],
+  "wake-principles-catechism-1827": [
+   "principlesofchri00wakerich",
+   "The principles of the Christian religion explained, in a brief commentary upon the church catechism (London, Printed for T. Cadell, 1827)"
+  ]
+ },
+ "_alternates": {
+  "wake-copies": "Other printings of the Apostolical Fathers (1693-1893) and the 1909 Burton edition"
+ },
+ "_excluded": {
+  "wake-other": "Hone's Apocryphal New Testament (1820-1901), a compilation that reprints some of Wake's translations; the Speculum Dioeceseos Lincolniensis (1913), his diocesan records edited by others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "wake-real-presence-1686": "A brief discourse of the real presence of the body and blood of Christ in the celebration of the Holy Eucharist : wherein the witty artifices of the Bishop of Meaux and of Monsieur Maimbourg are obviated, whereby they would draw in the Protestants to imbrace the doctrine of transubstantiation (London : Printed for Walter Kettilby, 1686) [breof00more]: a bound volume of three tracts; only a binder's handwritten contents list gives them to 'Abp Wake', and the printed title page carries no author, only the imprimatur"
+ },
+ "_translators": {},
+ "_checks": {
+  "wake-apostolical-fathers-1719": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dr. wake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1719",
+   "ia_date": "1719",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wake-principles-catechism-1827": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archbishop wake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

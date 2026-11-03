@@ -1,0 +1,34 @@
+{
+ "_about": "George Savile, first Marquis of Halifax (1633-1695), 'the Trimmer': A Character of King Charles the Second, and Political, Moral and Miscellaneous Thoughts and Reflections (London: printed for J. and R. Tonson and S. Draper, MDCCL), clean Gutenberg text. Wanted: The Character of a Trimmer and the other tracts in a pre-1931 edition (Raleigh's Complete Works, Oxford 1912). US public domain. No uids minted.",
+ "_author": "George Savile, Marquis of Halifax",
+ "_name_words": [
+  "george",
+  "savile",
+  "halifax",
+  "marquis"
+ ],
+ "_surname": [
+  "halifax",
+  "savile"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "halifax-character-of-charles-ii-1750": [
+   35708,
+   "A Character of King Charles the Second, and Political, Moral and Miscellaneous Thoughts (Tonson and Draper, 1750)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "halifax-character-of-charles-ii-1750": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "halifax",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

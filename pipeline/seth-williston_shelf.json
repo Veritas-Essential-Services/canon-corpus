@@ -1,0 +1,122 @@
+{
+ "_about": "Public-domain Seth Williston (1770-1851), Congregational missionary and pastor in western New York and Hopkinsian theologian, for the Word Hoard: Sermons on Doctrinal and Experimental Subjects, A Vindication of some of the most Essential Doctrines of the Reformation, The Harmony of Divine Truth, Christ's Kingdom not of this World, Slavery not a Scriptural Ground of Division, and Five Discourses on the Sabbath. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 105 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "seth williston",
+  "s. williston",
+  "williston"
+ ],
+ "_surname": [
+  "seth williston",
+  "s. williston",
+  "williston"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "williston-sermons": [
+   "sermonsondoctri00willgoog",
+   "Sermons, on doctrinal and experimental subjects (Hudson [N.Y.]: Printed by A. Stoddard, no. 137, Warren-street, 1812)"
+  ],
+  "williston-vindication": [
+   "vindicationofsom00will",
+   "A vindication of some of the most essential doctrines of the reformation: being a reply to objections raised against these doctrines in a late publication, entitled: \"The errors of Hopkinsianism detected and refuted; in six letters, by Nathan Bangs ...\" addressed to the author of the present work (Hudson, N.Y., Printed by Ashbel Stoddard, 1817)"
+  ],
+  "williston-harmony": [
+   "harmonyofdivinet00will",
+   "The harmony of divine truth (Utica, N.Y. : Bennett and Bright (for the author), 1836)"
+  ],
+  "williston-christs-kingdom": [
+   "christskingdomno00will",
+   "Christ's kingdom not of this world. The spiritual character of the kingdom of Christ, in three discourses (New York, Saxton & Miles, 1842)"
+  ],
+  "williston-slavery": [
+   "slaverynotscript00will",
+   "Slavery not a scriptural ground of division in efforts for the salvation of the heathen (New-York, M.W. Dodd, 1844)"
+  ],
+  "williston-sabbath": [
+   "fivediscourseson00will",
+   "Five discourses on the Sabbath : preached at Durham, N.Y (New Haven : Hooker, 1847)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "williston-columbian": "The Columbian Preacher (sermons by several preachers)",
+  "williston-bangs": "The Errors of Hopkinsianism (Nathan Bangs's letters against him)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "williston-conversions": "importanceofdist00will: an American Tract Society tract (no. 165) that names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "williston-moral-imperfection": "lecturesonmorali00will: the scan's title page is missing and the text never names the author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "williston-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seth williston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williston-vindication": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seth williston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williston-harmony": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "williston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williston-christs-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seth williston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williston-slavery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seth williston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "williston-sabbath": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seth williston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

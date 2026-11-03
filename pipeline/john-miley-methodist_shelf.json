@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain John Miley (1813-1895), Methodist Episcopal theologian of Drew Theological Seminary, for the Word Hoard: Treatise on Class Meetings (1851), The Atonement in Christ (1879) and Systematic Theology (2 vols, 1892-1894), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "miley"
+ ],
+ "_surname": [
+  "john miley",
+  "j. miley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "miley-class-meetings": [
+   "treatiseonclassm00mile",
+   "Treatise on class meetings (Cincinnati, Printed at the Methodist concern for the author, 1851)"
+  ],
+  "miley-atonement": [
+   "atonementinchris00mile_0",
+   "The atonement in Christ (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1879)"
+  ],
+  "miley-systematic-1": [
+   "systematictheolo01mile",
+   "Systematic theology, vol. 1 (New York, Hunt & Eaton; Cincinnati, Cranston & Stowe, 1892)"
+  ],
+  "miley-systematic-2": [
+   "systematictheolo02mile",
+   "Systematic theology, vol. 2 (New York, Hunt & Eaton; Cincinnati, Cranston & Stowe, 1892)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "miley-other": "The Rev. John Miley of Dublin (Rome under Paganism 1843, History of the Papal States 1850): another man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "miley-atonement": "title page read from the page image: 'The Atonement in Christ ... By John Miley, D.D., Professor of Systematic Theology in Drew Theological Seminary, Madison, N.J. New York: Phillips & Hunt, 1879' (OCR reads 'JOH NIMIGEY')",
+  "miley-systematic-1": "series title and publishers' announcement read from the page images: 'Library of Biblical and Theological Literature, edited by George R. Crooks and John F. Hurst. Vol. V. Systematic Theology. New York: Hunt & Eaton, 1892' and 'Dr. Miley, on Systematic Theology ... the first volume of the Systematic Theology [has] now been issued'; vol. 2 of the same set passes on Miley's name"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "miley-class-meetings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john miley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "miley-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "miley-systematic-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "miley-systematic-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john miley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

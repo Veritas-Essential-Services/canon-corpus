@@ -1,0 +1,84 @@
+{
+ "_about": "James Arminius (1560-1609), Works, tr. James Nichols (vols I-II) and W. R. Bagnall (vol III), 3 vols (Auburn and Buffalo: Derby, Miller and Orton, 1853), complete; from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. US public domain.",
+ "_name_words": [
+  "arminius",
+  "james arminius"
+ ],
+ "_surname": [
+  "arminius",
+  "nichols",
+  "bagnall"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "arminius-works-1": [
+   "worksofjamesarmi01armi",
+   "The Works of James Arminius, tr. James Nichols, vol. I (Auburn and Buffalo: Derby, Miller and Orton, 1853)"
+  ],
+  "arminius-works-2": [
+   "worksofjamesarmi02armi",
+   "The Works of James Arminius, tr. James Nichols, vol. II (Auburn: Derby and Miller; Buffalo: Derby, Orton and Mulligan, 1853)"
+  ],
+  "arminius-works-3": [
+   "worksofjamesarmi03armi",
+   "The Works of James Arminius, tr. W. R. Bagnall, vol. III (Auburn: Derby and Miller; Buffalo: Derby, Orton and Mulligan, 1853)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "arminius-london-1825": "Nichols's London edition (Longman, 1825-28), only 2 vols; the 1853 American edition is the complete 3-vol set"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "arminius-works-1": {
+   "author": "OCR garbles the name on the title page ('AMINIUS', 'AEMINIUS', 'AEimiUS'); the page reads The Works of James Arminius, translated by James Nichols and W. R. Bagnall"
+  },
+  "arminius-works-2": {
+   "author": "OCR garbles the name on the title page ('AMINIUS', 'AEMINIUS', 'AEimiUS'); the page reads The Works of James Arminius, translated by James Nichols and W. R. Bagnall"
+  },
+  "arminius-works-3": {
+   "author": "OCR garbles the name on the title page ('AMINIUS', 'AEMINIUS', 'AEimiUS'); the page reads The Works of James Arminius, translated by James Nichols and W. R. Bagnall"
+  }
+ },
+ "_pending": {},
+ "_translators": {
+  "arminius-works": "James Nichols (vols I-II, first published London 1825-28) and W. R. Bagnall (vol III)"
+ },
+ "_checks": {
+  "arminius-works-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "arminius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arminius-works-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "arminius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arminius-works-3": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "arminius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

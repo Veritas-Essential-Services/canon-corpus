@@ -1,0 +1,191 @@
+{
+ "_about": "Edna Ferber: Novels and stories; pre-1931 US publications only. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Edna Ferber",
+ "_name_words": [
+  "edna",
+  "ferber"
+ ],
+ "_surname": [
+  "edna ferber"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eferber-fanny-herself": [
+   350,
+   "Fanny Herself"
+  ],
+  "eferber-buttered-side-down": [
+   352,
+   "Buttered Side Down: Stories"
+  ],
+  "eferber-emma-mcchesney-and-co": [
+   453,
+   "Emma McChesney and Co."
+  ],
+  "eferber-one-basket": [
+   489,
+   "One Basket"
+  ],
+  "eferber-dawn-ohara": [
+   1602,
+   "Dawn O'Hara: The Girl Who Laughed"
+  ],
+  "eferber-roast-beef-medium": [
+   6016,
+   "Roast Beef, Medium: The Business Adventures of Emma McChesney"
+  ],
+  "eferber-cheerful-by-request": [
+   11395,
+   "Cheerful—By Request"
+  ],
+  "eferber-personality-plus": [
+   12677,
+   "Personality Plus: Some Experiences of Emma McChesney and Her Son, Jock"
+  ],
+  "eferber-half-portions": [
+   14714,
+   "Half Portions"
+  ],
+  "eferber-gigolo": [
+   20419,
+   "Gigolo"
+  ],
+  "eferber-so-big": [
+   61686,
+   "So Big"
+  ],
+  "eferber-show-boat": [
+   67123,
+   "Show Boat"
+  ],
+  "eferber-girls": [
+   75334,
+   "The girls"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58195": "PG 58195: Gutenberg's index of the author's works, not a book.",
+  "held-elsewhere": "PG 65906: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "eferber-fanny-herself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-buttered-side-down": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-emma-mcchesney-and-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-one-basket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-dawn-ohara": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-roast-beef-medium": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-cheerful-by-request": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-personality-plus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-half-portions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-gigolo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-so-big": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-show-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eferber-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna ferber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

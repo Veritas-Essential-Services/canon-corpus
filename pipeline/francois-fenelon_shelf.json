@@ -1,0 +1,154 @@
+{
+ "_about": "Public-domain François Fénelon (1651-1715, Archbishop of Cambrai) in English for the Word Hoard: The Existence of God in the anonymous translation of 1713, ed. Henry Morley (1888), from Project Gutenberg, and from Internet Archive scans the Spiritual Letters to Men and to Women (1877), Richard Haughton's Spiritual Works (1822, two volumes), Pious Reflections (1796) and The Maxims of the Saints (1698). His Telemachus is fiction and his Education of Daughters is on another lane's shelf. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fenelon"
+ ],
+ "_surname": [
+  "fenelon",
+  "fénelon",
+  "archbishop of cambray",
+  "archbishop of cambrai",
+  "arch-bishop of cambray",
+  "arch-bishop of cambrai"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "fenelon-existence-of-god": [
+   "11044",
+   "The Existence of God, anonymous translation of 1713, ed. Henry Morley (London: Cassell, 1888)"
+  ]
+ },
+ "internet_archive": {
+  "fenelon-letters-to-men": [
+   "spiritualletter03fngoog",
+   "Spiritual Letters of Archbishop Fénelon: Letters to Men (London: Rivingtons, MDCCCLXXVII)"
+  ],
+  "fenelon-letters-to-women": [
+   "spiritualletters00fn",
+   "Spiritual Letters of Archbishop Fénelon: Letters to Women (London: Rivingtons, MDCCCLXXVII)"
+  ],
+  "fenelon-spiritual-works-1": [
+   "partofspiritualw01fnuoft",
+   "Part of the Spiritual Works of the Celebrated Francis Fenelon, vol. I, tr. Richard Haughton, second edition (Dublin: C. Bentham, 1822)"
+  ],
+  "fenelon-spiritual-works-2": [
+   "partofspiritualw02fnuoft",
+   "Part of the Spiritual Works of the Celebrated Francis Fenelon, vol. II, tr. Richard Haughton, second edition (Dublin: C. Bentham, 1822)"
+  ],
+  "fenelon-pious-reflections": [
+   "bim_eighteenth-century_manuel-de-piete-englis_fenelon-francois-de-sal_1796",
+   "Pious Reflections for Every Day of the Month (Leeds: J. Binns, 1796)"
+  ],
+  "fenelon-maxims-of-saints-1698": [
+   "bim_early-english-books-1641-1700_the-maxims-of-the-saints_fenelon-francois-de-sal_1698",
+   "The Maxims of the Saints Explained, concerning the Interiour Life (London: H. Rhodes, 1698)"
+  ]
+ },
+ "_alternates": {
+  "fenelon-spiritual-progress": "Spiritual Progress, ed. James W. Metcalf (New York, 1853; CCEL fenelon/progress): Fénelon's Christian Counsel and Letters bound with Guyon and Lacombe",
+  "fenelon-maxims-allenson": "The Maxims of the Saints, Allenson booklet (no year; matches CCEL fenelon/maxims)",
+  "fenelon-copies": "Pious Reflections (Boston, 1818); 1880 reissues of the Spiritual Letters; A Demonstration of the Existence of God (London, 1713, Boyer)",
+  "fenelon-selections": "Extracts (Miss Marshall, 1809) and Reflections and Meditations (Hassard, 1864)"
+ },
+ "_excluded": {
+  "fenelon-telemachus": "The Adventures of Telemachus (1699, 1872, 1896): fiction",
+  "fenelon-education": "Treatise on the Education of Daughters: already on the singles-ideas-2 shelf",
+  "fenelon-about": "Lives and studies by others",
+  "fenelon-late": "Longmans reissues of 1902-1921"
+ },
+ "_identity_checked": {
+  "fenelon-pious-reflections": {
+   "author": "Title page read: 'translated from the French of the Archbishop of Cambray', OCR long-s 'Archbiſhop'; Leeds, J. Binns, 1796"
+  },
+  "fenelon-maxims-of-saints-1698": {
+   "author": "Title page read: 'by the Lord Arch-Bishop of Cambrai', OCR 'AR C H-BISHOP of CAMBR A1'; London, H. Rhodes, 1698"
+  }
+ },
+ "_pending": {},
+ "_translators": {
+  "fenelon-spiritual-works-1": "haughton",
+  "fenelon-spiritual-works-2": "haughton"
+ },
+ "_checks": {
+  "fenelon-existence-of-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fenelon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fenelon-letters-to-men": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fenelon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fenelon-letters-to-women": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fenelon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fenelon-spiritual-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fenelon",
+   "translator_claimed": "haughton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fenelon-spiritual-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fenelon",
+   "translator_claimed": "haughton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fenelon-pious-reflections": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fenelon-maxims-of-saints-1698": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1698",
+   "ia_date": "1698",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

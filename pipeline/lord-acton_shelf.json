@@ -1,0 +1,73 @@
+{
+ "_about": "John Emerich Edward Dalberg-Acton, first Baron Acton (1834-1902), historian of liberty: A Lecture on the Study of History, his Cambridge inaugural of June 1895 (London: Macmillan; the etext is the 1911 reprint); Lectures on Modern History, edited by J. N. Figgis and R. V. Laurence (1906; the etext names no printing); The History of Freedom and other essays (1907; the etext is the 1909 reprint); Lectures on the French Revolution (London: Macmillan, 1910). Clean Gutenberg texts. Not taken: the Letters to Mary Gladstone. US public domain. No uids minted.",
+ "_author": "Lord Acton",
+ "_name_words": [
+  "john",
+  "emerich",
+  "edward",
+  "dalberg",
+  "acton"
+ ],
+ "_surname": [
+  "acton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "acton-lecture-study-of-history-1895": [
+   25720,
+   "A Lecture on the Study of History (1895; Macmillan reprint 1911)"
+  ],
+  "acton-lectures-modern-history-1906": [
+   18685,
+   "Lectures on Modern History, ed. Figgis and Laurence (1906; printing not named)"
+  ],
+  "acton-history-of-freedom-1907": [
+   31278,
+   "The History of Freedom and Other Essays (1907; reprint 1909)"
+  ],
+  "acton-lectures-french-revolution-1910": [
+   27488,
+   "Lectures on the French Revolution (Macmillan, 1910)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "acton-lecture-study-of-history-1895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "acton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acton-lectures-modern-history-1906": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "acton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acton-history-of-freedom-1907": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "acton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acton-lectures-french-revolution-1910": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "acton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

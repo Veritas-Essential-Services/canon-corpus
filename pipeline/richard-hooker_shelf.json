@@ -1,0 +1,94 @@
+{
+ "_about": "Public-domain Richard Hooker (c.1554-1600, Anglican divine, Master of the Temple) for the Word Hoard: A Learned Discourse of Justification clean from CCEL, and the Works in John Keble's edition (Oxford: University Press, 1836, 3 vols, with Walton's Life), including Of the Laws of Ecclesiastical Polity, as raw Internet Archive OCR from Claremont and Toronto scans. CCEL's three 'Church Defended' volumes are stubs and are left off. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "h/hooker",
+ "_name_words": [
+  "hooker",
+  "richard"
+ ],
+ "_surname": [
+  "richard hooker",
+  "mr. hooker",
+  "hooker"
+ ],
+ "_held": {},
+ "ccel": {
+  "hooker-justification": [
+   "just",
+   "A Learned Discourse of Justification, Works, and How the Foundation of Faith is Overthrown",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "hooker-works-1": [
+   "worksofrichardho0001hook",
+   "The Works of Richard Hooker, ed. Keble, vol. 1 (Oxford: University Press, 1836)"
+  ],
+  "hooker-works-2": [
+   "worksofthatlea02hook",
+   "The Works of Richard Hooker, ed. Keble, vol. 2 (Oxford: University Press, 1836)"
+  ],
+  "hooker-works-3": [
+   "worksofthatlear03hook",
+   "The Works of Richard Hooker, ed. Keble, vol. 3 (Oxford: University Press, 1836)"
+  ]
+ },
+ "_alternates": {
+  "worksofrichardho0002hook, worksofrichardho0003hook_pt1, worksofthatlearn0003hook": "Other scans of Keble's 1836 set.",
+  "worksofthatlea01hook, worksofthatlearn01hook_0, worksofthatlearn1844hook, worksrichardhook02hook (New York: Appleton, 1844-45)": "The American edition.",
+  "worksmrrichardh0*waltgoog (1821); ecclesiasticalp0*hookgoog, ecclesiasticalp00hanbgoog (1830); worksrichardhoo0*goog; india.history.resource.53494 (1807); in.ernet.dli.2015.96038 (1888)": "Other editions.",
+  "oflawsofecclesia* (Dent, 1907, 2 vols; Everyman)": "A later edition of the Polity alone."
+ },
+ "_excluded": {
+  "reform1, reform2, reform3 (CCEL)": "Stubs of 2-5 KB.",
+  "folgerlibraryedi* (1977-)": "The Folger edition, in copyright.",
+  "isbn_9781879793125 (2007); ecclesiasticalpo0001rich, lawsofecclesiast0002rich, bwb_*": "Modern reprints or unprovenanced copies.",
+  "hookerbooklaws00churuoft, oflawsofecclesia0000hook_s0l3, a5879*hookuoft, oflawsofeccles00hook, analysisofhooker00hook, selectionsfromfi00hook, prefacetolawsofe00hookuoft": "School editions and selections of single books, with editors' notes.",
+  "bim_eighteenth-century_a-faithful-abridgment-of_hooker-richard_1705": "An abridgement by another hand."
+ },
+ "_checks": {
+  "hooker-justification": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard hooker",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hooker-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard hooker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hooker-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard hooker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hooker-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard hooker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,315 @@
+{
+ "_about": "Public-domain John Edgar McFadyen (1870-1933), Old Testament professor at Knox College, Toronto, and the United Free Church College, Glasgow, for the Word Hoard: The Messages of the Prophetic and Priestly Historians, The Divine Pursuit, In the Hour of Silence, Old Testament Criticism and the Christian Church, The Messages of the Psalmists, Introduction to the Old Testament, The Prayers of the Bible, Ten Studies in the Psalms, The City with Foundations, The Book of the Prophecies of Isaiah, The Way of Prayer, The Epistles to the Corinthians, A Cry for Justice, The Historical Narrative of the Old Testament, The Psalms in Modern Speech, The Problem of Pain, Isaiah and Jeremiah in Modern Speech, and The Use of the Old Testament. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 104 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john edgar mcfadyen",
+  "john e. mcfadyen",
+  "j. e. mcfadyen",
+  "mcfadyen"
+ ],
+ "_surname": [
+  "john edgar mcfadyen",
+  "john e. mcfadyen",
+  "j. e. mcfadyen",
+  "mcfadyen"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcfadyen-historians": [
+   "messagesofprophe0000mcfa",
+   "The messages of the prophetic and priestly historians (New York : C. Scribner's Sons, 1901)"
+  ],
+  "mcfadyen-divine-pursuit": [
+   "divinepursuit00mcfa",
+   "The divine pursuit ([n. p.], 1901)"
+  ],
+  "mcfadyen-hour-of-silence": [
+   "inhourofsilence00mcfa",
+   "In the hour of silence (Chicago, New York [etc.] Fleming H. Revell company, 1902)"
+  ],
+  "mcfadyen-ot-criticism": [
+   "oldtestamentcrit00mcfa",
+   "Old Testament criticism and the Christian church (New York, C. Scribner's sons, 1903)"
+  ],
+  "mcfadyen-psalmists": [
+   "messagesofpsalmi00mcfarich",
+   "The messages of the psalmists; the Psalms of the Old Testament arranged in their natural grouping and freely rendered in paraphrase (New York, C. Scribner's Sons, 1904)"
+  ],
+  "mcfadyen-ot-introduction": [
+   "introductiontool00mcfa",
+   "Introduction to the Old Testament (New York : A.C. Armstrong, 1905)"
+  ],
+  "mcfadyen-prayers-bible": [
+   "prayersofbible00mcfauoft",
+   "The prayers of the Bible (Toronto : Westminster, [190)"
+  ],
+  "mcfadyen-ten-psalms": [
+   "tenstudiesinpsal00mcfa",
+   "Ten studies in the Psalms (New York, Young men's Christian association press, 1907)"
+  ],
+  "mcfadyen-city-foundations": [
+   "citywithfoundati00mcfa",
+   "The city with foundations (New York : A.C. Armstrong, 1909)"
+  ],
+  "mcfadyen-isaiah-1910": [
+   "bookofprophecies00mcfa",
+   "The book of the prophecies of Isaiah (New York, The Macmillan company, 1910)"
+  ],
+  "mcfadyen-way-of-prayer": [
+   "wayofprayer00mcfa",
+   "The way of prayer (Boston, New York [etc.] The Pilgrim press, 1910)"
+  ],
+  "mcfadyen-corinthians": [
+   "theepistlestothe00mcfauoft",
+   "The epistles to the Corinthians (London : Hodder and Stoughton, 1911)"
+  ],
+  "mcfadyen-amos": [
+   "cryforjusticestu00mcfauoft",
+   "A cry for justice; a study in Amos (Edinburgh T. & T. Clark, 1912)"
+  ],
+  "mcfadyen-historical-narrative": [
+   "thehistoricalnar00mcfauoft",
+   "The historical narrative of the Old Testament (Edinburgh : T. & T. Clark, pref)"
+  ],
+  "mcfadyen-psalms-modern": [
+   "thepsalmsinmoder00mcfauoft",
+   "The psalms in modern speech and rhythmical form (London J. Clarke, 1916)"
+  ],
+  "mcfadyen-problem-of-pain": [
+   "theproblemofpain00mcfauoft",
+   "The problem of pain : a study in the Book of Job (London : J. Clarke, 1917)"
+  ],
+  "mcfadyen-isaiah-modern": [
+   "isaiahinmodernsp00mcfauoft",
+   "Isaiah in modern speech (London : J.Clarke, [191)"
+  ],
+  "mcfadyen-jeremiah-modern": [
+   "jeremiahinmodern00mcfauoft",
+   "Jeremiah in modern speech (London, Clarke, [191)"
+  ],
+  "mcfadyen-use-of-ot": [
+   "useoftheoldtesta00mcfauoft",
+   "The use of the Old Testament in the light of modern knowledge (London : J. Clarke, pref)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mcfadyen-hebrew-grammar": "An Introductory Hebrew Grammar (A. B. Davidson's, which he revised)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mcfadyen-historians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcfadyen-divine-pursuit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcfadyen-hour-of-silence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcfadyen-ot-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-psalmists": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-ot-introduction": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-prayers-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-ten-psalms": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-city-foundations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-isaiah-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-way-of-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcfadyen-corinthians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-amos": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-historical-narrative": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "pref. 1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-psalms-modern": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-problem-of-pain": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-isaiah-modern": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "[1918]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-jeremiah-modern": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "[1919]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcfadyen-use-of-ot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edgar mcfadyen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "pref. 1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

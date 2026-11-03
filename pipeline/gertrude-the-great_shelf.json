@@ -1,0 +1,65 @@
+{
+ "_about": "Public-domain Gertrude the Great (1256-1302, nun of Helfta) in English for the Word Hoard: The Life and Revelations of Saint Gertrude (London: Burns & Oates, from the Kenmare translation of 1865), which renders Books 2-5 of her Herald of Divine Love, and The Exercises of Saint Gertrude (London: Burns and Lambert, translator's note 1863), from Internet Archive scans. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gertrude"
+ ],
+ "_surname": [
+  "saint gertrude",
+  "st. gertrude",
+  "s. gertrude",
+  "gertrude"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gertrude-life-and-revelations": [
+   "thelifeandrevela00gertuoft",
+   "The Life and Revelations of Saint Gertrude, Virgin and Abbess, new edition (London: Burns & Oates, Limited; letter dated 1870)"
+  ],
+  "gertrude-exercises": [
+   "exercisessaintg00gertgoog",
+   "The Exercises of Saint Gertrude, translated from Dom Guéranger's edition (London: Burns and Lambert; translator's note dated 1863)"
+  ]
+ },
+ "_alternates": {
+  "gertrude-exercises-pope": "The Exercises of St. Gertrude, tr. Thomas Alder Pope (Burns Oates and Washbourne, imprimatur 1921)",
+  "gertrude-preces": "Preces Gertrudianae: prayers compiled from Gertrude and Mechtilde (Burns and Lambert, undated)"
+ },
+ "_excluded": {
+  "gertrude-about": "The Spirit of St. Gertrude (a compilation) and works about her (1888, 1911, 1913)",
+  "gertrude-late": "MN5141ucmf_0: Burns Oates & Washbourne, undated"
+ },
+ "_rights_checked": {
+  "gertrude-life-and-revelations": "title page read: 'New Edition', Burns & Oates, Limited, and Benziger Brothers, no year; front matter dated Kenmare 1865, bishop's letter 1870; Burns & Oates Limited merged into Burns Oates & Washbourne in the 1920s",
+  "gertrude-exercises": "title page read: Burns and Lambert, 17 Portman Street, no year; translator's note dated April 19th, 1863"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gertrude-life-and-revelations": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "saint gertrude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "187-?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'New Edition', Burns & Oates, Limited, and Benziger Brothers, no year; front matter dated Kenmare 1865, bishop's letter 1870; Burns & Oates Limited merged into Burns Oates & Washbourne in the 1920s"
+  },
+  "gertrude-exercises": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "st. gertrude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Burns and Lambert, 17 Portman Street, no year; translator's note dated April 19th, 1863"
+  }
+ }
+}

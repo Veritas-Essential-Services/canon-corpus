@@ -1,0 +1,214 @@
+{
+ "_about": "Public-domain Henry Drummond (1851-1897, Free Church of Scotland, evangelist and natural scientist) for the Word Hoard: nine CCEL editions (Natural Law in the Spiritual World, The Greatest Thing in the World and Other Addresses, The Ascent of Man, The Ideal Life, The New Evangelism, Stones Rolled Away, A Life for a Life, Baxter's Second Innings, The Monkey who Wouldn't Kill) and two Project Gutenberg texts (Pax Vobiscum, Eternal Life). Drummond read evolution into theology; veto point. Added 2026-10-10 by lane A, round 17 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "d/drummond",
+ "_name_words": [
+  "drummond",
+  "henry"
+ ],
+ "_surname": [
+  "henry drummond",
+  "drummond, henry",
+  "prof. henry drummond",
+  "professor henry drummond",
+  "henry drummond, f.r.s.e."
+ ],
+ "_held": {},
+ "ccel": {
+  "drummond-natural-law": [
+   "natural_law",
+   "Natural Law in the Spiritual World (CCEL; print source London: Hodder & Stoughton, 29th ed., 1890)",
+   ""
+  ],
+  "drummond-greatest-thing": [
+   "greatest",
+   "The Greatest Thing in the World and Other Addresses (CCEL; print source London: Hodder & Stoughton, updated ed., c. 1920)",
+   ""
+  ],
+  "drummond-ascent-of-man": [
+   "ascent",
+   "The Lowell Lectures on the Ascent of Man (CCEL; print source London: Hodder and Stoughton, 1904)",
+   ""
+  ],
+  "drummond-ideal-life": [
+   "ideal",
+   "The Ideal Life (CCEL; print source 1897)",
+   ""
+  ],
+  "drummond-new-evangelism": [
+   "new_ev",
+   "The New Evangelism and Other Papers (CCEL; print source London: Hodder & Stoughton, 2nd ed., 1899)",
+   ""
+  ],
+  "drummond-stones-rolled-away": [
+   "stone_roll",
+   "Stones Rolled Away and Other Addresses to Young Men (CCEL; print source London: Samuel Bagster and Sons, no year)",
+   ""
+  ],
+  "drummond-life-for-a-life": [
+   "life",
+   "A Life for a Life (CCEL; print source 1897)",
+   ""
+  ],
+  "drummond-baxters-second-innings": [
+   "bsi",
+   "Baxter's Second Innings (CCEL; print source 1892)",
+   ""
+  ],
+  "drummond-monkey": [
+   "monkey",
+   "The Monkey who Wouldn't Kill (CCEL; print source not stated)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "drummond-pax-vobiscum": [
+   "9373",
+   "Pax Vobiscum (title page 1890)"
+  ],
+  "drummond-eternal-life": [
+   "30876",
+   "Eternal Life (Philadelphia: Henry Altemus, 1896)"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {
+  "drummond-natural-law-pg": "Natural Law in the Spiritual World, PG 23334 (New York: Hurst & Co., no year): CCEL preferred",
+  "drummond-greatest-pg": "The Greatest Thing in the World, PG 16739 (copyrighted 1891 and 1898 per its title page): CCEL preferred",
+  "drummond-monkey-pg": "The Monkey that Would Not Kill, PG 29254 (New York, 1915): CCEL preferred"
+ },
+ "_excluded": {
+  "drummond-tropical-africa": "Tropical Africa, PG 74587: travel and natural science, not theology",
+  "drummond-addresses-pg": "Addresses, PG 2498: no source edition stated; duplicates the Greatest Thing collection",
+  "drummond-beautiful-thoughts": "Beautiful Thoughts, PG 13677: extracts compiled by Elizabeth Cureton, not Drummond's own book",
+  "drummond-translations": "PG 61665 and 74868: Portuguese and Finnish translations",
+  "william-henry-drummond": "PG 40152, 20609, 9801: William Henry Drummond, the Canadian poet, a different person"
+ },
+ "_checks": {
+  "drummond-natural-law": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder &amp; Stoughton Ltd, Twenty Ninth Edition, 1890",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "drummond-greatest-thing": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder &amp; Stoughton Ltd, updated edition, c. 1920",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "drummond-ascent-of-man": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton, 1904",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "drummond-ideal-life": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "1897",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "drummond-new-evangelism": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder &amp; Stoughton Ltd, Second Edition, 1899",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "drummond-stones-rolled-away": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Samuel Bagster and Sons Limited",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "drummond-life-for-a-life": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "1897",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "drummond-baxters-second-innings": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "1892",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "drummond-monkey": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "drummond-pax-vobiscum": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "drummond-eternal-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry drummond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

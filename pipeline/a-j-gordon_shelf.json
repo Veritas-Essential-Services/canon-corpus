@@ -1,0 +1,178 @@
+{
+ "_about": "Public-domain A. J. Gordon (Adoniram Judson Gordon, 1836-1895, Baptist, Clarendon Street Church, Boston) for the Word Hoard: The Ministry of the Spirit (Project Gutenberg, 1894), and from Internet Archive scans In Christ (1872), The Ministry of Healing (1882), The Two-Fold Life (1883), Ecce Venit (catalogued 1889), The Holy Spirit in Missions (copyright 1893), Elements of Christian Character (1895), How Christ Came to Church (1895) and the tract God's Tenth. His hymnals are held as alternates, not shelved. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "gordon"
+ ],
+ "_surname": [
+  "a. j. gordon",
+  "gordon, a. j.",
+  "adoniram judson gordon",
+  "gordon, adoniram judson",
+  "a. j. gordon, d.d.",
+  "rev. a. j. gordon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "gordon-ministry-spirit": [
+   "25395",
+   "The Ministry of the Spirit, introduction by F. B. Meyer (Philadelphia: American Baptist Publication Society, 1894; Greek transliterated by the transcriber)"
+  ]
+ },
+ "internet_archive": {
+  "gordon-in-christ": [
+   "inchristorbelievul00gord",
+   "In Christ; or, The Believer's Union with His Lord (Boston: Gould and Lincoln, 1872)"
+  ],
+  "gordon-ministry-healing": [
+   "ministryofhealin00gord",
+   "The Ministry of Healing, or, Miracles of Cure in All Ages (Boston: Howard Gannett, 1882)"
+  ],
+  "gordon-two-fold-life": [
+   "twofoldlifeorchr00gord_1",
+   "The Two-Fold Life; or, Christ's Work for Us and Christ's Work in Us (Boston: Howard Gannett, 1883)"
+  ],
+  "gordon-ecce-venit": [
+   "eccevenitbehold00gord",
+   "Ecce Venit: Behold He Cometh (New York and Chicago: Fleming H. Revell; no year on title page, copyright 1889, catalogued 1889)"
+  ],
+  "gordon-holy-spirit-missions": [
+   "holyspiritinmiss00gord",
+   "The Holy Spirit in Missions: Six Lectures (New York and Chicago: Fleming H. Revell; no year on title page, copyright 1893)"
+  ],
+  "gordon-elements-character": [
+   "elementsofchrist00gord",
+   "Elements of Christian Character (Philadelphia: American Baptist Publication Society, 1895)"
+  ],
+  "gordon-christ-came-to-church": [
+   "howchristcametoc0000gord",
+   "How Christ Came to Church: The Pastor's Dream, with a life-story by A. T. Pierson (Philadelphia: American Baptist Publication Society, MDCCCXCV)"
+  ],
+  "gordon-gods-tenth": [
+   "godstenth00gord",
+   "God's Tenth (tract; no imprint on the title page, catalogued 1880)"
+  ]
+ },
+ "_alternates": {
+  "gordon-ministry-spirit-scan": "The Ministry of the Spirit, scan (IA ministryofspirit00gordiala, 1895)",
+  "gordon-in-christ-london": "In Christ, London: Hodder & Stoughton 1882 (IA inchristorbelie00gordgoog) and Boston 1883 6th ed. (inchrist00gordiala)",
+  "gordon-hymnals": "Hymnals he compiled or edited: The Service of Song for Baptist Churches (with S. L. Caldwell, 1871; IA bapchur00cald), The Vestry Hymn and Tune Book (entered 1872; vestryhymntunebo0000gord), The Coronation Hymnal (with A. T. Pierson, copyright 1894; coronatio00gord)"
+ },
+ "_excluded": {
+  "gordon-reprint-1968": "IA holyspiritinmiss0000gord_e3g4: 1968 reprint",
+  "gordon-german": "IA dasamtdesgeistes00gord: German translation",
+  "gordon-son-biography": "Ernest B. Gordon's biography of his father: by another hand, not shelved",
+  "gordon-namesakes": "S. D. Gordon (CCEL ccel/gordon) and other Gordons: different people"
+ },
+ "_identity_checked": {
+  "gordon-gods-tenth": {
+   "author": "Title heading read: \"REV. A. J- GORDON, D. D.\" (OCR for A. J. Gordon); tract has no imprint."
+  }
+ },
+ "_rights_checked": {
+  "gordon-christ-came-to-church": "title page read: Philadelphia: American Baptist Publication Society, MDCCCXCV; author died 1895"
+ },
+ "_pending": {
+  "gordon-ministry-healing-uoft": "IA ministryofhealin00gorduoft: repeated HTTP 500"
+ },
+ "_checks": {
+  "gordon-ministry-spirit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gordon-in-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-ministry-healing": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gordon, a. j.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gordon-two-fold-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "gordon-ecce-venit": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gordon-holy-spirit-missions": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gordon-elements-character": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gordon-christ-came-to-church": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. j. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Philadelphia: American Baptist Publication Society, MDCCCXCV; author died 1895"
+  },
+  "gordon-gods-tenth": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

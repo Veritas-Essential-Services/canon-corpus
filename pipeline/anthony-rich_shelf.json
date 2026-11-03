@@ -1,0 +1,36 @@
+{
+ "_about": "Anthony Rich (1803/4-1891): A Dictionary of Roman and Greek Antiquities, with nearly 2000 engravings, fourth edition, revised (London: Longmans, Green, 1874), raw IA OCR. The book first appeared in 1849 as The Illustrated Companion to the Latin Dictionary and Greek Lexicon; the later revised edition is taken. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "rich"
+ ],
+ "_surname": [
+  "anthony rich",
+  "rich, anthony"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "anthony-rich-dictionary-antiquities-1874": [
+   "cu31924031428737",
+   "A Dictionary of Roman and Greek Antiquities, fourth edition, revised (London: Longmans, Green, 1874)"
+  ]
+ },
+ "_checks": {
+  "anthony-rich-dictionary-antiquities-1874": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "anthony-rich-dictionary-antiquities-1874": {
+   "author": "title page read 2026-10-10: OCR gives 'ANTHONY E,ICH, B.A. SOMETIME OF CAIUS COLLEGE, CAMBRIDGE', fourth edition, Longmans 1874 (Anthony Rich); the OCR misreads the R"
+  }
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain Amy Wilson-Carmichael (1867-1951, missionary at Dohnavur, South India) for the Word Hoard: Things as They Are (1903), Overweights of Joy (1906), Lotus Buds (1910), Walker of Tinnevelly (1916), Mimosa (second edition, 1925) and Raj, Brigand Chief (1927), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "carmichael"
+ ],
+ "_surname": [
+  "carmichael",
+  "amy wilson-carmichael",
+  "amy carmichael"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "carmichael-things-as-they-are": [
+   "thingsastheyarem00carm",
+   "Things as They Are: Mission Work in Southern India (London: Morgan and Scott, 1903)"
+  ],
+  "carmichael-overweights-of-joy": [
+   "overweightsofjoy00carmiala",
+   "Overweights of Joy (London: Morgan and Scott, 1906)"
+  ],
+  "carmichael-lotus-buds": [
+   "pts_lotusbuds_3720-1088",
+   "Lotus Buds (London: Morgan and Scott, MCMX)"
+  ],
+  "carmichael-walker-tinnevelly": [
+   "walkeroftinnevel00carm",
+   "Walker of Tinnevelly (London: Morgan and Scott, MCMXVI)"
+  ],
+  "carmichael-mimosa": [
+   "mimosawhowaschar0000amyc_s7r9",
+   "Mimosa, Who Was Charmed, second edition (Madras: S.P.C.K. Depot, 1925)"
+  ],
+  "carmichael-raj-brigand-chief": [
+   "bwb_T5-ALR-784",
+   "Raj, Brigand Chief (London: Seeley, Service, 1927)"
+  ]
+ },
+ "_alternates": {
+  "carmichael-pg": "PG 29426 (Things as They Are, 1905) and PG 29427 (Lotus Buds, 1912)",
+  "carmichael-copies": "Later reprints; Ragland (1922), Ponnammal (1918) and other titles not read"
+ },
+ "_excluded": {
+  "carmichael-later": "1930 printings of Raj and Mimosa; all post-1930 titles"
+ },
+ "_rights_checked": {
+  "carmichael-raj-brigand-chief": "title page read: 1927; she died 1951, so her books are US public domain but in UK copyright"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "carmichael-things-as-they-are": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "carmichael",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carmichael-overweights-of-joy": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "carmichael",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carmichael-lotus-buds": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "carmichael",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carmichael-walker-tinnevelly": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "carmichael",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carmichael-mimosa": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "carmichael",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carmichael-raj-brigand-chief": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "carmichael",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 1927; she died 1951, so her books are US public domain but in UK copyright"
+  }
+ }
+}

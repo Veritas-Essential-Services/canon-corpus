@@ -1,0 +1,97 @@
+{
+ "_about": "Annie S. Swan: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Annie S. Swan",
+ "_name_words": [
+  "annie",
+  "swan"
+ ],
+ "_surname": [
+  "annie s. swan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "asswan-thankful-rest": [
+   12998,
+   "Thankful Rest"
+  ],
+  "asswan-guinea-stamp": [
+   17442,
+   "The Guinea Stamp: A Tale of Modern Glasgow"
+  ],
+  "asswan-englishwomans-home": [
+   22193,
+   "An Englishwoman's Home"
+  ],
+  "asswan-courtship-and-marriage-and-the-gentle-art-of-home-mak": [
+   35963,
+   "Courtship and Marriage, and the Gentle Art of Home-Making"
+  ],
+  "asswan-last-of-their-race": [
+   42926,
+   "The Last of Their Race"
+  ],
+  "asswan-adam-hepburns-vow": [
+   46966,
+   "Adam Hepburn's Vow: A Tale of Kirk and Covenant"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "asswan-thankful-rest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie s. swan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asswan-guinea-stamp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie s. swan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asswan-englishwomans-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie s. swan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asswan-courtship-and-marriage-and-the-gentle-art-of-home-mak": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie s. swan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asswan-last-of-their-race": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie s. swan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asswan-adam-hepburns-vow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie s. swan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

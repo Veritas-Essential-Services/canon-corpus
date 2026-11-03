@@ -1,0 +1,94 @@
+{
+ "_about": "Donald A. Mackenzie's myths and legends retold: Elves and Heroes (1909, Highland legends in verse), Myths of Babylonia and Assyria and Indian Myth and Legend (in the Myth and Legend in Literature and Art series; undated in the text), Myths of China and Japan (Gresham, 1923, per Gutenberg's record). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Donald A. Mackenzie",
+ "_name_words": [
+  "mackenzie"
+ ],
+ "_surname": [
+  "donald a. mackenzie"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mackenzie-elves-and-heroes": [
+   10089,
+   "Elves and Heroes",
+   {
+    "contents_only": true
+   }
+  ],
+  "mackenzie-myths-of-babylonia-and-assyria": [
+   16653,
+   "Myths of Babylonia and Assyria"
+  ],
+  "mackenzie-indian-myth-and-legend": [
+   47228,
+   "Indian Myth and Legend",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION|INDEX|CHAPTER [IVXL]+)$",
+      "title_next": true
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ],
+  "mackenzie-myths-of-china-and-japan": [
+   67344,
+   "Myths of China and Japan",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS|NOTES|CHAPTER [IVXL]+)$"
+     },
+     {
+      "re": "(?:THE\\ DAWN\\ OF\\ CIVILIZATION|A\\ FAR\\-TRAVELLED\\ INVENTION|ANCIENT\\ MARINERS\\ AND\\ EXPLORERS|THE\\ WORLD\\-WIDE\\ SEARCH\\ FOR\\ WEALTH|CHINESE\\ DRAGON\\ LORE|BIRD\\ AND\\ SERPENT\\ MYTHS|DRAGON\\ FOLK\\-STORIES|THE\\ KINGDOM\\ UNDER\\ THE\\ SEA|THE\\ ISLANDS\\ OF\\ THE\\ BLEST|THE\\ MOTHER\\-GODDESS\\ OF\\ CHINA\\ AND\\ JAPAN|TREE\\-,\\ HERB\\-,\\ AND\\ STONE\\-LORE|HOW\\ COPPER\\-CULTURE\\ REACHED\\ CHINA|THE\\ SYMBOLISM\\ OF\\ JADE|CREATION\\ MYTHS\\ AND\\ THE\\ GOD\\ AND\\ GODDESS\\ CULTS|MYTHICAL\\ AND\\ LEGENDARY\\ KINGS|MYTHS\\ AND\\ DOCTRINES\\ OF\\ TAOISM|CULTURE\\ MIXING\\ IN\\ JAPAN|JAPANESE\\ GODS\\ AND\\ DRAGONS|RIVAL\\ DEITIES\\ OF\\ LIFE\\ AND\\ DEATH,\\ SUNSHINE\\ AND\\ STORM|THE\\ DRAGON\\-SLAYER\\ AND\\ HIS\\ RIVAL|ANCIENT\\ MIKADOS\\ AND\\ HEROES)$"
+     }
+    ],
+    "start": "PREFACE$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mackenzie-elves-and-heroes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donald a. mackenzie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackenzie-myths-of-babylonia-and-assyria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donald a. mackenzie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackenzie-indian-myth-and-legend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donald a. mackenzie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackenzie-myths-of-china-and-japan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donald a. mackenzie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

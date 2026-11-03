@@ -1,0 +1,246 @@
+{
+ "_about": "Public-domain Isaac Maddox (1697-1759), Bishop of St Asaph and then of Worcester, for the Word Hoard: his charge to the clergy of Worcester, and his sermons of 1734 to 1753, many of them for the London and Worcester infirmaries and charities. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 138 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. His anonymous Vindication of the Church of England (against Neal) is held until Adam rules on catalogue attributions.",
+ "_name_words": [
+  "isaac maddox",
+  "i. maddox",
+  "maddox",
+  "bishop of st. asaph",
+  "bishop of worcester"
+ ],
+ "_surname": [
+  "maddox"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "maddox-spg-1734": [
+   "bim_eighteenth-century_a-sermon-preached-before_maddox-isaac_1734_0",
+   "A sermon preached before the Incorporated Society for the Propagation of the Gospel in Foreign Parts; at their anniversary meeting in the parish-church of St. Mary-le-Bow, on Friday, February 15. 1733. By Isaac Maddox, ...  1734 (catalogued 1734)"
+  ],
+  "maddox-love-of-country": [
+   "bim_eighteenth-century_the-love-of-our-country-_maddox-isaac_1737",
+   "The love of our country recommended: a sermon preached to the Societies for reformation of manners, at St. Mary-le-Bow, on Monday, January 17th, 1736. By ... Isaac, Lord Bishop of St. Asaph.  1737 (catalogued 1737)"
+  ],
+  "maddox-lords-1739": [
+   "bim_eighteenth-century_a-sermon-preachd-before_maddox-isaac-bishop-of_1739",
+   "A sermon preach'd before the House of Lords in the abbey-church of Westminster.  1739 (catalogued 1739)"
+  ],
+  "maddox-scotland-society-1740": [
+   "bim_eighteenth-century_a-sermon-preachd-before_maddox-isaac_1740",
+   "A sermon preach'd before the Society corresponding with the Incorporated Society in Dublin, for promoting English Protestant Working-Schools in Ireland, at their anniversary meeting in the parish-church of St. Mary le Bow, on Wednesday, March 19. 173 (catalogued 1740)"
+  ],
+  "maddox-sons-of-clergy": [
+   "bim_eighteenth-century_a-sermon-preached-at-the_maddox-isaac_1742",
+   "A sermon preached at the anniversary meeting of the Sons of the Clergy, in the Cathedral Church of St. Paul, May 6, 1742. By ... Isaac, Lord Bishop of St. Asaph.  1742 (catalogued 1742)"
+  ],
+  "maddox-infirmaries": [
+   "b30363548",
+   "The duty and advantages of encouraging public infirmaries. A sermon preached before His Grace Charles Duke of Richmond, Lenox, and Aubigny, President; and the governors of the London Infirmary, in Goodman's-Fields, for the relief of sick and diseased manufacturers, and seamen in merchant-service, etc., at the Parish Church of St. Mary-le-Bow, on Friday, March 25, 1743 (London : Printed by Henry Woodfall, Jnr., sold by J. Brotherton & J. Stagg, 1743)"
+  ],
+  "maddox-charge-1745": [
+   "bim_eighteenth-century_the-charge-of-isaac-lor_maddox-isaac_1745",
+   "The charge of Isaac, Lord Bishop of Worcester; to the clergy of his diocese, at his primary-visitation, ... July, 1745. With a preface ...  1745 (catalogued 1745)"
+  ],
+  "maddox-worcester-1746": [
+   "bim_eighteenth-century_a-sermon-preached-at-the_maddox-isaac_1746",
+   "A sermon preached at the cathedral church of Worcester, on Thursday the 9th of October, 1746; ... By ... Isaac, Lord Bishop of Worcester. ...  1746 (catalogued 1746)"
+  ],
+  "maddox-perseverance": [
+   "bim_eighteenth-century_the-necessity-of-perseve_maddox-isaac_1748",
+   "The necessity of perseverance in well-doing; a sermon preached before the governors of the Worcester Infirmary, on the 18th of October, 1748, being the festival of St. Luke. By the Right Reverend Isaac, Lord Bishop of Worcester. ...  1748 (catalogued 1748)"
+  ],
+  "maddox-preventive-wisdom": [
+   "bim_eighteenth-century_the-expediency-of-preven_maddox-isaac_1750",
+   "The expediency of preventive wisdom. A sermon preached before the Right Honourable the Lord-Mayor, the aldermen, and governors of several hospitals of the city of London. At St Bridget's church, on Easter-Monday, 1750. ... By the Right Reverend Issac, Lord Bishop of Worcester.  1750 (catalogued 1750)"
+  ],
+  "maddox-smallpox-1752": [
+   "b30503851",
+   "A sermon preached before ... John Duke of Marlborough, President, the Vice-Presidents and Governors of the Hospital for the Small-Pox, and for Inoculation ... March 5, 1752 (London : H. Woodfall, 1752)"
+  ],
+  "maddox-destitute-infants": [
+   "bim_eighteenth-century_the-wisdom-and-duty-of-p_maddox-isaac_1753",
+   "The wisdom and duty of preserving destitute infants. A sermon preached at the chapel of the Hospital for Exposed and Deserted Young Children. On Monday, April 16, 1753. By Isaac, Lord Bishop of Worcester. ... .  1753 (catalogued 1753)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "maddox-political": "The Case of Dr Rundle's Promotion is a church-political pamphlet",
+  "maddox-epistle": "the 1751 Epistle to the Lord Mayor on spirituous liquors is a civic appeal",
+  "maddox-dups": "the ECCO copies of the 1752 hospital sermon"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "maddox-spg-1734": "title page (OCR): '[Isaac M]addox, D.D. Dean of Wells, and Clerk of the Closet to the Queen', 1734",
+  "maddox-love-of-country": "title page (image): 'By the Right Reverend Father in God, Isaac, Lord Bishop of St. Asaph', London 1737 (Maddox was Bishop of St Asaph 1736-1743)",
+  "maddox-lords-1739": {
+   "author": "title page (image): 'By Isaac, Lord Bishop of St. Asaph', London 1739 (Maddox was Bishop of St Asaph 1736-1743)",
+   "title": "title page (image): 'A Sermon Preach'd before the House of Lords in the Abbey-Church of Westminster, on Monday, June 11. 1739'"
+  },
+  "maddox-scotland-society-1740": "title page (OCR): 'By the Right Reverend Isaac Lord [Bishop] of St. Asaph', March 1739/40 (Maddox was Bishop of St Asaph 1736-1743)",
+  "maddox-sons-of-clergy": {
+   "author": "title page (image): 'By the Right Reverend Father in God, Isaac, Lord Bishop of St. Asaph', 1742 (Maddox was Bishop of St Asaph 1736-1743)",
+   "title": "title page (image): 'A Sermon Preached at the Anniversary Meeting of the Sons of the Clergy, in the Cathedral Church of St. Paul, May 6, 1742'"
+  },
+  "maddox-infirmaries": "title page (OCR): 'By the Right Reverend Father in God, Isaac, Lord Bishop of St. Asaph', 25 March 1743 (Maddox was Bishop of St Asaph 1736-1743)",
+  "maddox-charge-1745": {
+   "author": "title page (image): 'The Charge of Isaac, Lord Bishop of Worcester, to the Clergy of his Diocese', second edition, 1745 (Maddox was Bishop of Worcester 1743-1759)",
+   "title": "title page (image): 'The Charge of Isaac, Lord Bishop of Worcester, to the Clergy of his Diocese, at his Primary Visitation'"
+  },
+  "maddox-worcester-1746": "title page (image): 'By the Right Reverend Isaac, Lord Bishop of Worcester', second edition, 1746 (Maddox was Bishop of Worcester 1743-1759)",
+  "maddox-perseverance": {
+   "author": "title page (OCR): 'By the Right Reverend Isaac, Lord Bishop of Worcester', Worcester Infirmary, 18 October 1748 (Maddox was Bishop of Worcester 1743-1759)",
+   "title": "The Necessity of Perseverance in Well-Doing, a sermon before the governors of the Worcester Infirmary (title from the catalogue; the OCR of the title lines is unreadable)"
+  },
+  "maddox-preventive-wisdom": {
+   "author": "title page (image): 'By the Right Reverend Isaac, Lord Bishop of Worcester', Easter Monday 1750 (Maddox was Bishop of Worcester 1743-1759)",
+   "title": "title page (image): 'The Expediency of preventive Wisdom. A Sermon preached before the Right Honourable the Lord-Mayor ... at St. Bridget's Church'"
+  },
+  "maddox-smallpox-1752": "title page (OCR): 'By Isaac Lord Bishop of Worcester', St Andrew Holborn, 5 March 1752; the dedication is signed 'Isaac Worcester' (Maddox was Bishop of Worcester 1743-1759)",
+  "maddox-destitute-infants": {
+   "author": "title page (OCR): 'By Isaac, Lord Bishop of Worcester', 1753 (Maddox was Bishop of Worcester 1743-1759)",
+   "title": "The Wisdom and Duty of Preserving Destitute Infants, a sermon for the Foundling Hospital (title from the catalogue; the OCR of the title lines is unreadable)"
+  }
+ },
+ "_pending": {
+  "maddox-vindication": "A vindication of the government, doctrine, and worship, of the Church of England, ... against the injurious reflections of Mr. Neal, in his late History of the Puritans. Together with a detection of many false quotations and mistakes in that performance.  1733 (catalogued 1733) (IA bim_eighteenth-century_a-vindication-of-the-gov_maddox-isaac_1733): published without his name, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "maddox-spg-1734": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1734",
+   "ia_date": "1734",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-love-of-country": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1737",
+   "ia_date": "1737",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-lords-1739": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1739",
+   "ia_date": "1739",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-scotland-society-1740": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-sons-of-clergy": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-infirmaries": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-charge-1745": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-worcester-1746": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1746",
+   "ia_date": "1746",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-perseverance": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1748",
+   "ia_date": "1748",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-preventive-wisdom": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1750",
+   "ia_date": "1750",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-smallpox-1752": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1752",
+   "ia_date": "1752",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maddox-destitute-infants": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

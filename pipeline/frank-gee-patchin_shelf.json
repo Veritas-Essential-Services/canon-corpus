@@ -1,0 +1,224 @@
+{
+ "_about": "Frank Gee Patchin's series for boys and girls (the Pony Rider Boys, the Circus Boys, the Range and Grange Hustlers): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Frank Gee Patchin",
+ "_name_words": [
+  "patchin"
+ ],
+ "_surname": [
+  "frank gee patchin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fgpatchin-pony-rider-boys-in-new-mexico": [
+   4991,
+   "The Pony Rider Boys in New Mexico; Or, The End of the Silver Trail"
+  ],
+  "fgpatchin-pony-rider-boys-in-the-rockies": [
+   6067,
+   "The Pony Rider Boys in the Rockies; Or, The Secret of the Lost Claim"
+  ],
+  "fgpatchin-pony-rider-boys-in-montana": [
+   6068,
+   "The Pony Rider Boys in Montana; Or, The Mystery of the Old Custer Trail"
+  ],
+  "fgpatchin-pony-rider-boys-in-the-ozarks": [
+   6069,
+   "The Pony Rider Boys in the Ozarks; Or, The Secret of Ruby Mountain"
+  ],
+  "fgpatchin-pony-rider-boys-with-the-texas-rangers": [
+   12980,
+   "The Pony Rider Boys with the Texas Rangers; Or, On the Trail of the Border Bandits"
+  ],
+  "fgpatchin-pony-rider-boys-in-the-grand-canyon": [
+   12997,
+   "The Pony Rider Boys in the Grand Canyon; Or, The Mystery of Bright Angel Gulch"
+  ],
+  "fgpatchin-pony-rider-boys-in-texas": [
+   20087,
+   "The Pony Rider Boys in Texas; Or, The Veiled Riddle of the Plains",
+   {
+    "contents_only": true
+   }
+  ],
+  "fgpatchin-pony-rider-boys-in-alaska": [
+   30588,
+   "The Pony Rider Boys in Alaska; Or, The Gold Diggers of Taku Pass"
+  ],
+  "fgpatchin-battleship-boys-first-step-upward": [
+   32886,
+   "The Battleship Boys' First Step Upward; Or, Winning Their Grades as Petty Officers",
+   {
+    "contents_only": true
+   }
+  ],
+  "fgpatchin-battleship-boys-at-sea": [
+   36322,
+   "The Battleship Boys at Sea; Or, Two Apprentices in Uncle Sam's Navy",
+   {
+    "contents_only": true
+   }
+  ],
+  "fgpatchin-pony-rider-boys-in-the-alkali": [
+   36423,
+   "The Pony Rider Boys in the Alkali; Or, Finding a Key to the Desert Maze",
+   {
+    "contents_only": true
+   }
+  ],
+  "fgpatchin-battleship-boys-in-foreign-service": [
+   42940,
+   "The Battleship Boys in Foreign Service; or, Earning New Ratings in European Seas"
+  ],
+  "fgpatchin-pony-rider-boys-in-new-england": [
+   45117,
+   "The Pony Rider Boys in New England; or, An Exciting Quest in the Maine Wilderness"
+  ],
+  "fgpatchin-pony-rider-boys-in-louisiana": [
+   45507,
+   "The Pony Rider Boys in Louisiana; or, Following the Game Trails in the Canebrake"
+  ],
+  "fgpatchin-pony-rider-boys-on-the-blue-ridge": [
+   46920,
+   "The Pony Rider Boys on the Blue Ridge; or, A Lucky Find in the Carolina Mountains"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "fgpatchin-pony-rider-boys-in-new-mexico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-in-the-rockies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-in-montana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-in-the-ozarks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-with-the-texas-rangers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-in-the-grand-canyon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-in-texas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-in-alaska": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-battleship-boys-first-step-upward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-battleship-boys-at-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-in-the-alkali": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-battleship-boys-in-foreign-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-in-new-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-in-louisiana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fgpatchin-pony-rider-boys-on-the-blue-ridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank gee patchin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: William Aspenwall Bradley (1878-1939): Remy de Gourmont's Decadence and Other Essays on the Culture of Ideas (1921) and The Story of Flamenca (1922). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "william aspenwall bradley",
+  "bradley"
+ ],
+ "_surname": [
+  "william aspenwall bradley",
+  "bradley"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wab-46728": [
+   46728,
+   "Decadence, and Other Essays on the Culture of Ideas"
+  ],
+  "wab-75417": [
+   75417,
+   "The story of Flamenca"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "wa-bradley-bradley-the-story-of-flamenca": {
+   "source": "wab-75417",
+   "of": "William Aspenwall Bradley",
+   "work": "The story of Flamenca",
+   "translated": "1921-1922 (see the Gutenberg header)",
+   "translator": "William Aspenwall Bradley",
+   "scan_edition": "Project Gutenberg 75417 (clean text)"
+  },
+  "wa-bradley-gourmont-decadence-and-other-essays-on-the-cultur": {
+   "source": "wab-46728",
+   "of": "Remy de Gourmont",
+   "work": "Decadence, and Other Essays on the Culture of Ideas",
+   "translated": "1921-1922 (see the Gutenberg header)",
+   "translator": "William Aspenwall Bradley",
+   "scan_edition": "Project Gutenberg 46728 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wab-46728": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william aspenwall bradley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Aspenwall Bradley"
+  },
+  "wab-75417": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william aspenwall bradley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Aspenwall Bradley"
+  }
+ },
+ "_verified": {
+  "wab-46728": {
+   "pg": 46728,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Aspenwall Bradley"
+  },
+  "wab-75417": {
+   "pg": 75417,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Aspenwall Bradley"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

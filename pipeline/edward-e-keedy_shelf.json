@@ -1,0 +1,59 @@
+{
+ "_about": "Public-domain Edward Everett Keedy (1869-1931), Congregational minister, for the Word Hoard: Moral Leadership and the Ministry (1912) and The Exceeding Worth of Joining the Church (1918). He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 117 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "edward everett keedy",
+  "edward e. keedy",
+  "e. e. keedy",
+  "keedy"
+ ],
+ "_surname": [
+  "edward everett keedy",
+  "edward e. keedy",
+  "keedy"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "keedy-moral-leadership": [
+   "moralleadershipm00keed",
+   "Moral leadership and the ministry (Boston, Horace Worth company, 1912)"
+  ],
+  "keedy-joining-church": [
+   "exceedingworthof00keed",
+   "The exceeding worth of joining the church (Boston : Horace Worth, 1918)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "keedy-2009": "naturalnessofchr0000edwa (a 2009 printing)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "keedy-moral-leadership": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward e. keedy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keedy-joining-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward e. keedy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

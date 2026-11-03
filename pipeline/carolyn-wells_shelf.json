@@ -1,0 +1,970 @@
+{
+ "_about": "Carolyn Wells's stories for girls, nonsense verse and detective novels: every English text under her name at Gutenberg (catalogue: Wells 1862-1942). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Carolyn Wells",
+ "_name_words": [
+  "wells"
+ ],
+ "_surname": [
+  "carolyn wells"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cwells-gold-bag": [
+   2883,
+   "The Gold Bag",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-pattys-butterfly-days": [
+   5264,
+   "Patty's Butterfly Days",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-marjories-vacation": [
+   5271,
+   "Marjorie's Vacation",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-raspberry-jam": [
+   5335,
+   "Raspberry Jam"
+  ],
+  "cwells-pattys-suitors": [
+   5631,
+   "Patty's Suitors",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-patty-in-paris": [
+   5731,
+   "Patty in Paris"
+  ],
+  "cwells-two-little-women-on-a-holiday": [
+   5893,
+   "Two Little Women on a Holiday",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-vicky-van": [
+   6159,
+   "Vicky Van"
+  ],
+  "cwells-ptomaine-street": [
+   8386,
+   "Ptomaine Street: The Tale of Warble Petticoat"
+  ],
+  "cwells-patty-fairfield": [
+   8456,
+   "Patty Fairfield",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-marjories-new-friend": [
+   8887,
+   "Marjorie's New Friend",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-patty-at-home": [
+   10268,
+   "Patty at Home"
+  ],
+  "cwells-patty-and-azalea": [
+   14352,
+   "Patty and Azalea",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-marjories-maytime": [
+   15072,
+   "Marjorie's Maytime"
+  ],
+  "cwells-marjorie-at-seacote": [
+   18035,
+   "Marjorie at Seacote",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-patty-blossom": [
+   20945,
+   "Patty Blossom",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-marjories-busy-days": [
+   23531,
+   "Marjorie's Busy Days",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-rub-iy-t-of-bridge": [
+   23792,
+   "The Rubáiyát of Bridge"
+  ],
+  "cwells-jingle-book": [
+   24560,
+   "The Jingle Book"
+  ],
+  "cwells-a-phenomenal-fauna": [
+   24673,
+   "A Phenomenal Fauna"
+  ],
+  "cwells-re-echo-club": [
+   24840,
+   "The Re-echo Club"
+  ],
+  "cwells-pattys-friends": [
+   25847,
+   "Patty's Friends"
+  ],
+  "cwells-pattys-social-season": [
+   25857,
+   "Patty's Social Season",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-pattys-summer-days": [
+   25865,
+   "Patty's Summer Days"
+  ],
+  "cwells-pattys-success": [
+   25869,
+   "Patty's Success",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-children-of-our-town": [
+   26431,
+   "Children of Our Town"
+  ],
+  "cwells-come-back": [
+   30868,
+   "The Come Back"
+  ],
+  "cwells-two-little-women": [
+   30881,
+   "Two Little Women",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-diamond-pin": [
+   35022,
+   "The Diamond Pin",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-in-the-onyx-lobby": [
+   35254,
+   "In the Onyx Lobby"
+  ],
+  "cwells-dorrance-domain": [
+   39081,
+   "The Dorrance Domain"
+  ],
+  "cwells-luminous-face": [
+   42714,
+   "The Luminous Face"
+  ],
+  "cwells-a-chain-of-evidence": [
+   43351,
+   "A Chain of Evidence",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-mark-of-cain": [
+   44841,
+   "The Mark of Cain",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-man-who-fell-through-the-earth": [
+   44872,
+   "The Man Who Fell Through the Earth",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-mystery-girl": [
+   44984,
+   "The Mystery Girl",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-seven-ages-of-childhood": [
+   45270,
+   "The Seven Ages of Childhood"
+  ],
+  "cwells-staying-guest": [
+   45545,
+   "The Staying Guest",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-bettys-happy-year": [
+   45577,
+   "Betty's Happy Year",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-curved-blades": [
+   45622,
+   "The Curved Blades",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-vanishing-of-betty-varian": [
+   45912,
+   "The Vanishing of Betty Varian",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-room-with-the-tassels": [
+   46008,
+   "The Room with the Tassels"
+  ],
+  "cwells-deep-lake-mystery": [
+   46064,
+   "The Deep Lake Mystery",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-eternal-feminine": [
+   47598,
+   "The Eternal Feminine"
+  ],
+  "cwells-at-the-sign-of-the-sphinx-second-series": [
+   49124,
+   "At the Sign of the Sphinx. Second series"
+  ],
+  "cwells-patty-bride": [
+   49173,
+   "Patty—Bride",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-mystery-of-the-sycamore": [
+   50209,
+   "The Mystery of the Sycamore"
+  ],
+  "cwells-rub-iy-t-of-a-motor-car": [
+   51064,
+   "Rubáiyát of a Motor Car"
+  ],
+  "cwells-lovers-baedeker-and-guide-to-arcady": [
+   51189,
+   "The Lover's Baedeker and Guide to Arcady"
+  ],
+  "cwells-pattys-fortune": [
+   51354,
+   "Patty's Fortune"
+  ],
+  "cwells-emily-emmins-papers": [
+   52662,
+   "The Emily Emmins Papers"
+  ],
+  "cwells-pattys-motor-car": [
+   52964,
+   "Patty's Motor Car",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-dick-and-dolly": [
+   53166,
+   "Dick and Dolly",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-clue": [
+   54869,
+   "The Clue",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-marjorie-in-command": [
+   56009,
+   "Marjorie in Command",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-pattys-pleasure-trip": [
+   56552,
+   "Patty's Pleasure Trip",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-patty-in-the-city": [
+   56583,
+   "Patty in the City",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-two-little-women-and-treasure-house": [
+   56632,
+   "Two Little Women and Treasure House",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-eight-girls-and-a-dog": [
+   58423,
+   "Eight Girls and a Dog",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-faulkners-folly": [
+   59126,
+   "Faulkner's Folly",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-a-point-of-testimony": [
+   66601,
+   "A Point of Testimony"
+  ],
+  "cwells-feathers-left-around": [
+   75642,
+   "Feathers left around",
+   {
+    "contents_only": true
+   }
+  ],
+  "cwells-spooky-hollow": [
+   77966,
+   "Spooky Hollow"
+  ],
+  "cwells-matrimonial-bureau": [
+   79028,
+   "The matrimonial bureau (with Harry Persons Taber)"
+  ],
+  "cwells-story-of-betty": [
+   79176,
+   "The story of Betty",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cwells-gold-bag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-pattys-butterfly-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-marjories-vacation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-raspberry-jam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-pattys-suitors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-patty-in-paris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-two-little-women-on-a-holiday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-vicky-van": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-ptomaine-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-patty-fairfield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-marjories-new-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-patty-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-patty-and-azalea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-marjories-maytime": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-marjorie-at-seacote": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-patty-blossom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-marjories-busy-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-rub-iy-t-of-bridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-jingle-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-a-phenomenal-fauna": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-re-echo-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-pattys-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-pattys-social-season": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-pattys-summer-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-pattys-success": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-children-of-our-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-come-back": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-two-little-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-diamond-pin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-in-the-onyx-lobby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-dorrance-domain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-luminous-face": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-a-chain-of-evidence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-mark-of-cain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-man-who-fell-through-the-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-mystery-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-seven-ages-of-childhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-staying-guest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-bettys-happy-year": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-curved-blades": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-vanishing-of-betty-varian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-room-with-the-tassels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-deep-lake-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-eternal-feminine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-at-the-sign-of-the-sphinx-second-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-patty-bride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-mystery-of-the-sycamore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-rub-iy-t-of-a-motor-car": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-lovers-baedeker-and-guide-to-arcady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-pattys-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-emily-emmins-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-pattys-motor-car": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-dick-and-dolly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-clue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-marjorie-in-command": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-pattys-pleasure-trip": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-patty-in-the-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-two-little-women-and-treasure-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-eight-girls-and-a-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-faulkners-folly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-a-point-of-testimony": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-feathers-left-around": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-spooky-hollow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-matrimonial-bureau": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwells-story-of-betty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carolyn wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

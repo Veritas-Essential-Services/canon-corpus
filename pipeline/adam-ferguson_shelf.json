@@ -1,0 +1,31 @@
+{
+ "_about": "Adam Ferguson (1723-1816), from Project Gutenberg: An Essay on the History of Civil Society, 8th edition, transcribed from a University Microfilms facsimile of the original. The etext does not print the year; the 8th edition is the Philadelphia one of 1819 (inferred from the edition number, not read). US public domain. No uids minted.",
+ "_author": "Adam Ferguson",
+ "_name_words": [
+  "adam",
+  "ferguson"
+ ],
+ "_surname": [
+  "ferguson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ferguson-civil-society-8th-ed": [
+   8646,
+   "An Essay on the History of Civil Society, 8th ed. (year not printed in the etext)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ferguson-civil-society-8th-ed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ferguson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

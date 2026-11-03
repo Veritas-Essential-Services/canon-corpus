@@ -1,0 +1,538 @@
+{
+ "_about": "Mrs. Henry Wood's (Ellen Wood) novels (East Lynne and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Mrs. Henry Wood",
+ "_name_words": [
+  "wood"
+ ],
+ "_surname": [
+  "mrs. henry wood"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mhwood-east-lynne": [
+   3322,
+   "East Lynne"
+  ],
+  "mhwood-channings": [
+   9192,
+   "The Channings: A Story"
+  ],
+  "mhwood-verners-pride": [
+   15627,
+   "Verner's Pride",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-elsters-folly": [
+   16798,
+   "Elster's Folly: A Novel"
+  ],
+  "mhwood-mrs-halliburtons-troubles": [
+   34587,
+   "Mrs. Halliburton's Troubles"
+  ],
+  "mhwood-trevlyn-hold": [
+   36106,
+   "Trevlyn Hold: A Novel"
+  ],
+  "mhwood-story-of-charles-strange": [
+   38623,
+   "The Story of Charles Strange: A Novel. Vol. 1 (of 3)"
+  ],
+  "mhwood-story-of-charles-strange-38624": [
+   38624,
+   "The Story of Charles Strange: A Novel. Vol. 2 (of 3)"
+  ],
+  "mhwood-story-of-charles-strange-38625": [
+   38625,
+   "The Story of Charles Strange: A Novel. Vol. 3 (of 3)"
+  ],
+  "mhwood-a-lifes-secret": [
+   38832,
+   "A Life's Secret: A Novel"
+  ],
+  "mhwood-it-may-be-true-vol-2-of-3": [
+   39192,
+   "It May Be True, Vol. 2 (of 3)"
+  ],
+  "mhwood-it-may-be-true-vol-3-of-3": [
+   39193,
+   "It May Be True, Vol. 3 (of 3)"
+  ],
+  "mhwood-mildred-arkell": [
+   39377,
+   "Mildred Arkell: A Novel. Vol. 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-mildred-arkell-39692": [
+   39692,
+   "Mildred Arkell: A Novel. Vol. 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-mildred-arkell-39693": [
+   39693,
+   "Mildred Arkell: A Novel. Vol. 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-it-may-be-true-vol-1-of-3": [
+   40418,
+   "It May Be True, Vol. 1 (of 3)"
+  ],
+  "mhwood-johnny-ludlow-first-series": [
+   40915,
+   "Johnny Ludlow, First Series",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-johnny-ludlow-second-series": [
+   40928,
+   "Johnny Ludlow, Second Series",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-johnny-ludlow-third-series": [
+   40936,
+   "Johnny Ludlow, Third Series"
+  ],
+  "mhwood-johnny-ludlow-fourth-series": [
+   40940,
+   "Johnny Ludlow, Fourth Series",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-johnny-ludlow-fifth-series": [
+   40951,
+   "Johnny Ludlow, Fifth Series",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-johnny-ludlow-sixth-series": [
+   40963,
+   "Johnny Ludlow, Sixth Series",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-shadow-of-ashlydyat": [
+   42200,
+   "The Shadow of Ashlydyat",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-anne-hereford": [
+   57875,
+   "Anne Hereford: A Novel"
+  ],
+  "mhwood-red-court-farm": [
+   58046,
+   "The Red Court Farm: A Novel (Vol. 1 of 2)",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-red-court-farm-58047": [
+   58047,
+   "The Red Court Farm: A Novel (Vol. 2 of 2)",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-roland-yorke-a-sequel-to-the-channings": [
+   58086,
+   "Roland Yorke A Sequel to \"The Channings\""
+  ],
+  "mhwood-oswald-cray": [
+   58188,
+   "Oswald Cray: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-bessy-rane": [
+   58288,
+   "Bessy Rane: A Novel"
+  ],
+  "mhwood-within-the-maze": [
+   58345,
+   "Within the Maze: A Novel, Vol. 1 (of 2)"
+  ],
+  "mhwood-within-the-maze-58346": [
+   58346,
+   "Within the Maze: A Novel, Vol. 2 (of 2)"
+  ],
+  "mhwood-orville-college": [
+   58431,
+   "Orville College: A Story"
+  ],
+  "mhwood-st-martins-eve": [
+   58582,
+   "St. Martin's Eve: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-edina": [
+   58701,
+   "Edina: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-court-netherleigh": [
+   58774,
+   "Court Netherleigh: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "mhwood-master-of-greylands": [
+   59144,
+   "The Master of Greylands: A Novel",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59009": "PG 59009: Gutenberg's index of the author's works, not a book."
+ },
+ "_checks": {
+  "mhwood-east-lynne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-channings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-verners-pride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-elsters-folly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-mrs-halliburtons-troubles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-trevlyn-hold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-story-of-charles-strange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-story-of-charles-strange-38624": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-story-of-charles-strange-38625": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-a-lifes-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-it-may-be-true-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-it-may-be-true-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-mildred-arkell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-mildred-arkell-39692": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-mildred-arkell-39693": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-it-may-be-true-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-johnny-ludlow-first-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-johnny-ludlow-second-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-johnny-ludlow-third-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-johnny-ludlow-fourth-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-johnny-ludlow-fifth-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-johnny-ludlow-sixth-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-shadow-of-ashlydyat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-anne-hereford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-red-court-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-red-court-farm-58047": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-roland-yorke-a-sequel-to-the-channings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-oswald-cray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-bessy-rane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-within-the-maze": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-within-the-maze-58346": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-orville-college": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-st-martins-eve": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-edina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-court-netherleigh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwood-master-of-greylands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

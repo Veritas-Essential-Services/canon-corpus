@@ -1,0 +1,66 @@
+{
+ "_about": "Public-domain Bernardine of Siena (1380-1444), the Franciscan preacher, for the Word Hoard: his Sermons selected by Nazareno Orlandi and translated by Helen Josephine Robins (Siena, 1920) and the Examples of San Bernardino rendered by Ada Harrison (1926), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bernardine",
+  "bernardino"
+ ],
+ "_surname": [
+  "bernardine",
+  "bernardino",
+  "s. bernardine",
+  "san bernardino"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bernardine-sermons-robins-1920": [
+   "saintbernardineo0000naza",
+   "Saint Bernardine of Siena: Sermons, selected and edited by Nazareno Orlandi, tr. Helen Josephine Robins (Siena: Tipografia Sociale, 1920)"
+  ],
+  "bernardine-examples-harrison-1926": [
+   "examplesofsanber0000adae",
+   "Examples of San Bernardino, rendered into English by Ada Harrison (London: Gerald Howe, 1926)"
+  ]
+ },
+ "_alternates": {
+  "bernardine-copies": "bwb_C0-ANN-935 (another copy of the 1920 Robins)"
+ },
+ "_excluded": {
+  "bernardine-other": "Lives by Thureau-Dangin, Howell, Allies and others"
+ },
+ "_rights_checked": {
+  "bernardine-examples-harrison-1926": "title page read: the title page names only the illustrator Robert Austin; the colophon says the book was rendered into English by Ada Harrison; printed 1926, so US public domain; UK status depends on the translator's death year, not checked"
+ },
+ "_pending": {},
+ "_translators": {
+  "bernardine-sermons-robins-1920": "robins"
+ },
+ "_checks": {
+  "bernardine-sermons-robins-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bernardine",
+   "translator_claimed": "robins",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bernardine-examples-harrison-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bernardino",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: the title page names only the illustrator Robert Austin; the colophon says the book was rendered into English by Ada Harrison; printed 1926, so US public domain; UK status depends on the translator's death year, not checked"
+  }
+ }
+}

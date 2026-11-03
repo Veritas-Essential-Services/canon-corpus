@@ -1,0 +1,187 @@
+{
+ "_about": "Harriet Martineau (1802-1876) as political economist and social observer: Illustrations of Political Economy, 9 vols. (London: Charles Fox, 1834), and Illustrations of Taxation (London: Charles Fox, 1834), the tales that taught Ricardo and Malthus to the public; Society in America, 2 vols. (New York: Saunders and Otley, 1837); How to Observe: Morals and Manners (London: Charles Knight, printed by Samuel Bentley, 1838), an early method of sociology. Clean Gutenberg texts. Her translation of Comte stands on the comte shelf; her novels and children's tales are left to the storytellers. Not James Martineau, her brother, whose shelf is separate. US public domain. No uids minted.",
+ "_author": "Harriet Martineau",
+ "_name_words": [
+  "harriet",
+  "martineau"
+ ],
+ "_surname": [
+  "martineau"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "martineau-illustrations-political-economy-v1": [
+   70716,
+   "Illustrations of Political Economy, vol. 1 (London: Charles Fox, 1834)"
+  ],
+  "martineau-illustrations-political-economy-v2": [
+   70737,
+   "Illustrations of Political Economy, vol. 2 (London: Charles Fox, 1834)"
+  ],
+  "martineau-illustrations-political-economy-v3": [
+   71169,
+   "Illustrations of Political Economy, vol. 3 (London: Charles Fox, 1834)"
+  ],
+  "martineau-illustrations-political-economy-v4": [
+   71544,
+   "Illustrations of Political Economy, vol. 4 (London: Charles Fox, 1834)"
+  ],
+  "martineau-illustrations-political-economy-v5": [
+   72008,
+   "Illustrations of Political Economy, vol. 5 (London: Charles Fox, 1834)"
+  ],
+  "martineau-illustrations-political-economy-v6": [
+   72923,
+   "Illustrations of Political Economy, vol. 6 (London: Charles Fox, 1834)"
+  ],
+  "martineau-illustrations-political-economy-v7": [
+   73664,
+   "Illustrations of Political Economy, vol. 7 (London: Charles Fox, 1834)"
+  ],
+  "martineau-illustrations-political-economy-v8": [
+   74238,
+   "Illustrations of Political Economy, vol. 8 (London: Charles Fox, 1834)"
+  ],
+  "martineau-illustrations-political-economy-v9": [
+   76102,
+   "Illustrations of Political Economy, vol. 9 (London: Charles Fox, 1834)"
+  ],
+  "martineau-illustrations-of-taxation-1834": [
+   77059,
+   "Illustrations of Taxation (London: Charles Fox, 1834)"
+  ],
+  "martineau-society-in-america-v1-1837": [
+   52621,
+   "Society in America, vol. I (New York: Saunders and Otley, 1837)"
+  ],
+  "martineau-society-in-america-v2-1837": [
+   52685,
+   "Society in America, vol. II (New York: Saunders and Otley, 1837)"
+  ],
+  "martineau-how-to-observe-1838": [
+   33944,
+   "How to Observe: Morals and Manners (London, 1838)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "martineau-illustrations-political-economy-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-illustrations-political-economy-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-illustrations-political-economy-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-illustrations-political-economy-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-illustrations-political-economy-v5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-illustrations-political-economy-v6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-illustrations-political-economy-v7": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-illustrations-political-economy-v8": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-illustrations-political-economy-v9": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-illustrations-of-taxation-1834": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-society-in-america-v1-1837": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-society-in-america-v2-1837": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martineau-how-to-observe-1838": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

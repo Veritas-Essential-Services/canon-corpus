@@ -1,0 +1,60 @@
+{
+ "_about": "Henry Home, Lord Kames (1696-1782), Elements of Criticism, from Project Gutenberg in three volumes. Volume III's title page reads Edinburgh: Millar; Kincaid and Bell, 1762 (the first edition); volumes I and II carry the same imprint without a year, so their date is inferred from it. US public domain. No uids minted.",
+ "_author": "Henry Home, Lord Kames",
+ "_name_words": [
+  "henry",
+  "home",
+  "lord",
+  "kames"
+ ],
+ "_surname": [
+  "kames",
+  "henry home"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kames-elements-of-criticism-1": [
+   57678,
+   "Elements of Criticism, volume I (Edinburgh, 1762)"
+  ],
+  "kames-elements-of-criticism-2": [
+   57679,
+   "Elements of Criticism, volume II (Edinburgh, 1762)"
+  ],
+  "kames-elements-of-criticism-3": [
+   57680,
+   "Elements of Criticism, volume III (Edinburgh, 1762)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "kames-elements-of-criticism-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kames",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kames-elements-of-criticism-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kames",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kames-elements-of-criticism-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kames",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "_about": "Public-domain Richard Rolle of Hampole (c.1300-1349, hermit) for the Word Hoard: The Form of Perfect Living rendered by Geraldine Hodgson (1910) from Project Gutenberg, and from Internet Archive scans Misyn's Middle English Fire of Love and Mending of Life (EETS, ed. Ralph Harvey, 1896), Frances Comper's modern version of it (1914), his English Prose Treatises (EETS, ed. G. G. Perry, 1866), his English Psalter (ed. H. R. Bramley, 1884), and two versions of The Mending of Life (Harford, about 1913; Hubbard, about 1922). Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators and editors recorded per item; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rolle"
+ ],
+ "_surname": [
+  "richard rolle",
+  "rolle of hampole",
+  "richard rolle de hampole",
+  "rolle de hampole",
+  "hampole"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "rolle-form-perfect-living": [
+   "25856",
+   "The Form of Perfect Living and Other Prose Treatises, rendered into modern English by Geraldine E. Hodgson (London: Thomas Baker, 1910)"
+  ]
+ },
+ "internet_archive": {
+  "rolle-fire-of-love-eets": [
+   "fireoflovemendin00roll",
+   "The Fire of Love, and The Mending of Life, Englished by Richard Misyn, ed. Ralph Harvey, EETS 106 (London: Kegan Paul, 1896)"
+  ],
+  "rolle-fire-of-love-comper": [
+   "fireofloveormelo0000roll",
+   "The Fire of Love or Melody of Love and the Mending of Life, Misyn's version done into modern English by Frances M. M. Comper (London: Methuen, first published 1914)"
+  ],
+  "rolle-english-prose-treatises": [
+   "englishprosetre00churgoog",
+   "English Prose Treatises of Richard Rolle de Hampole, ed. George G. Perry, EETS (London: Trubner, MDCCCLXVI)"
+  ],
+  "rolle-psalter": [
+   "psalterofpsalmso00rolluoft",
+   "The Psalter or Psalms of David, with a Translation and Exposition in English by Richard Rolle, ed. H. R. Bramley (Oxford: Clarendon Press, 1884)"
+  ],
+  "rolle-mending-of-life-harford": [
+   "in.ernet.dli.2015.24847",
+   "The Mending of Life, an anonymous fifteenth-century version, modernised by Dundas Harford (London: H. R. Allenson; catalogued 1913)",
+   "2015.24847.The-Mending-Of-Life_djvu.txt"
+  ],
+  "rolle-amending-of-life-hubbard": [
+   "bwb_S0-BSM-415",
+   "The Amending of Life, tr. H. L. Hubbard (London: John M. Watkins; catalogued 1922)"
+  ]
+ },
+ "_alternates": {
+  "rolle-yorkshire-writers": "Horstman's Yorkshire Writers, 2 vols (1895-1896): Rolle and his followers, partly by other hands",
+  "rolle-copies": "Comper's second edition (1920; thefireofloveand00rolluoft and CCEL rolle/fire), Perry's revised reissue (1921), other EETS and Psalter copies",
+  "rolle-doubtful": "The Pricke of Conscience (ed. Morris, 1863) and Contemplations of the Dread and Love of God (Comper, about 1916): authorship doubted",
+  "rolle-hulme": "Hulme's Worcester Mending of Life (Cleveland, 1916 or 1918)"
+ },
+ "_excluded": {
+  "rolle-latin": "Deanesly's Incendium Amoris (1915) and the Latin Office",
+  "rolle-others": "Benson's anthology; Comper's Life of Rolle (1928, about him)",
+  "rolle-late": "Heseltine's Selected Works (1930)"
+ },
+ "_rights_checked": {
+  "rolle-mending-of-life-harford": "title page read: H. R. Allenson, Racquet Court; year garbled; catalogued 1913",
+  "rolle-amending-of-life-hubbard": "title page read: John M. Watkins; year garbled; catalogued 1922"
+ },
+ "_pending": {},
+ "_translators": {
+  "rolle-form-perfect-living": "hodgson",
+  "rolle-fire-of-love-comper": "comper"
+ },
+ "_checks": {
+  "rolle-form-perfect-living": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "richard rolle",
+   "translator_claimed": "hodgson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Geraldine Emma Hodgson",
+   "translator_match": true
+  },
+  "rolle-fire-of-love-eets": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "richard rolle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rolle-fire-of-love-comper": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "richard rolle",
+   "translator_claimed": "comper",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rolle-english-prose-treatises": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "richard rolle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rolle-psalter": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "richard rolle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rolle-mending-of-life-harford": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "richard rolle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: H. R. Allenson, Racquet Court; year garbled; catalogued 1913"
+  },
+  "rolle-amending-of-life-hubbard": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "richard rolle",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: John M. Watkins; year garbled; catalogued 1922"
+  }
+ }
+}

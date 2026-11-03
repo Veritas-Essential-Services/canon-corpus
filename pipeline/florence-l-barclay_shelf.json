@@ -1,0 +1,124 @@
+{
+ "_about": "Florence L. Barclay's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Florence L. Barclay",
+ "_name_words": [
+  "barclay",
+  "florence"
+ ],
+ "_surname": [
+  "florence l. barclay",
+  "florence barclay"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "flbarclay-rosary": [
+   3659,
+   "The Rosary"
+  ],
+  "flbarclay-white-ladies-of-worcester": [
+   16368,
+   "The White Ladies of Worcester: A Romance of the Twelfth Century"
+  ],
+  "flbarclay-upas-tree": [
+   16454,
+   "The Upas Tree: A Christmas Story for all the Year"
+  ],
+  "flbarclay-mistress-of-shenstone": [
+   26235,
+   "The Mistress of Shenstone"
+  ],
+  "flbarclay-through-the-postern-gate": [
+   33309,
+   "Through the Postern Gate: A Romance in Seven Days"
+  ],
+  "flbarclay-following-of-the-star": [
+   40640,
+   "The Following of the Star: A Romance"
+  ],
+  "flbarclay-wheels-of-time": [
+   56965,
+   "The Wheels of Time"
+  ],
+  "flbarclay-returned-empty": [
+   60307,
+   "Returned Empty"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "flbarclay-rosary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence l. barclay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flbarclay-white-ladies-of-worcester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence l. barclay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flbarclay-upas-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence l. barclay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flbarclay-mistress-of-shenstone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence l. barclay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flbarclay-through-the-postern-gate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence l. barclay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flbarclay-following-of-the-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence l. barclay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flbarclay-wheels-of-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence l. barclay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flbarclay-returned-empty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence l. barclay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

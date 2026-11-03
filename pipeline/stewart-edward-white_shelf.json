@@ -1,0 +1,344 @@
+{
+ "_about": "Stewart Edward White's novels of the woods and the West, and his outdoor books: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Stewart Edward White",
+ "_name_words": [
+  "white"
+ ],
+ "_surname": [
+  "stewart edward white"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sewhite-mountains": [
+   465,
+   "The Mountains",
+   {
+    "contents_only": true
+   }
+  ],
+  "sewhite-riverman": [
+   1099,
+   "The Riverman"
+  ],
+  "sewhite-land-of-footprints": [
+   1378,
+   "The Land of Footprints"
+  ],
+  "sewhite-blazed-trail": [
+   3413,
+   "The Blazed Trail"
+  ],
+  "sewhite-sign-at-six": [
+   8398,
+   "The Sign at Six"
+  ],
+  "sewhite-gray-dawn": [
+   9149,
+   "The Gray Dawn"
+  ],
+  "sewhite-forest": [
+   9376,
+   "The Forest"
+  ],
+  "sewhite-leopard-woman": [
+   9401,
+   "The Leopard Woman"
+  ],
+  "sewhite-mystery": [
+   10008,
+   "The Mystery (with Samuel Hopkins Adams)"
+  ],
+  "sewhite-claim-jumpers": [
+   10942,
+   "The Claim Jumpers: A Romance"
+  ],
+  "sewhite-call-of-the-north": [
+   11426,
+   "The Call of the North",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:[- ][A-Z]?[a-z]+)*\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter One\\.?$",
+    "front": true
+   }
+  ],
+  "sewhite-forty-niners": [
+   12764,
+   "The Forty-Niners: A Chronicle of the California Trail and El Dorado"
+  ],
+  "sewhite-rules-of-the-game": [
+   13194,
+   "The Rules of the Game"
+  ],
+  "sewhite-african-camp-fires": [
+   14451,
+   "African Camp Fires",
+   {
+    "contents_only": true
+   }
+  ],
+  "sewhite-silent-places": [
+   14960,
+   "The silent places"
+  ],
+  "sewhite-killer": [
+   16589,
+   "The Killer",
+   {
+    "contents_only": true
+   }
+  ],
+  "sewhite-conjurors-house": [
+   18149,
+   "Conjuror's House: A Romance of the Free Forest"
+  ],
+  "sewhite-blazed-trail-stories-and-stories-of-the-wild-life": [
+   22233,
+   "Blazed trail stories, and Stories of the wild life",
+   {
+    "contents_only": true
+   }
+  ],
+  "sewhite-adventures-of-bobby-orde": [
+   25506,
+   "The Adventures of Bobby Orde"
+  ],
+  "sewhite-gold": [
+   30826,
+   "Gold"
+  ],
+  "sewhite-camp-and-trail": [
+   32950,
+   "Camp and Trail",
+   {
+    "contents_only": true
+   }
+  ],
+  "sewhite-westerners": [
+   34399,
+   "The Westerners",
+   {
+    "contents_only": true
+   }
+  ],
+  "sewhite-river-boss": [
+   66494,
+   "The River Boss"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "sewhite-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-riverman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-land-of-footprints": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-blazed-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-sign-at-six": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-gray-dawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-leopard-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-claim-jumpers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-call-of-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-forty-niners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-rules-of-the-game": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-african-camp-fires": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-silent-places": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-killer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-conjurors-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-blazed-trail-stories-and-stories-of-the-wild-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-adventures-of-bobby-orde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-camp-and-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-westerners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sewhite-river-boss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stewart edward white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "_about": "Benjamin Whichcote (1609-1683), provost of King's College, Cambridge, and father of the Cambridge Platonists. Raw IA OCR: The Works of the Learned Benjamin Whichcote (Aberdeen: J. Chalmers for Alexander Thomson, MDCCLI), vol. I (clean 0.87), vol. III (clean 0.78; the OCR garbles the year as MDCCI) and vol. IV (clean 0.86; year read MDCCLL). Held: vol. II, whose scan shows no legible year; the 1742 Select Sermons and 1703 Moral and Religious Aphorisms (ECCO OCR below 0.78). Also here: The Cambridge Platonists, being selections from the writings of Benjamin Whichcote, John Smith and Nathanael Culverwel, with introduction by E. T. Campagnac (Oxford: Clarendon Press, 1901), clean 0.93. US public domain. No uids minted.",
+ "_author": "Benjamin Whichcote",
+ "_name_words": [
+  "benjamin",
+  "whichcote",
+  "whichcot"
+ ],
+ "_surname": [
+  "whichcote",
+  "whichcot"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whichcote-works-1751-v1": [
+   "workslearnedben00whicgoog",
+   "The Works of the Learned Benjamin Whichcote, vol. I (Aberdeen, 1751)"
+  ],
+  "whichcote-works-1751-v3": [
+   "bim_eighteenth-century_the-works-of-the-learned_whichcote-benjamin_1751_3",
+   "The Works of the Learned Benjamin Whichcote, vol. III (Aberdeen, 1751)"
+  ],
+  "whichcote-works-1751-v4": [
+   "worksbenjaminwh00unkngoog",
+   "The Works of the Learned Benjamin Whichcote, vol. IV (Aberdeen, 1751)"
+  ],
+  "campagnac-cambridge-platonists-1901": [
+   "cambridgeplatoni00camp",
+   "The Cambridge Platonists: selections, ed. E. T. Campagnac (Clarendon, 1901)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "whichcote-works-1751-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whichcote",
+   "identity": "ok",
+   "ia_rights": "ok: published 1751",
+   "ia_date": "1751",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whichcote-works-1751-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whichcote",
+   "identity": "ok",
+   "ia_rights": "ok: published 1751",
+   "ia_date": "1751",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whichcote-works-1751-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whichcote",
+   "identity": "ok",
+   "ia_rights": "ok: published 1751",
+   "ia_date": "1751",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "campagnac-cambridge-platonists-1901": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whichcote",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

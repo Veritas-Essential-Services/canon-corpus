@@ -1,0 +1,187 @@
+{
+ "_about": "Thomas Jefferson (1743-1826), American political philosopher and third President. Gutenberg: The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 1 of 9 (1853-54); The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 2 of 9 (1853-54); The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 3 of 9 (1853-54); The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 4 of 9 (1853-54); The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 5 of 9 (1853-54); The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 6 of 9 (1853-54); The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 7 of 9 (1853-54); The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 8 of 9 (1853-54); The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 9 of 9 (1853-54); Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 1 (1829); Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 2 (1829); Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 3 (1829); Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 4 (1829). His state papers and the Declaration itself are left to the document shelves. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Thomas Jefferson",
+ "_name_words": [
+  "thomas",
+  "jefferson"
+ ],
+ "_surname": [
+  "jefferson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jefferson-writings-washington-1": [
+   45847,
+   "The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 1 of 9 (1853-54)"
+  ],
+  "jefferson-writings-washington-2": [
+   50046,
+   "The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 2 of 9 (1853-54)"
+  ],
+  "jefferson-writings-washington-3": [
+   52878,
+   "The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 3 of 9 (1853-54)"
+  ],
+  "jefferson-writings-washington-4": [
+   53603,
+   "The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 4 of 9 (1853-54)"
+  ],
+  "jefferson-writings-washington-5": [
+   53767,
+   "The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 5 of 9 (1853-54)"
+  ],
+  "jefferson-writings-washington-6": [
+   55075,
+   "The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 6 of 9 (1853-54)"
+  ],
+  "jefferson-writings-washington-7": [
+   56035,
+   "The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 7 of 9 (1853-54)"
+  ],
+  "jefferson-writings-washington-8": [
+   56313,
+   "The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 8 of 9 (1853-54)"
+  ],
+  "jefferson-writings-washington-9": [
+   56578,
+   "The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 9 of 9 (1853-54)"
+  ],
+  "jefferson-memoir-correspondence-1": [
+   16781,
+   "Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 1 (1829)"
+  ],
+  "jefferson-memoir-correspondence-2": [
+   16782,
+   "Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 2 (1829)"
+  ],
+  "jefferson-memoir-correspondence-3": [
+   16783,
+   "Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 3 (1829)"
+  ],
+  "jefferson-memoir-correspondence-4": [
+   16784,
+   "Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 4 (1829)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jefferson-writings-washington-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-writings-washington-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-writings-washington-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-writings-washington-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-writings-washington-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-writings-washington-6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-writings-washington-7": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-writings-washington-8": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-writings-washington-9": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-memoir-correspondence-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-memoir-correspondence-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-memoir-correspondence-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jefferson-memoir-correspondence-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jefferson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

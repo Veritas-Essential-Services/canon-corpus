@@ -1,0 +1,33 @@
+{
+ "_about": "The third volume of Kristin Lavransdatter in Charles Archer's translation (the first, The Bridal Wreath, is on Lane C's singles-fiction-3). Raw Internet Archive OCR. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "Sigrid Undset",
+ "_name_words": [
+  "sigrid",
+  "undset",
+  "cross"
+ ],
+ "_surname": [
+  "undset"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "undset-the-cross": [
+   "cross0003sigr",
+   "The Cross (Kristin Lavransdatter III), tr. Charles Archer (Knopf, copyright 1927; this printing names the 1928 Nobel Prize on its front matter, so it is a later impression of the 1927 edition)"
+  ]
+ },
+ "_checks": {
+  "undset-the-cross": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "undset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Helena Frank: Yiddish Tales (JPS, 1912), Peretz's Stories and Pictures (1906) and, with Rose Pastor Stokes, Morris Rosenfeld's Songs of Labor (1914). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "helena frank"
+ ],
+ "_surname": [
+  "helena frank"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hfr-33707": [
+   33707,
+   "Yiddish Tales"
+  ],
+  "hfr-37242": [
+   37242,
+   "Stories and Pictures"
+  ],
+  "hfr-6859": [
+   6859,
+   "Songs of Labor, and Other Poems"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "helena-frank-peretz-stories-and-pictures": {
+   "source": "hfr-37242",
+   "of": "Isaac Loeb Peretz",
+   "work": "Stories and Pictures",
+   "translated": "1906-1914 (see the Gutenberg header)",
+   "translator": "Helena Frank",
+   "scan_edition": "Project Gutenberg 37242 (clean text)"
+  },
+  "helena-frank-rosenfeld-songs-of-labor-and-other-poems": {
+   "source": "hfr-6859",
+   "of": "Morris Rosenfeld",
+   "work": "Songs of Labor, and Other Poems",
+   "translated": "1906-1914 (see the Gutenberg header)",
+   "translator": "Helena Frank (with Rose Pastor Stokes)",
+   "scan_edition": "Project Gutenberg 6859 (clean text)"
+  },
+  "helena-frank-yiddish-tales": {
+   "source": "hfr-33707",
+   "of": "various authors (anthology)",
+   "work": "Yiddish Tales",
+   "translated": "1906-1914 (see the Gutenberg header)",
+   "translator": "Helena Frank",
+   "scan_edition": "Project Gutenberg 33707 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hfr-33707": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "helena frank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helena Frank"
+  },
+  "hfr-37242": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "helena frank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helena Frank"
+  },
+  "hfr-6859": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "helena frank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helena Frank; Rose Pastor Stokes"
+  }
+ },
+ "_verified": {
+  "hfr-33707": {
+   "pg": 33707,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Helena Frank"
+  },
+  "hfr-37242": {
+   "pg": 37242,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Helena Frank"
+  },
+  "hfr-6859": {
+   "pg": 6859,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Helena Frank"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

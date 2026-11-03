@@ -1,0 +1,62 @@
+{
+ "_about": "Arthur Hildersham (1563-1632), Puritan lecturer at Ashby-de-la-Zouch: CLII Lectures upon Psalm LI (London, 1635) and CVIII Lectures upon the Fourth of John (second edition, corrected and much enlarged, London, 1632). The prints spell him 'Hildersam'. Early English Books Online scans on the Internet Archive; raw OCR of 17th-century type (long s, ligatures), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "arthur hildersam",
+  "arthur hildersham",
+  "mr. hildersam",
+  "hildersam",
+  "hildersham"
+ ],
+ "_surname": [
+  "arthur hildersam",
+  "arthur hildersham",
+  "mr. hildersam",
+  "hildersam",
+  "hildersham"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hildersham-psalm-51-1635": [
+   "bim_early-english-books-1475-1640_clii-lectures-upon-psalm_hildersam-arthur_1635",
+   "CLII Lectures upon Psalm LI (London, 1635)"
+  ],
+  "hildersham-john-4-1632": [
+   "bim_early-english-books-1475-1640_cviii-lectures-upon-the_hildersam-arthur_1632",
+   "CVIII Lectures upon the Fourth of John, 2nd ed. (London, 1632)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_clii-lectures-upon-psalm_hildersam-arthur_1642, bim_early-english-books-1641-1700_cviii-lectures-upon-the-_hildersam-arthur_1656, bim_early-english-books-1475-1640_lectures-upon-the-fourth_hildersam-arthur_1629": "Other editions of the lectures."
+ },
+ "_pending": {
+  "bim_early-english-books-1475-1640_the-doctrine-of-fasting-_hildersam-arthur_1632, bim_early-english-books-1475-1640_a-treatise-of-the-minist_hildersam-arthur_1595": "Shorter works, not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "hildersham-psalm-51-1635": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hildersam",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1635",
+   "ia_date": "1635",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hildersham-john-4-1632": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hildersam",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1632",
+   "ia_date": "1632",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

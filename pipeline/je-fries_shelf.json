@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: J. E. Fries (1876-1932): Arrhenius's The Destinies of the Stars (1918) and Björklund's Death and Resurrection from the Point of View of the Cell-Theory (1910). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "j. e. fries",
+  "joens elias fries"
+ ],
+ "_surname": [
+  "j. e. fries",
+  "joens elias fries"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jef-58222": [
+   58222,
+   "The Destinies of the Stars"
+  ],
+  "jef-60750": [
+   60750,
+   "Death and resurrection from the point of view of the cell-theory"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "je-fries-arrhenius-the-destinies-of-the-stars": {
+   "source": "jef-58222",
+   "of": "Svante Arrhenius",
+   "work": "The Destinies of the Stars",
+   "translated": "1910-1918 (see the Gutenberg header)",
+   "translator": "J. E. Fries",
+   "scan_edition": "Project Gutenberg 58222 (clean text)"
+  },
+  "je-fries-bjorklund-death-and-resurrection-from-the-point-of": {
+   "source": "jef-60750",
+   "of": "Gustaf Björklund",
+   "work": "Death and resurrection from the point of view of the cell-theory",
+   "translated": "1910-1918 (see the Gutenberg header)",
+   "translator": "J. E. Fries",
+   "scan_edition": "Project Gutenberg 60750 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jef-58222": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. e. fries",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joens Elias Fries"
+  },
+  "jef-60750": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. e. fries",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joens Elias Fries"
+  }
+ },
+ "_verified": {
+  "jef-58222": {
+   "pg": 58222,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joens Elias Fries"
+  },
+  "jef-60750": {
+   "pg": 60750,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joens Elias Fries"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,54 @@
+{
+ "_about": "James Hayden Tufts (1862-1942), Chicago pragmatist and social ethicist. Raw IA OCR: Our Democracy, its origins and its tasks (Henry Holt, 1917); The Ethics of Cooperation, a lecture (Houghton Mifflin, 1918; copyright the Regents of the University of California). His Ethics with Dewey (1908) is on the john-dewey shelf; his translation of Windelband is translator work and is not taken here. US public domain. No uids minted.",
+ "_author": "James Hayden Tufts",
+ "_name_words": [
+  "james",
+  "hayden",
+  "tufts"
+ ],
+ "_surname": [
+  "tufts"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tufts-our-democracy-1917": [
+   "cu31924031446424",
+   "Our Democracy, its origins and its tasks (Holt, 1917)"
+  ],
+  "tufts-ethics-of-cooperation-1918": [
+   "ethicsofcopera00tuftuoft",
+   "The Ethics of Cooperation (Houghton Mifflin, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "tufts-ethics-of-cooperation-1918": {
+   "author": "James Hayden Tufts (title page OCR breaks the name as 'JAMES' / 'BY' / 'UFTS', professor of philosophy in the University of Chicago; Houghton Mifflin, 1918)"
+  }
+ },
+ "_checks": {
+  "tufts-our-democracy-1917": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tufts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tufts-ethics-of-cooperation-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tufts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

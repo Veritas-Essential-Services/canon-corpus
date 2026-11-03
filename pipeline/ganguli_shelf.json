@@ -1,0 +1,138 @@
+{
+ "_about": "TRANSLATOR SHELF: Kisari Mohan Ganguli: the complete prose Mahabharata (Calcutta: Bharata Press, published by Pratap Chandra Roy, 1883-96), in Gutenberg's four-volume edition. Lane D's dutt shelf holds R. C. Dutt's verse condensation and names this as another translator's. US public domain. Added 2026-10-10 by lane C (round 34); Adam may veto. No uids minted.",
+ "_name_words": [
+  "kisari mohan ganguli",
+  "ganguli",
+  "pratap chandra roy"
+ ],
+ "_surname": [
+  "kisari mohan ganguli",
+  "ganguli",
+  "pratap chandra roy"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "gan-15474": [
+   15474,
+   "The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1 Books 1, 2 and 3"
+  ],
+  "gan-15475": [
+   15475,
+   "The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2 Books 4, 5, 6 and 7"
+  ],
+  "gan-15476": [
+   15476,
+   "The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3 Books 8, 9, 10, 11 and 12"
+  ],
+  "gan-15477": [
+   15477,
+   "The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4 Books 13, 14, 15, 16, 17 and 18"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ganguli-vyasa-the-mahabharata-vol-1": {
+   "source": "gan-15474",
+   "of": "Vyasa (attributed)",
+   "work": "The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1 Books 1, 2 and 3",
+   "translated": "1883-1896 (see the Gutenberg header)",
+   "translator": "Kisari Mohan Ganguli",
+   "scan_edition": "Project Gutenberg 15474 (clean text)"
+  },
+  "ganguli-vyasa-the-mahabharata-vol-2": {
+   "source": "gan-15475",
+   "of": "Vyasa (attributed)",
+   "work": "The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2 Books 4, 5, 6 and 7",
+   "translated": "1883-1896 (see the Gutenberg header)",
+   "translator": "Kisari Mohan Ganguli",
+   "scan_edition": "Project Gutenberg 15475 (clean text)"
+  },
+  "ganguli-vyasa-the-mahabharata-vol-3": {
+   "source": "gan-15476",
+   "of": "Vyasa (attributed)",
+   "work": "The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3 Books 8, 9, 10, 11 and 12",
+   "translated": "1883-1896 (see the Gutenberg header)",
+   "translator": "Kisari Mohan Ganguli",
+   "scan_edition": "Project Gutenberg 15476 (clean text)"
+  },
+  "ganguli-vyasa-the-mahabharata-vol-4": {
+   "source": "gan-15477",
+   "of": "Vyasa (attributed)",
+   "work": "The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4 Books 13, 14, 15, 16, 17 and 18",
+   "translated": "1883-1896 (see the Gutenberg header)",
+   "translator": "Kisari Mohan Ganguli",
+   "scan_edition": "Project Gutenberg 15477 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-7864": "A single parva of the same translation; the four volumes on this shelf hold all eighteen books.",
+  "pg-7965": "A single parva of the same translation; the four volumes on this shelf hold all eighteen books.",
+  "pg-11894": "A single parva of the same translation; the four volumes on this shelf hold all eighteen books.",
+  "pg-12058": "A single parva of the same translation; the four volumes on this shelf hold all eighteen books.",
+  "pg-12333": "A single parva of the same translation; the four volumes on this shelf hold all eighteen books."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "gan-15474": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kisari mohan ganguli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kisari Mohan Ganguli"
+  },
+  "gan-15475": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kisari mohan ganguli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kisari Mohan Ganguli"
+  },
+  "gan-15476": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kisari mohan ganguli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kisari Mohan Ganguli"
+  },
+  "gan-15477": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kisari mohan ganguli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kisari Mohan Ganguli"
+  }
+ },
+ "_verified": {
+  "gan-15474": {
+   "pg": 15474,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kisari Mohan Ganguli"
+  },
+  "gan-15475": {
+   "pg": 15475,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kisari Mohan Ganguli"
+  },
+  "gan-15476": {
+   "pg": 15476,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kisari Mohan Ganguli"
+  },
+  "gan-15477": {
+   "pg": 15477,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kisari Mohan Ganguli"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

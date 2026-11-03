@@ -1,0 +1,134 @@
+{
+ "_about": "Public-domain Joseph Samuel Christian Frederick Frey (1771-1850), German-born Jewish convert, missionary of the London Society for promoting Christianity amongst the Jews and later a Baptist minister in America, for the Word Hoard: The Converted Jew (his memoirs), his later Narrative, Essays on Christian Baptism, Joseph and Benjamin (letters on the controversy between Jews and Christians), Judah and Israel, The Scripture Types, and The Messiahship of Jesus. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 112 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "joseph samuel c. f. frey",
+  "joseph s. c. f. frey",
+  "j. s. c. f. frey",
+  "frey"
+ ],
+ "_surname": [
+  "joseph samuel c. f. frey",
+  "j. s. c. f. frey",
+  "frey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "frey-converted-jew": [
+   "convertedjeworme00frey",
+   "The Converted Jew, or, Memoirs of the life of Joseph Samuel C. F. Frey, who was born a Jew but is now a minister of the gospel in London : to which are added An address to Christians ... and a Concise history of the Dispersion (Boston : S. T. Armstrong, 1815)"
+  ],
+  "frey-baptism": [
+   "essaysonchrist00frey",
+   "Essays on Christian baptism (Boston : Published by Lincoln & Edmands, 1829)"
+  ],
+  "frey-narrative": [
+   "narrativeofrevjo00frey",
+   "Narrative of the Rev. Joseph Samuel C. F. Frey (New York : Printed for the Author, 1834)"
+  ],
+  "frey-joseph-benjamin": [
+   "josephandbenjam01freygoog",
+   "Joseph and Benjamin: letters on the controversy between Jews and Christians (catalogued 1837)"
+  ],
+  "frey-judah-israel": [
+   "judahisraelorres00freyiala",
+   "Judah and Israel : or, the restoration and conversion of the Jews and the ten tribes (London : Ward, 1838)"
+  ],
+  "frey-scripture-types": [
+   "scripturetypes0001jose",
+   "The Scripture Types, vol. 1 (catalogued 1841)"
+  ],
+  "frey-messiahship": [
+   "messiahshipofjes00frey_0",
+   "The Messiahship of Jesus : a course of lectures (Philadelphia : American Baptist Publication Society, 1850)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "frey-hebrew": "His Hebrew grammars and dictionaries are language tools; left out"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "frey-converted-jew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph samuel c. f. frey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frey-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. s. c. f. frey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frey-narrative": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph samuel c. f. frey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frey-joseph-benjamin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph samuel c. f. frey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frey-judah-israel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph samuel c. f. frey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frey-scripture-types": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph samuel c. f. frey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frey-messiahship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph samuel c. f. frey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

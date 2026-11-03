@@ -1,0 +1,179 @@
+{
+ "_about": "Clarence E. Mulford's Hopalong Cassidy and Bar-20 Westerns: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Clarence E. Mulford",
+ "_name_words": [
+  "mulford"
+ ],
+ "_surname": [
+  "clarence e. mulford",
+  "clarence edward mulford"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cmulford-hopalong-cassidys-rustler-round-up": [
+   2546,
+   "Hopalong Cassidy's Rustler Round-Up; Or, Bar-20"
+  ],
+  "cmulford-bar-20-days": [
+   4922,
+   "Bar-20 Days"
+  ],
+  "cmulford-bring-me-his-ears": [
+   31699,
+   "\"Bring Me His Ears\""
+  ],
+  "cmulford-orphan": [
+   33039,
+   "The Orphan",
+   {
+    "contents_only": true
+   }
+  ],
+  "cmulford-hopalong-cassidy": [
+   38234,
+   "Hopalong Cassidy"
+  ],
+  "cmulford-coming-of-cassidy-and-the-others": [
+   42441,
+   "The Coming of Cassidy—And the Others",
+   {
+    "contents_only": true
+   }
+  ],
+  "cmulford-buck-peters-ranchman": [
+   42800,
+   "Buck Peters, ranchman (with John Wood Clay)",
+   {
+    "contents_only": true
+   }
+  ],
+  "cmulford-tex": [
+   43100,
+   "\"Tex\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "cmulford-man-from-bar-20": [
+   56154,
+   "The Man from Bar 20: A Story of the Cow Country",
+   {
+    "contents_only": true
+   }
+  ],
+  "cmulford-johnny-nelson-how-a-one-time-pupil-of-hopalong-cass": [
+   56626,
+   "Johnny Nelson How a one-time pupil of Hopalong Cassidy of the famous Bar-20 ranch in the Pecos Valley performed an act of knight-errantry and what came of it"
+  ],
+  "cmulford-bar-20-three": [
+   58155,
+   "The Bar-20 Three",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cmulford-hopalong-cassidys-rustler-round-up": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence edward mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmulford-bar-20-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence e. mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmulford-bring-me-his-ears": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence e. mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmulford-orphan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence e. mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmulford-hopalong-cassidy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence e. mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmulford-coming-of-cassidy-and-the-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence e. mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmulford-buck-peters-ranchman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence e. mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmulford-tex": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence e. mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmulford-man-from-bar-20": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence e. mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmulford-johnny-nelson-how-a-one-time-pupil-of-hopalong-cass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence e. mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmulford-bar-20-three": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarence e. mulford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

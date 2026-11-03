@@ -1,0 +1,88 @@
+{
+ "_about": "Augustin Marlorat (1506-1562), Reformed minister at Rouen, executed after its fall: his catholic and ecclesiastical expositions, gathered from the approved divines, in Elizabethan English: on the Gospel after S. John, translated by Thomas Tymme (London, 1575); on Mark and Luke (London, 1583); and A Catholike Exposition upon the Revelation of Sainct John (London, 1574). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "augustine marlorate",
+  "augustine marlorat",
+  "marlorate",
+  "marlorat",
+  "marloratus"
+ ],
+ "_surname": [
+  "augustine marlorate",
+  "augustine marlorat",
+  "marlorate",
+  "marlorat",
+  "marloratus"
+ ],
+ "_identity_checked": {
+  "marlorat-john-1575": {
+   "author": "The OCR breaks the name across a line ('Auguſtine Mar- lorate'). The title page reads: A Catholike and Ecclesiasticall Exposition of the Holy Gospell after S. John, gathered out of all the singular and approved divines ... by Augustine Marlorate, and translated out of Latin into English by Thomas Tymme, minister (London, 1575); the dedication is signed 'Thomas Timme'."
+  },
+  "marlorat-revelation-1574": {
+   "author": "The OCR glues a stray letter to the name ('eMarlorats', nine times, in the running text and margins), so the word check misses it. The translator's preface sets this exposition beside Bullinger's commentary on the Revelation, already in English, as a further one; Internet Archive and EEBO catalogue it under Marlorat."
+  },
+  "marlorat-mark-luke-1583": {
+   "title": "The scan prints the long s, which the OCR keeps as 'ſ', so words such as 'Chriſtian' and 'Catholike' never match the plain spelling the title check looks for. The dedication names 'Marlorat his collection upon the Evangelist S. Mathewe' and offers this 'Exposition upon the Gospel of S. Marke and Luke' as the volume between Matthew and John."
+  }
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "marlorat-john-1575": [
+   "bim_early-english-books-1475-1640_a-catholike-and-ecclesia_marlorat-augustine_1575",
+   "A Catholike and Ecclesiasticall Exposition of the Holy Gospell after S. John, tr. Thomas Tymme (London, 1575)"
+  ],
+  "marlorat-mark-luke-1583": [
+   "bim_early-english-books-1475-1640_a-catholike-and-ecclesia_marlorat-augustine_1583",
+   "A Catholike and Ecclesiasticall Exposition of the Holy Gospell after S. Marke and Luke (London, 1583)"
+  ],
+  "marlorat-revelation-1574": [
+   "bim_early-english-books-1475-1640_a-catholike-exposition-u_marlorat-augustine_1574",
+   "A Catholike Exposition upon the Revelation of Sainct John (London, 1574)"
+  ]
+ },
+ "_alternates": {},
+ "_pending": {
+  "bim_early-english-books-1475-1640_a-catholike-and-ecclesia_marlorat-augustine_1570 (Matthew, 1570)": "Internet Archive timed out on its text on 2026-10-03.",
+  "bim_early-english-books-1475-1640_a-catholike-and-ecclesia_marlorat-augustine_1578, _1584, a-treatise-of-the-sin-ag_marlorat-augustine_1578": "Not yet title-checked.",
+  "bim_early-english-books-1475-1640_propheticae-et-apostoli_marlorat-augustine_1574": "Latin; not taken."
+ },
+ "_excluded": {},
+ "_checks": {
+  "marlorat-john-1575": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1575",
+   "ia_date": "1575",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "marlorat-mark-luke-1583": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "marlorat",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1583",
+   "ia_date": "1583",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "marlorat-revelation-1574": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1574",
+   "ia_date": "1574",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

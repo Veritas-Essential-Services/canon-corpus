@@ -1,0 +1,129 @@
+{
+ "_about": "Edward Polhill (1622-1694?) of Burwash, Sussex, a lay Calvinist theologian: The Divine Will Considered in its Eternal Decrees and Holy Execution of them (London, 1673); Precious Faith Considered in its Nature, Working and Growth (London, 1675); Speculum Theologiae in Christo (London, 1678); Armatura Dei, or a Preparation for Suffering (London: Thomas Cockerill; catalogued 1682, the OCR of the imprint reads 1692); Christus in Corde, or the Mystical Union between Christ and Believers, third edition, ed. Thomas Cloutt (London: Holdsworth, 1823); and the Essay on the Extent of the Death of Christ, from the Divine Will (Berwick: Thomas Melrose, 1842). The 17th-century books are EEBO scans except the Speculum, which is Princeton's copy. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "edward polhill",
+  "edward polhil",
+  "polhill",
+  "polhil"
+ ],
+ "_surname": [
+  "edward polhill",
+  "edward polhil",
+  "polhill",
+  "polhil"
+ ],
+ "_identity_checked": {
+  "polhill-divine-will-1673": {
+   "author": "The OCR breaks the name: the title page reads 'By Eowand Poraiis of[ Burwash] in Sussex Esquire', 1673; Precious Faith (1675) names him 'Edward Polhill of Burwash in Sussex, Esq.'"
+  },
+  "polhill-speculum-theologiae-1678": {
+   "author": "The OCR breaks the name: the title page reads 'By EDWARD POLE ILL of Bmwafi in Sujfex, Efq', printed for Tho. Cockerill, 1678, Polhill's publisher for Precious Faith and Armatura Dei."
+  }
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "polhill-divine-will-1673": [
+   "bim_early-english-books-1641-1700_the-divine-will-consider_polhill-edward_1673",
+   "The Divine Will Considered in its Eternal Decrees (London, 1673; EEBO scan)"
+  ],
+  "polhill-precious-faith-1675": [
+   "bim_early-english-books-1641-1700_precious-faith_polhill-edward_1675",
+   "Precious Faith Considered in its Nature, Working, and Growth (London, 1675; EEBO scan)"
+  ],
+  "polhill-speculum-theologiae-1678": [
+   "thegi00polh",
+   "Speculum Theologiae in Christo, or a View of some Divine Truths (London, 1678)"
+  ],
+  "polhill-armatura-dei-1682": [
+   "bim_early-english-books-1641-1700_armatura-dei-or-a-prep_polhill-edward_1682",
+   "Armatura Dei, or a Preparation for Suffering in an Evil Day (London; EEBO scan, catalogued 1682)"
+  ],
+  "polhill-christus-in-corde-1823": [
+   "christusincordeo00polh",
+   "Christus in Corde, or the Mystical Union between Christ and Believers, 3rd ed., ed. Thomas Cloutt (London, 1823)"
+  ],
+  "polhill-extent-death-christ-1842": [
+   "essayonextentofd00polh",
+   "Essay on the Extent of the Death of Christ, from the Treatise on the Divine Will (Berwick, 1842)"
+  ]
+ },
+ "_alternates": {
+  "speculumtheolog00polhgoog": "Google scan of the Speculum (1678); OCR worse.",
+  "bim_early-english-books-1641-1700_the-divine-will-consider_polhill-edward_1695, speculum-theologiae-_polhill-edward_1678, christus-in-corde-or-t_polhill-edward_1680, bim_eighteenth-century_christus-in-corde-or-t_polhill-edward_1788": "Other printings and scans."
+ },
+ "_pending": {
+  "bim_early-english-books-1641-1700_a-discourse-of-schism-_polhill-edward_1694, the-samaritan-shewing-_polhill-edward_1682, an-answer-to-the-discour_polhill-edward_1675": "Not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "polhill-divine-will-1673": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1673",
+   "ia_date": "1673",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polhill-precious-faith-1675": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward polhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1675",
+   "ia_date": "1675",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polhill-speculum-theologiae-1678": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1678",
+   "ia_date": "1678",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polhill-armatura-dei-1682": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward polhil",
+   "identity": "ok",
+   "ia_rights": "ok: published 1682",
+   "ia_date": "1682",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polhill-christus-in-corde-1823": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward polhil",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polhill-extent-death-christ-1842": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward polhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

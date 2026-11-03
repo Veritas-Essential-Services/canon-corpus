@@ -1,0 +1,197 @@
+{
+ "_about": "Public-domain Washington Gladden (1836-1918, Columbus Congregationalist, father of the Social Gospel) for the Word Hoard: Working People and their Employers (1876), Applied Christianity (1887), Who Wrote the Bible? (1891), Ruling Ideas of the Present Age (1895), Seven Puzzling Bible Books (1897), The Christian Pastor (1898), How Much Is Left of the Old Doctrines? (1899), Social Salvation (1902), The Church and Modern Life (1908), Recollections (1909) and Present Day Theology (1913), from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gladden"
+ ],
+ "_surname": [
+  "gladden",
+  "washington gladden"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gladden-working-people": [
+   "cu31924013854520",
+   "Working People and their Employers (Boston: Lockwood, Brooks, 1876)"
+  ],
+  "gladden-applied-christianity": [
+   "appliedchristia00gladgoog",
+   "Applied Christianity: Moral Aspects of Social Questions (Boston and New York: Houghton, Mifflin, 1887)"
+  ],
+  "gladden-who-wrote-bible": [
+   "whowrotebibleboo00glad",
+   "Who Wrote the Bible? A Book for the People (Boston and New York: Houghton, Mifflin, 1891)"
+  ],
+  "gladden-ruling-ideas": [
+   "rulingideasofpre01glad",
+   "Ruling Ideas of the Present Age (Boston and New York: Houghton, Mifflin, 1895)"
+  ],
+  "gladden-seven-puzzling-books": [
+   "sevenpuzzlingbib00glad",
+   "Seven Puzzling Bible Books (Boston and New York: Houghton, Mifflin, 1897)"
+  ],
+  "gladden-christian-pastor": [
+   "christianpastorwcp00glad",
+   "The Christian Pastor and the Working Church (New York: Charles Scribner's Sons, 1898)"
+  ],
+  "gladden-old-doctrines": [
+   "howmuchisleftofo00glad",
+   "How Much Is Left of the Old Doctrines? (Boston and New York: Houghton, Mifflin, 1899)"
+  ],
+  "gladden-social-salvation": [
+   "socialsalvation00glad",
+   "Social Salvation (Boston and New York: Houghton, Mifflin, 1902)"
+  ],
+  "gladden-church-modern-life": [
+   "churchmodernlife00glad",
+   "The Church and Modern Life (Boston and New York: Houghton, Mifflin, 1908)"
+  ],
+  "gladden-recollections": [
+   "recollections00glad",
+   "Recollections (Boston and New York: Houghton Mifflin, 1909)"
+  ],
+  "gladden-present-day-theology": [
+   "presentdaytheolo00glad",
+   "Present Day Theology (Columbus, Ohio: McClelland; title page undated, copyright 1913)"
+  ]
+ },
+ "_alternates": {
+  "gladden-pg": "PG 6928 (Who Wrote the Bible?) and PG 12290 (The Church and Modern Life), which state no source imprint",
+  "gladden-copies": "Tools and the Man (1893), Witnesses of the Light (1903), The Lord's Prayer (1892) and other copies"
+ },
+ "_excluded": {
+  "gladden-later": "Later printings of Applied Christianity; multi-author volumes"
+ },
+ "_rights_checked": {
+  "gladden-applied-christianity": "title page read: '1SS7' (1887); no 1886 title page was found",
+  "gladden-christian-pastor": "title page read: name OCR'd 'GLADDP]N'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gladden-working-people": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gladden-applied-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: '1SS7' (1887); no 1886 title page was found"
+  },
+  "gladden-who-wrote-bible": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gladden-ruling-ideas": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gladden-seven-puzzling-books": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gladden-christian-pastor": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: name OCR'd 'GLADDP]N'"
+  },
+  "gladden-old-doctrines": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gladden-social-salvation": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gladden-church-modern-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gladden-recollections": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gladden-present-day-theology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gladden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

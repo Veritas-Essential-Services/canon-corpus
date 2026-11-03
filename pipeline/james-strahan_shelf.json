@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain James Strahan, Presbyterian Old Testament scholar, for the Word Hoard: Hebrew Ideals, The Captivity and the Pastoral Epistles, The Book of Job Interpreted, and his life of Andrew Bruce Davidson. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 131 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james strahan",
+  "j. strahan",
+  "strahan"
+ ],
+ "_surname": [
+  "strahan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "strahan-hebrew-ideals": [
+   "hebrewidealsstud00stra",
+   "Hebrew ideals; a study of Genesis from chap. XI. to L (Edinburgh, T. & T. Clark, 1915)"
+  ],
+  "strahan-captivity-pastoral": [
+   "captivitypastora0000stra",
+   "The captivity and the pastoral epistles (New York : Fleming H. Revell, [191)"
+  ],
+  "strahan-book-of-job": [
+   "bookofjobinterpr00strauoft",
+   "The book of Job interpreted (Edinburgh T. & T. Clark, 1914)"
+  ],
+  "strahan-a-b-davidson": [
+   "andrewbrucedavid0000stra",
+   "Andrew Bruce Davidson (London : Hodder and Stoughton, 1917)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "strahan-law": "the law books are by James Andrew Strahan, a barrister",
+  "strahan-others": "the Maréchale and Mary Crawford Brown biographies: not certain they are by the same James Strahan",
+  "strahan-dups": "the 1902 and 1906 editions of Hebrew Ideals"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "strahan-hebrew-ideals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "strahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strahan-captivity-pastoral": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "strahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "[191-]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strahan-book-of-job": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "strahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strahan-a-b-davidson": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "strahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

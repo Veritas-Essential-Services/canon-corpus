@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain Francis Landey Patton (1843-1932), Princeton theologian and president of Princeton College and Seminary, for the Word Hoard: The Inspiration of the Scriptures (1869), the syllabus of his lectures on theism (1888), A Discourse in Memory of A. A. Hodge (1887), The Letter and the Spirit (1890), Caspar Wistar Hodge: a Memorial Address (1891), A Summary of Christian Doctrine (1898) and Fundamental Christianity (1926), from Internet Archive scans. Published before 1930, so public domain in the US although he died in 1932. Added 2026-10-23 by lane A, round 57 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "patton"
+ ],
+ "_surname": [
+  "francis l. patton",
+  "francis landey patton",
+  "f. l. patton",
+  "president patton",
+  "professor patton",
+  "prof. patton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "patton-inspiration": [
+   "inspirationofscr00pattuoft",
+   "The inspiration of the Scriptures (Philadelphia, Presbyterian Board of Publication, [186)"
+  ],
+  "patton-theism-syllabus": [
+   "syllabusofprofpa00patt",
+   "Syllabus of Prof. Patton's lectures on theism (Princeton, N.J. : Princeton Press, 1888)"
+  ],
+  "patton-a-a-hodge": [
+   "discourseinmemor0000patt",
+   "A discourse in memory of Archibald Alexander Hodge ([Philadelphia, Times printing house], 1887)"
+  ],
+  "patton-letter-spirit": [
+   "letterspirit00patt",
+   "The letter and the spirit ([n.p.], 1890)"
+  ],
+  "patton-c-w-hodge": [
+   "casparwistarhodg00patt",
+   "Caspar Wistar Hodge : a memorial address (New York : Anson D. F. Randolph, 1891)"
+  ],
+  "patton-summary": [
+   "summaryofchristi00patt_0",
+   "A summary of Christian doctrine (Philadelphia : Westminster Press, 1898)"
+  ],
+  "patton-fundamental-christianity": [
+   "fundamentalchris0000fran",
+   "Fundamental Christianity (The Macmillan Company, 1926)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "patton-other": "The Patton vs. Swing trial volume (both sides, edited by others); Spanish translations; ethics syllabi (student notes of the same lectures)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "patton-inspiration": "Title page reads 'THE INSPIRATION OF THE SCRIPTURES. BY THE Rev. FRANCIS L. PATTON, D.D.' (OCR 'L^'), Philadelphia: Presbyterian Board of Publication, 1869."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "patton-inspiration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patton-theism-syllabus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "prof. patton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patton-a-a-hodge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis l. patton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "patton-letter-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis l. patton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "patton-c-w-hodge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis l. patton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "patton-summary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis l. patton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "patton-fundamental-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis l. patton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

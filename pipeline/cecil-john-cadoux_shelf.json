@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Cecil John Cadoux, English Congregational scholar, for the Word Hoard: The Early Christian Attitude to War, The Guidance of Jesus for To-day, The Message about the Cross, and Catholicism and Christianity. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 133 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cecil john cadoux",
+  "cecil j. cadoux",
+  "c. j. cadoux",
+  "cadoux"
+ ],
+ "_surname": [
+  "cadoux"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cadoux-attitude-to-war": [
+   "earlychristianat00cadouoft",
+   "The early Christian attitude to war : a contribution to the history of Christian ethics (London : Headley, 1919)"
+  ],
+  "cadoux-guidance-of-jesus": [
+   "theguidanceofjes00cadouoft",
+   "The guidance of Jesus for to-day : being an account of the teaching of Jesus from the standpoint of modern personal and social need (London : George Allen & Unwin Ltd, 1920)"
+  ],
+  "cadoux-message-cross": [
+   "messageaboutcros0000ceci",
+   "The Message about the Cross (George Allen & Unwin, Ltd., 1924)"
+  ],
+  "cadoux-catholicism": [
+   "catholicismchris0000cado",
+   "Catholicism and Christianity : a vindication of progressive Protestantism (London : Allen & Unwin, 1928)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cadoux-appeal": "An Appeal to the People of the Christian Church (1903) is not certainly his",
+  "cadoux-dups": "microform and other scans of the same books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cadoux-attitude-to-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cadoux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cadoux-guidance-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cadoux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cadoux-message-cross": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cadoux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cadoux-catholicism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cadoux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

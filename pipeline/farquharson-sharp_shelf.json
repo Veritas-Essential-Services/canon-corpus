@@ -1,0 +1,197 @@
+{
+ "_about": "TRANSLATOR SHELF: R. Farquharson Sharp (1864-1945): Ibsen and Bjørnson for Everyman's Library (Dent, 1910-15). His A Doll's House is already on adler_shelf.json and is a cross-reference here. US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted.",
+ "_name_words": [
+  "r. farquharson sharp",
+  "farquharson sharp"
+ ],
+ "_surname": [
+  "r. farquharson sharp",
+  "farquharson sharp"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "rfs-2289": [
+   2289,
+   "Rosmersholm"
+  ],
+  "rfs-2296": [
+   2296,
+   "Pillars of Society"
+  ],
+  "rfs-2446": [
+   2446,
+   "An Enemy of the People"
+  ],
+  "rfs-2467": [
+   2467,
+   "Ghosts: A Domestic Tragedy in Three Acts"
+  ],
+  "rfs-7366": [
+   7366,
+   "Three Comedies"
+  ],
+  "rfs-7844": [
+   7844,
+   "Three Dramas"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "farquharson-sharp-bjornson-three-comedies": {
+   "source": "rfs-7366",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "Three Comedies",
+   "translated": "1910-1915 (Everyman's Library; see the Gutenberg header)",
+   "translator": "R. Farquharson Sharp",
+   "scan_edition": "Project Gutenberg 7366 (clean text)"
+  },
+  "farquharson-sharp-bjornson-three-dramas": {
+   "source": "rfs-7844",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "Three Dramas",
+   "translated": "1910-1915 (Everyman's Library; see the Gutenberg header)",
+   "translator": "R. Farquharson Sharp",
+   "scan_edition": "Project Gutenberg 7844 (clean text)"
+  },
+  "farquharson-sharp-ibsen-a-doll-s-house": {
+   "of": "Henrik Ibsen",
+   "work": "A Doll's House",
+   "translated": "1910 (Everyman's Library)",
+   "translator": "R. Farquharson Sharp",
+   "held_in": {
+    "file": "pipeline/adler_shelf.json",
+    "slug": "ibsen-dollshouse",
+    "gutenberg_id": 2542
+   },
+   "note": "Cross-reference only: Adler's shelf holds this text."
+  },
+  "farquharson-sharp-ibsen-an-enemy-of-the-people": {
+   "source": "rfs-2446",
+   "of": "Henrik Ibsen",
+   "work": "An Enemy of the People",
+   "translated": "1910-1915 (Everyman's Library; see the Gutenberg header)",
+   "translator": "R. Farquharson Sharp",
+   "scan_edition": "Project Gutenberg 2446 (clean text)"
+  },
+  "farquharson-sharp-ibsen-ghosts-a-domestic-tragedy-in-three-acts": {
+   "source": "rfs-2467",
+   "of": "Henrik Ibsen",
+   "work": "Ghosts: A Domestic Tragedy in Three Acts",
+   "translated": "1910-1915 (Everyman's Library; see the Gutenberg header)",
+   "translator": "R. Farquharson Sharp",
+   "scan_edition": "Project Gutenberg 2467 (clean text)"
+  },
+  "farquharson-sharp-ibsen-pillars-of-society": {
+   "source": "rfs-2296",
+   "of": "Henrik Ibsen",
+   "work": "Pillars of Society",
+   "translated": "1910-1915 (Everyman's Library; see the Gutenberg header)",
+   "translator": "R. Farquharson Sharp",
+   "scan_edition": "Project Gutenberg 2296 (clean text)"
+  },
+  "farquharson-sharp-ibsen-rosmersholm": {
+   "source": "rfs-2289",
+   "of": "Henrik Ibsen",
+   "work": "Rosmersholm",
+   "translated": "1910-1915 (Everyman's Library; see the Gutenberg header)",
+   "translator": "R. Farquharson Sharp",
+   "scan_edition": "Project Gutenberg 2289 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-15492": "A 1920s Haldeman-Julius reprint of A Doll's House; the Everyman text is used.",
+  "pg-2542": "A Doll's House (2542) is on adler_shelf.json; a cross-reference title points to it."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rfs-2289": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. farquharson sharp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Farquharson Sharp"
+  },
+  "rfs-2296": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. farquharson sharp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Farquharson Sharp"
+  },
+  "rfs-2446": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. farquharson sharp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Farquharson Sharp"
+  },
+  "rfs-2467": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. farquharson sharp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Farquharson Sharp"
+  },
+  "rfs-7366": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. farquharson sharp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Farquharson Sharp"
+  },
+  "rfs-7844": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. farquharson sharp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Farquharson Sharp"
+  }
+ },
+ "_verified": {
+  "rfs-2289": {
+   "pg": 2289,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Farquharson Sharp"
+  },
+  "rfs-2296": {
+   "pg": 2296,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Farquharson Sharp"
+  },
+  "rfs-2446": {
+   "pg": 2446,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Farquharson Sharp"
+  },
+  "rfs-2467": {
+   "pg": 2467,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Farquharson Sharp"
+  },
+  "rfs-7366": {
+   "pg": 7366,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Farquharson Sharp"
+  },
+  "rfs-7844": {
+   "pg": 7844,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Farquharson Sharp"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

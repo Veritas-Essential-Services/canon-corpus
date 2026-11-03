@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Marjorie Laurie: Pierre Loti's War (1917) and The Sahara (1921). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "marjorie laurie"
+ ],
+ "_surname": [
+  "marjorie laurie"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mla-35211": [
+   35211,
+   "War"
+  ],
+  "mla-59077": [
+   59077,
+   "The Sahara"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "marjorie-laurie-loti-the-sahara": {
+   "source": "mla-59077",
+   "of": "Pierre Loti",
+   "work": "The Sahara",
+   "translated": "1917-1921 (see the Gutenberg header)",
+   "translator": "Marjorie Laurie",
+   "scan_edition": "Project Gutenberg 59077 (clean text)"
+  },
+  "marjorie-laurie-loti-war": {
+   "source": "mla-35211",
+   "of": "Pierre Loti",
+   "work": "War",
+   "translated": "1917-1921 (see the Gutenberg header)",
+   "translator": "Marjorie Laurie",
+   "scan_edition": "Project Gutenberg 35211 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mla-35211": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marjorie laurie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Marjorie Laurie"
+  },
+  "mla-59077": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marjorie laurie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Marjorie Laurie"
+  }
+ },
+ "_verified": {
+  "mla-35211": {
+   "pg": 35211,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Marjorie Laurie"
+  },
+  "mla-59077": {
+   "pg": 59077,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Marjorie Laurie"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

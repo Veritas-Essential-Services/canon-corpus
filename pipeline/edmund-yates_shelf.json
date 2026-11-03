@@ -1,0 +1,347 @@
+{
+ "_about": "Edmund Yates's novels",
+ "_author": "Edmund Yates",
+ "_name_words": [
+  "yates"
+ ],
+ "_surname": [
+  "edmund yates"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eyates-kissing-the-rod": [
+   58517,
+   "Kissing the Rod: A Novel. (Vol. 1 of 3)"
+  ],
+  "eyates-kissing-the-rod-58518": [
+   58518,
+   "Kissing the Rod: A Novel. (Vol. 2 of 3)"
+  ],
+  "eyates-kissing-the-rod-58519": [
+   58519,
+   "Kissing the Rod: A Novel. (Vol. 3 of 3)"
+  ],
+  "eyates-broken-to-harness": [
+   59207,
+   "Broken to Harness: A Story of English Domestic Life"
+  ],
+  "eyates-running-the-gauntlet": [
+   59366,
+   "Running the Gauntlet: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "eyates-rock-ahead": [
+   59911,
+   "The Rock Ahead: A Novel. (Vol. 1)"
+  ],
+  "eyates-rock-ahead-59912": [
+   59912,
+   "The Rock Ahead: A Novel. (Vol. 2)"
+  ],
+  "eyates-black-sheep": [
+   59927,
+   "Black Sheep: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "eyates-forlorn-hope": [
+   60072,
+   "The Forlorn Hope: A Novel (Vol. 1 of 2)"
+  ],
+  "eyates-forlorn-hope-60073": [
+   60073,
+   "The Forlorn Hope: A Novel (Vol. 2 of 2)"
+  ],
+  "eyates-land-at-last": [
+   60329,
+   "Land at Last: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "eyates-dr-wainwrights-patient": [
+   60651,
+   "Dr. Wainwright's Patient: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "eyates-a-righted-wrong": [
+   60964,
+   "A Righted Wrong: A Novel. Volume 1 (of 3)"
+  ],
+  "eyates-a-righted-wrong-60965": [
+   60965,
+   "A Righted Wrong: A Novel. Volume 2 (of 3)"
+  ],
+  "eyates-a-righted-wrong-60966": [
+   60966,
+   "A Righted Wrong: A Novel. Volume 3 (of 3)"
+  ],
+  "eyates-yellow-flag": [
+   61093,
+   "The Yellow Flag: A Novel. Volume 1 (of 3)"
+  ],
+  "eyates-yellow-flag-61137": [
+   61137,
+   "The Yellow Flag: A Novel. Volume 2 (of 3)"
+  ],
+  "eyates-yellow-flag-61180": [
+   61180,
+   "The Yellow Flag: A Novel. Volume 3 (of 3)"
+  ],
+  "eyates-wrecked-in-port": [
+   61447,
+   "Wrecked in Port: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "eyates-two-by-tricks": [
+   61728,
+   "Two, by Tricks: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "eyates-impending-sword": [
+   61949,
+   "The Impending Sword: A Novel (Vol. 1 of 3)"
+  ],
+  "eyates-impending-sword-62159": [
+   62159,
+   "The Impending Sword: A Novel (Vol. 2 of 3)"
+  ],
+  "eyates-impending-sword-62298": [
+   62298,
+   "The Impending Sword: A Novel (Vol. 3 of 3)"
+  ],
+  "eyates-mirth-and-metre": [
+   69177,
+   "Mirth and metre (with Frank E. Smedley)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "eyates-kissing-the-rod": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-kissing-the-rod-58518": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-kissing-the-rod-58519": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-broken-to-harness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-running-the-gauntlet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-rock-ahead": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-rock-ahead-59912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-black-sheep": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-forlorn-hope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-forlorn-hope-60073": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-land-at-last": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-dr-wainwrights-patient": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-a-righted-wrong": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-a-righted-wrong-60965": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-a-righted-wrong-60966": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-yellow-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-yellow-flag-61137": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-yellow-flag-61180": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-wrecked-in-port": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-two-by-tricks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-impending-sword": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-impending-sword-62159": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-impending-sword-62298": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eyates-mirth-and-metre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edmund yates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

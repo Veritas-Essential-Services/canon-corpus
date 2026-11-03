@@ -1,0 +1,30 @@
+{
+ "_about": "Percy Neville Ure (1879-1950), Reading. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Origin of Tyranny, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "ure"
+ ],
+ "_surname": [
+  "p. n. ure",
+  "percy neville ure",
+  "ure, p. n"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ure-origin-of-tyranny": [
+   62364,
+   "The Origin of Tyranny"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "ure-origin-of-tyranny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. n. ure",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

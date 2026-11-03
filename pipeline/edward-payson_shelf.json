@@ -1,0 +1,66 @@
+{
+ "_about": "Public-domain Edward Payson (1783-1827, Congregational minister at Portland, Maine) for the Word Hoard: the Complete Works (Philadelphia: J. L. Gihon, 1851, 3 vols), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "p/payson",
+ "_name_words": [
+  "payson",
+  "edward"
+ ],
+ "_surname": [
+  "edward payson",
+  "payson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "payson-works-1": [
+   "completeworksofe01pays",
+   "The Complete Works of Edward Payson, vol. 1 (Philadelphia: Gihon, 1851)"
+  ],
+  "payson-works-2": [
+   "completeworksofe02pays",
+   "The Complete Works of Edward Payson, vol. 2 (Philadelphia: Gihon, 1851)"
+  ],
+  "payson-works-3": [
+   "completeworksofe03pays",
+   "The Complete Works of Edward Payson, vol. 3 (Philadelphia: Gihon, 1851)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "payson-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward payson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "payson-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward payson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "payson-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward payson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,370 @@
+{
+ "_about": "Bertram Mitford's adventure romances of the Cape and Zululand; many describe Africans in the terms of their time. Not A. B. Mitford of Tales of Old Japan (the mitford shelf). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Bertram Mitford",
+ "_name_words": [
+  "bertram",
+  "mitford"
+ ],
+ "_surname": [
+  "bertram mitford"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bmitford-sign-of-the-spider": [
+   27476,
+   "The Sign of the Spider"
+  ],
+  "bmitford-aletta": [
+   32565,
+   "Aletta: A Tale of the Boer Invasion"
+  ],
+  "bmitford-triumph-of-hilary-blachland": [
+   32566,
+   "The Triumph of Hilary Blachland"
+  ],
+  "bmitford-forging-the-blades": [
+   32567,
+   "Forging the Blades: A Tale of the Zulu Rebellion"
+  ],
+  "bmitford-frontier-mystery": [
+   32568,
+   "A Frontier Mystery"
+  ],
+  "bmitford-luck-of-gerard-ridgeley": [
+   32569,
+   "The Luck of Gerard Ridgeley"
+  ],
+  "bmitford-white-shield": [
+   32893,
+   "The White Shield"
+  ],
+  "bmitford-in-the-whirl-of-the-rising": [
+   32894,
+   "In the Whirl of the Rising"
+  ],
+  "bmitford-veldt-vendetta": [
+   32895,
+   "A Veldt Vendetta"
+  ],
+  "bmitford-tween-snow-and-fire": [
+   32896,
+   "'Tween Snow and Fire: A Tale of the Last Kafir War"
+  ],
+  "bmitford-white-hand-and-the-black": [
+   32911,
+   "The White Hand and the Black: A Story of the Natal Rising"
+  ],
+  "bmitford-secret-of-the-lebombo": [
+   32916,
+   "A Secret of the Lebombo"
+  ],
+  "bmitford-renshaw-fannings-quest": [
+   32919,
+   "Renshaw Fanning's Quest: A Tale of the High Veldt"
+  ],
+  "bmitford-veldt-official": [
+   32922,
+   "A Veldt Official: A Novel of Circumstance"
+  ],
+  "bmitford-kings-assegai": [
+   32925,
+   "The King's Assegai: A Matabili Story"
+  ],
+  "bmitford-john-ames-native-commissioner": [
+   32926,
+   "John Ames, Native Commissioner: A Romance of the Matabele Rising"
+  ],
+  "bmitford-indunas-wife": [
+   32927,
+   "The Induna's Wife"
+  ],
+  "bmitford-havilands-chum": [
+   32928,
+   "Haviland's Chum"
+  ],
+  "bmitford-harley-greenoaks-charge": [
+   32931,
+   "Harley Greenoak's Charge"
+  ],
+  "bmitford-red-derelict": [
+   36588,
+   "The Red Derelict"
+  ],
+  "bmitford-fire-trumpet": [
+   36592,
+   "The Fire Trumpet: A Romance of the Cape Frontier"
+  ],
+  "bmitford-fordhams-feud": [
+   36593,
+   "Fordham's Feud"
+  ],
+  "bmitford-golden-face": [
+   36599,
+   "Golden Face: A Tale of the Wild West"
+  ],
+  "bmitford-sirdars-oath": [
+   36605,
+   "The Sirdar's Oath: A Tale of the North-West Frontier"
+  ],
+  "bmitford-ruby-sword": [
+   36606,
+   "The Ruby Sword: A Romance of Baluchistan"
+  ],
+  "bmitford-dorrien-of-cranston": [
+   36623,
+   "Dorrien of Cranston"
+  ],
+  "bmitford-heath-hover-mystery": [
+   38169,
+   "The Heath Hover Mystery"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bmitford-sign-of-the-spider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-aletta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-triumph-of-hilary-blachland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-forging-the-blades": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-frontier-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-luck-of-gerard-ridgeley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-white-shield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-in-the-whirl-of-the-rising": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-veldt-vendetta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-tween-snow-and-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-white-hand-and-the-black": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-secret-of-the-lebombo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-renshaw-fannings-quest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-veldt-official": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-kings-assegai": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-john-ames-native-commissioner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-indunas-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-havilands-chum": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-harley-greenoaks-charge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-red-derelict": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-fire-trumpet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-fordhams-feud": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-golden-face": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-sirdars-oath": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-ruby-sword": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-dorrien-of-cranston": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmitford-heath-hover-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertram mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

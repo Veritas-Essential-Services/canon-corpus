@@ -1,0 +1,152 @@
+{
+ "_about": "Public-domain Émile Bougaud (1823-1888, Bishop of Laval) in English for the Word Hoard: his Life of St. Monica, tr. Mrs. Edward Hazeland (1888), the Revelations of the Sacred Heart to Blessed Margaret Mary (Benziger, copyright 1890), St. Chantal and the Foundation of the Visitation (2 vols, 1895), the History of St. Vincent de Paul, tr. Joseph Brady (2 vols, 1899), and The Divinity of Christ, tr. C. L. Currie (1901), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bougaud"
+ ],
+ "_surname": [
+  "bougaud",
+  "emile bougaud"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bougaud-st-monica": [
+   "lifeofstmonica00mlab",
+   "Life of St. Monica, tr. Mrs. Edward Hazeland (London: Thomas Baker, 1888)"
+  ],
+  "bougaud-margaret-mary": [
+   "revelationsofthe00bouguoft",
+   "Revelations of the Sacred Heart to Blessed Margaret Mary, and the History of her Life, by a Visitandine of Baltimore (New York: Benziger; copyright 1890)"
+  ],
+  "bougaud-st-chantal-1": [
+   "stchantalfoundat0001mons",
+   "St. Chantal and the Foundation of the Visitation, vol. I, by a Visitandine (New York: Benziger, 1895)"
+  ],
+  "bougaud-st-chantal-2": [
+   "stchantalfoundat0000mons",
+   "St. Chantal and the Foundation of the Visitation, vol. II, by a Visitandine (New York: Benziger, 1895)"
+  ],
+  "bougaud-st-vincent-de-paul-1": [
+   "HistoryOfStVincentDePaulV1",
+   "History of St. Vincent de Paul, vol. I, tr. Joseph Brady (London: Longmans, Green, 1899)"
+  ],
+  "bougaud-st-vincent-de-paul-2": [
+   "HistoryOfStVincentDePaulV2",
+   "History of St. Vincent de Paul, vol. II, tr. Joseph Brady (London: Longmans, Green, 1899)"
+  ],
+  "bougaud-divinity-of-christ": [
+   "divinityofchrist00boug",
+   "The Divinity of Christ: an Argument, tr. C. L. Currie (New York: William H. Young, 1901)"
+  ]
+ },
+ "_alternates": {
+  "bougaud-copies": "Other copies; the 1920 Margaret Mary; the 1926 Divinity reissue; Lady Herbert's Mother of Saint Augustine (1868), whose title page names only her"
+ },
+ "_excluded": {
+  "bougaud-mixed": "Lady Herbert's Three Phases of Christian Love (three lives, one Bougaud's)",
+  "bougaud-late": "A 1983 Monica"
+ },
+ "_rights_checked": {
+  "bougaud-margaret-mary": "title page read: no year; 'Copyright, 1890'; translated by 'a Visitandine of Baltimore', no personal name",
+  "bougaud-st-chantal-1": "title page read: 'translated from the eleventh French edition by a Visitandine', no personal name; 1895"
+ },
+ "_pending": {
+  "bougaud-christianity": "Christianity and the Times in English: only the Divinity of Christ fragment found"
+ },
+ "_translators": {
+  "bougaud-st-monica": "hazeland",
+  "bougaud-st-vincent-de-paul-1": "brady",
+  "bougaud-st-vincent-de-paul-2": "brady",
+  "bougaud-divinity-of-christ": "currie"
+ },
+ "_checks": {
+  "bougaud-st-monica": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bougaud",
+   "translator_claimed": "hazeland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bougaud-margaret-mary": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bougaud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no year; 'Copyright, 1890'; translated by 'a Visitandine of Baltimore', no personal name"
+  },
+  "bougaud-st-chantal-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bougaud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'translated from the eleventh French edition by a Visitandine', no personal name; 1895"
+  },
+  "bougaud-st-chantal-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bougaud",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bougaud-st-vincent-de-paul-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bougaud",
+   "translator_claimed": "brady",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bougaud-st-vincent-de-paul-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bougaud",
+   "translator_claimed": "brady",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bougaud-divinity-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bougaud",
+   "translator_claimed": "currie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

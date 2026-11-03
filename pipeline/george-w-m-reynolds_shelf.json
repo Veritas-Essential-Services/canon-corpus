@@ -1,0 +1,88 @@
+{
+ "_about": "George W. M. Reynolds: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "George W. M. Reynolds",
+ "_name_words": [
+  "george",
+  "macarthur",
+  "reynolds",
+  "william"
+ ],
+ "_surname": [
+  "george w. m. reynolds",
+  "george william macarthur reynolds",
+  "reynolds"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gwmreynolds-wagner-the-wehr-wolf": [
+   27202,
+   "Wagner, the Wehr-Wolf"
+  ],
+  "gwmreynolds-mysteries-of-london-v-1-4": [
+   47312,
+   "The Mysteries of London, v. 1/4"
+  ],
+  "gwmreynolds-mysteries-of-london-v-2-4": [
+   51294,
+   "The Mysteries of London, v. 2/4"
+  ],
+  "gwmreynolds-mysteries-of-london-v-4-4": [
+   51649,
+   "The Mysteries of London, v. 4/4"
+  ],
+  "gwmreynolds-mysteries-of-london-v-3-4": [
+   52056,
+   "The Mysteries of London, v. 3/4"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gwmreynolds-wagner-the-wehr-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. m. reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwmreynolds-mysteries-of-london-v-1-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. m. reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwmreynolds-mysteries-of-london-v-2-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. m. reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwmreynolds-mysteries-of-london-v-4-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. m. reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwmreynolds-mysteries-of-london-v-3-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. m. reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

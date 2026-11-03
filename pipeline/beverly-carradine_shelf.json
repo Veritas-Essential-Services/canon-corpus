@@ -1,0 +1,344 @@
+{
+ "_about": "Public-domain Beverly Carradine (1848-1919), Methodist minister of New Orleans and St Louis and Holiness evangelist, for the Word Hoard: Sanctification, Church Entertainments, A Journey to Palestine, The Second Blessing in Symbol, Pastoral Sketches, The Old Man, The Better Way, The Sanctified Life, Revival Sermons, Heart Talks, Pen Pictures, Soul Help, Golden Sheaves, Remarkable Occurrences, Gideon, Beulah Land, A Church Yard Story, Living Illustrations, A Box of Treasure, Yazoo Stories, and Graphic Scenes. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 113 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "beverly carradine",
+  "b. carradine",
+  "carradine"
+ ],
+ "_surname": [
+  "beverly carradine",
+  "b. carradine",
+  "carradine"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "carradine-sanctification": [
+   "sanctification00carr",
+   "Sanctification (Nashville, Tenn., Publishing house of the M. E. church, South, Barbee & Smith, agents, 1891)"
+  ],
+  "carradine-entertainments": [
+   "churchentertainm00carr",
+   "Church entertainments: twenty objections (catalogued 1891)"
+  ],
+  "carradine-palestine": [
+   "ajourneytopales00carrgoog",
+   "A journey to Palestine (Syracuse, N.Y., A.W. Hall, 1892)"
+  ],
+  "carradine-second-blessing": [
+   "secondblessingin00carr",
+   "The second blessing in symbol (Louisville Pickett Publishing Co., 1896)"
+  ],
+  "carradine-pastoral-sketches": [
+   "pastoralsketches0000carr",
+   "Pastoral sketches (Louisville, Ky. : Kentucky Methodist Pub. Co., 1896)"
+  ],
+  "carradine-old-man": [
+   "oldman00carr",
+   "The old man (Christian Witness Co., 1896)"
+  ],
+  "carradine-better-way": [
+   "betterway00carr",
+   "The better way (Cincinnati, Ohio : M.W. Knapp, 1896)"
+  ],
+  "carradine-sanctified-life": [
+   "sanctifiedlife00carr",
+   "Sanctified life (Cincinnati, Office of the Revivalist, 1897)"
+  ],
+  "carradine-revival-sermons": [
+   "revivalsermons00carr",
+   "Revival sermons (St. Louis, Mo., W.B. Palmore, 1898)"
+  ],
+  "carradine-heart-talks": [
+   "hearttalks00carr",
+   "Heart talks (Cincinnati, M. W. Knapp, 1899)"
+  ],
+  "carradine-pen-pictures": [
+   "penpictures00carr",
+   "Pen pictures (Chicago, Ill. : The Christian witness co., 1900)"
+  ],
+  "carradine-soul-help": [
+   "soulhelp00carr",
+   "Soul help (The Christian Witness Co., 1900)"
+  ],
+  "carradine-golden-sheaves": [
+   "goldensheaves00carr",
+   "Golden sheaves (Joshua Gill, Pub., 1901)"
+  ],
+  "carradine-remarkable": [
+   "remarkableoccurr01carr",
+   "Remarkable occurrences, vol. c.1 (Chicago : Christian Witness Co., 1902)"
+  ],
+  "carradine-gideon": [
+   "gideon00carr",
+   "Gideon (Philadelphia, Pa. : Pepper pub. co., 1902)"
+  ],
+  "carradine-beulah-land": [
+   "beulahland00carr",
+   "Beulah land (Christian Witness co., 1904)"
+  ],
+  "carradine-church-yard": [
+   "churchyardstory00carriala",
+   "A church yard story (Chicago, Ill. : M. A. Donohue, c190)"
+  ],
+  "carradine-living-illustrations": [
+   "livingillustrati00carr",
+   "Living illustrations (Chicago, The Christian Witness Co, 1908)"
+  ],
+  "carradine-box-of-treasure": [
+   "boxoftreasure00carr",
+   "A box of treasure (Chicago and Boston : The Christian witness co., 1910)"
+  ],
+  "carradine-yazoo": [
+   "yazoostories00carriala",
+   "Yazoo stories (Chicago and Boston : The Christian witness co., [c19)"
+  ],
+  "carradine-graphic-scenes": [
+   "graphicscenes00carr",
+   "Graphic scenes (Cincinnati, Ohio, God's revivalist office, 1911)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "carradine-lottery": "lotterylouisiana0000carr (a 1997 reprint)",
+  "carradine-best-of-all": "bestofallcomplet00carr: Best of All is a songbook of hymns by many hands"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "carradine-sanctification": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carradine-entertainments": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carradine-palestine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carradine-second-blessing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carradine-pastoral-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carradine-old-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carradine-better-way": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carradine-sanctified-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carradine-revival-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beverly carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carradine-heart-talks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carradine-pen-pictures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carradine-soul-help": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carradine-golden-sheaves": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carradine-remarkable": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beverly carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carradine-gideon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carradine-beulah-land": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beverly carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carradine-church-yard": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "c1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carradine-living-illustrations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beverly carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carradine-box-of-treasure": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beverly carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carradine-yazoo": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beverly carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "[c1911]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carradine-graphic-scenes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beverly carradine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

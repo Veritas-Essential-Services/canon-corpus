@@ -1,0 +1,119 @@
+{
+  "_about": "Public-domain Robert Lowth (1710-1787), Bishop of London, Hebraist, for the Word Hoard: Isaiah, a New Translation with a preliminary dissertation and notes (London 1795, two volumes), the Lectures on the Sacred Poetry of the Hebrews in English (London 1816, two volumes), the Larger Confutation of Bishop Hare's Hebrew metre (1766) and the Life of William of Wykeham (1759), from Internet Archive scans. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+  "_name_words": [
+    "lowth"
+  ],
+  "_surname": [
+    "robert lowth",
+    "lowth"
+  ],
+  "_held": {},
+  "ccel": {},
+  "gutenberg": {},
+  "internet_archive": {
+    "lowth-isaiah-1": [
+      "isaiahnewtransla01lowt",
+      "Isaiah, a new translation : with a preliminary dissertation, and notes critical, philological, and explanatory, vol. 1 (London : Printed by J. Nichols, for T. Cadell, 1795)"
+    ],
+    "lowth-isaiah-2": [
+      "isaiahnewtransla02lowt",
+      "Isaiah, a new translation : with a preliminary dissertation, and notes critical, philological, and explanatory, vol. 2 (London : Printed by J. Nichols, for T. Cadell, 1795)"
+    ],
+    "lowth-sacred-poetry-1": [
+      "lecturesonsacred01lowt",
+      "Lectures on the sacred poetry of the Hebrews, vol. 1 (London : Ogles, Duncan, and Cochran, 1816)"
+    ],
+    "lowth-sacred-poetry-2": [
+      "lecturesonsacred02lowt",
+      "Lectures on the sacred poetry of the Hebrews, vol. 2 (London : Ogles, Duncan, and Cochran, 1816)"
+    ],
+    "lowth-larger-confutation": [
+      "largerconfutatio00lowt",
+      "A larger confutation of Bishop Hare's system of Hebrew metre, in a letter to the Rev. Dr. Edwards : in answer to his Latin epistle (London : Miller, 1766)"
+    ],
+    "lowth-wykeham": [
+      "lifeofwilliamofw00lowt",
+      "The life of William of Wykeham, Bishop of Winchester : collected from records, registers, manuscripts, and other authentic evidences (London : Printed for A. Miller and R. and J. Dodsley, 1759)"
+    ]
+  },
+  "_alternates": {
+    "lowth-copies": "Isaiah 1815; the 1787 Gregory translation of the Lectures (India copies); De sacra poesi Hebraeorum 1753 (Latin original)"
+  },
+  "_excluded": {
+    "lowth-grammar": "A Short Introduction to English Grammar: not divinity"
+  },
+  "_rights_checked": {},
+  "_identity_checked": {},
+  "_pending": {
+    "lowth-letter-warburton": "A Letter to the Right Reverend Author of the Divine Legation (third edition, London 1766; IA cu31924102766080): its title page reads only 'By a late Professor in the University of Oxford'. It is Lowth's by universal attribution, but the page names nobody, so it waits for Adam"
+  },
+  "_translators": {},
+  "_checks": {
+    "lowth-isaiah-1": {
+      "kind": "ia",
+      "checked": "2026-10-23",
+      "name_check": "surname",
+      "author_seen": "robert lowth",
+      "identity": "ok",
+      "ia_rights": "ok: published 1795",
+      "ia_date": "1795",
+      "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+      "ia_lending": null
+    },
+    "lowth-isaiah-2": {
+      "kind": "ia",
+      "checked": "2026-10-23",
+      "name_check": "surname",
+      "author_seen": "robert lowth",
+      "identity": "ok",
+      "ia_rights": "ok: published 1795",
+      "ia_date": "1795",
+      "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+      "ia_lending": null
+    },
+    "lowth-sacred-poetry-1": {
+      "kind": "ia",
+      "checked": "2026-10-23",
+      "name_check": "surname",
+      "author_seen": "lowth",
+      "identity": "ok",
+      "ia_rights": "ok: published 1816",
+      "ia_date": "1816",
+      "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+      "ia_lending": null
+    },
+    "lowth-sacred-poetry-2": {
+      "kind": "ia",
+      "checked": "2026-10-23",
+      "name_check": "surname",
+      "author_seen": "lowth",
+      "identity": "ok",
+      "ia_rights": "ok: published 1816",
+      "ia_date": "1816",
+      "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+      "ia_lending": null
+    },
+    "lowth-larger-confutation": {
+      "kind": "ia",
+      "checked": "2026-10-23",
+      "name_check": "surname",
+      "author_seen": "robert lowth",
+      "identity": "ok",
+      "ia_rights": "ok: published 1766",
+      "ia_date": "1766",
+      "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+      "ia_lending": null
+    },
+    "lowth-wykeham": {
+      "kind": "ia",
+      "checked": "2026-10-23",
+      "name_check": "surname",
+      "author_seen": "robert lowth",
+      "identity": "ok",
+      "ia_rights": "ok: published 1759",
+      "ia_date": "1759",
+      "ia_possible_copyright_status": null,
+      "ia_lending": null
+    }
+  }
+}

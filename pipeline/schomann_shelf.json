@@ -1,0 +1,40 @@
+{
+ "_about": "Georg Friedrich Schömann (1793-1879): The Antiquities of Greece, vol. I, The State, translated by E. G. Hardy and J. S. Mann (London: Rivingtons, 1880), raw IA OCR. Hardy died 1925; J. S. Mann's death year is not checked, so life-plus-70 status is unconfirmed (US public domain by date). The scan's title page advertises vol. II as 'in preparation'. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "schomann",
+  "schömann"
+ ],
+ "_surname": [
+  "g. f. schomann",
+  "g. f. schömann",
+  "georg friedrich schömann",
+  "schömann, georg friedrich"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "schomann-antiquities-greece-state-1880": [
+   "antiquitiesofgre00schuoft",
+   "The Antiquities of Greece: The State (London: Rivingtons, 1880)",
+   "tr. E. G. Hardy and J. S. Mann"
+  ]
+ },
+ "_translators": {
+  "schomann-antiquities-greece-state-1880": "Hardy"
+ },
+ "_checks": {
+  "schomann-antiquities-greece-state-1880": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. f. schomann",
+   "translator_claimed": "Hardy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

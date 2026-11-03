@@ -1,0 +1,112 @@
+{
+ "_about": "Public-domain Joseph Hussey (1660-1726), Independent minister of Cambridge, for the Word Hoard: The Gospel-Feast Opened (1692), A Warning from the Winds (1704), The Stroke of Divine Soveraignty (1704), The Glory of Christ Unveil'd (1706) and God's Operations of Grace but No Offers of his Grace (1707), from Internet Archive scans of Early English Books and Eighteenth Century Collections. Added 2026-10-23 by lane A, round 50 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hussey"
+ ],
+ "_surname": [
+  "joseph hussey",
+  "jos. hussey",
+  "j. hussey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hussey-gospel-feast": [
+   "bim_early-english-books-1641-1700_the-gospel-feast-opened_hussey-joseph_1692",
+   "The gospel-feast opened: ...  1692 (catalogued 1692)"
+  ],
+  "hussey-warning-from-winds": [
+   "bim_eighteenth-century_a-warning-from-the-winds_hussey-joseph_1704",
+   "A warning from the winds. A sermon preach'd upon Wednesday, January XIX. 1703/4. being the day of publick humiliation, for the late terrible, and awakning storm of wind, ... November xxvi, xxvii. 1703. ... To which is subnected a laborious exercitation upon Eph. 2. 2. ... By Joseph Hussey, ...  1704 (catalogued 1704)"
+  ],
+  "hussey-stroke-of-sovereignty": [
+   "bim_eighteenth-century_the-stroke-of-divine-sov_hussey-joseph_1704",
+   "The stroke of divine soveraignty: or, a sermon on the death of Mrs. Mary Hussey, my late dear wife, who sweetly slept in Jesus, January 29. 1703/4. ... By Joseph Hussey, ...  1704 (catalogued 1704)"
+  ],
+  "hussey-glory-of-christ": [
+   "bim_eighteenth-century_the-glory-of-christ-unve_hussey-joseph_1706",
+   "The glory of Christ unveil'd, or the excellency of Christ vindicated in his person, love, righteousness, &c. being an explication of the mystery which was kept secret since the world began: ... Occasion'd by divers notorious errours in the writings of Mr. John Hunt ... and many other writers, preachers and professours of the Gospel ... By Joseph Hussey, ...  1706 (catalogued 1706)"
+  ],
+  "hussey-operations-of-grace": [
+   "bim_eighteenth-century_gods-operations-of-grac_hussey-joseph_1707",
+   "God's operations of grace: but no offers of his grace. To which are added, two brief treatises. The one about invitation, and the other about exhortation of sinners to come to Christ; ... By Joseph Hussey, ...  1707 (catalogued 1707)"
+  ]
+ },
+ "_alternates": {
+  "hussey-copies": "The 1693 Gospel-Feast and the 1761 reprints of the Glory of Christ"
+ },
+ "_excluded": {
+  "hussey-other": "The 1791 partwork reprint"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hussey-gospel-feast": {
+   "author": "title page read from the page image: 'The Gospel-Feast Opened: or, the Great Supper of the Parable, discovered in several sermons. By Joseph Hussey, Pastor of a Congregation in Cambridge. London: printed by J. Astwood for John Salusbury, 1692' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image (as quoted under author); the OCR prints long s ('Goſpel'), so 'gospel' and 'feast' never match; the sermons read as English prose"
+  },
+  "hussey-warning-from-winds": "title page read from the page image: 'A Warning from the Winds. A Sermon preach'd upon Wednesday, January XIX. 1703/4, being the day of publick humiliation for the late terrible and awakening storm of wind ... Joseph Hussey, Pastor of the Congregational Church at Cambridge ... London: printed for William and Joseph Marshall, 1704' (OCR of the scan is unreadable)",
+  "hussey-stroke-of-sovereignty": "title page read from the page image: 'The Stroke of Divine Soveraignty: or, a Sermon on the death of Mrs. Mary Hussey, my late dear wife ... By Joseph Hussey, Pastor of the Church of Christ at Cambridge ... London, 1704' (OCR of the scan is unreadable)",
+  "hussey-glory-of-christ": "title page read from the page image: 'The Glory of Christ Unveil'd, or the Excellency of Christ vindicated in his person, love, righteousness, &c. ... By Joseph Hussey, a poor despised servant of Jesus Christ, and Pastor of the Congregational Church of Christ at Cambridge. London, 1706' (the scan opens with an owner's flyleaf) (OCR of the scan is unreadable)",
+  "hussey-operations-of-grace": "title page read from the page image: 'God's Operations of Grace: but no Offers of his Grace. To which are added two brief treatises ... By Joseph Hussey, Pastor of the Congregational Church of Christ at Cambridge ... London: printed by D. Bridge, 1707' (OCR of the scan is unreadable)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hussey-gospel-feast": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1692",
+   "ia_date": "1692",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hussey-warning-from-winds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hussey-stroke-of-sovereignty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hussey-glory-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1706",
+   "ia_date": "1706",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hussey-operations-of-grace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1707",
+   "ia_date": "1707",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

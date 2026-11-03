@@ -1,0 +1,91 @@
+{
+ "_about": "Public-domain Thomas Vincent (1634-1678, Puritan minister ejected in 1662, who stayed in London through the plague of 1665) for the Word Hoard: An Explanation of the Assembly's Shorter Catechism (Philadelphia: Presbyterian Board, 1854), Christ's Sudden and Certain Appearance to Judgment (Wheeling, 1823), God's Terrible Voice in the City (Bridgeport, 1811) and The True Christian's Love of the Unseen Christ (1701), raw Internet Archive OCR. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "vincent",
+  "thomas"
+ ],
+ "_surname": [
+  "vincent"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tvincent-shorter-catechism-1854": [
+   "explanationofass00vinc",
+   "An Explanation of the Assembly's Shorter Catechism (Philadelphia: Presbyterian Board of Publication, 1854)"
+  ],
+  "tvincent-sudden-appearance-1823": [
+   "christssuddencer00vinc",
+   "Christ's Sudden and Certain Appearance to Judgment (Wheeling, Va., 1823)"
+  ],
+  "tvincent-terrible-voice-1811": [
+   "101165066.nlm.nih.gov",
+   "God's Terrible Voice in the City (Bridgeport, 1811)",
+   "101165066_djvu.txt"
+  ],
+  "tvincent-unseen-christ-1701": [
+   "bim_eighteenth-century_the-true-christians-love_vincent-thomas_1701",
+   "The True Christian's Love of the Unseen Christ (London, 1701)"
+  ]
+ },
+ "_alternates": {
+  "explanationofas00vinc (Edinburgh, 1837); explicatorycate* (1784-1810)": "Other editions of the Catechism.",
+  "b30341966 (1668)": "The first edition of God's Terrible Voice.",
+  "onlovetochristch00vinc (1840)": "An abridgement of The True Christian's Love, 'chiefly extracted'."
+ },
+ "_excluded": {
+  "goodworkbegunind0000vinc (1998); shortercatechism0000vinc (1980)": "Modern reprints.",
+  "bim_eighteenth-century_an-earnest-invitation-to_bush-william_1730; twentysermonsonf00quin": "Other authors."
+ },
+ "_checks": {
+  "tvincent-shorter-catechism-1854": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tvincent-sudden-appearance-1823": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vincent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tvincent-terrible-voice-1811": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tvincent-unseen-christ-1701": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vincent",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1701",
+   "ia_date": "1701",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "tvincent-terrible-voice-1811": "National Library of Medicine scan. Its title page reads 'God's Terrible Voice in the City ... the two dreadful judgements of Plague and Fire, inflicted upon the City of London in the years 1665 and 1666. By Thomas Vijvceat [OCR for Vincent] ... Bridgeport ... 1811'; the surname is misread by the OCR, not absent."
+ }
+}

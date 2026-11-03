@@ -1,0 +1,377 @@
+{
+ "_about": "Evelyn Raymond's girls' stories (Dorothy series)",
+ "_author": "Evelyn Raymond",
+ "_name_words": [
+  "raymond"
+ ],
+ "_surname": [
+  "evelyn raymond"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eraymond-dorothys-travels": [
+   25630,
+   "Dorothy's Travels",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-dorothy-on-a-ranch": [
+   26389,
+   "Dorothy on a Ranch",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-reels-and-spindles": [
+   27613,
+   "Reels and Spindles: A Story of Mill Life"
+  ],
+  "eraymond-dorothys-triumph": [
+   28221,
+   "Dorothy's Triumph"
+  ],
+  "eraymond-brass-bound-box": [
+   28509,
+   "The Brass Bound Box"
+  ],
+  "eraymond-divided-skates": [
+   28757,
+   "Divided Skates",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-dorothys-house-party": [
+   28805,
+   "Dorothy's House Party",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-jessica-the-heiress": [
+   30074,
+   "Jessica, the Heiress",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-a-sunny-little-lass": [
+   30968,
+   "A Sunny Little Lass",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-a-daughter-of-the-forest": [
+   31655,
+   "A Daughter of the Forest",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-dorothy-at-oak-knowe": [
+   32310,
+   "Dorothy at Oak Knowe",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-dorothys-tour": [
+   32556,
+   "Dorothy's Tour",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-dorothy-on-a-house-boat": [
+   32606,
+   "Dorothy on a House Boat",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-sun-maid": [
+   32843,
+   "The Sun Maid: A Story of Fort Dearborn",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-jessica-trent": [
+   33853,
+   "Jessica Trent: Her Life on a Ranch"
+  ],
+  "eraymond-dorothy": [
+   40300,
+   "Dorothy"
+  ],
+  "eraymond-dorothy-at-skyrie": [
+   41117,
+   "Dorothy at Skyrie",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-jessica-trents-inheritance": [
+   64681,
+   "Jessica Trent's Inheritance",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-a-pair-of-them": [
+   64891,
+   "A Pair of Them",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-mislaid-uncle": [
+   64911,
+   "The Mislaid Uncle",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-mixed-pickles": [
+   65223,
+   "Mixed Pickles"
+  ],
+  "eraymond-among-the-lindens": [
+   65290,
+   "Among the Lindens",
+   {
+    "contents_only": true
+   }
+  ],
+  "eraymond-little-lady-of-the-horse": [
+   67567,
+   "The Little Lady of the Horse"
+  ],
+  "eraymond-carlota-of-the-rancho": [
+   73565,
+   "Carlota of the rancho"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "eraymond-dorothys-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-dorothy-on-a-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-reels-and-spindles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-dorothys-triumph": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-brass-bound-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-divided-skates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-dorothys-house-party": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-jessica-the-heiress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-a-sunny-little-lass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-a-daughter-of-the-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-dorothy-at-oak-knowe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-dorothys-tour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-dorothy-on-a-house-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-sun-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-jessica-trent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-dorothy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-dorothy-at-skyrie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-jessica-trents-inheritance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-a-pair-of-them": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-mislaid-uncle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-mixed-pickles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-among-the-lindens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-little-lady-of-the-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eraymond-carlota-of-the-rancho": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn raymond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

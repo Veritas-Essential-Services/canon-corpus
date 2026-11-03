@@ -1,0 +1,100 @@
+{
+ "_about": "Charles W. Chesnutt: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Charles W. Chesnutt",
+ "_name_words": [
+  "charles",
+  "chesnutt",
+  "waddell"
+ ],
+ "_surname": [
+  "charles w. chesnutt",
+  "charles waddell chesnutt",
+  "chesnutt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cwchesnutt-house-behind-the-cedars": [
+   472,
+   "The House Behind the Cedars"
+  ],
+  "cwchesnutt-frederick-douglass-a-biography": [
+   10986,
+   "Frederick Douglass A Biography"
+  ],
+  "cwchesnutt-wife-of-his-youth-and-other-stories-of-the-color": [
+   11057,
+   "The Wife of his Youth and Other Stories of the Color Line, and Selected Essays"
+  ],
+  "cwchesnutt-marrow-of-tradition": [
+   11228,
+   "The Marrow of Tradition"
+  ],
+  "cwchesnutt-conjure-woman": [
+   11666,
+   "The Conjure Woman"
+  ],
+  "cwchesnutt-colonels-dream": [
+   19746,
+   "The Colonel's Dream"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cwchesnutt-house-behind-the-cedars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles w. chesnutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwchesnutt-frederick-douglass-a-biography": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles w. chesnutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwchesnutt-wife-of-his-youth-and-other-stories-of-the-color": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles w. chesnutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwchesnutt-marrow-of-tradition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles w. chesnutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwchesnutt-conjure-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles w. chesnutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwchesnutt-colonels-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles w. chesnutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

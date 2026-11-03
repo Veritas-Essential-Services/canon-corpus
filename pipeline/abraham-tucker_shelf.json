@@ -1,0 +1,50 @@
+{
+ "_about": "Abraham Tucker (1705-1774), raw IA OCR: The Light of Nature Pursued, with some account of the life of the author by Sir H. P. St. John Mildmay, complete in two volumes (London: Charles Daly, 1840). US public domain. No uids minted.",
+ "_author": "Abraham Tucker",
+ "_name_words": [
+  "abraham",
+  "tucker",
+  "edward",
+  "search"
+ ],
+ "_surname": [
+  "abraham tucker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tucker-light-of-nature-pursued-1840-v1": [
+   "thelightofnature01tuckuoft",
+   "The Light of Nature Pursued, vol. I (London: Charles Daly, 1840)"
+  ],
+  "tucker-light-of-nature-pursued-1840-v2": [
+   "lightofnaturepur02tuckuoft",
+   "The Light of Nature Pursued, vol. II (London: Charles Daly, 1840)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "tucker-light-of-nature-pursued-1840-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "abraham tucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tucker-light-of-nature-pursued-1840-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "abraham tucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

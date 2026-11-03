@@ -1,0 +1,101 @@
+{
+ "_about": "Harald Høffding (1843-1931), raw IA OCR, all translated from the German editions: Outlines of Psychology, tr. Mary E. Lowndes (Macmillan, 1893 reprint of 1891), A History of Modern Philosophy, tr. B. E. Meyer (Macmillan; vol. I in the 1908 reprint, vol. II 1900), and The Philosophy of Religion, tr. B. E. Meyer (Macmillan, 1906). US public domain. No uids minted.",
+ "_author": "Harald Høffding",
+ "_name_words": [
+  "harald",
+  "harold",
+  "h",
+  "hoffding",
+  "høffding",
+  "dr"
+ ],
+ "_surname": [
+  "hoffding",
+  "høffding"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hoffding-lowndes-outlines-of-psychology-1893": [
+   "outlinespsychol00hfgoog",
+   "Outlines of Psychology (London: Macmillan, 1893)",
+   "tr. Mary E. Lowndes"
+  ],
+  "hoffding-meyer-history-of-modern-philosophy-1908-v1": [
+   "historyofmodernp01hoff",
+   "A History of Modern Philosophy, vol. I (London: Macmillan, 1900; reprinted 1908)",
+   "tr. B. E. Meyer"
+  ],
+  "hoffding-meyer-history-of-modern-philosophy-1900-v2": [
+   "historyofmodernp02hfuoft",
+   "A History of Modern Philosophy, vol. II (London: Macmillan, 1900)",
+   "tr. B. E. Meyer"
+  ],
+  "hoffding-meyer-philosophy-of-religion-1906": [
+   "philosophyrelig03meyegoog",
+   "The Philosophy of Religion (London: Macmillan, 1906)",
+   "tr. B. E. Meyer"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "hoffding-lowndes-outlines-of-psychology-1893": "Lowndes",
+  "hoffding-meyer-history-of-modern-philosophy-1908-v1": "Meyer",
+  "hoffding-meyer-history-of-modern-philosophy-1900-v2": "Meyer",
+  "hoffding-meyer-philosophy-of-religion-1906": "Meyer"
+ },
+ "_checks": {
+  "hoffding-lowndes-outlines-of-psychology-1893": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hoffding",
+   "translator_claimed": "Lowndes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hoffding-meyer-history-of-modern-philosophy-1908-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hoffding",
+   "translator_claimed": "Meyer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hoffding-meyer-history-of-modern-philosophy-1900-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hoffding",
+   "translator_claimed": "Meyer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hoffding-meyer-philosophy-of-religion-1906": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hoffding",
+   "translator_claimed": "Meyer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

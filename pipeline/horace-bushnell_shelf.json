@@ -1,0 +1,107 @@
+{
+ "_about": "Public-domain Horace Bushnell (1802-1876, Congregational minister at Hartford, Connecticut) for the Word Hoard: Christian Nurture, The Vicarious Sacrifice, Sermons for the New Life, Christ and His Salvation and The Character of Jesus, clean from CCEL. His moral-influence view of the atonement departs from the Reformed divines on this list; he is here for his influence, and the shelf is Adam's to veto. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "b/bushnell",
+ "_name_words": [
+  "bushnell",
+  "horace"
+ ],
+ "_surname": [
+  "horace bushnell",
+  "h. bushnell",
+  "bushnell"
+ ],
+ "_held": {},
+ "ccel": {
+  "bushnell-nurture": [
+   "nurture",
+   "Christian Nurture",
+   ""
+  ],
+  "bushnell-vicarious": [
+   "vicarious",
+   "The Vicarious Sacrifice",
+   ""
+  ],
+  "bushnell-sermons": [
+   "sermons",
+   "Sermons for the New Life",
+   ""
+  ],
+  "bushnell-christ": [
+   "christ",
+   "Christ and His Salvation",
+   ""
+  ],
+  "bushnell-character": [
+   "character",
+   "The Character of Jesus",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "bushnell-nurture": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace bushnell",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Scribner, Armstrong, &amp; Co. 1876",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bushnell-vicarious": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace bushnell",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Charles Scribner &amp; Co., 1871",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bushnell-sermons": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace bushnell",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Charles Scribner &amp; Co., 1868-1876",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bushnell-christ": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace bushnell",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bushnell-character": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace bushnell",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

@@ -1,0 +1,220 @@
+{
+ "_about": "Public-domain Robert Bellarmine (1542-1621, Jesuit cardinal) in English for the Word Hoard: The Ascent of the Mind to God in the 1616 translation by T. B. (reissued 1928) and in Monialis's (1925), The Art of Dying Well (1621; John Ball, about 1720; John Dalton), the Eternal Happiness of the Saints (Dalton), the Seven Words (1877), Steps of Ascension to God (1705), and De Laicis tr. Kathleen E. Murphy (1928), from Internet Archive scans. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bellarmin"
+ ],
+ "_surname": [
+  "bellarmine",
+  "bellarmin",
+  "robert bellarmine",
+  "cardinal bellarmine",
+  "bellarminus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bellarmine-ladder-1616": [
+   "bim_early-english-books-1475-1640_a-most-learned-and-pious_bellarmino-roberto-car_1616",
+   "A Most Learned and Pious Treatise, framing a Ladder whereby our Mindes may Ascend to God, translated by T. B. Gent. (catalogued 1616)"
+  ],
+  "bellarmine-ascent-1928": [
+   "ascentofmindtogo0000unse",
+   "The Ascent of the Mind to God by a Ladder of Things Created, in the first English translation by T. B. (1616), introduction by James Brodrick (London: Burns Oates and Washbourne, first published 1928)"
+  ],
+  "bellarmine-minds-ascent-monialis": [
+   "mindsascenttogod00bell",
+   "Mind's Ascent to God by a Ladder of Created Things, done into English by Monialis (London: A. R. Mowbray, first impression 1925)"
+  ],
+  "bellarmine-art-dying-well-1621": [
+   "bim_early-english-books-1475-1640_the-art-of-dying-well-_bellarmino-roberto-car_1621",
+   "The Art of Dying Well, translated by C. F. of the same Society (catalogued 1621)"
+  ],
+  "bellarmine-art-dying-well-ball": [
+   "artofdyingwell00bell",
+   "The Art of Dying Well, in two books, tr. John Ball (London; catalogued 1720)"
+  ],
+  "bellarmine-art-dying-well-dalton": [
+   "theartofdyingwel00belluoft",
+   "The Art of Dying Well, tr. John Dalton (London: Richardson and Son; catalogued 1847)"
+  ],
+  "bellarmine-eternal-happiness-dalton": [
+   "theeternalhappin00belluoft",
+   "The Eternal Happiness of the Saints, tr. John Dalton (London: Thomas Richardson and Son, undated)"
+  ],
+  "bellarmine-seven-words-1877": [
+   "sevenwordsspoken00bell",
+   "The Seven Words spoken by Christ on the Cross, translated from the Latin (London: Burns and Oates, 1877)"
+  ],
+  "bellarmine-steps-of-ascension-1705": [
+   "stepsofascension00bell",
+   "Steps of Ascension to God, done into English by a Divine of the Church of England, second edition (London: W. Freeman, MDCCV)"
+  ],
+  "bellarmine-de-laicis-murphy": [
+   "in.ernet.dli.2015.260111",
+   "De Laicis, or the Treatise on Civil Government, tr. Kathleen E. Murphy (New York: Fordham University Press, copyright 1928)",
+   "2015.260111.De-Laicis_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "bellarmine-ouranography": "Ouranography, or Heaven Opened, the substance of his Eternal Felicity of the Saints, by B. Jenks (1710): an abridgement",
+  "bellarmine-psalms": "A Commentary on the Book of Psalms, tr. O'Sullivan (Dublin; catalogued 1866): title page too garbled to read",
+  "bellarmine-early": "The 1638 Eternal Felicity and Seven Words by A. B., eighteenth-century printings, and the catechisms"
+ },
+ "_excluded": {
+  "bellarmine-refutations": "Protestant refutations of him (1687, 1839)",
+  "bellarmine-about": "Brodrick's Life (1928) and other works about him",
+  "bellarmine-late": "Modern translations with wrong IA dates"
+ },
+ "_identity_checked": {
+  "bellarmine-art-dying-well-1621": {
+   "author": "title page read: 'Written by ROBERT [B]ELLARMINE of the Society of Iesus, Cardinall' (OCR 'DBELLARMINE')"
+  },
+  "bellarmine-art-dying-well-ball": {
+   "author": "title page read: 'Written originally in Latin by Cardinal Bellarmin' (OCR 'BeUarmin')"
+  }
+ },
+ "_rights_checked": {
+  "bellarmine-ladder-1616": "title page read: 'Translated into English, By T. B. Gent.'; imprint not legible; catalogued 1616",
+  "bellarmine-art-dying-well-1621": "title page read: 'by C. F. of the same Society'; catalogued 1621",
+  "bellarmine-art-dying-well-ball": "title page read: John Ball, late Lecturer of St. Bartholomew's the Less; year OCR'd '172c'; catalogued 1720",
+  "bellarmine-art-dying-well-dalton": "title page read: Richardson and Son, 172 Fleet Street, no year; catalogued 1847; Dalton died 1874",
+  "bellarmine-eternal-happiness-dalton": "title page read: Thomas Richardson and Son, no year; Dalton's translations date from the 1840s"
+ },
+ "_pending": {
+  "bellarmine-gradual": "Dalton's Gradual whereby to ascend unto God (1844): not found"
+ },
+ "_translators": {
+  "bellarmine-art-dying-well-ball": "ball",
+  "bellarmine-art-dying-well-dalton": "dalton",
+  "bellarmine-eternal-happiness-dalton": "dalton",
+  "bellarmine-de-laicis-murphy": "murphy"
+ },
+ "_checks": {
+  "bellarmine-ladder-1616": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bellarmine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1616",
+   "ia_date": "1616",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Translated into English, By T. B. Gent.'; imprint not legible; catalogued 1616"
+  },
+  "bellarmine-ascent-1928": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bellarmine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bellarmine-minds-ascent-monialis": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bellarmin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bellarmine-art-dying-well-1621": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1621",
+   "ia_date": "1621",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'by C. F. of the same Society'; catalogued 1621"
+  },
+  "bellarmine-art-dying-well-ball": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "ball",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1720",
+   "ia_date": "1720",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: John Ball, late Lecturer of St. Bartholomew's the Less; year OCR'd '172c'; catalogued 1720"
+  },
+  "bellarmine-art-dying-well-dalton": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bellarmine",
+   "translator_claimed": "dalton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Richardson and Son, 172 Fleet Street, no year; catalogued 1847; Dalton died 1874"
+  },
+  "bellarmine-eternal-happiness-dalton": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bellarmine",
+   "translator_claimed": "dalton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "18--?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Thomas Richardson and Son, no year; Dalton's translations date from the 1840s"
+  },
+  "bellarmine-seven-words-1877": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bellarmine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bellarmine-steps-of-ascension-1705": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bellarmine",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1705",
+   "ia_date": "1705",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bellarmine-de-laicis-murphy": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bellarmine",
+   "translator_claimed": "murphy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

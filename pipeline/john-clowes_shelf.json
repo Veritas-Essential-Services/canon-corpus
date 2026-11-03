@@ -1,0 +1,162 @@
+{
+ "_about": "Public-domain John Clowes, rector of St John's, Manchester, and translator and expounder of Swedenborg, for the Word Hoard: The True End and Design of the Lord's Supper, his Sermons on Various Subjects, Letters on the Human Body, the Affectionate Address and Dialogues on Swedenborg's writings, his translations of the Gospels of Matthew, Mark and John with spiritual commentary, and The Miracles of Jesus Christ. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 127 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john clowes",
+  "j. clowes",
+  "clowes"
+ ],
+ "_surname": [
+  "clowes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "clowes-lords-supper": [
+   "trueenddesignofl00clow",
+   "The true end and design of the Lord's Supper : together with the nature of the preparation, necessary for a right and profitable reception thereof ; opened and explained, in two dialogues, between a father and his son (Manchester : Printed by M. Wardle, 1810)"
+  ],
+  "clowes-sermons": [
+   "sermonsonvariou00clow",
+   "Sermons on various subjects (New York : Published for the Proprieters by Gallaudent and Wells, 1815)"
+  ],
+  "clowes-human-body": [
+   "lettersonhumanbo00clow",
+   "Letters on the human body : principally designed to prove, that the body is a mere effect derived from the soul, as its instrumental cause, and thus from God, as its primary cause; and that consequently in every human body may be seen a demonstration of the continual presence and operation of the causes, of which it is the effect (Warwick : W. Rose, 1826)"
+  ],
+  "clowes-affectionate-address": [
+   "affectionateaddr00clow",
+   "Affectionate address to the clergy on the theological writings of Emanuel Swedenborg : Tract no. 18 (Boston ; New York : [s.n.], 1846)"
+  ],
+  "clowes-dialogues": [
+   "dialoguesonnatur00clow",
+   "Dialogues on the nature, design and evidence of the theological writings of Emanuel Swedenborg / by Rev. John Clowes (Publ. under the direction of The New Church Printing Fund, 1850)"
+  ],
+  "clowes-john": [
+   "gospelaccordingt53clow",
+   "The Gospel according to John : translated from the original Greek, and illustrated by extracts from the theological writings of Emanuel Swedenborg : together with notes and observations by the translator annexed to each chapter (London : J.S. Hodson, 1853)"
+  ],
+  "clowes-mark": [
+   "cu31924029341702",
+   "The gospel according to Mark (London : White, 1858)"
+  ],
+  "clowes-miracles": [
+   "miraclesofjesusc00clow",
+   "Miracles of Jesus Christ : explained according to their spiritual meaning, in the way of question and answer / by the Rev. J. Clowes (Manchester : Published by the Manchester Printing Society of the New Jerusalem Church, 1867)"
+  ],
+  "clowes-matthew": [
+   "gospelaccordingt00clow",
+   "The gospel according to Matthew, translated from the original Greek, and illustrated by extracts from the theological writings of that eminent servant of the Lord the hon. Emanuel Swedenborg, together with notes and observations of the translator, annexed to each chapter (London : F. Pitman, 1868)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "clowes-heaven-hell": "his translation of Swedenborg's Heaven and Hell belongs to the Swedenborg shelf",
+  "clowes-matthew-dup": "MN41948ucmf_4, a partial scan"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "clowes-lords-supper": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clowes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "clowes-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clowes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "clowes-human-body": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clowes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clowes-affectionate-address": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clowes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clowes-dialogues": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clowes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clowes-john": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clowes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clowes-mark": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clowes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clowes-miracles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clowes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clowes-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clowes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

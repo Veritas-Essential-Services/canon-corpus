@@ -1,0 +1,366 @@
+{
+ "_about": "Public-domain Carl Friedrich Keil (1807-1888), Lutheran Old Testament scholar of Dorpat and Leipzig, for the Word Hoard: his volumes of the Keil and Delitzsch Biblical Commentary on the Old Testament (Pentateuch, Joshua-Judges-Ruth, Samuel, Kings, Chronicles, Ezra-Nehemiah-Esther, Jeremiah and Lamentations, Ezekiel, Daniel, the Twelve Minor Prophets), his Introduction to the Old Testament and his Manual of Biblical Archaeology, all in the English translations of Clark's Foreign Theological Library (Edinburgh, 1864-1888), from Internet Archive scans. Delitzsch's own volumes of the same series are on the franz-delitzsch shelf. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "keil"
+ ],
+ "_surname": [
+  "c. f. keil",
+  "carl friedrich keil",
+  "c. f. keil",
+  "keil"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "keil-pentateuch-1": [
+   "thepentateuch01keiluoft",
+   "The Pentateuch, vol. 1 (Edinburgh, T. [and] T. Clark, 1871)"
+  ],
+  "keil-pentateuch-2": [
+   "pentateuch02keiluoft",
+   "The Pentateuch, vol. 2 (Edinburgh, T. [and] T. Clark, 1871)"
+  ],
+  "keil-pentateuch-3": [
+   "pentateuch03keiluoft",
+   "The Pentateuch, vol. 3 (Edinburgh, T. [and] T. Clark, 1871)"
+  ],
+  "keil-joshua-judges-ruth": [
+   "joshuajudgesruth1872keil",
+   "Joshua, Judges, Ruth (Edinburgh : T. & T. Clark, 1872)"
+  ],
+  "keil-samuel": [
+   "biblicalcommenta68keil",
+   "Biblical commentary on the books of Samuel (Edinburgh : T. & T. Clark, 1868); translated by James Martin (OCR reads 'MAETIN', so not claimed)"
+  ],
+  "keil-kings": [
+   "booksofkings00keil",
+   "The Books of the Kings (Edinburgh, T. [and] T. Clark, 1872)"
+  ],
+  "keil-chronicles": [
+   "booksofchronicle00keil",
+   "The Books of the Chronicles (Edinburgh T. & T. Clark, 1872); translated by Andrew Harper (the scan's OCR does not show his name, so it is not claimed)"
+  ],
+  "keil-ezra-nehemiah-esther": [
+   "booksofezranehem00keil",
+   "The Books of Ezra, Nehemiah, and Esther (Edinburgh : T.&T. Clark, 1873)"
+  ],
+  "keil-jeremiah-1": [
+   "propheciesofjere01keil",
+   "The prophecies of Jeremiah [and Lamentations], vol. 1 (Edinburgh : T. & T. Clark, 1874)"
+  ],
+  "keil-jeremiah-2": [
+   "propheciesofjere02keil",
+   "The prophecies of Jeremiah [and Lamentations], vol. 2 (Edinburgh : T. & T. Clark, 1874)"
+  ],
+  "keil-ezekiel-1": [
+   "biblicalcommenta01keiluoft",
+   "Biblical commentary on the prophecies of Ezekiel, vol. 1 (Edinburgh, T. [and] T. Clark, 1876)"
+  ],
+  "keil-ezekiel-2": [
+   "biblicalcommenta02keiluoft",
+   "Biblical commentary on the prophecies of Ezekiel, vol. 2 (Edinburgh : T. & T. Clark, 1876)"
+  ],
+  "keil-daniel": [
+   "bookofprophetdan00keil",
+   "The Book of the prophet Daniel (Edinburgh : T. & T. Clark, 1872)"
+  ],
+  "keil-minor-prophets-1": [
+   "thetwelveminorp01keiluoft",
+   "The twelve Minor Prophets, vol. 1 (Edinburgh : T. [and] T. Clark, 1878)"
+  ],
+  "keil-minor-prophets-2": [
+   "thetwelveminorpr02keiluoft",
+   "The twelve Minor Prophets, vol. 2 (Edinburgh : T. [and] T. Clark, 1878)"
+  ],
+  "keil-introduction-1": [
+   "manualofhistoric0001karl",
+   "Manual of historico-critical introduction to the canonical scriptures of the old testament, vol. 1 (edinburgh, 1869)"
+  ],
+  "keil-introduction-2": [
+   "manualofhistoric0002karl",
+   "Manual of Historic-Critical Introduction to the Canonical Scriptures of The Old Testament, vol. 2 (Edinburgh: T & T. Clark, 33, George Street, 1870)"
+  ],
+  "keil-archaeology-1": [
+   "manualofbiblical01keil",
+   "Manual of Biblical archaeology, vol. 1 (Edinburgh : T. & T. Clark, 1887)"
+  ],
+  "keil-archaeology-2": [
+   "manualofbiblical02keil",
+   "Manual of Biblical archaeology, vol. 2 (Edinburgh : T. & T. Clark, 1887)"
+  ]
+ },
+ "_alternates": {
+  "keil-copies": "The 1864-1865 first printings of the Pentateuch (pentateuch01keil, pentateuch03keil) and the Google copies of Kings, Ezra and Joshua; the 1866 Samuel"
+ },
+ "_excluded": {
+  "keil-other": "German editions (Biblischer Commentar, Einleitung, Handbuch der biblischen Archäologie); 1949-1990 reprints of the English set; the Books of the Maccabees commentary (never Englished)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {
+  "keil-pentateuch-1": "James Martin",
+  "keil-pentateuch-2": "James Martin",
+  "keil-pentateuch-3": "James Martin",
+  "keil-joshua-judges-ruth": "James Martin",
+  "keil-kings": "James Martin",
+  "keil-ezra-nehemiah-esther": "Sophia Taylor",
+  "keil-jeremiah-1": "David Patrick",
+  "keil-jeremiah-2": "James Kennedy",
+  "keil-ezekiel-1": "James Martin",
+  "keil-ezekiel-2": "James Martin",
+  "keil-daniel": "Easton",
+  "keil-minor-prophets-1": "James Martin",
+  "keil-minor-prophets-2": "James Martin",
+  "keil-introduction-1": "Douglas",
+  "keil-introduction-2": "Douglas",
+  "keil-archaeology-1": "Christie",
+  "keil-archaeology-2": "Cusin"
+ },
+ "_checks": {
+  "keil-pentateuch-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1871-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-pentateuch-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keil",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1871-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-pentateuch-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keil",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1871-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-joshua-judges-ruth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-samuel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keil",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-kings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-chronicles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-ezra-nehemiah-esther": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "translator_claimed": "Sophia Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-jeremiah-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "translator_claimed": "David Patrick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1874-1880 [v. 1, 1880]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-jeremiah-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "translator_claimed": "James Kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1874-1880 [v. 1, 1880]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-ezekiel-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carl friedrich keil",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-ezekiel-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carl friedrich keil",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keil-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "translator_claimed": "Easton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-minor-prophets-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-minor-prophets-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-introduction-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. keil",
+   "translator_claimed": "Douglas",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keil-introduction-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keil",
+   "translator_claimed": "Douglas",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keil-archaeology-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carl friedrich keil",
+   "translator_claimed": "Christie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keil-archaeology-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "keil",
+   "translator_claimed": "Cusin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

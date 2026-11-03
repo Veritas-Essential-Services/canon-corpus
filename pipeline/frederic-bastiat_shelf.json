@@ -1,0 +1,44 @@
+{
+ "_about": "Frederic Bastiat (1801-1850) in English versions whose translators are not named: Essays on Political Economy, third (People's) edition (New York: Putnam; London: Provost, 1874), and Protection and Communism, with a preface by the translator (London: John W. Parker and Son, MDCCCLII), clean Gutenberg texts. Patrick James Stirling's translations (Sophisms, Harmonies) are lane C's stirling-bastiat shelf, and two American adaptations sit on singles-ideas; neither is taken again. Held: The Law (PG 44800), because the etext is the Mises Institute's 2007 edition. US public domain. No uids minted.",
+ "_author": "Frederic Bastiat",
+ "_name_words": [
+  "frederic",
+  "bastiat"
+ ],
+ "_surname": [
+  "bastiat"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bastiat-essays-political-economy-1874": [
+   15962,
+   "Essays on Political Economy, third (People's) edition (Putnam, 1874)"
+  ],
+  "bastiat-protection-and-communism-1852": [
+   44144,
+   "Protection and Communism (London: J. W. Parker, 1852)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bastiat-essays-political-economy-1874": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bastiat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bastiat-protection-and-communism-1852": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bastiat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

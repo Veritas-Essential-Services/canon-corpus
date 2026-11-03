@@ -1,0 +1,132 @@
+{
+ "_about": "Public-domain William Fraser McDowell (1858-1937), bishop of the Methodist Episcopal Church, for the Word Hoard: his books printed before 1930: In the School of Christ (1910), A Man's Religion (1913), Good Ministers of Jesus Christ, the Yale Lyman Beecher lectures (1917), This Mind (1922), Making a Personal Faith (1924), That I May Save Some (1928) and Them He Also Called (1929). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 79 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william fraser mcdowell",
+  "william f. mcdowell",
+  "w. f. mcdowell",
+  "bishop mcdowell"
+ ],
+ "_surname": [
+  "mcdowell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcdowell-school-of-christ": [
+   "inschoolofchrist00mcdo",
+   "In the school of Christ (New York : Revell, 1910)"
+  ],
+  "mcdowell-mans-religion": [
+   "mansreligionlett00mcdo",
+   "A man's religion; letters to men (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1913)"
+  ],
+  "mcdowell-good-ministers": [
+   "goodministersofj00mcdouoft",
+   "Good ministers of Jesus Christ (New York : Abingdon, c191)"
+  ],
+  "mcdowell-this-mind": [
+   "thismind00mcdo",
+   "This mind (New York, Cincinnati : The Methodist book concern, 1922)"
+  ],
+  "mcdowell-personal-faith": [
+   "makingpersonalfa0000mcdo",
+   "Making a personal faith (New York, Abingdon, 1924)"
+  ],
+  "mcdowell-that-i-may-save-some": [
+   "thatimaysavesome0000mcdo",
+   "That I may save some (New York : Abingdon Press, 1928)"
+  ],
+  "mcdowell-them-he-also-called": [
+   "themhealsocalled00mcdo",
+   "Them He also called (New York ; Cincinnati [etc.] : The Abingdon Press, 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mcdowell-other": "The Picket Line of Missions, Effective Workers in Needy Fields and The Revival, a Symposium are many-author volumes; everything printed 1930 or later"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mcdowell-school-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcdowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcdowell-mans-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcdowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcdowell-good-ministers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcdowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "c1917, 1922 printing",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcdowell-this-mind": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcdowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcdowell-personal-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcdowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcdowell-that-i-may-save-some": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcdowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcdowell-them-he-also-called": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcdowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "_about": "Ernest De Witt Burton (1856-1925), Syntax of the Moods and Tenses in New Testament Greek, 5th ed.; from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. Copyright 1900, printed 1903: US public domain.",
+ "_name_words": [
+  "burton",
+  "ernest de witt burton"
+ ],
+ "_surname": [
+  "burton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burton-moods-tenses": [
+   "cu31924021607449",
+   "Syntax of the Moods and Tenses in New Testament Greek, 5th ed. (Chicago: University of Chicago Press, 1903)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "burton-moods-tenses": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "burton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

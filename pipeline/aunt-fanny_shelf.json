@@ -1,0 +1,188 @@
+{
+ "_about": "Aunt Fanny (Frances Elizabeth Barrow)'s writing at Gutenberg: stories for young children. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Aunt Fanny (Frances Elizabeth Barrow)",
+ "_name_words": [
+  "aunt",
+  "fanny"
+ ],
+ "_surname": [
+  "aunt fanny"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "auntfanny-apple-dumpling-and-other-stories-for-young-boys-an": [
+   22740,
+   "The Apple Dumpling and Other Stories for Young Boys and Girls"
+  ],
+  "auntfanny-baby-nightcaps": [
+   28493,
+   "Baby Nightcaps"
+  ],
+  "auntfanny-aunt-fannys-story-book-for-little-boys-and-girls": [
+   28703,
+   "Aunt Fanny's Story-Book for Little Boys and Girls"
+  ],
+  "auntfanny-little-mittens-for-the-little-darlings-being-the-s": [
+   28716,
+   "Little Mittens for The Little Darlings Being the Second Book of the Series"
+  ],
+  "auntfanny-fairy-nightcaps": [
+   28802,
+   "The Fairy Nightcaps"
+  ],
+  "auntfanny-two-story-mittens-and-the-little-play-mittens-bein": [
+   29811,
+   "The Two Story Mittens and the Little Play Mittens Being the Fourth Book of the Series"
+  ],
+  "auntfanny-little-nightcap-letters": [
+   29812,
+   "The Little Nightcap Letters"
+  ],
+  "auntfanny-big-nightcap-letters-being-the-fifth-book-of-the-s": [
+   29813,
+   "The Big Nightcap Letters Being the Fifth Book of the Series"
+  ],
+  "auntfanny-first-little-pet-book-with-ten-short-stories-in-wo": [
+   31483,
+   "The First Little Pet Book with Ten Short Stories in Words of Three and Four Letters"
+  ],
+  "auntfanny-third-little-pet-book-with-the-tale-of-mop-and-fri": [
+   32513,
+   "The Third Little Pet Book, with the Tale of Mop and Frisk"
+  ],
+  "auntfanny-more-mittens": [
+   33191,
+   "More Mittens; with The Doll's Wedding and Other Stories Being the third book of the series"
+  ],
+  "auntfanny-orphans-home-mittens-and-georges-account-of-the-ba": [
+   48608,
+   "The Orphan's Home Mittens, and George's Account of the Battle of Roanoke Island Being the Sixth and Last Book of the Series"
+  ],
+  "auntfanny-pop-guns": [
+   56120,
+   "Pop-Guns: One Serious and One Funny"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "auntfanny-apple-dumpling-and-other-stories-for-young-boys-an": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-baby-nightcaps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-aunt-fannys-story-book-for-little-boys-and-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-little-mittens-for-the-little-darlings-being-the-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-fairy-nightcaps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-two-story-mittens-and-the-little-play-mittens-bein": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-little-nightcap-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-big-nightcap-letters-being-the-fifth-book-of-the-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-first-little-pet-book-with-ten-short-stories-in-wo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-third-little-pet-book-with-the-tale-of-mop-and-fri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-more-mittens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-orphans-home-mittens-and-georges-account-of-the-ba": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "auntfanny-pop-guns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aunt fanny",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "_about": "Walter Thomas Prideaux Wolston (1840-1917), Edinburgh physician and Brethren evangelist. Added 2026-11-03 by lane A from the Plymouth Brethren line of Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and date read from each scan's title page or dated preface. No uids minted. All pre-1931, so US public domain.",
+ "_name_words": [
+  "wolston"
+ ],
+ "_surname": [
+  "wolston"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wolston-another-comforter": [
+   "anothercomfotter0000wtpw",
+   "Another Comforter: Thirteen Lectures on the Operations of the Holy Ghost (London: James Nisbet; Edinburgh: Gospel Messenger Office, 1892)"
+  ],
+  "wolston-young-men-of-scripture": [
+   "youngmenofscript0000wtpw",
+   "Young Men of Scripture, 3rd ed. (London: James Nisbet; Edinburgh: Gospel Messenger Office, 1894)"
+  ],
+  "wolston-behold-the-bridegroom": [
+   "beholdbridegroom0000wtpw",
+   "Behold the Bridegroom! Ten Lectures on the Second Coming and Kingdom of the Lord Jesus, 3rd ed. (London: James Nisbet; Edinburgh: Gospel Messenger Office, 1895)"
+  ],
+  "wolston-forty-days": [
+   "fortydaysofscrip0000wtpw",
+   "The \"Forty Days\" of Scripture, 2nd ed. (London: James Nisbet, 1909)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "wolston-another-comforter": {
+   "author": "OCR reads 'W. I. P. WOLSTOM, M.D.'; the title page is W. T. P. Wolston's"
+  },
+  "wolston-behold-the-bridegroom": {
+   "author": "OCR reads 'WOOLSTON'; the title page is W. T. P. Wolston's, M.D., author of 'The Call of the Bride'"
+  },
+  "wolston-young-men-of-scripture": {
+   "author": "Title page names the author of 'Records of Grace' and 'The Call of the Bride', W. T. P. Wolston"
+  },
+  "wolston-forty-days": {
+   "author": "Preface signed W. T. P. W., 46 Charlotte Square, Edinburgh, 1903 and 1909"
+  }
+ },
+ "_pending": {
+  "wolston-night-scenes": "Night Scenes of Scripture (1895): text file returned HTTP 500; retry"
+ },
+ "_translators": {},
+ "_checks": {
+  "wolston-another-comforter": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wolston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wolston-young-men-of-scripture": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wolston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wolston-behold-the-bridegroom": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wolston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wolston-forty-days": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wolston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

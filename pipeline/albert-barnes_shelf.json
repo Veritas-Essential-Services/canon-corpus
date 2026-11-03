@@ -1,0 +1,284 @@
+{
+ "_about": "Public-domain Albert Barnes (1798-1870, pastor of First Presbyterian Church, Philadelphia) for the Word Hoard: Barnes' New Testament Notes clean from CCEL; and from raw Internet Archive OCR his Old Testament Notes on Job (1849), Isaiah (1847), Daniel (1853) and the Psalms (Harper), with An Inquiry into the Scriptural Views of Slavery (1846), Lectures on the Evidences of Christianity in the Nineteenth Century (1868), Miscellaneous Essays and Reviews (1855, 2 vols), A Manual of Prayer (1838), How Shall Man Be Just with God? (1854), An Inquiry into the Organization and Government of the Apostolic Church (1843) and Life at Threescore and Ten (1871). Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "b/barnes",
+ "_name_words": [
+  "barnes",
+  "albert"
+ ],
+ "_surname": [
+  "albert barnes",
+  "a. barnes",
+  "barnes, albert"
+ ],
+ "_held": {},
+ "ccel": {
+  "barnes-nt-notes": [
+   "ntnotes",
+   "Barnes' New Testament Notes",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "barnes-job-1849-v1": [
+   "notescriticalill01barn",
+   "Notes, Critical, Illustrative, and Practical, on the Book of Job, vol. 1 (New York: Leavitt, 1849)"
+  ],
+  "barnes-job-1849-v2": [
+   "notescriticalill02barn",
+   "Notes, Critical, Illustrative, and Practical, on the Book of Job, vol. 2, fifth edition (New York: Leavitt, 1849; OCR of the year reads 1819)"
+  ],
+  "barnes-isaiah-1847-v1": [
+   "notescriticalexp18471barn",
+   "Notes, Critical, Explanatory, and Practical, on the Book of the Prophet Isaiah, vol. 1 (New York: Leavitt and Allen, 1847)"
+  ],
+  "barnes-psalms-1871-v1": [
+   "notescriticalexp187101barn",
+   "Notes, Critical, Explanatory, and Practical, on the Book of Psalms, vol. 1 (New York: Harper, 1871)"
+  ],
+  "barnes-psalms-1871-v2": [
+   "notescriticalexp187102barn",
+   "Notes, Critical, Explanatory, and Practical, on the Book of Psalms, vol. 2 (New York: Harper, 1871)"
+  ],
+  "barnes-slavery-1846": [
+   "inquiryintoscrip00lcbarn",
+   "An Inquiry into the Scriptural Views of Slavery (Philadelphia: Perkins and Purves, 1846)"
+  ],
+  "barnes-evidences-1868": [
+   "christianityninet00barnrich",
+   "Lectures on the Evidences of Christianity in the Nineteenth Century (New York: Harper, 1868)"
+  ],
+  "barnes-essays-1855-v1": [
+   "miscessaysreview01barnrich",
+   "Miscellaneous Essays and Reviews, vol. 1 (New York: Ivison and Phinney, 1855)"
+  ],
+  "barnes-essays-1855-v2": [
+   "miscessaysreview02barnrich",
+   "Miscellaneous Essays and Reviews, vol. 2 (New York: Ivison and Phinney, 1855)"
+  ],
+  "barnes-manual-prayer-1838": [
+   "manualofprayerde00barn",
+   "A Manual of Prayer (Philadelphia: Perkins and Purves, 1838)"
+  ],
+  "barnes-just-with-god-1854": [
+   "howshallmanbejus00barn",
+   "How Shall Man Be Just with God? (Philadelphia: Presbyterian Publication Committee, 1854)"
+  ],
+  "barnes-apostolic-church-1843": [
+   "inquiryintoorg00barn",
+   "An Inquiry into the Organization and Government of the Apostolic Church (Philadelphia: Perkins and Purves, 1843)"
+  ],
+  "barnes-threescore-ten-1871": [
+   "lifeatthreescore1871barn",
+   "Life at Threescore and Ten (New York: American Tract Society, 1871)"
+  ],
+  "barnes-daniel-1857": [
+   "practicaldaniel00barnrich",
+   "Notes, Critical, Illustrative, and Practical, on the Book of Daniel (New York: Leavitt and Allen; title page 1857, preface dated 1851, catalogued 1853)"
+  ],
+  "barnes-psalms-1869-v3": [
+   "notescriticalex00barngoog",
+   "Notes, Critical, Explanatory, and Practical, on the Book of Psalms, vol. 3 (New York: Harper, 1869)"
+  ],
+  "barnes-isaiah-1858-v2": [
+   "notescriticalexp02barn",
+   "Notes, Critical, Explanatory, and Practical, on the Book of the Prophet Isaiah, vol. 2 (New York: Leavitt and Allen, catalogued 1858)"
+  ]
+ },
+ "_alternates": {
+  "barnes-nt-notes": "the per-book CCEL Notes (matthew, romans, hebrews, ...) and Gutenberg 55228 (Revelation): the same Notes, split"
+ },
+ "_excluded": {
+  "barnes-ot-notes-ccel": "CCEL's per-book Old Testament Notes offer no full text file (2-4 KB each); the IA printings stand in"
+ },
+ "_checks": {
+  "barnes-nt-notes": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Grand Rapids, Mich. : Baker Book House, 1949.",
+   "ccel_print_source_check": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "barnes-job-1849-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-job-1849-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-isaiah-1847-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "barnes-psalms-1871-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-psalms-1871-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-slavery-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-evidences-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-essays-1855-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-essays-1855-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-manual-prayer-1838": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-just-with-god-1854": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "barnes-apostolic-church-1843": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "barnes-threescore-ten-1871": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "barnes-daniel-1857": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-psalms-1869-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barnes-isaiah-1858-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "albert barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

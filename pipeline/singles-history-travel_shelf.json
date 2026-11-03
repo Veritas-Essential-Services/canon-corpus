@@ -1,0 +1,1477 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: one-off translations of history, exploration and memoir: the Bābur-nāma (Annette Beveridge), the Gentleman of Elvas on de Soto (Hakluyt, 1609), the journal of Vasco da Gama's first voyage and Schiltberger's Bondage and Travels (Hakluyt Society), Gómara's Conquest of the West India (1578), Garibaldi's memoirs, Moltke's Franco-German War, Slatin's Fire and Sword in the Sudan, Wace's chronicle of the Norman Conquest, Villari, Charnay, Chevalier, Leti's Il Nipotismo di Roma (1669), Kâtip Çelebi's Maritime Wars of the Turks, and First World War memoirs (Richthofen, Genevoix, Plüschow, the Ayesha and the Deutschland). Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 41); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. batson joyner",
+  "annette susannah beveridge",
+  "archibald forbes",
+  "b. o. cartwright",
+  "basil osborn cartwright",
+  "david h. wheeler",
+  "de chary",
+  "e. appleby holt",
+  "edgar taylor",
+  "edmund goldsmid",
+  "ernest georg ravenstein",
+  "f. r. wingate",
+  "francis egerton ellesmere",
+  "francis reginald wingate",
+  "frank p. ward",
+  "frederick rowlandson godfrey",
+  "g. c. wynne",
+  "gabriel roussillon",
+  "graeme chamley wynne",
+  "h. grahame richards",
+  "h. l. gates",
+  "harold grahame richards",
+  "helen s. conant",
+  "helen stevens conant",
+  "helene meyer-franck",
+  "helene s. white",
+  "helene schimmelfennig white",
+  "henry leyford gates",
+  "henry scipio reitlinger",
+  "ida de mouchanoff",
+  "j. buchan telfer",
+  "j. ellis barker",
+  "j. gonino",
+  "j. h. morgan",
+  "j. sutherland black",
+  "james mitchell",
+  "john buchan telfer",
+  "john hartman morgan",
+  "john sutherland black",
+  "julius e. olsen",
+  "julius koettgen",
+  "linda villari",
+  "martha ward carey",
+  "masujiro honda",
+  "mrs. a. batson joyner",
+  "pauline de chary",
+  "richard hakluyt",
+  "richard pearson",
+  "robert crawford",
+  "sophia pieters",
+  "t. g. bradford",
+  "t. r. ybarra",
+  "theodore dwight",
+  "thomas gamaliel bradford",
+  "thomas nicholas",
+  "thomas russell ybarra",
+  "vivien ellis",
+  "william aglionby",
+  "william pilling"
+ ],
+ "_surname": [
+  "a. batson joyner",
+  "annette susannah beveridge",
+  "archibald forbes",
+  "b. o. cartwright",
+  "basil osborn cartwright",
+  "david h. wheeler",
+  "de chary",
+  "e. appleby holt",
+  "edgar taylor",
+  "edmund goldsmid",
+  "ernest georg ravenstein",
+  "f. r. wingate",
+  "francis egerton ellesmere",
+  "francis reginald wingate",
+  "frank p. ward",
+  "frederick rowlandson godfrey",
+  "g. c. wynne",
+  "gabriel roussillon",
+  "graeme chamley wynne",
+  "h. grahame richards",
+  "h. l. gates",
+  "harold grahame richards",
+  "helen s. conant",
+  "helen stevens conant",
+  "helene meyer-franck",
+  "helene s. white",
+  "helene schimmelfennig white",
+  "henry leyford gates",
+  "henry scipio reitlinger",
+  "ida de mouchanoff",
+  "j. buchan telfer",
+  "j. ellis barker",
+  "j. gonino",
+  "j. h. morgan",
+  "j. sutherland black",
+  "james mitchell",
+  "john buchan telfer",
+  "john hartman morgan",
+  "john sutherland black",
+  "julius e. olsen",
+  "julius koettgen",
+  "linda villari",
+  "martha ward carey",
+  "masujiro honda",
+  "mrs. a. batson joyner",
+  "pauline de chary",
+  "richard hakluyt",
+  "richard pearson",
+  "robert crawford",
+  "sophia pieters",
+  "t. g. bradford",
+  "t. r. ybarra",
+  "theodore dwight",
+  "thomas gamaliel bradford",
+  "thomas nicholas",
+  "thomas russell ybarra",
+  "vivien ellis",
+  "william aglionby",
+  "william pilling"
+ ],
+ "_surname_by_slug": {
+  "sht-34997": [
+   "hakluyt",
+   "richard hakluyt"
+  ],
+  "sht-36209": [
+   "archibald forbes",
+   "forbes"
+  ],
+  "sht-41035": [
+   "f. r. wingate",
+   "francis reginald wingate",
+   "wingate"
+  ],
+  "sht-41163": [
+   "edgar taylor",
+   "taylor"
+  ],
+  "sht-43852": [
+   "gabriel roussillon",
+   "roussillon"
+  ],
+  "sht-44564": [
+   "b. o. cartwright",
+   "basil osborn cartwright",
+   "cartwright"
+  ],
+  "sht-44608": [
+   "annette susannah beveridge",
+   "beveridge"
+  ],
+  "sht-45282": [
+   "edmund goldsmid",
+   "goldsmid"
+  ],
+  "sht-45469": [
+   "linda villari",
+   "villari"
+  ],
+  "sht-45656": [
+   "conant",
+   "gonino",
+   "helen s. conant",
+   "helen stevens conant",
+   "j. gonino"
+  ],
+  "sht-45761": [
+   "bradford",
+   "t. g. bradford",
+   "thomas gamaliel bradford"
+  ],
+  "sht-46032": [
+   "julius e. olsen",
+   "olsen"
+  ],
+  "sht-46440": [
+   "ernest georg ravenstein",
+   "ravenstein"
+  ],
+  "sht-46524": [
+   "nicholas",
+   "thomas nicholas"
+  ],
+  "sht-46750": [
+   "carey",
+   "martha ward carey"
+  ],
+  "sht-47056": [
+   "a. batson joyner",
+   "joyner",
+   "mrs. a. batson joyner"
+  ],
+  "sht-47548": [
+   "honda",
+   "masujiro honda"
+  ],
+  "sht-48856": [
+   "pilling",
+   "william pilling"
+  ],
+  "sht-49735": [
+   "frederick rowlandson godfrey",
+   "godfrey"
+  ],
+  "sht-50544": [
+   "dwight",
+   "theodore dwight"
+  ],
+  "sht-52472": [
+   "crawford",
+   "robert crawford"
+  ],
+  "sht-52569": [
+   "j. buchan telfer",
+   "john buchan telfer",
+   "telfer"
+  ],
+  "sht-53580": [
+   "ida de mouchanoff",
+   "mouchanoff"
+  ],
+  "sht-53813": [
+   "james mitchell",
+   "mitchell"
+  ],
+  "sht-54001": [
+   "aglionby",
+   "william aglionby"
+  ],
+  "sht-54731": [
+   "ellesmere",
+   "francis egerton ellesmere"
+  ],
+  "sht-54782": [
+   "black",
+   "j. sutherland black",
+   "john sutherland black"
+  ],
+  "sht-49567": [
+   "pearson",
+   "richard pearson"
+  ],
+  "sht-50656": [
+   "david h. wheeler",
+   "wheeler"
+  ],
+  "sht-50717": [
+   "helene meyer-franck",
+   "meyer-franck"
+  ],
+  "sht-39559": [
+   "frank p. ward",
+   "ward"
+  ],
+  "sht-40579": [
+   "pieters",
+   "sophia pieters"
+  ],
+  "sht-49546": [
+   "henry scipio reitlinger",
+   "reitlinger"
+  ],
+  "sht-46770": [
+   "h. grahame richards",
+   "harold grahame richards",
+   "richards"
+  ],
+  "sht-41159": [
+   "barker",
+   "j. ellis barker"
+  ],
+  "sht-45878": [
+   "helene s. white",
+   "helene schimmelfennig white",
+   "white"
+  ],
+  "sht-45922": [
+   "ellis",
+   "vivien ellis"
+  ],
+  "sht-49264": [
+   "de chary",
+   "pauline de chary"
+  ],
+  "sht-43522": [
+   "t. r. ybarra",
+   "thomas russell ybarra",
+   "ybarra"
+  ],
+  "sht-42721": [
+   "julius koettgen",
+   "koettgen"
+  ],
+  "sht-44234": [
+   "g. c. wynne",
+   "graeme chamley wynne",
+   "wynne"
+  ],
+  "sht-51646": [
+   "j. h. morgan",
+   "john hartman morgan",
+   "morgan"
+  ],
+  "sht-53046": [
+   "gates",
+   "h. l. gates",
+   "henry leyford gates"
+  ],
+  "sht-45958": [
+   "e. appleby holt",
+   "holt"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "sht-34997": [
+   34997,
+   "A Narrative of the expedition of Hernando de Soto into Florida published at Evora in 1557"
+  ],
+  "sht-36209": [
+   36209,
+   "The Franco-German War of 1870-71"
+  ],
+  "sht-41035": [
+   41035,
+   "Fire and Sword in the Sudan A Personal Narrative of Fighting and Serving the Dervishes 1879-1895"
+  ],
+  "sht-41163": [
+   41163,
+   "Master Wace, His Chronicle of the Norman Conquest From the Roman De Rou"
+  ],
+  "sht-43852": [
+   43852,
+   "The Revolutions of Portugal"
+  ],
+  "sht-44564": [
+   44564,
+   "History of the Kingdom of Siam and of the revolutions that have caused the overthrow of the empire, up to A.D. 1770"
+  ],
+  "sht-44608": [
+   44608,
+   "The Bābur-nāma in English (Memoirs of Bābur)"
+  ],
+  "sht-45282": [
+   45282,
+   "The History of the Devils of Loudun, Volumes I-III The Alleged Possession of the Ursuline Nuns, and the Trial and Execution of Urbain Grandier, Told by an Eye-witness"
+  ],
+  "sht-45469": [
+   45469,
+   "The Two First Centuries of Florentine History The Republic and Parties at the Time of Dante. Fourth Impression."
+  ],
+  "sht-45656": [
+   45656,
+   "The Ancient Cities of the New World Being Travels and Explorations in Mexico and Central America From 1857-1882"
+  ],
+  "sht-45761": [
+   45761,
+   "Society, Manners and Politics in the United States Being a Series of Letters on North America"
+  ],
+  "sht-46032": [
+   46032,
+   "Vitus Bering: the Discoverer of Bering Strait"
+  ],
+  "sht-46440": [
+   46440,
+   "A Journal of the First Voyage of Vasco da Gama 1497-1499"
+  ],
+  "sht-46524": [
+   46524,
+   "The pleasant historie of the conquest of the VVeast India, now called new Spayne atchieued by the vvorthy Prince Hernando Cortes, marques of the Valley of Huaxacac, most delectable to reade"
+  ],
+  "sht-46750": [
+   46750,
+   "Prison Journals During the French Revolution"
+  ],
+  "sht-47056": [
+   47056,
+   "Cyprus: Historical and Descriptive"
+  ],
+  "sht-47548": [
+   47548,
+   "Human Bullets: A Soldier's Story of Port Arthur"
+  ],
+  "sht-48856": [
+   48856,
+   "The Emancipation of South America"
+  ],
+  "sht-49735": [
+   49735,
+   "From Libau to Tsushima A narrative of the voyage of Admiral Rojdestvensky's fleet to eastern seas, including a detailed account of the Dogger Bank incident"
+  ],
+  "sht-50544": [
+   50544,
+   "The Life of General Garibaldi Translated from his private papers; with the history of his splendid exploits in Rome, Lombardy, Sicily and Naples, to the present time."
+  ],
+  "sht-52472": [
+   52472,
+   "Captain Cuellar's Adventures in Connaught & Ulster A.D. 1588. To Which Is Added an Introduction and Complete Translation of Captain Cuellar's Narrative of the Spanish Armada and His Adventures in Irel"
+  ],
+  "sht-52569": [
+   52569,
+   "The Bondage and Travels of Johann Schiltberger, a Native of Bavaria, in Europe, Asia, and Africa, 1396-1427"
+  ],
+  "sht-53580": [
+   53580,
+   "The Princess Tarakanova: A Dark Chapter of Russian History"
+  ],
+  "sht-53813": [
+   53813,
+   "The History of the Maritime Wars of the Turks. Chapters I. to IV."
+  ],
+  "sht-54001": [
+   54001,
+   "Il nipotismo di Roma, or, The History of the Popes Nephews from the time of Sixtus IV. to the death of the last Pope, Alexander VII"
+  ],
+  "sht-54731": [
+   54731,
+   "The Sieges of Vienna by the Turks"
+  ],
+  "sht-54782": [
+   54782,
+   "Sketches from Eastern History"
+  ],
+  "sht-49567": [
+   49567,
+   "An account of the plague which raged at Moscow, in 1771"
+  ],
+  "sht-50656": [
+   50656,
+   "The Conspiracy of Gianluigi Fieschi, or, Genoa in the sixteenth century."
+  ],
+  "sht-50717": [
+   50717,
+   "La Grande Mademoiselle, 1627-1652"
+  ],
+  "sht-39559": [
+   39559,
+   "Two Chancellors: Prince Gortchakof and Prince Bismarck"
+  ],
+  "sht-40579": [
+   40579,
+   "Memoir of Hendrick Zwaardecroon, commandeur of Jaffnapatam (afterwards Governor-General of Nederlands India) 1697. For the guidance of the council of Jaffnapatam, during his absence at the coast of Ma"
+  ],
+  "sht-49546": [
+   49546,
+   "A Diplomat's Memoir of 1870 being the account of a balloon escape from the siege of Paris and a political mission to London and Vienna"
+  ],
+  "sht-46770": [
+   46770,
+   "'Neath Verdun, August-October, 1914"
+  ],
+  "sht-41159": [
+   41159,
+   "The Red Battle Flyer"
+  ],
+  "sht-45878": [
+   45878,
+   "The \"Ayesha,\" being the adventures of the landing squad of the \"Emden\""
+  ],
+  "sht-45922": [
+   45922,
+   "The voyage of the \"Deutschland\""
+  ],
+  "sht-49264": [
+   49264,
+   "My Escape from Donington Hall, Preceded by an Account of the Siege of Kiao-Chow in 1915"
+  ],
+  "sht-43522": [
+   43522,
+   "The Kaiser's Memoirs"
+  ],
+  "sht-42721": [
+   42721,
+   "A German deserter's war experience"
+  ],
+  "sht-44234": [
+   44234,
+   "Ypres 1914: An Official Account Published by Order of the German General Staff"
+  ],
+  "sht-51646": [
+   51646,
+   "The War Book of the German General Staff Being \"The Usages of War on Land\" Issued by the Great General Staff of the German Army"
+  ],
+  "sht-53046": [
+   53046,
+   "Ravished Armenia The Story of Aurora Mardiganian, the Christian Girl Who Lived Through the Great Massacres"
+  ],
+  "sht-45958": [
+   45958,
+   "Indo-China and its primitive people"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-history-travel-a-german-deserter-s-war-experience": {
+   "source": "sht-42721",
+   "of": "anonymous (a German deserter)",
+   "work": "A German deserter's war experience",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Julius Koettgen",
+   "scan_edition": "Project Gutenberg 42721 (clean text)"
+  },
+  "singles-history-travel-allingham-captain-cuellar-s-adventures-in-connaugh": {
+   "source": "sht-52472",
+   "of": "Francisco de Cuéllar (ed. Hugh Allingham)",
+   "work": "Captain Cuellar's Adventures in Connaught & Ulster A.D. 1588. To Which Is Added an Introduction and Complete Translation of Captain Cuellar's Narrative of the Spanish Armada and His Adventures in Irel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Crawford",
+   "scan_edition": "Project Gutenberg 52472 (clean text)"
+  },
+  "singles-history-travel-babur-the-babur-nama-in-english-memoirs-of-bab": {
+   "source": "sht-44608",
+   "of": "Babur",
+   "work": "The Bābur-nāma in English (Memoirs of Bābur)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Annette Susannah Beveridge",
+   "scan_edition": "Project Gutenberg 44608 (clean text)"
+  },
+  "singles-history-travel-barine-la-grande-mademoiselle-1627-1652": {
+   "source": "sht-50717",
+   "of": "Arvède Barine",
+   "work": "La Grande Mademoiselle, 1627-1652",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Helene Meyer-Franck",
+   "scan_edition": "Project Gutenberg 50717 (clean text)"
+  },
+  "singles-history-travel-baudesson-indo-china-and-its-primitive-people": {
+   "source": "sht-45958",
+   "of": "Henry Baudesson",
+   "work": "Indo-China and its primitive people",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. Appleby Holt",
+   "scan_edition": "Project Gutenberg 45958 (clean text)"
+  },
+  "singles-history-travel-celesia-the-conspiracy-of-gianluigi-fieschi-or-g": {
+   "source": "sht-50656",
+   "of": "Emanuele Celesia",
+   "work": "The Conspiracy of Gianluigi Fieschi, or, Genoa in the sixteenth century.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "David H. Wheeler",
+   "scan_edition": "Project Gutenberg 50656 (clean text)"
+  },
+  "singles-history-travel-charnay-the-ancient-cities-of-the-new-world-bein": {
+   "source": "sht-45656",
+   "of": "Désiré Charnay",
+   "work": "The Ancient Cities of the New World Being Travels and Explorations in Mexico and Central America From 1857-1882",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Helen S. Conant and J. Gonino",
+   "scan_edition": "Project Gutenberg 45656 (clean text)"
+  },
+  "singles-history-travel-chevalier-society-manners-and-politics-in-the-unit": {
+   "source": "sht-45761",
+   "of": "Michel Chevalier",
+   "work": "Society, Manners and Politics in the United States Being a Series of Letters on North America",
+   "translated": "(see the Gutenberg header)",
+   "translator": "T. G. Bradford",
+   "scan_edition": "Project Gutenberg 45761 (clean text)"
+  },
+  "singles-history-travel-danilevskii-the-princess-tarakanova": {
+   "source": "sht-53580",
+   "of": "G. P. Danilevskii",
+   "work": "The Princess Tarakanova: A Dark Chapter of Russian History",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ida de Mouchanoff",
+   "scan_edition": "Project Gutenberg 53580 (clean text)"
+  },
+  "singles-history-travel-des-niau-the-history-of-the-devils-of-loudun-volu": {
+   "source": "sht-45282",
+   "of": "Des Niau",
+   "work": "The History of the Devils of Loudun, Volumes I-III The Alleged Possession of the Ursuline Nuns, and the Trial and Execution of Urbain Grandier, Told by an Eye-witness",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edmund Goldsmid",
+   "scan_edition": "Project Gutenberg 45282 (clean text)"
+  },
+  "singles-history-travel-duras-prison-journals-during-the-french-revolu": {
+   "source": "sht-46750",
+   "of": "the Duchesse de Duras",
+   "work": "Prison Journals During the French Revolution",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Martha Ward Carey",
+   "scan_edition": "Project Gutenberg 46750 (clean text)"
+  },
+  "singles-history-travel-elvas-a-narrative-of-the-expedition-of-hernand": {
+   "source": "sht-34997",
+   "of": "a Gentleman of Elvas",
+   "work": "A Narrative of the expedition of Hernando de Soto into Florida published at Evora in 1557",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Richard Hakluyt",
+   "scan_edition": "Project Gutenberg 34997 (clean text)"
+  },
+  "singles-history-travel-garibaldi-the-life-of-general-garibaldi-translated": {
+   "source": "sht-50544",
+   "of": "Giuseppe Garibaldi",
+   "work": "The Life of General Garibaldi Translated from his private papers; with the history of his splendid exploits in Rome, Lombardy, Sicily and Naples, to the present time.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Theodore Dwight",
+   "scan_edition": "Project Gutenberg 50544 (clean text)"
+  },
+  "singles-history-travel-general-staff-the-war-book-of-the-german-general-staff": {
+   "source": "sht-51646",
+   "of": "the Prussian Great General Staff",
+   "work": "The War Book of the German General Staff Being \"The Usages of War on Land\" Issued by the Great General Staff of the German Army",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. H. Morgan",
+   "scan_edition": "Project Gutenberg 51646 (clean text)"
+  },
+  "singles-history-travel-genevoix-neath-verdun-august-october-1914": {
+   "source": "sht-46770",
+   "of": "Maurice Genevoix",
+   "work": "'Neath Verdun, August-October, 1914",
+   "translated": "(see the Gutenberg header)",
+   "translator": "H. Grahame Richards",
+   "scan_edition": "Project Gutenberg 46770 (clean text)"
+  },
+  "singles-history-travel-gomara-the-pleasant-historie-of-the-conquest-of": {
+   "source": "sht-46524",
+   "of": "Francisco López de Gómara",
+   "work": "The pleasant historie of the conquest of the VVeast India, now called new Spayne atchieued by the vvorthy Prince Hernando Cortes, marques of the Valley of Huaxacac, most delectable to reade",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas Nicholas",
+   "scan_edition": "Project Gutenberg 46524 (clean text)"
+  },
+  "singles-history-travel-katip-celebi-the-history-of-the-maritime-wars-of-the": {
+   "source": "sht-53813",
+   "of": "Kâtip Çelebi",
+   "work": "The History of the Maritime Wars of the Turks. Chapters I. to IV.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Mitchell",
+   "scan_edition": "Project Gutenberg 53813 (clean text)"
+  },
+  "singles-history-travel-klaczko-two-chancellors": {
+   "source": "sht-39559",
+   "of": "Julian Klaczko",
+   "work": "Two Chancellors: Prince Gortchakof and Prince Bismarck",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frank P. Ward",
+   "scan_edition": "Project Gutenberg 39559 (clean text)"
+  },
+  "singles-history-travel-konig-the-voyage-of-the-deutschland": {
+   "source": "sht-45922",
+   "of": "Paul König",
+   "work": "The voyage of the \"Deutschland\"",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Vivien Ellis",
+   "scan_edition": "Project Gutenberg 45922 (clean text)"
+  },
+  "singles-history-travel-lauridsen-vitus-bering": {
+   "source": "sht-46032",
+   "of": "Peter Lauridsen",
+   "work": "Vitus Bering: the Discoverer of Bering Strait",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Julius E. Olsen",
+   "scan_edition": "Project Gutenberg 46032 (clean text)"
+  },
+  "singles-history-travel-leti-il-nipotismo-di-roma-or-the-history-of-t": {
+   "source": "sht-54001",
+   "of": "Gregorio Leti",
+   "work": "Il nipotismo di Roma, or, The History of the Popes Nephews from the time of Sixtus IV. to the death of the last Pope, Alexander VII",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Aglionby",
+   "scan_edition": "Project Gutenberg 54001 (clean text)"
+  },
+  "singles-history-travel-loher-cyprus": {
+   "source": "sht-47056",
+   "of": "Franz von Löher",
+   "work": "Cyprus: Historical and Descriptive",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. Batson Joyner",
+   "scan_edition": "Project Gutenberg 47056 (clean text)"
+  },
+  "singles-history-travel-mardiganian-ravished-armenia-the-story-of-aurora-mar": {
+   "source": "sht-53046",
+   "of": "Aurora Mardiganian",
+   "work": "Ravished Armenia The Story of Aurora Mardiganian, the Christian Girl Who Lived Through the Great Massacres",
+   "translated": "(see the Gutenberg header)",
+   "translator": "H. L. Gates",
+   "scan_edition": "Project Gutenberg 53046 (clean text)"
+  },
+  "singles-history-travel-mertens-an-account-of-the-plague-which-raged-at": {
+   "source": "sht-49567",
+   "of": "Charles de Mertens",
+   "work": "An account of the plague which raged at Moscow, in 1771",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Richard Pearson",
+   "scan_edition": "Project Gutenberg 49567 (clean text)"
+  },
+  "singles-history-travel-mitre-the-emancipation-of-south-america": {
+   "source": "sht-48856",
+   "of": "Bartolomé Mitre",
+   "work": "The Emancipation of South America",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Pilling",
+   "scan_edition": "Project Gutenberg 48856 (clean text)"
+  },
+  "singles-history-travel-moltke-the-franco-german-war-of-1870-71": {
+   "source": "sht-36209",
+   "of": "Helmuth von Moltke",
+   "work": "The Franco-German War of 1870-71",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Archibald Forbes",
+   "scan_edition": "Project Gutenberg 36209 (clean text)"
+  },
+  "singles-history-travel-mucke-the-ayesha-being-the-adventures-of-the-l": {
+   "source": "sht-45878",
+   "of": "Hellmuth von Mücke",
+   "work": "The \"Ayesha,\" being the adventures of the landing squad of the \"Emden\"",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Helene S. White",
+   "scan_edition": "Project Gutenberg 45878 (clean text)"
+  },
+  "singles-history-travel-noldeke-sketches-from-eastern-history": {
+   "source": "sht-54782",
+   "of": "Theodor Nöldeke",
+   "work": "Sketches from Eastern History",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. Sutherland Black",
+   "scan_edition": "Project Gutenberg 54782 (clean text)"
+  },
+  "singles-history-travel-pluschow-my-escape-from-donington-hall-preceded-b": {
+   "source": "sht-49264",
+   "of": "Gunther Plüschow",
+   "work": "My Escape from Donington Hall, Preceded by an Account of the Siege of Kiao-Chow in 1915",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Pauline De Chary",
+   "scan_edition": "Project Gutenberg 49264 (clean text)"
+  },
+  "singles-history-travel-politovskii-from-libau-to-tsushima-a-narrative-of-th": {
+   "source": "sht-49735",
+   "of": "Evgenii Politovsky",
+   "work": "From Libau to Tsushima A narrative of the voyage of Admiral Rojdestvensky's fleet to eastern seas, including a detailed account of the Dogger Bank incident",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frederick Rowlandson Godfrey",
+   "scan_edition": "Project Gutenberg 49735 (clean text)"
+  },
+  "singles-history-travel-reitlinger-a-diplomat-s-memoir-of-1870-being-the-ac": {
+   "source": "sht-49546",
+   "of": "Frederic Reitlinger",
+   "work": "A Diplomat's Memoir of 1870 being the account of a balloon escape from the siege of Paris and a political mission to London and Vienna",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry Scipio Reitlinger",
+   "scan_edition": "Project Gutenberg 49546 (clean text)"
+  },
+  "singles-history-travel-richthofen-the-red-battle-flyer": {
+   "source": "sht-41159",
+   "of": "Manfred von Richthofen",
+   "work": "The Red Battle Flyer",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. Ellis Barker",
+   "scan_edition": "Project Gutenberg 41159 (clean text)"
+  },
+  "singles-history-travel-sakurai-human-bullets": {
+   "source": "sht-47548",
+   "of": "Tadayoshi Sakurai",
+   "work": "Human Bullets: A Soldier's Story of Port Arthur",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Masujiro Honda",
+   "scan_edition": "Project Gutenberg 47548 (clean text)"
+  },
+  "singles-history-travel-schiltberger-the-bondage-and-travels-of-johann-schilt": {
+   "source": "sht-52569",
+   "of": "Johannes Schiltberger",
+   "work": "The Bondage and Travels of Johann Schiltberger, a Native of Bavaria, in Europe, Asia, and Africa, 1396-1427",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. Buchan Telfer",
+   "scan_edition": "Project Gutenberg 52569 (clean text)"
+  },
+  "singles-history-travel-schimmer-the-sieges-of-vienna-by-the-turks": {
+   "source": "sht-54731",
+   "of": "Karl August Schimmer",
+   "work": "The Sieges of Vienna by the Turks",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Francis Egerton Ellesmere",
+   "scan_edition": "Project Gutenberg 54731 (clean text)"
+  },
+  "singles-history-travel-schwink-ypres-1914": {
+   "source": "sht-44234",
+   "of": "Otto Schwink",
+   "work": "Ypres 1914: An Official Account Published by Order of the German General Staff",
+   "translated": "(see the Gutenberg header)",
+   "translator": "G. C. Wynne",
+   "scan_edition": "Project Gutenberg 44234 (clean text)"
+  },
+  "singles-history-travel-slatin-fire-and-sword-in-the-sudan-a-personal-n": {
+   "source": "sht-41035",
+   "of": "Rudolf Slatin",
+   "work": "Fire and Sword in the Sudan A Personal Narrative of Fighting and Serving the Dervishes 1879-1895",
+   "translated": "(see the Gutenberg header)",
+   "translator": "F. R. Wingate",
+   "scan_edition": "Project Gutenberg 41035 (clean text)"
+  },
+  "singles-history-travel-turpin-history-of-the-kingdom-of-siam-and-of-th": {
+   "source": "sht-44564",
+   "of": "F. H. Turpin",
+   "work": "History of the Kingdom of Siam and of the revolutions that have caused the overthrow of the empire, up to A.D. 1770",
+   "translated": "(see the Gutenberg header)",
+   "translator": "B. O. Cartwright",
+   "scan_edition": "Project Gutenberg 44564 (clean text)"
+  },
+  "singles-history-travel-velho-a-journal-of-the-first-voyage-of-vasco-d": {
+   "source": "sht-46440",
+   "of": "Álvaro Velho (attributed)",
+   "work": "A Journal of the First Voyage of Vasco da Gama 1497-1499",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ernest Georg Ravenstein",
+   "scan_edition": "Project Gutenberg 46440 (clean text)"
+  },
+  "singles-history-travel-vertot-the-revolutions-of-portugal": {
+   "source": "sht-43852",
+   "of": "abbé de Vertot",
+   "work": "The Revolutions of Portugal",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Gabriel Roussillon",
+   "scan_edition": "Project Gutenberg 43852 (clean text)"
+  },
+  "singles-history-travel-villari-the-two-first-centuries-of-florentine-hi": {
+   "source": "sht-45469",
+   "of": "Pasquale Villari",
+   "work": "The Two First Centuries of Florentine History The Republic and Parties at the Time of Dante. Fourth Impression.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Linda Villari",
+   "scan_edition": "Project Gutenberg 45469 (clean text)"
+  },
+  "singles-history-travel-wace-master-wace-his-chronicle-of-the-norman": {
+   "source": "sht-41163",
+   "of": "Wace",
+   "work": "Master Wace, His Chronicle of the Norman Conquest From the Roman De Rou",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edgar Taylor",
+   "scan_edition": "Project Gutenberg 41163 (clean text)"
+  },
+  "singles-history-travel-wilhelm-ii-the-kaiser-s-memoirs": {
+   "source": "sht-43522",
+   "of": "Kaiser Wilhelm II",
+   "work": "The Kaiser's Memoirs",
+   "translated": "(see the Gutenberg header)",
+   "translator": "T. R. Ybarra",
+   "scan_edition": "Project Gutenberg 43522 (clean text)"
+  },
+  "singles-history-travel-zwaardecroon-memoir-of-hendrick-zwaardecroon-commande": {
+   "source": "sht-40579",
+   "of": "Hendrick Zwaardecroon",
+   "work": "Memoir of Hendrick Zwaardecroon, commandeur of Jaffnapatam (afterwards Governor-General of Nederlands India) 1697. For the guidance of the council of Jaffnapatam, during his absence at the coast of Ma",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sophia Pieters",
+   "scan_edition": "Project Gutenberg 40579 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "sht-34997": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hakluyt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Richard Hakluyt"
+  },
+  "sht-36209": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "archibald forbes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Archibald Forbes"
+  },
+  "sht-41035": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. r. wingate",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir F. R. Wingate"
+  },
+  "sht-41163": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edgar Taylor"
+  },
+  "sht-43852": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gabriel roussillon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gabriel Roussillon"
+  },
+  "sht-44564": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. o. cartwright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "B. O. Cartwright"
+  },
+  "sht-44608": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "annette susannah beveridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Annette Susannah Beveridge"
+  },
+  "sht-45282": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edmund goldsmid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edmund Goldsmid"
+  },
+  "sht-45469": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "linda villari",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Linda Villari"
+  },
+  "sht-45656": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "conant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helen S. Conant; J. Gonino"
+  },
+  "sht-45761": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bradford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. G. Bradford"
+  },
+  "sht-46032": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "julius e. olsen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Julius E. Olsen"
+  },
+  "sht-46440": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest georg ravenstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Georg Ravenstein"
+  },
+  "sht-46524": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nicholas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 1560-1596 Thomas Nicholas"
+  },
+  "sht-46750": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Martha Ward Carey"
+  },
+  "sht-47056": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. batson joyner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. A. Batson Joyner"
+  },
+  "sht-47548": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "honda",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Masujiro Honda"
+  },
+  "sht-48856": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pilling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Pilling"
+  },
+  "sht-49735": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederick rowlandson godfrey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederick Rowlandson Godfrey"
+  },
+  "sht-50544": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dwight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Theodore Dwight"
+  },
+  "sht-52472": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Crawford"
+  },
+  "sht-52569": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. buchan telfer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Buchan Telfer"
+  },
+  "sht-53580": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ida de mouchanoff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ida de Mouchanoff"
+  },
+  "sht-53813": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Mitchell"
+  },
+  "sht-54001": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aglionby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Aglionby"
+  },
+  "sht-54731": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellesmere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Earl of Francis Egerton Ellesmere"
+  },
+  "sht-54782": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. sutherland black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Sutherland Black"
+  },
+  "sht-49567": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pearson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Richard Pearson"
+  },
+  "sht-50656": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david h. wheeler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "David H. Wheeler"
+  },
+  "sht-50717": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "helene meyer-franck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helene Meyer-Franck"
+  },
+  "sht-39559": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frank p. ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frank P. Ward"
+  },
+  "sht-40579": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pieters",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sophia Pieters"
+  },
+  "sht-49546": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry scipio reitlinger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Scipio Reitlinger"
+  },
+  "sht-46770": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. grahame richards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. Grahame Richards"
+  },
+  "sht-41159": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. ellis barker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Ellis Barker"
+  },
+  "sht-45878": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "helene s. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helene S. White"
+  },
+  "sht-45922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Vivien Ellis"
+  },
+  "sht-49264": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "de chary",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Pauline De Chary"
+  },
+  "sht-43522": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. r. ybarra",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. R. Ybarra"
+  },
+  "sht-42721": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "julius koettgen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Julius Koettgen"
+  },
+  "sht-44234": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. c. wynne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "G. C. Wynne"
+  },
+  "sht-51646": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. H. Morgan"
+  },
+  "sht-53046": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. L. Gates"
+  },
+  "sht-45958": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. appleby holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. Appleby Holt"
+  }
+ },
+ "_verified": {
+  "sht-34997": {
+   "pg": 34997,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Richard Hakluyt"
+  },
+  "sht-36209": {
+   "pg": 36209,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Archibald Forbes"
+  },
+  "sht-41035": {
+   "pg": 41035,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir F. R. Wingate"
+  },
+  "sht-41163": {
+   "pg": 41163,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edgar Taylor"
+  },
+  "sht-43852": {
+   "pg": 43852,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gabriel Roussillon"
+  },
+  "sht-44564": {
+   "pg": 44564,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "B. O. Cartwright"
+  },
+  "sht-44608": {
+   "pg": 44608,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Annette Susannah Beveridge"
+  },
+  "sht-45282": {
+   "pg": 45282,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edmund Goldsmid"
+  },
+  "sht-45469": {
+   "pg": 45469,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Linda Villari"
+  },
+  "sht-45656": {
+   "pg": 45656,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Helen S. Conant"
+  },
+  "sht-45761": {
+   "pg": 45761,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. G. Bradford"
+  },
+  "sht-46032": {
+   "pg": 46032,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Julius E. Olsen"
+  },
+  "sht-46440": {
+   "pg": 46440,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Georg Ravenstein"
+  },
+  "sht-46524": {
+   "pg": 46524,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "active 1560-1596 Thomas Nicholas"
+  },
+  "sht-46750": {
+   "pg": 46750,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Martha Ward Carey"
+  },
+  "sht-47056": {
+   "pg": 47056,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. A. Batson Joyner"
+  },
+  "sht-47548": {
+   "pg": 47548,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Masujiro Honda"
+  },
+  "sht-48856": {
+   "pg": 48856,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Pilling"
+  },
+  "sht-49735": {
+   "pg": 49735,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederick Rowlandson Godfrey"
+  },
+  "sht-50544": {
+   "pg": 50544,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Theodore Dwight"
+  },
+  "sht-52472": {
+   "pg": 52472,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Crawford"
+  },
+  "sht-52569": {
+   "pg": 52569,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Buchan Telfer"
+  },
+  "sht-53580": {
+   "pg": 53580,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ida de Mouchanoff"
+  },
+  "sht-53813": {
+   "pg": 53813,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Mitchell"
+  },
+  "sht-54001": {
+   "pg": 54001,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Aglionby"
+  },
+  "sht-54731": {
+   "pg": 54731,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Earl of Francis Egerton Ellesmere"
+  },
+  "sht-54782": {
+   "pg": 54782,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Sutherland Black"
+  },
+  "sht-49567": {
+   "pg": 49567,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Richard Pearson"
+  },
+  "sht-50656": {
+   "pg": 50656,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "David H. Wheeler"
+  },
+  "sht-50717": {
+   "pg": 50717,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Helene Meyer-Franck"
+  },
+  "sht-39559": {
+   "pg": 39559,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frank P. Ward"
+  },
+  "sht-40579": {
+   "pg": 40579,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sophia Pieters"
+  },
+  "sht-49546": {
+   "pg": 49546,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Scipio Reitlinger"
+  },
+  "sht-46770": {
+   "pg": 46770,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. Grahame Richards"
+  },
+  "sht-41159": {
+   "pg": 41159,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Ellis Barker"
+  },
+  "sht-45878": {
+   "pg": 45878,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Helene S. White"
+  },
+  "sht-45922": {
+   "pg": 45922,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Vivien Ellis"
+  },
+  "sht-49264": {
+   "pg": 49264,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Pauline De Chary"
+  },
+  "sht-43522": {
+   "pg": 43522,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. R. Ybarra"
+  },
+  "sht-42721": {
+   "pg": 42721,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Julius Koettgen"
+  },
+  "sht-44234": {
+   "pg": 44234,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "G. C. Wynne"
+  },
+  "sht-51646": {
+   "pg": 51646,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. H. Morgan"
+  },
+  "sht-53046": {
+   "pg": 53046,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. L. Gates"
+  },
+  "sht-45958": {
+   "pg": 45958,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. Appleby Holt"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,381 @@
+{
+ "_about": "Public-domain E. M. Goulburn (Edward Meyrick Goulburn, 1818-1897, Head Master of Rugby, Dean of Norwich) for the Word Hoard: An Address to the Sisters of St. Peter's Home (1864) from Project Gutenberg, and 21 books from Internet Archive scans, 1850-1898, among them his Bampton Lectures on the Resurrection of the Body, Thoughts on Personal Religion, The Pursuit of Holiness, The Collects of the Day and Three Counsels of the Divine Master. Some multi-volume works have only one volume on IA. Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "goulburn"
+ ],
+ "_surname": [
+  "edward meyrick goulburn",
+  "e. m. goulburn",
+  "goulburn, edward meyrick",
+  "goulburn, e. m.",
+  "edward meyrick goulburn, d.d.",
+  "rev. e. m. goulburn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "goulburn-address-sisters": [
+   "54191",
+   "An Address to the Sisters of St. Peter's Home, Brompton (London: Rivingtons, 1864)"
+  ]
+ },
+ "internet_archive": {
+  "goulburn-resurrection-body": [
+   "doctrineresurre00goulgoog",
+   "The Doctrine of the Resurrection of the Body, the Bampton Lectures for MDCCCL (Oxford: J. Vincent; London: Hatchard; title-page year OCR'd 1860)"
+  ],
+  "goulburn-manual-confirmation": [
+   "amanualconfirma01goulgoog",
+   "A Manual of Confirmation (London: Rivingtons; Rugby: Crossley and Billington, M.DCCC.LV)"
+  ],
+  "goulburn-personal-religion": [
+   "thoughtsonperso01goulgoog",
+   "Thoughts on Personal Religion, enlarged edition (London: Rivingtons, 1863)"
+  ],
+  "goulburn-holy-communion-2": [
+   "officeholycommu00goulgoog",
+   "The Office of the Holy Communion in the Book of Common Prayer, vol. 2 (London: Rivingtons, 1863)"
+  ],
+  "goulburn-sermons-twenty-years-1": [
+   "sermonspreachedo0000goul",
+   "Sermons Preached on Different Occasions during the Last Twenty Years, vol. 1, second edition enlarged (London: Rivingtons, 1863)"
+  ],
+  "goulburn-idle-word": [
+   "idlewordshortre01goulgoog",
+   "The Idle Word: Short Religious Essays upon the Gift of Speech, second edition enlarged (London: Rivingtons, 1864)"
+  ],
+  "goulburn-acts-of-deacons": [
+   "actsdeaconsacou00goulgoog",
+   "The Acts of the Deacons (London: Rivingtons, 1866)"
+  ],
+  "goulburn-farewell-counsels": [
+   "farewellcounsel00goulgoog",
+   "Farewell Counsels of a Pastor to his Flock (London: Rivingtons, 1867)"
+  ],
+  "goulburn-popular-objections": [
+   "popularobjectio00goulgoog",
+   "Popular Objections to the Book of Common Prayer Considered (London: Rivingtons, 1868)"
+  ],
+  "goulburn-pursuit-holiness": [
+   "pursuitholiness02goulgoog",
+   "The Pursuit of Holiness: a Sequel to Thoughts on Personal Religion, first edition (London: Rivingtons; New York: Pott and Amery, 1869)"
+  ],
+  "goulburn-cathedral-system": [
+   "principlescathe00goulgoog",
+   "The Principles of the Cathedral System Vindicated, eight sermons (London: Rivingtons, 1870)"
+  ],
+  "goulburn-holy-catholic-church": [
+   "holycatholicchur00goul",
+   "The Holy Catholic Church: its Divine Ideal, Ministry, and Institutions (New York: Pott, Young, 1873)"
+  ],
+  "goulburn-gospel-childhood": [
+   "gospelchildhood00goulgoog",
+   "The Gospel of the Childhood (New York: Pott, Young, MDCCCLXXIII)"
+  ],
+  "goulburn-lords-supper-commentary": [
+   "acommentaryexpos00gouluoft",
+   "A Commentary Expository and Devotional on the Order of the Administration of the Lord's Supper, new edition (London: Rivingtons, 1875)"
+  ],
+  "goulburn-child-samuel": [
+   "MN41661ucmf_6",
+   "The Child Samuel (New York: Pott, Young, MDCCCLXXVI)"
+  ],
+  "goulburn-collects-1": [
+   "thecollectsofthe01gouluoft",
+   "The Collects of the Day: an Exposition Critical and Devotional, vol. 1, first edition (London: Rivingtons, MDCCCLXXX)"
+  ],
+  "goulburn-everlasting-punishment": [
+   "everlastingpunis00goul",
+   "Everlasting Punishment: Lectures at St James's, Piccadilly (New York: Pott, Young, MDCCCLXXX)"
+  ],
+  "goulburn-liturgical-gospels-2": [
+   "thoughtsuponlitu02gouliala",
+   "Thoughts upon the Liturgical Gospels, vol. 2, second edition (London: Rivingtons, MDCCCLXXXVI)"
+  ],
+  "goulburn-three-counsels-1": [
+   "threecounselsofd01goul",
+   "Three Counsels of the Divine Master for the Conduct of the Spiritual Life, vol. 1 (London: John Murray, 1888)"
+  ],
+  "goulburn-three-counsels-2": [
+   "threecounselsofd02goul",
+   "Three Counsels of the Divine Master, vol. 2 (London: John Murray, 1888)"
+  ],
+  "goulburn-lords-prayer": [
+   "lordsprayerbyemg00gouliala",
+   "The Lord's Prayer, posthumous (London: John Murray, 1898)"
+  ]
+ },
+ "_alternates": {
+  "goulburn-biography": "John William Burgon: a Biography, 2 vols. (Murray, 1892; johnwilliamburgo01goul/02goul) and The Book of Rugby School (1856): biography and history",
+  "goulburn-multi": "Replies to Essays and Reviews (1862, one of seven) and Herbert de Losinga (1878, edited and translated with Symonds)",
+  "goulburn-editions": "Other editions: Office of the Holy Communion (1864, 1867), Thoughts on Personal Religion (American 1864), Introduction to the Devotional Study of the Holy Scriptures (American 1866, 1869), Collects (Longmans, 1894), Primitive Church Teaching (1912), Short Devotional Forms (1851, partly compiled)"
+ },
+ "_excluded": {
+  "goulburn-namesakes": "Edward Goulburn the elder (novels, 1810-11) and Henry Goulburn the politician",
+  "goulburn-other-hands": "Compton's memoir (1899), a 1996 selection, and the Magee-Bradlaugh debate (Gutenberg 64503)"
+ },
+ "_identity_checked": {
+  "goulburn-personal-religion": {
+   "author": "Title page read: 'by Edward Meyrick Goulburn, D.D.', OCR 'EDWAED METEICK GOULBUEN'"
+  },
+  "goulburn-holy-communion-2": {
+   "author": "Title page read: 'by Edward Meyrick Goulburn, D.D.', OCR 'EDWARD METRICK GOULBUEN'"
+  },
+  "goulburn-acts-of-deacons": {
+   "author": "Title page read: 'by Edward Meyrick Goulburn, D.D.', OCR 'EDWAED MEYEICK GOULBUKN'"
+  },
+  "goulburn-farewell-counsels": {
+   "author": "Title page read: 'Edward Meyrick Goulburn, D.D.', Rivingtons; OCR splits the name with a stray full stop"
+  },
+  "goulburn-holy-catholic-church": {
+   "author": "Title page read: 'Edward Meyrick Goulburn, D.D., Dean of Norwich', OCR 'HOWARD MEYRICK'gOULBURN'; Pott, Young, New York"
+  },
+  "goulburn-everlasting-punishment": {
+   "author": "Title page read: 'by Edward Meyrick Goulburn, D.D., Dean of Norwich', OCR inserts a stray quote mark after Meyrick"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "goulburn-address-sisters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goulburn-resurrection-body": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-manual-confirmation": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-personal-religion": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-holy-communion-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-sermons-twenty-years-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goulburn-idle-word": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-acts-of-deacons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-farewell-counsels": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-popular-objections": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-pursuit-holiness": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-cathedral-system": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-holy-catholic-church": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-gospel-childhood": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-lords-supper-commentary": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-child-samuel": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goulburn-collects-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880]-82",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-everlasting-punishment": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goulburn-liturgical-gospels-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-three-counsels-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "goulburn, edward meyrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-three-counsels-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward meyrick goulburn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "goulburn-lords-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. m. goulburn",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "_about": "James Walker (1821-1891), Free Church minister of Carnwath: The Theology and Theologians of Scotland, chiefly of the seventeenth and eighteenth centuries, the Cunningham Lectures for 1870-71 (Edinburgh: T. & T. Clark). Named for Carnwath because James Walker is a common name. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "james walker"
+ ],
+ "_surname": [
+  "james walker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "walker-theology-theologians-scotland": [
+   "theologytheologi00walk_0",
+   "The Theology and Theologians of Scotland, the Cunningham Lectures (Edinburgh: T. & T. Clark)"
+  ]
+ },
+ "_alternates": {
+  "theologytheologi00walk (1888), theologytheologi0000jame, india.history.resource.74444": "The second edition (1888) and other copies."
+ },
+ "_excluded": {
+  "theologyandtheo00walkgoog, theologytheologi0000walk (1982)": "Modern reprint."
+ },
+ "_checks": {
+  "walker-theology-theologians-scotland": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

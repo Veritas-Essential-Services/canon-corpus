@@ -1,0 +1,100 @@
+{
+ "_about": "A. D. Crake: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "A. D. Crake",
+ "_name_words": [
+  "augustine",
+  "crake",
+  "david"
+ ],
+ "_surname": [
+  "a. d. crake",
+  "augustine david crake",
+  "crake"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "adcrake-edwy-the-fair-or-the-first-chronicle-of-aescendune-a": [
+   13215,
+   "Edwy the Fair or the First Chronicle of Aescendune A Tale of the Days of Saint Dunstan"
+  ],
+  "adcrake-alfgar-the-dane-or-the-second-chronicle-of-aescendun": [
+   13305,
+   "Alfgar the Dane or the Second Chronicle of Aescendune A Tale of the Days of Edmund Ironside"
+  ],
+  "adcrake-rival-heirs": [
+   13375,
+   "The Rival Heirs; being the Third and Last Chronicle of Aescendune"
+  ],
+  "adcrake-house-of-walderne-a-tale-of-the-cloister-and-the-for": [
+   17012,
+   "The House of Walderne A Tale of the Cloister and the Forest in the Days of the Barons' Wars"
+  ],
+  "adcrake-last-abbot-of-glastonbury": [
+   53010,
+   "The Last Abbot of Glastonbury: A Tale of the Dissolution of the Monasteries"
+  ],
+  "adcrake-brian-fitz-count": [
+   54583,
+   "Brian Fitz-Count: A Story of Wallingford Castle and Dorchester Abbey"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "adcrake-edwy-the-fair-or-the-first-chronicle-of-aescendune-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. crake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adcrake-alfgar-the-dane-or-the-second-chronicle-of-aescendun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. crake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adcrake-rival-heirs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. crake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adcrake-house-of-walderne-a-tale-of-the-cloister-and-the-for": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. crake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adcrake-last-abbot-of-glastonbury": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. crake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adcrake-brian-fitz-count": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. crake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

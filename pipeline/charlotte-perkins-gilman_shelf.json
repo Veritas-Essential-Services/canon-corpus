@@ -1,0 +1,85 @@
+{
+ "_about": "Charlotte Perkins Gilman (1860-1935), American social theorist; her fiction is left to the storytellers. Gutenberg: Women and Economics (1898); Concerning Children (1900); The Home, its Work and Influence (1903); Human Work (1904); The Man-Made World, or Our Androcentric Culture (1911). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Charlotte Perkins Gilman",
+ "_name_words": [
+  "charlotte",
+  "perkins",
+  "gilman"
+ ],
+ "_surname": [
+  "gilman",
+  "perkins gilman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gilman-women-and-economics": [
+   57913,
+   "Women and Economics (1898)"
+  ],
+  "gilman-concerning-children": [
+   40481,
+   "Concerning Children (1900)"
+  ],
+  "gilman-the-home": [
+   44481,
+   "The Home, its Work and Influence (1903)"
+  ],
+  "gilman-human-work": [
+   64098,
+   "Human Work (1904)"
+  ],
+  "gilman-man-made-world": [
+   3015,
+   "The Man-Made World, or Our Androcentric Culture (1911)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "gilman-women-and-economics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gilman-concerning-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gilman-the-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gilman-human-work": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gilman-man-made-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

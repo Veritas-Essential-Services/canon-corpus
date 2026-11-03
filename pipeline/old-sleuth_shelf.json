@@ -1,0 +1,123 @@
+{
+ "_about": "Old Sleuth (Harlan Page Halsey)'s writing at Gutenberg: dime-novel detective stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Old Sleuth (Harlan Page Halsey)",
+ "_name_words": [
+  "old",
+  "sleuth"
+ ],
+ "_surname": [
+  "old sleuth"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "oldsleuth-dock-rats-of-new-york": [
+   5248,
+   "The \"Dock Rats\" of New York; Or, The Smuggler Band's Last Stand"
+  ],
+  "oldsleuth-desperate-chance": [
+   10690,
+   "A Desperate Chance; Or, The Wizard Tramp's Revelation, a Thrilling Narrative"
+  ],
+  "oldsleuth-oscar-the-detective": [
+   19335,
+   "Oscar the Detective; Or, Dudie Dunne, The Exquisite Detective"
+  ],
+  "oldsleuth-cad-metti-the-female-detective-strategist": [
+   19929,
+   "Cad Metti, The Female Detective Strategist; Or, Dudie Dunne Again in the Field"
+  ],
+  "oldsleuth-two-wonderful-detectives": [
+   26155,
+   "Two Wonderful Detectives; Or, Jack and Gil's Marvelous Skill"
+  ],
+  "oldsleuth-successful-shadow": [
+   26175,
+   "A Successful Shadow; Or, A Detective's Successful Quest"
+  ],
+  "oldsleuth-twin-ventriloquists": [
+   43765,
+   "The Twin Ventriloquists; or, Nimble Ike and Jack the Juggler A Tale of Strategy and Jugglery"
+  ],
+  "oldsleuth-nimble-ike-the-trick-ventriloquist": [
+   67179,
+   "Nimble Ike, the Trick Ventriloquist: A Rousing Tale of Fun and Frolic"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "oldsleuth-dock-rats-of-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "old sleuth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oldsleuth-desperate-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "old sleuth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oldsleuth-oscar-the-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "old sleuth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oldsleuth-cad-metti-the-female-detective-strategist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "old sleuth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oldsleuth-two-wonderful-detectives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "old sleuth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oldsleuth-successful-shadow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "old sleuth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oldsleuth-twin-ventriloquists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "old sleuth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oldsleuth-nimble-ike-the-trick-ventriloquist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "old sleuth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

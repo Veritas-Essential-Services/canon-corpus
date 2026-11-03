@@ -1,0 +1,135 @@
+{
+ "_about": "Public-domain Isaac Dowd Williamson (1807-1876), Universalist minister and editor, for the Word Hoard: An Argument for the Truth of Christianity (1836), An Exposition and Defence of Universalism (1840), The Crown of Life (1850), The Vision of Faith, sermons on the Decalogue and the Lord's Prayer (1852), An Examination of the Doctrine of Endless Punishment (1854 printing), Sermons for the Times and the People (1855) and The Philosophy of Universalism (1866). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 82 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "i. d. williamson",
+  "isaac dowd williamson",
+  "isaac d. williamson"
+ ],
+ "_surname": [
+  "i. d. williamson",
+  "isaac dowd williamson",
+  "isaac d. williamson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "williamson-argument-truth": [
+   "argumentfortruth00will_0",
+   "An argument for the truth of Christianity (New York, P. Price & co., 1836)"
+  ],
+  "williamson-defence-universalism": [
+   "expositiondefenc00will",
+   "An exposition and defence of Universalism : in a series of sermons delivered in the Universalist Church, Baltimore, Md (New York : P. Price, 1840)"
+  ],
+  "williamson-crown-of-life": [
+   "crownoflifeserie00will",
+   "The crown of life : a series of discourses (Boston, J.M. Usher ; Cincinnati, O., J.A. Gurley, 1850)"
+  ],
+  "williamson-vision-of-faith": [
+   "visionfaithaser00willgoog",
+   "The Vision of Faith: A Series of Sermons on the Decalogue and the Lord's Prayer / by I. D (B. F. Foster, 1852)"
+  ],
+  "williamson-endless-punishment": [
+   "anexaminationdo00willgoog",
+   "An Examination of the Doctrine of Endless Punishment: Its Claims to Divine Origin Refuted, in a (Quinby, 1854)"
+  ],
+  "williamson-sermons-for-times": [
+   "sermonsfortimesp00will",
+   "Sermons for the times and the people (New York : H. Lyon, 1855)"
+  ],
+  "williamson-philosophy-universalism": [
+   "philosophyofuniv00will",
+   "The philosophy of Universalism ([n.p.], 1866)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "williamson-other": "The Universalist Church Companion (a service book he compiled); Twelve Sermons of the 1853 Universalist convention (many preachers)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "williamson-vision-of-faith": "title page image: 'THE VISION OF FAITH, A SERIES OF SERMONS ON THE DECALOGUE, AND THE LORD'S PRAYER. BY REV. I. D. WILLIAMSON, D. D., OF LOUISVILLE, KY. MADISON IA: B. F. FOSTER & CO. 1852' (the OCR garbled the name)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "williamson-argument-truth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. d. williamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "williamson-defence-universalism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. d. williamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "williamson-crown-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. d. williamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williamson-vision-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williamson-endless-punishment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. d. williamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williamson-sermons-for-times": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. d. williamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williamson-philosophy-universalism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. d. williamson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "_about": "Sherwood Anderson: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Sherwood Anderson",
+ "_name_words": [
+  "anderson",
+  "sherwood"
+ ],
+ "_surname": [
+  "sherwood anderson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sanderson-winesburg-ohio": [
+   416,
+   "Winesburg, Ohio: A Group of Tales of Ohio Small Town Life"
+  ],
+  "sanderson-marching-men": [
+   7045,
+   "Marching Men"
+  ],
+  "sanderson-triumph-of-the-egg-and-other-stories": [
+   7048,
+   "Triumph of the Egg, and Other Stories"
+  ],
+  "sanderson-poor-white": [
+   7414,
+   "Poor White: A Novel"
+  ],
+  "sanderson-windy-mcphersons-son": [
+   7443,
+   "Windy McPherson's Son"
+  ],
+  "sanderson-horses-and-men": [
+   60097,
+   "Horses and Men: Tales, long and short, from our American life"
+  ],
+  "sanderson-modern-writer": [
+   71691,
+   "The modern writer"
+  ],
+  "sanderson-story-tellers-story": [
+   74755,
+   "A story teller's story"
+  ],
+  "sanderson-many-marriages": [
+   76745,
+   "Many Marriages"
+  ],
+  "sanderson-tar": [
+   79204,
+   "Tar"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "sanderson-winesburg-ohio": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sherwood anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanderson-marching-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sherwood anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanderson-triumph-of-the-egg-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sherwood anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanderson-poor-white": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sherwood anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanderson-windy-mcphersons-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sherwood anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanderson-horses-and-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sherwood anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanderson-modern-writer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sherwood anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanderson-story-tellers-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sherwood anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanderson-many-marriages": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sherwood anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanderson-tar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sherwood anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

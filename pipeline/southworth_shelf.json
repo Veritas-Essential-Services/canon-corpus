@@ -1,0 +1,490 @@
+{
+ "_about": "Mrs. E. D. E. N. Southworth's sensation novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "E. D. E. N. Southworth",
+ "_name_words": [
+  "southworth"
+ ],
+ "_surname": [
+  "e. d. e. n. southworth",
+  "emma dorothy eliza nevitte southworth",
+  "emma d. e. n. southworth"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "edensouthworth-capitola-the-madcap": [
+   3792,
+   "Capitola the madcap",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-self-raised": [
+   6376,
+   "Self-Raised; Or, From the Depths"
+  ],
+  "edensouthworth-missing-bride": [
+   14382,
+   "The Missing Bride"
+  ],
+  "edensouthworth-ishmael": [
+   15774,
+   "Ishmael; Or, In the Depths",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-lost-lady-of-lone": [
+   16039,
+   "The Lost Lady of Lone"
+  ],
+  "edensouthworth-for-womans-love": [
+   16094,
+   "For Woman's Love"
+  ],
+  "edensouthworth-cruel-as-the-grave": [
+   23789,
+   "Cruel as the grave"
+  ],
+  "edensouthworth-capitolas-peril": [
+   24337,
+   "Capitola's peril",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-her-mothers-secret": [
+   26259,
+   "Her mother's secret"
+  ],
+  "edensouthworth-victors-triumph-sequel-to-a-beautiful-fiend": [
+   29729,
+   "Victor's Triumph Sequel to A Beautiful Fiend"
+  ],
+  "edensouthworth-hidden-hand": [
+   29866,
+   "Hidden hand",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-tried-for-her-life-a-sequel-to-cruel-as-the-g": [
+   32757,
+   "Tried for Her Life A Sequel to \"Cruel As the Grave\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-haunted-homestead": [
+   36713,
+   "The Haunted Homestead: A Novel"
+  ],
+  "edensouthworth-loves-bitterest-cup": [
+   68273,
+   "Love's bitterest cup"
+  ],
+  "edensouthworth-loves-labor-won": [
+   68610,
+   "Love's labor won"
+  ],
+  "edensouthworth-allworth-abbey": [
+   69675,
+   "Allworth Abbey",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-discarded-daughter": [
+   69714,
+   "The discarded daughter; or, The children of the isle",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-for-whose-sake-a-sequel-to-why-did-he-wed-her": [
+   69809,
+   "For whose sake? A sequel to \"Why did he wed her?\""
+  ],
+  "edensouthworth-brides-fate-the-sequel-to-the-changed-brides": [
+   69828,
+   "The bride's fate The sequel to \"The changed brides\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-changed-brides": [
+   69972,
+   "The changed brides",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-how-he-won-her": [
+   70131,
+   "How he won her",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-india": [
+   70476,
+   "India"
+  ],
+  "edensouthworth-curse-of-clifton": [
+   70776,
+   "The curse of Clifton",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-gloria": [
+   70811,
+   "Gloria"
+  ],
+  "edensouthworth-lilith": [
+   70855,
+   "Lilith"
+  ],
+  "edensouthworth-dorothy-harcourts-secret": [
+   71098,
+   "Dorothy Harcourt's secret"
+  ],
+  "edensouthworth-fair-play": [
+   75006,
+   "Fair play"
+  ],
+  "edensouthworth-when-shadows-die": [
+   75317,
+   "When shadows die"
+  ],
+  "edensouthworth-lady-of-the-isle": [
+   75497,
+   "The Lady of the Isle",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-deserted-wife": [
+   76591,
+   "The deserted wife"
+  ],
+  "edensouthworth-ems-husband": [
+   76916,
+   "Em's husband"
+  ],
+  "edensouthworth-brandon-coyles-wife": [
+   77295,
+   "Brandon Coyle's wife",
+   {
+    "contents_only": true
+   }
+  ],
+  "edensouthworth-fatal-marriage": [
+   79290,
+   "The fatal marriage",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "edensouthworth-capitola-the-madcap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emma dorothy eliza nevitte southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-self-raised": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-missing-bride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-ishmael": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-lost-lady-of-lone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emma dorothy eliza nevitte southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-for-womans-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-cruel-as-the-grave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emma dorothy eliza nevitte southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-capitolas-peril": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emma dorothy eliza nevitte southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-her-mothers-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-victors-triumph-sequel-to-a-beautiful-fiend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-hidden-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-tried-for-her-life-a-sequel-to-cruel-as-the-g": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emma dorothy eliza nevitte southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-haunted-homestead": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-loves-bitterest-cup": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-loves-labor-won": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-allworth-abbey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-discarded-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-for-whose-sake-a-sequel-to-why-did-he-wed-her": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-brides-fate-the-sequel-to-the-changed-brides": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-changed-brides": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-how-he-won-her": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emma dorothy eliza nevitte southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-india": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-curse-of-clifton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-gloria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-lilith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-dorothy-harcourts-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-fair-play": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-when-shadows-die": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-lady-of-the-isle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-deserted-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emma dorothy eliza nevitte southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-ems-husband": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-brandon-coyles-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edensouthworth-fatal-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. d. e. n. southworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

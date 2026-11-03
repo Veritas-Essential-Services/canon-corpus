@@ -1,0 +1,94 @@
+{
+ "_about": "Henry Cecil Sturt (1863-1946), Oxford personal idealist. Raw IA OCR: Personal Idealism, philosophical essays by eight members of the University of Oxford, edited by Henry Sturt (London: Macmillan, 1902), clean 0.94; Idola Theatri, a criticism of Oxford thought and thinkers from the standpoint of personal idealism (London: Macmillan, 1906), clean 0.90; The Principles of Understanding (Cambridge: University Press, 1915), clean 0.93; Socialism and Character (New York: Dutton, 1922), clean 0.94; Moral Experience, an outline of ethics for class teaching (first published April 1928), clean 0.94. US public domain. No uids minted.",
+ "_author": "Henry Sturt",
+ "_name_words": [
+  "henry",
+  "cecil",
+  "sturt"
+ ],
+ "_surname": [
+  "sturt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sturt-personal-idealism-1902": [
+   "personalidealism00sturiala",
+   "Personal Idealism, ed. Henry Sturt (Macmillan, 1902)"
+  ],
+  "sturt-idola-theatri-1906": [
+   "cu31924029046213",
+   "Idola Theatri (Macmillan, 1906)"
+  ],
+  "sturt-principles-of-understanding-1915": [
+   "principlesofunde0000henr",
+   "The Principles of Understanding (Cambridge, 1915)"
+  ],
+  "sturt-socialism-and-character-1922": [
+   "socialismcharact00stur_0",
+   "Socialism and Character (Dutton, 1922)"
+  ],
+  "sturt-moral-experience-1928": [
+   "moralexperience032449mbp",
+   "Moral Experience (1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sturt-personal-idealism-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sturt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sturt-idola-theatri-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sturt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sturt-principles-of-understanding-1915": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sturt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sturt-socialism-and-character-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sturt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "sturt-moral-experience-1928": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sturt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

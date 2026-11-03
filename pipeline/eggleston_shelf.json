@@ -1,0 +1,31 @@
+{
+ "_about": "Edward Eggleston, Stories of Great Americans for Little Americans (1895), with the George Washington stories. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Edward Eggleston",
+ "_name_words": [
+  "edward",
+  "eggleston"
+ ],
+ "_surname": [
+  "eggleston"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eggleston-stories-of-great-americans": [
+   10070,
+   "Stories of Great Americans for Little Americans (1895)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "eggleston-stories-of-great-americans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

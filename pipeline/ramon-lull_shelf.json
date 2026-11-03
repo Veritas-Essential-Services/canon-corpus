@@ -1,0 +1,129 @@
+{
+ "_about": "Public-domain Ramon Lull (about 1232-1316, Majorcan philosopher and mystic) in English for the Word Hoard: The Book of the Lover and the Beloved (SPCK, 1923) from Project Gutenberg, and Blanquerna, The Art of Contemplation (1925) and The Book of the Beasts (1927), all translated from the Catalan by E. Allison Peers, with William Caxton's Book of the Ordre of Chyualry (EETS, 1926), from Internet Archive scans. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lull"
+ ],
+ "_surname": [
+  "ramon lull",
+  "ramón lull",
+  "raymond lull",
+  "raymond lully",
+  "ramon lul",
+  "lull"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "lull-lover-and-beloved": [
+   "60704",
+   "The Book of the Lover and the Beloved, translated from the Catalan by E. Allison Peers (London: SPCK, 1923)"
+  ]
+ },
+ "internet_archive": {
+  "lull-blanquerna": [
+   "blanquernaathirteenthpeers",
+   "Blanquerna: a Thirteenth-Century Romance, translated from the Catalan by E. Allison Peers (London: Jarrolds; catalogued 1926)"
+  ],
+  "lull-art-of-contemplation": [
+   "artofcontemplati0000eall",
+   "The Art of Contemplation, translated from the Catalan by E. Allison Peers (London: SPCK, 1925)"
+  ],
+  "lull-book-of-the-beasts": [
+   "bookofbeast0000eall",
+   "The Book of the Beasts, translated from the Catalan by E. Allison Peers (London: Burns Oates & Washbourne, 1927)"
+  ],
+  "lull-order-of-chivalry-caxton": [
+   "30081000926018",
+   "The Book of the Ordre of Chyualry, translated and printed by William Caxton from a French version, ed. Alfred T. P. Byles (London: EETS, 1926)"
+  ]
+ },
+ "_alternates": {
+  "lull-hay": "The Buke of the Order of Knighthood, Gilbert Hay's Middle Scots version (Abbotsford Club, 1847; PG 43365): Lull is not named on the title page",
+  "lull-copies": "Other scans of the 1923 Lover and Beloved and of Blanquerna; the Caxton print itself (no title page)"
+ },
+ "_excluded": {
+  "lull-about": "Peers's biography (1929)",
+  "lull-late": "Printings from 1945 on",
+  "lull-other-languages": "Latin, Catalan and Spanish editions"
+ },
+ "_rights_checked": {
+  "lull-blanquerna": "title page read: Jarrolds, 34 Paternoster Row, printed at the Mayflower Press; no year; catalogued 1926; the preface cites the SPCK 1923 Lover and Beloved"
+ },
+ "_pending": {
+  "lull-tree-of-love": "Peers's The Tree of Love (1926): not found"
+ },
+ "_translators": {
+  "lull-lover-and-beloved": "peers",
+  "lull-blanquerna": "peers",
+  "lull-art-of-contemplation": "peers",
+  "lull-book-of-the-beasts": "peers",
+  "lull-order-of-chivalry-caxton": "caxton"
+ },
+ "_checks": {
+  "lull-lover-and-beloved": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ramón lull",
+   "translator_claimed": "peers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. Allison Peers",
+   "translator_match": true
+  },
+  "lull-blanquerna": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ramon lull",
+   "translator_claimed": "peers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Jarrolds, 34 Paternoster Row, printed at the Mayflower Press; no year; catalogued 1926; the preface cites the SPCK 1923 Lover and Beloved"
+  },
+  "lull-art-of-contemplation": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ramon lull",
+   "translator_claimed": "peers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lull-book-of-the-beasts": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ramon lull",
+   "translator_claimed": "peers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lull-order-of-chivalry-caxton": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ramon lull",
+   "translator_claimed": "caxton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

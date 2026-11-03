@@ -1,0 +1,119 @@
+{
+ "_about": "Public-domain William Gahan (1730-1804), Irish Augustinian friar in Dublin, for the Word Hoard: A Compendious Abstract of the History of the Church of Christ, The Christian's Guide to Heaven, The Complete Manual of Catholic Piety, Sermons and Moral Discourses for all the Sundays, and his testimony at the Trim assizes. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 98 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william gahan",
+  "w. gahan",
+  "gahan"
+ ],
+ "_surname": [
+  "william gahan",
+  "w. gahan",
+  "gahan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gahan-church-history": [
+   "compendiousabst00gaha",
+   "A compendious abstract of the history of the church of Christ (New-York, Printed by J. Seymour, 1814)"
+  ],
+  "gahan-trim-testimony": [
+   "TheIntrepidAndTrulyOrthodoxTestimony",
+   "The Intrepid and Truly Orthodox Testimony given by the Rev. William Gahan, at the Trim Assizes, Aug. 24th. 1802. Wherein the lessee of Catherine O'Brien Butler was plaintiff, and the Rev. A. Dunn ... defendant [With a portrait.] (Dublin : T. & M. Haydock, 1823)"
+  ],
+  "gahan-guide-to-heaven": [
+   "christiansguidet00gaha",
+   "The Christian's guide to heaven; or, a complete manual of Catholic piety (catalogued 1824)"
+  ],
+  "gahan-manual-piety": [
+   "CompleteManualOfCatholicPiety1844",
+   "The complete manual of Catholic piety; containing a selection of fervent prayers, pious reflections and solid instructions, adapted to every state of life (Dublin, Duffy, 1844)"
+  ],
+  "gahan-sermons-1846": [
+   "sermonsmoraldisc00gaha",
+   "Sermons and moral discourses : for all the Sundays and principal festivals of the year, on the most important truths and maxims of the gospel (Dublin : Printed by Richard Grace and Sons, 1846)"
+  ],
+  "gahan-sermons-sundays": [
+   "SermonsForEverySundayInTheYear",
+   "Sermons for every Sunday in the year and for the leading holidays of obligation / by William Gahan ; with a preface by Bishop Walsh ; edited by James O'Leary (New York, N.Y. : D. & J. Sadlier & Co., 1875)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gahan-history-bible": "LHistoireDuVieux: A History of the Holy Bible, translated from the French by Joseph Reeve; Gahan only revised it"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gahan-church-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gahan-trim-testimony": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gahan",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gahan-guide-to-heaven": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gahan-manual-piety": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gahan-sermons-1846": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gahan-sermons-sundays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "_about": "George Washington Sprott (1829-1909), the historian of Scottish worship: The Book of Common Order of the Church of Scotland, commonly known as John Knox's Liturgy, with the Westminster Directory for the Public Worship of God, historical introductions and notes by Sprott and Thomas Leishman (Edinburgh: Blackwood, 1868); Scottish Liturgies of the Reign of James VI, the two liturgical drafts of c.1618 and the Ordinal of 1620, revised edition (Edinburgh: Blackwood, 1901); and The Worship and Offices of the Church of Scotland, his Baird Lectures (Edinburgh: Blackwood, 1882). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "sprott"
+ ],
+ "_surname": [
+  "sprott"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sprott-book-of-common-order-1868": [
+   "comorde00chur",
+   "Book of Common Order of the Church of Scotland (John Knox's Liturgy) and the Westminster Directory, ed. Sprott and Leishman (Edinburgh: Blackwood, 1868)"
+  ],
+  "sprott-scottish-liturgies-1901": [
+   "scottishliturgie01epis",
+   "Scottish Liturgies of the Reign of James VI, ed. Sprott, revised edition (Edinburgh: Blackwood, 1901)"
+  ],
+  "sprott-worship-and-offices-1882": [
+   "worshipofficesof00spro",
+   "The Worship and Offices of the Church of Scotland (Edinburgh: Blackwood, 1882)"
+  ]
+ },
+ "_alternates": {
+  "bookeofcommonpra00chur, scottishliturgi00servgoog (1871)": "The first edition of Scottish Liturgies, set in long-s type.",
+  "bookofcommonorde01chur, bookcommonorder01laugoog (1873)": "Another edition of Knox's Liturgy (1873); its OCR reads much worse (about a fifth common words).",
+  "worshipchurchsc00sprogoog (1893)": "A 59-page pamphlet on worship in the Covenanting period."
+ },
+ "_excluded": {
+  "scottishliturgie0000revg, scottishliturgie0000geor": "Lending-library scans."
+ },
+ "_checks": {
+  "sprott-book-of-common-order-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sprott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sprott-scottish-liturgies-1901": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sprott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sprott-worship-and-offices-1882": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sprott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

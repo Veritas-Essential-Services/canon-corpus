@@ -1,0 +1,276 @@
+{
+ "_about": "Public-domain Jacques-Bénigne Bossuet (1627-1704, Bishop of Meaux) in English for the Word Hoard: the Exposition of the Doctrines of the Catholic Church (1672; Fletcher, Dublin 1824), the History of the Variations of the Protestant Churches (Antwerp 1742; Dublin 1836), the Universal History in James Elphinston's translation (1767, 1778), the Funeral Orations (1800), the Conference with Claude (Baltimore, 1842), the Political Science (1842), Maxims and Reflections upon Plays (1699), and F. M. Capes's Sermon on the Mount (1900) and Devotion to the Blessed Virgin (1899), all from Internet Archive scans. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bossuet"
+ ],
+ "_surname": [
+  "bossuet",
+  "benignus bossuet",
+  "benigne bossuet",
+  "bishop of meaux",
+  "bp. of meaux"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bossuet-exposition-1672": [
+   "bim_early-english-books-1641-1700_an-exposition-of-the-doc_bossuet-jacques-benigne_1672",
+   "An Exposition of the Doctrine of the Catholick Church in Matters of Controversie (Paris: Vincent du Moutier; catalogued 1672)"
+  ],
+  "bossuet-exposition-fletcher-1824": [
+   "TheCatholicsManual1824",
+   "The Catholic's Manual: an Exposition of the Controverted Doctrines of the Catholic Church, with notes by John Fletcher (Dublin: Richard Coyne, 1824)"
+  ],
+  "bossuet-variations-1742-1": [
+   "bim_eighteenth-century_the-history-of-the-varia_bossuet-jacques-bnigne_1742_1",
+   "The History of the Variations of the Protestant Churches, vol. I (Antwerp, MDCCXLII)"
+  ],
+  "bossuet-variations-1742-2": [
+   "bim_eighteenth-century_the-history-of-the-varia_bossuet-jacques-bnigne_1742_2",
+   "The History of the Variations of the Protestant Churches, vol. II (Antwerp, MDCCXLII)"
+  ],
+  "bossuet-variations-1836-1": [
+   "historyofvariati01boss",
+   "The History of the Variations of the Protestant Churches, second edition, vol. I (Dublin: Richard Coyne, 1836)"
+  ],
+  "bossuet-variations-1836-2": [
+   "historyofvariati02boss",
+   "The History of the Variations of the Protestant Churches, second edition, vol. II (Dublin: Richard Coyne, 1836)"
+  ],
+  "bossuet-universal-history-1767": [
+   "auniversalhisto00bossgoog",
+   "An Universal History from the Beginning of the World to the Empire of Charlemagne, tr. Mr. Elphinston, vol. I (London: David Steel, MDCCLXVII)"
+  ],
+  "bossuet-universal-history-1778": [
+   "bim_eighteenth-century_a-view-of-universal-hist_bossuet-jacques-bnigne_1778_1",
+   "A View of Universal History, translated from the Louvre original by James Elphinston, vol. I (London: B. White, MDCCLXXVIII)"
+  ],
+  "bossuet-funeral-orations-1800": [
+   "bim_eighteenth-century_the-funeral-orations-of-_bossuet-jacques-bnigne_1800",
+   "The Funeral Orations of Bossuet for Henrietta, Duchess of Orleans, and Louis of Bourbon, Prince of Condé, second edition (London: W. Clarke, 1800)"
+  ],
+  "bossuet-maxims-on-plays-1699": [
+   "bim_early-english-books-1641-1700_maxims-and-reflections-u_bossuet-jacques-benigne_1699",
+   "Maxims and Reflections upon Plays, written in French by the Bp. of Meaux (London, 1699)"
+  ],
+  "bossuet-conference-claude-1842": [
+   "AConferenceAuthorityOfTheChurch",
+   "A Conference on the Authority of the Church, March 1st, 1679, between Bossuet and John Claude, first American edition (Baltimore: John Murphy, 1842)"
+  ],
+  "bossuet-political-science-1842": [
+   "ThePoliticalScience",
+   "The Political Science, drawn from the Holy Scriptures, book the first (London: George Keating, 1842)"
+  ],
+  "bossuet-sermon-on-the-mount-capes": [
+   "sermononmount0000boss",
+   "The Sermon on the Mount, from the Meditations on the Gospels, tr. F. M. Capes (London: Longmans, Green, 1900)"
+  ],
+  "bossuet-devotion-blessed-virgin-capes": [
+   "devotiontoblesse00bossuoft",
+   "Devotion to the Blessed Virgin, the sermons for Mary's feasts condensed, arranged and translated by F. M. Capes (London: Longmans, Green, 1899)"
+  ]
+ },
+ "_alternates": {
+  "bossuet-exposition-copies": "Exposition editions of 1686, 1735, 1753, 1785, the undated New York Fletcher and 1895",
+  "bossuet-variations-copies": "Coyne 1829, the undated Doyle edition, Sadlier 1845",
+  "bossuet-universal-history-copies": "The 1778 New Edition (T. Evans), New York 1821, Spencer's Belfast 1743",
+  "bossuet-early-other": "Funeral sermons (1684, 1686), Communion under Both Species (1685), the Conference with Claude (1687), a pastoral letter (1686), Select Sermons (1800)",
+  "bossuet-universal-history-spencer": "Richard Spencer's Introduction to, or a Short Discourse concerning, Universal History (London; catalogued 1730): neither Bossuet's nor Spencer's name is legible in the OCR"
+ },
+ "_excluded": {
+  "bossuet-french": "Heath's Selections (1907, French with English notes) and French editions on PG",
+  "bossuet-late": "Printings from 1930 on",
+  "bossuet-about": "Works about Condé and anthologies"
+ },
+ "_identity_checked": {
+  "bossuet-exposition-1672": {
+   "author": "title page read: 'compos'd by IamEes BEniGnvs BossutrT, Bishop & Lord of Condom, Tutor to his Royal Highness the Dauphin' (OCR garble of James Benignus Bossuet)"
+  },
+  "bossuet-variations-1742-1": {
+   "author": "title page read: 'By [J]AMES BENIGN BOSSUBT, Bishop of MEAUx' (OCR garble of Bossuet; long-s OCR)"
+  },
+  "bossuet-universal-history-1778": {
+   "title": "title page read: 'Universal History, from the Beginning of the World to the Empire of Charlemain', OCR'd with the long s ('Univerſal Hiſtory'); by James-Benignus Bossuet, translated by James Elphinston"
+  }
+ },
+ "_rights_checked": {
+  "bossuet-exposition-1672": "title page read: Paris, Vincent du Moutier, year partly legible; catalogued 1672",
+  "bossuet-universal-history-1767": "title page read: 'By Mr. ELPHINSTOK' (OCR garble of Elphinston), London, printed for David Steel, MDCCLXVII; translator not claimed because the name is garbled"
+ },
+ "_pending": {},
+ "_translators": {
+  "bossuet-exposition-fletcher-1824": "fletcher",
+  "bossuet-universal-history-1778": "elphinston",
+  "bossuet-sermon-on-the-mount-capes": "capes",
+  "bossuet-devotion-blessed-virgin-capes": "capes"
+ },
+ "_checks": {
+  "bossuet-exposition-1672": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1672",
+   "ia_date": "1672",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Paris, Vincent du Moutier, year partly legible; catalogued 1672"
+  },
+  "bossuet-exposition-fletcher-1824": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "translator_claimed": "fletcher",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-variations-1742-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-variations-1742-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-variations-1836-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-variations-1836-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-universal-history-1767": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1767",
+   "ia_date": "1767",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'By Mr. ELPHINSTOK' (OCR garble of Elphinston), London, printed for David Steel, MDCCLXVII; translator not claimed because the name is garbled"
+  },
+  "bossuet-universal-history-1778": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "translator_claimed": "elphinston",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1778",
+   "ia_date": "1778",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-funeral-orations-1800": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-maxims-on-plays-1699": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bp. of meaux",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1699",
+   "ia_date": "1699",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-conference-claude-1842": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-political-science-1842": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-sermon-on-the-mount-capes": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "translator_claimed": "capes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bossuet-devotion-blessed-virgin-capes": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bossuet",
+   "translator_claimed": "capes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

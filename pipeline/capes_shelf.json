@@ -1,0 +1,47 @@
+{
+ "_about": "William Wolfe Capes (1834-1914), Reader in Ancient History at Oxford: Roman History: The Early Empire (Longmans, 1876) and University Life in Ancient Athens (Longmans, 1877), raw IA OCR. His Stoicism (SPCK) is held back: the scan's imprint year is illegible. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "capes"
+ ],
+ "_surname": [
+  "w. w. capes",
+  "william wolfe capes",
+  "capes, w. w"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "capes-early-empire-1876": [
+   "romanhistoryearl00cape",
+   "Roman History: The Early Empire, from the assassination of Julius Caesar to that of Domitian (London: Longmans, Green, 1876)"
+  ],
+  "capes-university-life-athens-1877": [
+   "1877universityli00capeuoft",
+   "University Life in Ancient Athens (London: Longmans, Green, 1877)"
+  ]
+ },
+ "_checks": {
+  "capes-early-empire-1876": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. w. capes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "capes-university-life-athens-1877": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. w. capes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

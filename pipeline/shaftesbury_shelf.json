@@ -1,0 +1,62 @@
+{
+ "_about": "Anthony Ashley Cooper, third Earl of Shaftesbury (1671-1713), raw IA OCR: Characteristics of Men, Manners, Opinions, Times, etc., edited with an introduction and notes by John M. Robertson (London: Grant Richards, 1900, 2 vols.). US public domain. No uids minted.",
+ "_author": "Anthony Ashley Cooper, third Earl of Shaftesbury",
+ "_name_words": [
+  "anthony",
+  "ashley",
+  "cooper",
+  "earl",
+  "of",
+  "shaftesbury"
+ ],
+ "_surname": [
+  "shaftesbury"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "shaftesbury-robertson-characteristics-1900-v1": [
+   "characteristicso01shafiala",
+   "Characteristics of Men, Manners, Opinions, Times, etc., vol. I (London: Grant Richards, 1900)",
+   "ed. John M. Robertson"
+  ],
+  "shaftesbury-robertson-characteristics-1900-v2": [
+   "characteristicso02shaf",
+   "Characteristics of Men, Manners, Opinions, Times, etc., vol. II (London: Grant Richards, 1900)",
+   "ed. John M. Robertson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "shaftesbury-robertson-characteristics-1900-v1": "Robertson",
+  "shaftesbury-robertson-characteristics-1900-v2": "Robertson"
+ },
+ "_checks": {
+  "shaftesbury-robertson-characteristics-1900-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "shaftesbury",
+   "translator_claimed": "Robertson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shaftesbury-robertson-characteristics-1900-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "shaftesbury",
+   "translator_claimed": "Robertson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

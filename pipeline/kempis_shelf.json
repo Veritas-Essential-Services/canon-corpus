@@ -1,0 +1,38 @@
+{
+ "_about": "The Imitation of Christ (c. 1418), William Benham's translation (1874). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Thomas à Kempis",
+ "_name_words": [
+  "thomas",
+  "kempis",
+  "a"
+ ],
+ "_surname": [
+  "kempis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kempis-imitation-benham": [
+   1653,
+   "The Imitation of Christ, tr. William Benham"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "kempis-imitation-benham": "Benham"
+ },
+ "_checks": {
+  "kempis-imitation-benham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kempis",
+   "translator_claimed": "Benham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Benham",
+   "translator_match": true
+  }
+ }
+}

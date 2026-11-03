@@ -1,0 +1,146 @@
+{
+ "_about": "John Foxe (1516/17-1587): The Acts and Monuments, a new and complete edition, ed. Stephen Reed Cattley, with a preliminary dissertation by George Townsend (London: Seeley, 1837-1841, 8 vols), the full martyrology rather than the abridged 'Book of Martyrs'. Volume numbers read off each title page; vol. 1, with Townsend's dissertation, was issued last (1841). Named john-foxe so the Quaker George Fox cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "foxe"
+ ],
+ "_surname": [
+  "foxe"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "foxe-acts-monuments-1": [
+   "actsmonumentsofj01foxe",
+   "The Acts and Monuments of John Foxe, ed. S. R. Cattley, with a dissertation by George Townsend (London: Seeley, 1837-1841), vol. 1"
+  ],
+  "foxe-acts-monuments-2": [
+   "actsmonumentsofj02foxe",
+   "The Acts and Monuments of John Foxe, ed. S. R. Cattley, with a dissertation by George Townsend (London: Seeley, 1837-1841), vol. 2"
+  ],
+  "foxe-acts-monuments-3": [
+   "actsmonumentsof03foxe",
+   "The Acts and Monuments of John Foxe, ed. S. R. Cattley, with a dissertation by George Townsend (London: Seeley, 1837-1841), vol. 3"
+  ],
+  "foxe-acts-monuments-4": [
+   "actsmonumentsofj04foxe",
+   "The Acts and Monuments of John Foxe, ed. S. R. Cattley, with a dissertation by George Townsend (London: Seeley, 1837-1841), vol. 4"
+  ],
+  "foxe-acts-monuments-5": [
+   "actsmonumentsofj05foxe",
+   "The Acts and Monuments of John Foxe, ed. S. R. Cattley, with a dissertation by George Townsend (London: Seeley, 1837-1841), vol. 5"
+  ],
+  "foxe-acts-monuments-6": [
+   "actsmonumentsofj06foxe",
+   "The Acts and Monuments of John Foxe, ed. S. R. Cattley, with a dissertation by George Townsend (London: Seeley, 1837-1841), vol. 6"
+  ],
+  "foxe-acts-monuments-7": [
+   "actsmonumentsofj07foxe",
+   "The Acts and Monuments of John Foxe, ed. S. R. Cattley, with a dissertation by George Townsend (London: Seeley, 1837-1841), vol. 7"
+  ],
+  "foxe-acts-monuments-8": [
+   "actsmonumentsofj08foxe",
+   "The Acts and Monuments of John Foxe, ed. S. R. Cattley, with a dissertation by George Townsend (London: Seeley, 1837-1841), vol. 8"
+  ]
+ },
+ "_alternates": {
+  "actsmonumentsofj03foxe, actsmonumentsofj0003foxe, actsmonumentsofj0008foxe, actsandmonument03towngoog, bub_gb_P3IuAAAAYAAJ": "Other copies of the Cattley edition.",
+  "actsmonumentsofj02foxeuoft, 05foxeuoft, 07foxeuoft, actsandmonument02towngoog (1843-49)": "Townsend's 1843-49 reissue.",
+  "actsmonumentsofj02foxe_0, actsmonumentsofj04foxe_0 (Pratt, 1877)": "Josiah Pratt's fourth edition (Religious Tract Society)."
+ },
+ "_pending": {
+  "Pratt's edition (1877), complete set": "Only scattered volumes seen."
+ },
+ "_excluded": {
+  "Fox's Book of Martyrs abridgements (1830, 1844, 1855; dli.ernet copies of a 1875 abridgement)": "Abridged and rewritten by later hands."
+ },
+ "_checks": {
+  "foxe-acts-monuments-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "foxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foxe-acts-monuments-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "foxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foxe-acts-monuments-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "foxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foxe-acts-monuments-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "foxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foxe-acts-monuments-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "foxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foxe-acts-monuments-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "foxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foxe-acts-monuments-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "foxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "foxe-acts-monuments-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "foxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

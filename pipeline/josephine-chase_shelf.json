@@ -1,0 +1,572 @@
+{
+ "_about": "Josephine Chase's girls' series, under her own name and as Grace Brooks Hill and Ames Thompson",
+ "_author": "Josephine Chase",
+ "_name_words": [
+  "chase"
+ ],
+ "_surname": [
+  "josephine chase"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jchase-grace-harlowes-senior-year-at-high-school": [
+   4940,
+   "Grace Harlowe's Senior Year at High School",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-grace-harlowes-overland-riders-on-the-great-american": [
+   5404,
+   "Grace Harlowe's Overland Riders on the Great American Desert"
+  ],
+  "jchase-grace-harlowes-second-year-at-overton-college": [
+   6858,
+   "Grace Harlowe's Second Year at Overton College"
+  ],
+  "jchase-grace-harlowes-return-to-overton-campus": [
+   9901,
+   "Grace Harlowe's Return to Overton Campus",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-khaki-boys-over-the-top": [
+   12957,
+   "The Khaki Boys over the Top; Or, Doing and Daring for Uncle Sam",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-grace-harlowes-sophomore-year-at-high-school-the-reco": [
+   15344,
+   "Grace Harlowe's Sophomore Year at High School The Record of the Girl Chums in Work and Athletics",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-grace-harlowes-junior-year-at-high-school": [
+   17811,
+   "Grace Harlowe's Junior Year at High School Or, Fast Friends in the Sororities",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-grace-harlowes-first-year-at-overton-college": [
+   17988,
+   "Grace Harlowe's First Year at Overton College",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-grace-harlowes-overland-riders-in-the-great-north-woo": [
+   20341,
+   "Grace Harlowe's Overland Riders in the Great North Woods"
+  ],
+  "jchase-grace-harlowes-problem": [
+   20342,
+   "Grace Harlowe's Problem",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-grace-harlowes-overland-riders-among-the-kentucky-mou": [
+   20405,
+   "Grace Harlowe's Overland Riders Among the Kentucky Mountaineers"
+  ],
+  "jchase-grace-harlowes-golden-summer": [
+   20471,
+   "Grace Harlowe's Golden Summer",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-grace-harlowes-plebe-year-at-high-school-the-merry-do": [
+   20472,
+   "Grace Harlowe's Plebe Year at High School The Merry Doings of the Oakdale Freshmen Girls",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-grace-harlowes-third-year-at-overton-college": [
+   20473,
+   "Grace Harlowe's Third Year at Overton College",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-grace-harlowes-fourth-year-at-overton-college": [
+   20474,
+   "Grace Harlowe's Fourth Year at Overton College",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-marjorie-dean-college-sophomore": [
+   22071,
+   "Marjorie Dean, College Sophomore"
+  ],
+  "jchase-marjorie-dean-high-school-freshman": [
+   23644,
+   "Marjorie Dean, High School Freshman"
+  ],
+  "jchase-marjorie-dean-high-school-sophomore": [
+   27985,
+   "Marjorie Dean, High School Sophomore"
+  ],
+  "jchase-marjorie-dean-high-school-senior": [
+   36325,
+   "Marjorie Dean, High School Senior",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-marjorie-dean-high-school-junior": [
+   36823,
+   "Marjorie Dean, High School Junior"
+  ],
+  "jchase-marjorie-dean-college-freshman": [
+   36851,
+   "Marjorie Dean, College Freshman"
+  ],
+  "jchase-marjorie-dean-college-senior": [
+   36906,
+   "Marjorie Dean, College Senior"
+  ],
+  "jchase-marjorie-dean-college-junior": [
+   37176,
+   "Marjorie Dean, College Junior"
+  ],
+  "jchase-grace-harlowes-overland-riders-in-the-high-sierras": [
+   45989,
+   "Grace Harlowe's Overland Riders in the High Sierras"
+  ],
+  "jchase-khaki-boys-at-camp-sterling": [
+   46027,
+   "The Khaki Boys at Camp Sterling; Or, Training for the Big Fight in France",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-khaki-boys-at-the-front": [
+   48653,
+   "The Khaki Boys at the Front; or, Shoulder to Shoulder in the Trenches",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-khaki-boys-fighting-to-win": [
+   49736,
+   "The Khaki Boys Fighting to Win; or, Smashing the German Lines",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-grace-harlowes-overland-riders-on-the-old-apache-trai": [
+   50105,
+   "Grace Harlowe's Overland Riders on the Old Apache Trail"
+  ],
+  "jchase-marjorie-dean-post-graduate": [
+   51686,
+   "Marjorie Dean, Post-Graduate"
+  ],
+  "jchase-grace-harlowe-with-the-american-army-on-the-rhine": [
+   51697,
+   "Grace Harlowe with the American Army on the Rhine"
+  ],
+  "jchase-marjorie-dean-at-hamilton-arms": [
+   52626,
+   "Marjorie Dean at Hamilton Arms"
+  ],
+  "jchase-marjorie-dean-marvelous-manager": [
+   53213,
+   "Marjorie Dean, Marvelous Manager"
+  ],
+  "jchase-patsy-carroll-under-southern-skies": [
+   53361,
+   "Patsy Carroll Under Southern Skies",
+   {
+    "contents_only": true
+   }
+  ],
+  "jchase-marjorie-deans-romance": [
+   53440,
+   "Marjorie Dean's Romance"
+  ],
+  "jchase-marjorie-dean-macy": [
+   53637,
+   "Marjorie Dean Macy"
+  ],
+  "jchase-marjorie-dean-macys-hamilton-colony": [
+   53987,
+   "Marjorie Dean Macy's Hamilton Colony"
+  ],
+  "jchase-grace-harlowes-overland-riders-in-the-yellowstone-nat": [
+   57996,
+   "Grace Harlowe's Overland Riders in the Yellowstone National Park"
+  ],
+  "jchase-grace-harlowes-overland-riders-at-circle-o-ranch": [
+   62743,
+   "Grace Harlowe's Overland Riders at Circle O Ranch"
+  ],
+  "jchase-grace-harlowes-overland-riders-on-the-lost-river-trai": [
+   62946,
+   "Grace Harlowe's Overland Riders on the Lost River Trail"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jchase-grace-harlowes-senior-year-at-high-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-overland-riders-on-the-great-american": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-second-year-at-overton-college": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-return-to-overton-campus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-khaki-boys-over-the-top": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-sophomore-year-at-high-school-the-reco": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-junior-year-at-high-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-first-year-at-overton-college": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-overland-riders-in-the-great-north-woo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-problem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-overland-riders-among-the-kentucky-mou": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-golden-summer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-plebe-year-at-high-school-the-merry-do": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-third-year-at-overton-college": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-fourth-year-at-overton-college": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-college-sophomore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-high-school-freshman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-high-school-sophomore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-high-school-senior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-high-school-junior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-college-freshman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-college-senior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-college-junior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-overland-riders-in-the-high-sierras": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-khaki-boys-at-camp-sterling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-khaki-boys-at-the-front": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-khaki-boys-fighting-to-win": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-overland-riders-on-the-old-apache-trai": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-post-graduate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowe-with-the-american-army-on-the-rhine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-at-hamilton-arms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-marvelous-manager": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-patsy-carroll-under-southern-skies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-deans-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-macy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-marjorie-dean-macys-hamilton-colony": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-overland-riders-in-the-yellowstone-nat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-overland-riders-at-circle-o-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jchase-grace-harlowes-overland-riders-on-the-lost-river-trai": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "josephine chase",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

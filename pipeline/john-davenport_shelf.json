@@ -1,0 +1,109 @@
+{
+ "_about": "Public-domain John Davenport (1597-1670, Puritan, founder of New Haven colony, later minister of First Church, Boston) for the Word Hoard: his 1669 election sermon in a 1906 edition, and first printings from the Early English Books scans (The Knowledge of Christ 1653, Another Essay 1663, The Power of Congregational Churches 1672, An Apologeticall Reply 1636). The Early English Books OCR is poor 17th-century type and is labelled as such. A Discourse about Civil Government (1663) is excluded: its title page attributes it to John Cotton. Added 2026-10-09 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "davenport",
+  "john"
+ ],
+ "_surname": [
+  "john davenport",
+  "john davenporte",
+  "io. davenport",
+  "j. davenport",
+  "davenport, john",
+  "iohn davenport",
+  "mr. davenport",
+  "mr davenport"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jdavenport-election-sermon": [
+   "electionsermonof00dave",
+   "John Davenport's Election Sermon of 1669, with an introduction by Lindsay Swift, reprinted from the Publications of the Colonial Society of Massachusetts, vol. X (Cambridge: John Wilson and Son, 1906)"
+  ],
+  "jdavenport-knowledge-of-christ-1653": [
+   "bim_early-english-books-1641-1700_the-knowledge-of-christ-_davenport-john_1653",
+   "The Knowledge of Christ (1653; Early English Books scan)"
+  ],
+  "jdavenport-another-essay-1663": [
+   "bim_early-english-books-1641-1700_another-essay-_davenport-john_1663",
+   "Another Essay for Investigation of the Truth (1663; Early English Books scan)"
+  ],
+  "jdavenport-congregational-churches-1672": [
+   "bim_early-english-books-1641-1700_the-power-of-congregatio_davenport-john_1672",
+   "The Power of Congregational Churches Asserted and Vindicated (1672; Early English Books scan)"
+  ],
+  "jdavenport-apologeticall-reply-1636": [
+   "bim_early-english-books-1641-1700_an-apologeticall-reply-t_davenport-john_1636",
+   "An Apologeticall Reply to a Booke Called An Answer to the Unjust Complaint of W. B. (1636; Early English Books scan)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jdavenport-civil-government-1663": "A Discourse about Civil Government (1663; IA bim_early-english-books-1641-1700_a-discourse-about-civil-_davenport-john_1663): catalogued under Davenport, but its title page attributes it to John Cotton",
+  "jdavenport-catechisme-1659": "A Catechisme (1659; IA bim_early-english-books-1641-1700_a-catechisme-containing-_davenport-john_1659): the OCR of the opening pages is noise, so neither the author nor the text can be checked from it"
+ },
+ "_identity_checked": {
+  "jdavenport-congregational-churches-1672": {
+   "author": "title page read 2026-10-09: OCR gives \"By Joun DaVENPORT,B.D. ... Paſtor to the Church in Newhaven in New-England\" (Joun is an OCR artifact), London, Rich. Chiswell, 1672: John Davenport"
+  }
+ },
+ "_checks": {
+  "jdavenport-election-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john davenport",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdavenport-knowledge-of-christ-1653": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john davenport",
+   "identity": "ok",
+   "ia_rights": "ok: published 1653",
+   "ia_date": "1653",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdavenport-another-essay-1663": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john davenport",
+   "identity": "ok",
+   "ia_rights": "ok: published 1663",
+   "ia_date": "1663",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdavenport-congregational-churches-1672": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1672",
+   "ia_date": "1672",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdavenport-apologeticall-reply-1636": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john davenporte",
+   "identity": "ok",
+   "ia_rights": "ok: published 1636",
+   "ia_date": "1636",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

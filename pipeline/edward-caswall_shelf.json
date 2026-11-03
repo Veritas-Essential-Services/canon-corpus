@@ -1,0 +1,124 @@
+{
+ "_about": "Public-domain Edward Caswall (1814-1878), Anglican priest who joined the Catholic Church in 1847 and Newman's Birmingham Oratory, translator of the Breviary hymns, for the Word Hoard: Lyra Catholica, Sermons on the Seen and Unseen, The Masque of Mary and other poems, Verba Verbi, The Child's Manual, and Morals from the Churchyard. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 107 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "edward caswall",
+  "e. caswall",
+  "caswall"
+ ],
+ "_surname": [
+  "edward caswall",
+  "e. caswall",
+  "caswall"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "caswall-lyra-catholica": [
+   "LyraCatholica",
+   "Lyra Catholica: containing all the Breviary and Missal hymns, with others from various sources (London : James Burns, 1849)"
+  ],
+  "caswall-seen-unseen": [
+   "sermonsonseenuns00casw",
+   "Sermons on the seen and unseen (London : James Burns, 1846)"
+  ],
+  "caswall-masque-of-mary": [
+   "masthe00casw",
+   "The masque of Mary and other poems (London : Burns & Oates ; New York : Catholic Pub. Society, 1800)"
+  ],
+  "caswall-verba-verbi": [
+   "VerbaVerbi",
+   "Verba Verbi. The words of Jesus arranged in order of time: as a daily companion, epitome of the Gospel, and treasury of mental prayer (London, Burns & Lambert, 1855)"
+  ],
+  "caswall-childs-manual": [
+   "TheChildsManual",
+   "The child's manual : forty days' meditations on the chief truths of religion, as contained in the Church catechism (London : James Burns, 1846)"
+  ],
+  "caswall-morals-churchyard": [
+   "MoralsFromTheChurchyard",
+   "Morals from the churchyard : in a series of cheerful fables (London : Chapman and Hall, 1838)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "caswall-quiz": "His comic Oxford and \"Quiz\" sketches (Art of Pluck, Sketches of Young Ladies) are left to a literary lane",
+  "caswall-hymeneal": "Hymeneal53603 (catalogue attribution doubtful)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "caswall-childs-manual": "Title page (OCR): \"THE CHILD'S MANUAL: Forty Days' Meditations on the Chief Truths of Religion, as contained in the Church Catechism. [By] THE REV. E. C^SWALL, AUTHOR OF MORALS FROM THE CHURCHYARD, ETC. LONDON: JAMES BURNS\"",
+  "caswall-morals-churchyard": "Published without a name (London: Chapman and Hall, 1838). Attributed on a title page, not by the catalogue alone: the 1846 Child's Manual (this shelf) is \"by the Rev. E. Caswall, author of Morals from the Churchyard\"."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "caswall-lyra-catholica": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward caswall",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caswall-seen-unseen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. caswall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caswall-masque-of-mary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward caswall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caswall-verba-verbi": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward caswall",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caswall-childs-manual": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caswall-morals-churchyard": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

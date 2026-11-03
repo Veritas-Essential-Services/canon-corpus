@@ -1,0 +1,250 @@
+{
+ "_about": "Henry Seton Merriman's (Hugh Stowell Scott) novels",
+ "_author": "Henry Seton Merriman",
+ "_name_words": [
+  "merriman"
+ ],
+ "_surname": [
+  "henry seton merriman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hsmerriman-vultures": [
+   3805,
+   "The Vultures"
+  ],
+  "hsmerriman-in-kedars-tents": [
+   5987,
+   "In Kedar's Tents",
+   {
+    "contents_only": true
+   }
+  ],
+  "hsmerriman-grey-lady": [
+   6517,
+   "The Grey Lady"
+  ],
+  "hsmerriman-tomasos-fortune-and-other-stories": [
+   6974,
+   "Tomaso's Fortune and Other Stories"
+  ],
+  "hsmerriman-barlasch-of-the-guard": [
+   8158,
+   "Barlasch of the Guard"
+  ],
+  "hsmerriman-last-hope": [
+   8493,
+   "The Last Hope"
+  ],
+  "hsmerriman-from-one-generation-to-another": [
+   8805,
+   "From One Generation to Another"
+  ],
+  "hsmerriman-isle-of-unrest": [
+   8873,
+   "The Isle of Unrest"
+  ],
+  "hsmerriman-with-edged-tools": [
+   8939,
+   "With Edged Tools",
+   {
+    "contents_only": true
+   }
+  ],
+  "hsmerriman-slave-of-the-lamp": [
+   9195,
+   "The Slave of the Lamp",
+   {
+    "contents_only": true
+   }
+  ],
+  "hsmerriman-rodens-corner": [
+   9324,
+   "Roden's Corner"
+  ],
+  "hsmerriman-sowers": [
+   10132,
+   "The Sowers"
+  ],
+  "hsmerriman-velvet-glove": [
+   10342,
+   "The Velvet Glove"
+  ],
+  "hsmerriman-dross": [
+   20243,
+   "Dross"
+  ],
+  "hsmerriman-suspense-volume-1-of-3": [
+   74460,
+   "Suspense, Volume 1 (of 3)"
+  ],
+  "hsmerriman-suspense-volume-2-of-3": [
+   74461,
+   "Suspense, Volume 2 (of 3)"
+  ],
+  "hsmerriman-suspense-volume-3-of-3": [
+   74462,
+   "Suspense, Volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58524": "PG 58524: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 8942: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "hsmerriman-vultures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-in-kedars-tents": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-grey-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-tomasos-fortune-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-barlasch-of-the-guard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-last-hope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-from-one-generation-to-another": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-isle-of-unrest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-with-edged-tools": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-slave-of-the-lamp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-rodens-corner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-sowers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-velvet-glove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-dross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-suspense-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-suspense-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmerriman-suspense-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry seton merriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

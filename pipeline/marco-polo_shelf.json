@@ -1,0 +1,54 @@
+{
+ "_about": "The Travels of Marco Polo (c. 1300), Sir Henry Yule's translation, revised by Henri Cordier (3rd ed., 1903), two volumes. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Marco Polo",
+ "_name_words": [
+  "marco",
+  "polo"
+ ],
+ "_surname": [
+  "marco polo"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "marco-polo-yule-1": [
+   10636,
+   "The Travels of Marco Polo, tr. Yule, rev. Cordier, vol. 1"
+  ],
+  "marco-polo-yule-2": [
+   12410,
+   "The Travels of Marco Polo, tr. Yule, rev. Cordier, vol. 2"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "marco-polo-yule-1": "Yule",
+  "marco-polo-yule-2": "Yule"
+ },
+ "_checks": {
+  "marco-polo-yule-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marco polo",
+   "translator_claimed": "Yule",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Henry Yule",
+   "translator_match": true
+  },
+  "marco-polo-yule-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marco polo",
+   "translator_claimed": "Yule",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Henry Yule",
+   "translator_match": true
+  }
+ }
+}

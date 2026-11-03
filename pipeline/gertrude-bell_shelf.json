@@ -1,0 +1,56 @@
+{
+ "_about": "TRANSLATOR SHELF: Gertrude Lowthian Bell (1868-1926): Poems from the Divan of Hafiz (1897). PD everywhere. Added 2026-10-10 by lane C (round 10); Adam may veto. Her own travel books and letters are not shelved. No uids minted.",
+ "_name_words": [
+  "gertrude lowthian bell",
+  "gertrude bell",
+  "g. l. bell"
+ ],
+ "_surname": [
+  "gertrude lowthian bell",
+  "gertrude bell",
+  "g. l. bell"
+ ],
+ "_surname_note": "Never the bare 'bell'.",
+ "ccel": {},
+ "gutenberg": {
+  "bell-hafiz": [
+   74883,
+   "Poems from the Divan of Hafiz"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "bell-hafiz-divan": {
+   "source": "bell-hafiz",
+   "of": "Hafiz",
+   "work": "Poems from the Divan of Hafiz",
+   "translated": 1897,
+   "translator": "Gertrude Lowthian Bell",
+   "scan_edition": "Project Gutenberg 74883 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "bell-own-works": "The Desert and the Sown, her letters: her own books."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bell-hafiz": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gertrude lowthian bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gertrude Lowthian Bell"
+  }
+ },
+ "_verified": {
+  "bell-hafiz": {
+   "pg": 74883,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gertrude Lowthian Bell"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

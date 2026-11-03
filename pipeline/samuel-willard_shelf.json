@@ -1,0 +1,39 @@
+{
+ "_about": "Public-domain Samuel Willard (1640-1707, minister of the Old South Church, Boston, and acting president of Harvard) for the Word Hoard: A Compleat Body of Divinity in Two Hundred and Fifty Expository Lectures on the Assembly's Shorter Catechism (Boston: Green and Kneeland, catalogued 1726), raw Internet Archive OCR of that first printing (long s, read as f). Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "willard",
+  "samuel"
+ ],
+ "_surname": [
+  "samuel willard",
+  "s. willard",
+  "willard, samuel",
+  "mr. willard"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "willard-compleat-body-1726": [
+   "compleatbodyofdi00will",
+   "A Compleat Body of Divinity in Two Hundred and Fifty Expository Lectures (Boston: B. Green and S. Kneeland for B. Eliot and D. Henchman; catalogued 1726, the title-page numeral is garbled in the OCR)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "willard-johnson-reprint": "the 1969 Johnson Reprint facsimile (IA compleatbodyofdi0000will): a modern reprint"
+ },
+ "_checks": {
+  "willard-compleat-body-1726": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel willard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "_about": "William Isaac Thomas (1863-1947), American sociologist of the Chicago school. Gutenberg: Sex and Society (1907); The Unadjusted Girl (1923). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "William Isaac Thomas",
+ "_name_words": [
+  "william",
+  "isaac",
+  "thomas"
+ ],
+ "_surname": [
+  "w. i. thomas",
+  "william i. thomas"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "thomas-sex-and-society": [
+   15015,
+   "Sex and Society (1907)"
+  ],
+  "thomas-unadjusted-girl": [
+   59826,
+   "The Unadjusted Girl (1923)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "thomas-sex-and-society": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william i. thomas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thomas-unadjusted-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. i. thomas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

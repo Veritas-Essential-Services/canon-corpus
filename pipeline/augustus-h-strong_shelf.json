@@ -1,0 +1,350 @@
+{
+ "_about": "Public-domain Augustus H. Strong (Augustus Hopkins Strong, 1836-1921, Baptist, president of Rochester Theological Seminary) for the Word Hoard: the three-volume Systematic Theology (1907-1909) and A Tour of the Missions (1918) from Project Gutenberg, and from Internet Archive scans his 1876 Lectures on Theology, the 1886 first edition of the Systematic Theology, Philosophy and Religion, Christ in Creation and Ethical Monism, the Miscellanies and twelve other books and addresses. His later theology moved toward ethical monism; veto point. Not James Strong of the Concordance. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "s/strong",
+ "_name_words": [
+  "strong",
+  "augustus"
+ ],
+ "_surname": [
+  "augustus h. strong",
+  "a. h. strong",
+  "strong, augustus h.",
+  "augustus hopkins strong",
+  "strong, augustus hopkins",
+  "augustus h. strong, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "strong-systematic-1": [
+   "44035",
+   "Systematic Theology, vol. 1, revised and enlarged (Philadelphia: The Judson Press, 1907)"
+  ],
+  "strong-systematic-2": [
+   "44555",
+   "Systematic Theology, vol. 2 (Philadelphia: The Judson Press, 1907)"
+  ],
+  "strong-systematic-3": [
+   "45283",
+   "Systematic Theology, vol. 3 (Philadelphia: Griffith and Rowland, 1909)"
+  ],
+  "strong-tour-missions": [
+   "27452",
+   "A Tour of the Missions: Observations and Conclusions (Philadelphia: Griffith and Rowland, MCMXVIII)"
+  ]
+ },
+ "internet_archive": {
+  "strong-lectures-1876": [
+   "lecturesontheolo00stro",
+   "Lectures on Theology, printed for students in the Rochester Theological Seminary (Rochester: E. R. Andrews, 1876)"
+  ],
+  "strong-systematic-1886": [
+   "systematictheolo00strouoft",
+   "Systematic Theology: A Compendium and Commonplace-Book, first edition (Rochester: E. R. Andrews, 1886)"
+  ],
+  "strong-philosophy-religion": [
+   "philosophyreligi00strorich",
+   "Philosophy and Religion: Addresses, Essays and Sermons (New York: A. C. Armstrong, 1888)"
+  ],
+  "strong-great-poets": [
+   "greatpoetstheirt00strouoft",
+   "The Great Poets and Their Theology (Philadelphia: American Baptist Publication Society, MDCCCXCVII)"
+  ],
+  "strong-christ-in-creation": [
+   "cu31924029232803",
+   "Christ in Creation and Ethical Monism (Philadelphia: Roger Williams Press, MDCCCXCIX)"
+  ],
+  "strong-state-church": [
+   "MN41430ucmf_0",
+   "State and Church in 1492 and in 1892 (Philadelphia: American Baptist Publication Society; entered 1892)"
+  ],
+  "strong-transcendent-element": [
+   "MN41694ucmf_1",
+   "The Transcendent Element in the Church (address, Boston, 27 September 1899; no imprint read)"
+  ],
+  "strong-miracle-cana": [
+   "miracleatcanawit00stro",
+   "The Miracle at Cana, with an Attempt at a Philosophy of Miracles (no imprint read; catalogued 1903)"
+  ],
+  "strong-denominational-outlook": [
+   "ourdenominationa00stro",
+   "Our Denominational Outlook (address, Cleveland, 19 May 1904; no imprint)"
+  ],
+  "strong-outlines": [
+   "cu31924029369950",
+   "Outlines of Systematic Theology (Philadelphia: Griffith and Rowland; no year on title page, copyright 1908)"
+  ],
+  "strong-miscellanies-1": [
+   "miscellanies01strouoft",
+   "Miscellanies, vol. 1, Chiefly Historical (Philadelphia: Griffith and Rowland; published May 1912)"
+  ],
+  "strong-miscellanies-2": [
+   "miscellanies02strouoft",
+   "Miscellanies, vol. 2, Chiefly Theological (Philadelphia: Griffith and Rowland; published May 1912)"
+  ],
+  "strong-union-with-christ": [
+   "unionwithchristc00strouoft",
+   "Union with Christ (Philadelphia: American Baptist Publication Society; published August 1913)"
+  ],
+  "strong-chapel-talks": [
+   "onehundredchapel00strouoft",
+   "One Hundred Chapel-Talks to Theological Students (Philadelphia: Griffith and Rowland, 1913)"
+  ],
+  "strong-popular-lectures-nt": [
+   "popularlectureso00strouoft",
+   "Popular Lectures on the Books of the New Testament (Philadelphia: Griffith and Rowland; published March 1914)"
+  ],
+  "strong-american-poets": [
+   "americanpoetsthe00strouoft",
+   "American Poets and Their Theology (Philadelphia: Griffith and Rowland, MCMXVI)"
+  ],
+  "strong-what-shall-i-believe": [
+   "whatshallibeliev0000stro",
+   "What Shall I Believe? A Primer of Christian Theology (New York: Fleming H. Revell; copyright 1922; posthumous)"
+  ]
+ },
+ "_alternates": {
+  "strong-ccel-systematic": "CCEL strong/theology2 and theology3 (vol. 1 serves no text; CCEL dates vol. 3 1907, its title page says 1909): Gutenberg preferred",
+  "strong-systematic-scans": "IA scans of the 1907-09 set (systematictheolo01strouoft, outlinesofsystem02strouoft and outlinesofsystem03strouoft, which are vols. 2-3 despite their ids; Cornell cu31924092368210/228/236) and the 1912 three-in-one",
+  "strong-systematic-1889": "Systematic Theology, second edition (New York: A. C. Armstrong, 1889; IA systematictheolo00str)",
+  "strong-philosophy-1912": "Philosophy and Religion, second edition (1912; IA philosophyrelig00stro)"
+ },
+ "_excluded": {
+  "strong-reprints": "1946-1963 reprints of the Systematic Theology",
+  "strong-namesakes": "Herbert Augustus, Charles Augustus, Frederick A. and Thomas Augustus Strong; James Strong",
+  "strong-not-divinity": "Reminiscences of Early Rochester (1916), the seminary General Catalogue, the 1880 dedication address"
+ },
+ "_identity_checked": {
+  "strong-transcendent-element": {
+   "author": "Title page read: \"ADDKESS BY PBESIDENT AUGUSTUS [name lost in OCR] OF THE BOCHESTEB THEOLOGICAL SEMINARY\"; Augustus H. Strong was president of Rochester Theological Seminary 1872-1912."
+  }
+ },
+ "_pending": {
+  "strong-unread": "philosophyreligi00stro (HTTP 500), greatpoetstheirt00stro and outlinesofsystem00stro (unreadable OCR)"
+ },
+ "_checks": {
+  "strong-systematic-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. h. strong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "strong-systematic-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. h. strong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "strong-systematic-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. h. strong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "strong-tour-missions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus h. strong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "strong-lectures-1876": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "strong-systematic-1886": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strong-philosophy-religion": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strong-great-poets": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus hopkins strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strong-christ-in-creation": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strong-state-church": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strong-transcendent-element": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strong-miracle-cana": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strong-denominational-outlook": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strong-outlines": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus hopkins strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "strong-miscellanies-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "[1912]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strong-miscellanies-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus hopkins strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "[1912]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strong-union-with-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "[1913]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strong-chapel-talks": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strong-popular-lectures-nt": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus h. strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strong-american-poets": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus hopkins strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strong-what-shall-i-believe": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus hopkins strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

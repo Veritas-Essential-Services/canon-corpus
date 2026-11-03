@@ -1,0 +1,35 @@
+{
+ "_about": "The Harmony of Protestant Confessions, exhibiting the faith of the churches of Christ reformed after the pure and holy doctrine of the Gospel throughout Europe, translated from the Latin (the Harmonia Confessionum Fidei of 1581); a new edition, revised and considerably enlarged, by Peter Hall (London: John F. Shaw, 1842). Named peter-hall because 'hall' is a common word and three other Halls have shelves; the name check looks for 'Peter Hall'. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "hall",
+  "peter"
+ ],
+ "_surname": [
+  "peter hall"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hall-harmony-of-confessions-1842": [
+   "harmonyofprotest00hall",
+   "The Harmony of Protestant Confessions, ed. Peter Hall (London: John F. Shaw, 1842)"
+  ]
+ },
+ "_alternates": {
+  "harmonyprotesta00hallgoog, harmonyprotesta00salvgoog": "Google copies of the same 1842 edition."
+ },
+ "_excluded": {},
+ "_checks": {
+  "hall-harmony-of-confessions-1842": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "peter hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

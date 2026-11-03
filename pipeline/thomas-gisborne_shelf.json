@@ -1,0 +1,289 @@
+{
+ "_about": "Public-domain Thomas Gisborne, evangelical clergyman and moralist of the Clapham circle, for the Word Hoard: The Principles of Moral Philosophy, the Enquiries into the duties of men and of the female sex, his Sermons, The Testimony of Natural Theology to Christianity, A Familiar Survey of the Christian Religion, his writings on slavery and the Church establishment, and his poems. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 120 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas gisborne",
+  "t. gisborne",
+  "gisborne"
+ ],
+ "_surname": [
+  "gisborne"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gisborne-moral-philosophy": [
+   "principlesofmora00gisb",
+   "The principles of moral philosophy investigated and briefly applied to the constitution of civil society : together with remarks on the principle assumed by Mr. Paley as the basis of all moral conclusions, and on other positions of the same author (London : Printed by T. Bensley for B. White and Son, 1789)"
+  ],
+  "gisborne-slave-trade-remarks": [
+   "bim_eighteenth-century_remarks-on-the-late-deci_gisborne-thomas_1792",
+   "Remarks on the late decision of the House of Commons respecting the abolition of the slave trade. The second edition. By Thomas Gisborne, M.A.  1792 (catalogued 1792)"
+  ],
+  "gisborne-on-slavery": [
+   "bim_eighteenth-century_on-slavery-and-the-slave_gisborne-thomas_1792",
+   "On slavery and the slave trade, by T. Gisborne, M.A.  1792 (catalogued 1792)"
+  ],
+  "gisborne-duties-of-men": [
+   "bim_eighteenth-century_an-enquiry-into-the-duti_gisborne-thomas-the-el_1794",
+   "An enquiry into the duties of men in the higher and middle classes of society to Great Britain, resulting fromtheir respective stations, professions, ...  1794 (catalogued 1794)"
+  ],
+  "gisborne-duties-female-sex": [
+   "bim_eighteenth-century_an-enquiry-into-the-duti_gisborne-thomas_1797",
+   "An enquiry into the duties of the female sex. By Thomas Gisborne, M.A. The second edition, corrected.  1797 (catalogued 1797)"
+  ],
+  "gisborne-walks-in-a-forest": [
+   "walksinforest00gisb",
+   "Walks in a forest (London, Printed by A. Strahan, for T. Cadell, jun. and W. Davies, 1801)"
+  ],
+  "gisborne-poems-sacred-moral": [
+   "poemssacredmoral00gisbrich",
+   "Poems, sacred and moral (London : Printed for T. Cadell and W. Davies ..., 1803)"
+  ],
+  "gisborne-cowper-ode": [
+   "bim_eighteenth-century_ode-to-the-memory-of-wil_gisborne-thomas_1800",
+   "Ode to the memory of William Cowper, Esq. By Thomas Gisborne, M.A.  1800 (catalogued 1800)"
+  ],
+  "gisborne-sermons-morality": [
+   "sermonsprincipa01gisbgoog",
+   "Sermons Principally Designed to Illustrate and to Enforce Christian Morality (Printed for T. Cadell and W. Davies, 1809)"
+  ],
+  "gisborne-natural-theology": [
+   "testimonynatura00gisbgoog",
+   "The Testimony of Natural Theology to Christianity (M. Thomas, 1818)"
+  ],
+  "gisborne-recollections": [
+   "essaysonrecollec00gisb",
+   "Essays on the recollections which are to subsist between earthly Friends reunited in the world to come ([n. p.], 1822)"
+  ],
+  "gisborne-friendly-observations": [
+   "friendlyobserva00gisbgoog",
+   "Friendly observations addressed to the manufacturing population of Great Britain (catalogued 1827)"
+  ],
+  "gisborne-established-church": [
+   "considerationson00gisb",
+   "Considerations on the basis and the means of the permanent security of the Established Church of England (London : T. Cadell, 1829)"
+  ],
+  "gisborne-familiar-survey": [
+   "familiarsurveyof00gisb",
+   "A familiar survey of the Christian religion, and of history as connected with the introduction of Christianity, and with its progress to the present time (Dublin, Printed for A.W. Watson, M. Keene & Son, et.al., 1830)"
+  ],
+  "gisborne-objections-establishments": [
+   "considerationso01gisbgoog",
+   "Considerations on objections current against ecclesiastical establishments; and on the (catalogued 1835)"
+  ],
+  "gisborne-divine-love": [
+   "anenquiryrespec00gisbgoog",
+   "An enquiry respecting love, as one of the divine attributes (W. Blackwood and Sons, 1838)"
+  ],
+  "gisborne-sermons": [
+   "sermonsvolume00gisbgoog",
+   "Sermons, vol. 1 (catalogued 1804)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gisborne-agriculture": "Essays on agriculture (1854) are by his son Thomas Gisborne the younger",
+  "gisborne-others": "Flora Herbornensis, the John Hunter works, the Canadian Dominion pamphlet and the Idaho forest bulletin are by other men"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gisborne-poems-sacred-moral": "OCR of the title page: \"POEMS, SACRED AND MORAL. THOMAS G1SBORNE, M. A.\" (the 1 is OCR for i)",
+  "gisborne-cowper-ode": "Title page read from the page image: \"Ode to the Memory of William Cowper, Esq. By Thomas Gisborne, M.A. London ... 1800.\""
+ },
+ "_pending": {
+  "gisborne-mason-elegy": "Elegy to the memory of the Rev. William Mason.  1797 (catalogued 1797) (IA bim_eighteenth-century_elegy-to-the-memory-of-t_gisborne-thomas_1797): the printed title page names no author (only a later hand's pencil note); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "gisborne-innovation": "Innovation: a poem.  1799 (catalogued 1799) (IA bim_eighteenth-century_innovation-a-poem_gisborne-thomas_1799): the printed title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "gisborne-moral-philosophy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1789",
+   "ia_date": "1789",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gisborne-slave-trade-remarks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1792",
+   "ia_date": "1792",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gisborne-on-slavery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1792",
+   "ia_date": "1792",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gisborne-duties-of-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1794",
+   "ia_date": "1794",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gisborne-duties-female-sex": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1797",
+   "ia_date": "1797",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gisborne-walks-in-a-forest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gisborne-poems-sacred-moral": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gisborne-cowper-ode": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gisborne-sermons-morality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gisborne-natural-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gisborne-recollections": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gisborne-friendly-observations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gisborne-established-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gisborne-familiar-survey": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gisborne-objections-establishments": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gisborne-divine-love": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gisborne-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisborne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

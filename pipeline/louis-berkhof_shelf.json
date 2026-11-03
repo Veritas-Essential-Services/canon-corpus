@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain Louis Berkhof (1873-1957), of Calvin Theological Seminary, for the Word Hoard, held to books printed before 1930: New Testament Introduction (1915), Subjects and Outlines (1918) and Biblical Archaeology (1915; the 1928 third edition is open only as lending-library copies). Texts are from Internet Archive scans. His Reformed Dogmatics (1932), Systematic Theology, History of Christian Doctrines and Principles of Biblical Interpretation are all later and are not public domain in the US. Paul the Missionary (1915) and The Assurance of Faith (1928) were looked for on the Internet Archive and not found. Added 2026-10-28 by lane A at Adam's request (his Reformed authors table). No uids minted.",
+ "_name_words": [
+  "louis berkhof",
+  "l. berkhof",
+  "berkhof"
+ ],
+ "_surname": [
+  "berkhof"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "berkhof-nt-introduction-1915": [
+   "newtestamentintr00berk",
+   "New Testament introduction (or special canonics) (Grand Rapids: Eerdmans-Sevensma, 1915)"
+  ],
+  "berkhof-subjects-outlines-1918": [
+   "subjectsoutlines00berk",
+   "Subjects and outlines (Grand Rapids: Eerdmans-Sevensma, 1918)"
+  ],
+  "berkhof-biblical-archaeology-1915": [
+   "biblicalarchaeol00berk",
+   "Biblical archaeology (Grand Rapids: Eerdmans-Sevensma, 1915)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "berkhof-later": "Reformed Dogmatics (1932), Systematic Theology (1938 on), History of Christian Doctrines (1937), Principles of Biblical Interpretation (1950) and the Spanish translations: after 1929",
+  "berkhof-lending": "the 1928 third edition of Biblical Archaeology is open only as bwb_ lending-library copies",
+  "berkhof-archaeology-google": "biblicalarchaeo00berkgoog, catalogued 1928, is another copy of the 1915 first edition (its title page reads 1915)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "berkhof-nt-introduction-1915": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "berkhof",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "berkhof-subjects-outlines-1918": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "berkhof",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "berkhof-biblical-archaeology-1915": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "berkhof",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

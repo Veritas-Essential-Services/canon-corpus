@@ -1,0 +1,244 @@
+{
+ "_about": "Public-domain George Claude Lorimer (1838-1904), Scottish-born Baptist minister of Tremont Temple, Boston, and in Chicago and New York, for the Word Hoard: The Great Conflict, Temple Themes, Isms Old and New, Studies in Social Life, The Galilean, Charles Haddon Spurgeon, The Baptists in History, The Argument for Christianity, Messages of To-day, Tremont Temple Sketch Book, Christianity and the Social State, Christianity as a World-Power, Christianity in the Nineteenth Century, and The Modern Crisis in Religion. His novels are left out. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 103 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george c. lorimer",
+  "george claude lorimer",
+  "g. c. lorimer",
+  "lorimer"
+ ],
+ "_surname": [
+  "george c. lorimer",
+  "george claude lorimer",
+  "g. c. lorimer",
+  "lorimer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lorimer-great-conflict": [
+   "greatconflict00lori",
+   "The great conflict (catalogued 1877)"
+  ],
+  "lorimer-temple-themes": [
+   "templethemescrim00lori",
+   "Temple themes. Criminality of intemperance. Preached before the Massachusetts Total Abstinence Society, at Tremont temple, Feb. 22, 1879 (Boston, J.E. Simonds, 1879)"
+  ],
+  "lorimer-isms": [
+   "ismsoldnew00lori",
+   "Isms old and new ([n.p.], 1881)"
+  ],
+  "lorimer-social-life": [
+   "studiesinsociall00lori",
+   "Studies in social life: a review of the principles, practices, and problems of society (Chicago and New York : Belford, Clarke & co., 1886)"
+  ],
+  "lorimer-galilean": [
+   "galileanorjesusw00lori",
+   "The Galilean, or Jesus, the world's Savior (Boston, Silver, Burdett, 1892)"
+  ],
+  "lorimer-spurgeon": [
+   "charleshaddonspu0000geor",
+   "Charles Haddon Spurgeon (catalogued 1892)"
+  ],
+  "lorimer-baptists-history": [
+   "baptistsinhistor0000unse",
+   "The Baptists in history (catalogued 1893)"
+  ],
+  "lorimer-argument-christianity": [
+   "argumentforchris00lori",
+   "The argument for Christianity (Philadelphia : American Baptist Publication Society, 1894)"
+  ],
+  "lorimer-messages-today": [
+   "messagesoftodayt0000lori",
+   "Messages of today to the men of tomorrow (Cincinnati : Jennings and Graham, 1896)"
+  ],
+  "lorimer-tremont-temple": [
+   "tremonttempleske00lori",
+   "Tremont Temple sketch book : containing a brief history of Tremont Temple Church (Boston : St. Botolph Press, 1896)"
+  ],
+  "lorimer-social-state": [
+   "christianitysoci0000geor",
+   "Christianity and the social state (catalogued 1898)"
+  ],
+  "lorimer-world-power": [
+   "christianityasa00lorigoog",
+   "Christianity as a world-power (Philadelphia, American Baptist Publication Society, 1899)"
+  ],
+  "lorimer-nineteenth-century": [
+   "christianityinni0000geor",
+   "Christianity In The Nineteenth Century (catalogued 1900)"
+  ],
+  "lorimer-modern-crisis": [
+   "moderncrisisinr00lori",
+   "The modern crisis in religion (New York, Chicago [etc.] Fleming H. Revell company, 1904)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "lorimer-novels": "The Master of Millions and The False Gods (novels)",
+  "lorimer-other": "Under the Evergreens, Robert Burns, What I Know about Books (not theology); The People's Bible History (many contributors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "lorimer-galilean": "Title page (OCR): 'The Galilean, or Jesus the World's Savior. George C. Lorimer, D.D., Minister at the Temple... New York, Boston, Chicago: Silver, Burdett & Company. 1892.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lorimer-great-conflict": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lorimer-temple-themes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lorimer-isms": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lorimer-social-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lorimer-galilean": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "lorimer-spurgeon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lorimer-baptists-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lorimer-argument-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lorimer-messages-today": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lorimer",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lorimer-tremont-temple": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lorimer-social-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lorimer-world-power": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lorimer-nineteenth-century": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lorimer-modern-crisis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. lorimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

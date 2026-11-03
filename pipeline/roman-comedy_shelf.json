@@ -1,0 +1,376 @@
+{
+ "_about": "Plautus and Terence in English, translator per title. Plautus: Henry T. Riley's prose Comedies (Bohn, 1852; 1913 printing, 2 vols., raw IA, complete) and his Captivi and Mostellaria (clean Gutenberg). Terence: Riley's prose Comedies (Bohn) and George Colman's verse, clean Gutenberg; W. R. Goodluck's Andrian. Paul Nixon's Loeb Plautus vol. 1 (1916; Gutenberg, Latin facing kept) added 2026-10-02 from the bilingual catalogue. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
+ "_name_words": [
+  "plautus",
+  "terence",
+  "terenti",
+  "comedies"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "plautus-riley-captivi-mostellaria": [
+   7282,
+   "The Captivi and the Mostellaria",
+   "tr. Henry T. Riley (prose)"
+  ],
+  "terence-riley-comedies": [
+   22188,
+   "The Comedies of Terence, literally translated into English prose",
+   "tr. Henry T. Riley (Bohn)"
+  ],
+  "terence-colman-comedies": [
+   22695,
+   "The Comedies of Terence",
+   "tr. George Colman (verse)"
+  ],
+  "terence-goodluck-andrian": [
+   72921,
+   "Terence's Andrian, a comedy in five acts",
+   "tr. W. R. Goodluck"
+  ],
+  "plautus-nixon-v1": [
+   16564,
+   "Plautus, vol. 1: Amphitryo, Asinaria, Aulularia, Bacchides, Captivi",
+   "tr. Paul Nixon (Loeb, 1916; Latin facing)"
+  ]
+ },
+ "internet_archive": {
+  "plautus-riley-comedies-v1": [
+   "comediesofplautu01plauuoft",
+   "The Comedies of Plautus, vol. 1 (Bohn; 1913 printing)",
+   "tr. Henry T. Riley"
+  ],
+  "plautus-riley-comedies-v2": [
+   "comediesofplautu02plauuoft",
+   "The Comedies of Plautus, vol. 2 (Bohn; 1913 printing)",
+   "tr. Henry T. Riley"
+  ],
+  "plautus-nixon-v2": [
+   "plautusvolume00plaugoog",
+   "Plautus, vol. 2: Casina, The Casket Comedy, Curculio, Epidicus, Menaechmi (Loeb, 1917)",
+   "tr. Paul Nixon"
+  ],
+  "terence-sargeaunt-v1": [
+   "terence000ijohn",
+   "Terence, vol. 1 (Loeb, 1912)",
+   "tr. John Sargeaunt"
+  ],
+  "terence-sargeaunt-v2": [
+   "terence00iijohn",
+   "Terence, vol. 2 (Loeb, 1912)",
+   "tr. John Sargeaunt"
+  ],
+  "terence-echard-1733": [
+   "terencescomedie00teregoog",
+   "Terence's Comedies made English, with his life and some remarks at the end, eighth edition, revised by Dr. Echard and Sir R. L'Estrange (London: Knapton and others, MDCCXXXIII)",
+   "tr. Laurence Echard"
+  ],
+  "plautus-evans-trinummus-1883": [
+   "trinnummustmacc00plaugoog",
+   "The Trinummus of T. Maccius Plautus translated into literal English, with notes (London: Simpkin, Marshall, 1883)",
+   "tr. A. H. Evans"
+  ],
+  "terence-cooke-1755-v1": [
+   "comediestranslat01tere",
+   "Terence's Comedies, translated into English, together with the original Latin, with critical and explanatory notes, second edition, vol. I (London: R. Ware and others, 1755)",
+   "tr. Thomas Cooke"
+  ],
+  "plautus-thornton-1769-v1": [
+   "comediesplautus02colmgoog",
+   "Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. I (London: T. Becket and P. A. De Hondt, 1769)",
+   "tr. Bonnell Thornton"
+  ],
+  "plautus-thornton-1769-v2": [
+   "comediesplautus01colmgoog",
+   "Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. II (London: T. Becket and P. A. De Hondt, 1769)",
+   "tr. Bonnell Thornton"
+  ],
+  "terence-morgan-phormio-1894": [
+   "phormiotranslate00tereuoft",
+   "The Phormio of Terence, translated into English prose, with a new prologue by J. B. Greenough and the Vatican miniatures (Cambridge, Mass.: C. W. Sever, 1894)",
+   "tr. Morris Hicky Morgan"
+  ]
+ },
+ "_excluded": {
+  "Paul Nixon, Loeb Plautus (1916-38)": "vol. 1 (PG) and vol. 2 (IA) held; vol. 3 (1924) is held back on rights because its only scan is a 1980 reprint (see plautus-nixon-v3's note below); vols. 4-5 first printed 1932 and 1938, not PD",
+  "Bonnell Thornton's Plautus (1767-74)": "the first-edition ECCO scans (bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1/_2/_3) read 0.65-0.70, under the bar. The revised second edition's vols. I-II (1769, Google scans, 0.796) are held as plautus-thornton-1769-v1/v2; vols. III-V (1772-74, Warner's continuation) are still wanted. comediesplautus00warngoog reads 0.772, under the bar.",
+  "comediestranslat02tere": "Cooke's Terence (1755), vol. II: no readable title page in the OCR (the preface is signed Thomas Cooke). Not taken under the title-page rule; vol. I is held."
+ },
+ "_surname": [
+  "plautus",
+  "terence",
+  "terentius"
+ ],
+ "_translators": {
+  "plautus-riley-captivi-mostellaria": "Henry T. Riley",
+  "terence-riley-comedies": "Henry T. Riley",
+  "terence-colman-comedies": "George Colman",
+  "terence-goodluck-andrian": "W. R. Goodluck",
+  "plautus-nixon-v1": "Paul Nixon",
+  "plautus-riley-comedies-v1": "henry thomas riley",
+  "plautus-riley-comedies-v2": "henry thomas riley",
+  "plautus-nixon-v2": "Paul Nixon",
+  "terence-sargeaunt-v1": "John Sargeaunt",
+  "terence-sargeaunt-v2": "John Sargeaunt",
+  "plautus-evans-trinummus-1883": "h. evans",
+  "terence-cooke-1755-v1": "thomas cooke",
+  "plautus-thornton-1769-v1": "bonnell thornton",
+  "plautus-thornton-1769-v2": "bonnell thornton",
+  "terence-morgan-phormio-1894": "m. h. morgan"
+ },
+ "_checks": {
+  "plautus-riley-captivi-mostellaria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "Henry T. Riley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry T. Riley",
+   "translator_match": true
+  },
+  "terence-riley-comedies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "terence",
+   "translator_claimed": "Henry T. Riley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry T. Riley",
+   "translator_match": true
+  },
+  "terence-colman-comedies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "terence",
+   "translator_claimed": "George Colman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Colman",
+   "translator_match": true
+  },
+  "terence-goodluck-andrian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "terence",
+   "translator_claimed": "W. R. Goodluck",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jr. W. R. Goodluck",
+   "translator_match": true
+  },
+  "plautus-nixon-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "Paul Nixon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Paul Nixon",
+   "translator_match": true
+  },
+  "plautus-riley-comedies-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "henry thomas riley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plautus-riley-comedies-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "henry thomas riley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plautus-nixon-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "Paul Nixon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terence-sargeaunt-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "terence",
+   "translator_claimed": "John Sargeaunt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "terence-sargeaunt-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "terence",
+   "translator_claimed": "John Sargeaunt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "terence-echard-1733": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "terence",
+   "identity": "ok",
+   "ia_rights": "ok: published 1733",
+   "ia_date": "1733",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plautus-evans-trinummus-1883": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "h. evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terence-cooke-1755-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "thomas cooke",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plautus-thornton-1769-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "bonnell thornton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1769",
+   "ia_date": "1769",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plautus-thornton-1769-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "bonnell thornton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1769",
+   "ia_date": "1769",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terence-morgan-phormio-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "terence",
+   "translator_claimed": "m. h. morgan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_rights_checked": {},
+ "_held": {
+  "plautus-nixon-v3": "held back on rights, not fetched: the only scan (IA plautus03plau) is a 1980 reprint of the 1924 translation carrying a 'Bibliographical Note (1979)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA plautus03plau: Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924)"
+ },
+ "_surname_by_slug": {
+  "plautus-riley-captivi-mostellaria": [
+   "plautus"
+  ],
+  "terence-riley-comedies": [
+   "terence",
+   "terentius"
+  ],
+  "terence-colman-comedies": [
+   "terence",
+   "terentius"
+  ],
+  "terence-goodluck-andrian": [
+   "terence",
+   "terentius"
+  ],
+  "plautus-nixon-v1": [
+   "plautus"
+  ],
+  "plautus-riley-comedies-v1": [
+   "plautus"
+  ],
+  "plautus-riley-comedies-v2": [
+   "plautus"
+  ],
+  "plautus-nixon-v2": [
+   "plautus"
+  ],
+  "terence-sargeaunt-v1": [
+   "terence",
+   "terentius"
+  ],
+  "terence-sargeaunt-v2": [
+   "terence",
+   "terentius"
+  ],
+  "terence-echard-1733": [
+   "terence",
+   "terentius"
+  ],
+  "plautus-evans-trinummus-1883": [
+   "plautus"
+  ]
+ },
+ "_translator_unchecked": {
+  "terence-echard-1733": "title page reads 'made English by Mr. Laurence Echard, revised and corrected by Dr. Echard and Sir R. L'Estrange' (eighth edition, MDCCXXXIII); the OCR prints the surname 'EC HARD' and 'Eehard'"
+ }
+}

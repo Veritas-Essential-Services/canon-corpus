@@ -1,0 +1,190 @@
+{
+ "_about": "Public-domain Newman Smyth (1843-1925), Congregational pastor of Center Church, New Haven, and theologian, for the Word Hoard: The Religious Feeling (1877), Old Faiths in New Light (1879), The Orthodox Theology of To-day (1881), The Reality of Faith (1884), The Morality of the Old Testament (1886), Christian Facts and Forces (1887), Personal Creeds (1890), Christian Ethics (1892), The Place of Death in Evolution (1897), Through Science to Faith (1902) and Passing Protestantism and Coming Catholicism (1908), from Internet Archive scans. Added 2026-10-23 by lane A, round 57 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "smyth"
+ ],
+ "_surname": [
+  "newman smyth",
+  "n. smyth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nsmyth-religious-feeling": [
+   "religiousfeeling00smyt_0",
+   "The religious feeling. A study for faith (New York : Scribner, Armstrong & Co., 1877)"
+  ],
+  "nsmyth-old-faiths": [
+   "oldfaithsnew00smytuoft",
+   "Old faiths in new light (New York, Scribner, 1879)"
+  ],
+  "nsmyth-orthodox-theology": [
+   "orthodoxtheology0000smyt",
+   "The orthodox theology of to-day (New York : C. Scribner, 1881)"
+  ],
+  "nsmyth-reality-of-faith": [
+   "realityoffaith00smyt",
+   "The reality of faith (New York : C. Scribner's Sons, 1884)"
+  ],
+  "nsmyth-morality-ot": [
+   "moralityoldtest00smytgoog",
+   "The Morality of the Old Testament (Cassell, 1886)"
+  ],
+  "nsmyth-christian-facts": [
+   "christianfactsfo00smyt",
+   "Christian facts and forces (New York, C. Scribner's sons, 1887)"
+  ],
+  "nsmyth-personal-creeds": [
+   "personalcreedsor00smyt",
+   "Personal creeds : or, How to form a working-theory of life (New York : C. Scribner's sons, 1890)"
+  ],
+  "nsmyth-christian-ethics": [
+   "christianethicsc00smyt",
+   "Christian ethics (New York, C. Scribner's sons, 1892)"
+  ],
+  "nsmyth-place-of-death": [
+   "placeofdeathinev0000smyt",
+   "The place of death in evolution (New York : C. Scribner's Sons, 1897)"
+  ],
+  "nsmyth-science-to-faith": [
+   "throughscienceto00smyt",
+   "Through science to faith (New York : C. Scribner's Sons, 1902)"
+  ],
+  "nsmyth-passing-protestantism": [
+   "passingprotestan00smyt",
+   "Passing Protestantism and coming Catholicism (New York : C. Scribner's sons, 1908)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "nsmyth-other": "His translation of Dorner on the Future State (1883, Dorner's book); a Berlin guidebook miscatalogued under his name"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "nsmyth-religious-feeling": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nsmyth-old-faiths": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsmyth-orthodox-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nsmyth-reality-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nsmyth-morality-ot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsmyth-christian-facts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "nsmyth-personal-creeds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsmyth-christian-ethics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsmyth-place-of-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nsmyth-science-to-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nsmyth-passing-protestantism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newman smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

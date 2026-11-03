@@ -1,0 +1,65 @@
+{
+ "_about": "Edith Howes's fairy and nature stories from New Zealand: Wonderwings and Other Fairy Stories, and The Sun's Babies (first published October 1910). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Edith Howes",
+ "_name_words": [
+  "howes"
+ ],
+ "_surname": [
+  "edith howes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "howes-wonderwings": [
+   20366,
+   "Wonderwings and other Fairy Stories",
+   {
+    "levels": [
+     {
+      "re": "(?i:[\\W_]*(?:The[\\W_]*Magic[\\W_]*Mirror|Fairy[\\W_]*Tenderheart|Wonderwings)[\\W_]*)$"
+     }
+    ],
+    "start": "Wonderwings$",
+    "front": true
+   }
+  ],
+  "howes-suns-babies": [
+   38063,
+   "The Sun's Babies",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.--)[A-Z][^a-z]+$",
+      "number_repeats": true
+     },
+     {
+      "re": "[IVXL]+\\.--"
+     }
+    ],
+    "start": "THE SUN-MAN'S BABIES$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "howes-wonderwings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edith howes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howes-suns-babies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edith howes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

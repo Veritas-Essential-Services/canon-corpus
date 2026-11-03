@@ -1,0 +1,272 @@
+{
+ "_about": "Public-domain Randolph Harrison McKim (1842-1920), rector of the Church of the Epiphany, Washington, for the Word Hoard: his theology and sermons only: The Doctrine of the Church of England as to the Christian Ministry, Future Punishment, Bread in the Desert, Christ and Modern Unbelief, Leo XIII at the Bar of History, Present-Day Problems of Christian Thought, The Gospel in the Christian Year, The Problem of the Pentateuch, The Proposal to Change the Name of the Protestant Episcopal Church, Romanism in the Light of History, For God and Country, his history of Christ Church, Alexandria, and single sermons. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 91 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "randolph h. mckim",
+  "randolph harrison mckim",
+  "r. h. mckim"
+ ],
+ "_surname": [
+  "randolph h. mckim",
+  "randolph harrison mckim",
+  "r. h. mckim",
+  "mckim"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mckim-church-of-england-ministry": [
+   "thedoctrineofeng00mckiuoft",
+   "The doctrine of the Church of England as to the nature of the Christian ministry (New York : Protestant Episcopal Society for the promotion of Evangelical Knowledge, 1880)"
+  ],
+  "mckim-future-punishment": [
+   "futurepunishment00mcki",
+   "Future punishment : comprising four parochial sermons : with an introduction on the scriptural doctrine of retribution and an essay on prayers for the dead (New York : T. Whittaker, 1883)"
+  ],
+  "mckim-bread-in-desert": [
+   "breadindesert00mcki",
+   "Bread in the desert (New York : T. Whittaker, 1887)"
+  ],
+  "mckim-washingtons-church": [
+   "washingtonschurch00mcki",
+   "Washington's church. An historical sketch of old Christ church, Alexandria, Virginia, together with a brief description of the centenary services therein, November 20 and 21st, 1873 (Alexandria, Va. [Press of R. Bell's sons], 1888)"
+  ],
+  "mckim-christ-modern-unbelief": [
+   "christmodernunbe00mcki",
+   "Christ and modern unbelief (New York, T. Whittaker, 1893)"
+  ],
+  "mckim-leo-xiii": [
+   "leoxiiiatbarofhi00mcki",
+   "Leo XIII at the bar of history. A discussion of the papal plan for Christian unity (Washington, D.C., Gibson Bros., printers, 1897)"
+  ],
+  "mckim-present-day-problems": [
+   "presentdayproble00mcki",
+   "Present-day problems of Christian thought (New York, T. Whittaker, 1900)"
+  ],
+  "mckim-national-bereavement": [
+   "meaningofournati00mcki",
+   "The meaning of our national bereavement ([Washington, B. S. Adams, 1901)"
+  ],
+  "mckim-gospel-christian-year": [
+   "gospelinchristia00mcki",
+   "The gospel in the Christian year and in Christian experience : practical sermons for the people, Advent to Trinity (New York ; London : Longmans, Green, 1902)"
+  ],
+  "mckim-pentateuch": [
+   "problemofpentate00mcki",
+   "The problem of the Pentateuch; an examination of the results of the higher criticism (New York, London [etc.] Longmans, Green, and co., 1906)"
+  ],
+  "mckim-anglo-saxon-church": [
+   "contributionofan00mcki",
+   "The contribution of the Anglo-Saxon church in the making of the republic; a sermon before the Colonial dames in the Bethlehem chapel of the Cathedral of St. Peter and St. Paul, Washington, D.C., Sunday, May 5, 1912 ([Washington, 1912)"
+  ],
+  "mckim-change-name": [
+   "proposaltochange00mckirich",
+   "The proposal to change the name of the Protestant Episcopal Church, considered in the light of true Catholic principles (New York, E. P. Dutton, [191)"
+  ],
+  "mckim-romanism": [
+   "romanisminlighto00mckirich",
+   "Romanism in the light of history (New York and London, G. P. Putnam's sons, 1914)"
+  ],
+  "mckim-national-opportunity": [
+   "nationalopportun00mcki",
+   "National opportunity and responsibility; a sermon delivered in the Church of Epiphany, Washington, D.C ([Washington, D.C., 1915)"
+  ],
+  "mckim-holy-war": [
+   "americasummonedt00mcki",
+   "America summoned to a holy war; a sermon delivered in the Church of the Epiphany ([Washington], 1917)"
+  ],
+  "mckim-god-and-country": [
+   "forgodcountry00mcki",
+   "For God and country (New York, E. P. Dutton & company, 1918)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mckim-confederate": "his Confederate memoir and writings (A Soldier's Recollections, The Soul of Lee, The Motives and Aims of the Soldiers of the South, The Numerical Strength of the Confederate Army); a county history he contributed to"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "mckim-holy-war": "title page (page image, black letter): 'America Summoned to a Holy War. A Sermon Delivered in the Church of the Epiphany, Washington, D.C. Palm Sunday evening, April 1, 1917, on the eve of the Assembling of Congress. By the Rector, The Rev. Randolph H. McKim, D.D., LL.D.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mckim-church-of-england-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckim-future-punishment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mckim-bread-in-desert": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mckim-washingtons-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckim-christ-modern-unbelief": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph harrison mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mckim-leo-xiii": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mckim-present-day-problems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mckim-national-bereavement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckim-gospel-christian-year": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mckim-pentateuch": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckim-anglo-saxon-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mckim-change-name": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "[1913]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckim-romanism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckim-national-opportunity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mckim-holy-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mckim-god-and-country": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph h. mckim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "_about": "Public-domain Samuel Squire (1714-1766), Bishop of St David's, for the Word Hoard: Indifference for Religion Inexcusable, The Principles of Religion Made Easy to Young Persons, A Speedy Repentance, and his sermons of 1745 to 1765. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 138 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "samuel squire",
+  "s. squire",
+  "squire",
+  "bishop of st. david's"
+ ],
+ "_surname": [
+  "squire"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "squire-lord-mayor-1745": [
+   "bim_eighteenth-century_a-sermon-preached-before_squire-samuel_1745",
+   "A sermon preached before the Right Honourable the Lord Mayor, the Court of Aldermen, the sheriffs, and the governors of the several hospitals of the City of London, at the parish-church of St. Bridget, on Tuesday in Easter-week, 1745. By Samuel Squire, ...  1745 (catalogued 1745)"
+  ],
+  "squire-cambridge-1749": [
+   "bim_eighteenth-century_a-sermon-preached-before_squire-samuel_1749",
+   "A sermon preached before his Grace the Duke of Newcastle, chancellor, and the University of Cambridge, in St. Mary's church, upon commencement Sunday, July 2, 1749. By Samuel Squire, ...  1749 (catalogued 1749)"
+  ],
+  "squire-christ-church-1749": [
+   "per_early-18th-century-archives_a-sermon-preachd-in-the_samuel-squire-ma_1749_2",
+   "A Sermon Preach'd in the Parish-Church of Christ-Church, London; ...  1749: Vol 2, vol. 2 (catalogued 1749)"
+  ],
+  "squire-commons-1751": [
+   "bim_eighteenth-century_a-sermon-preached-before_squire-samuel_1751",
+   "A sermon preached before the Honourable House of Commons, at St.Margaret's, Westminster, on Tuesday, June 11. 1751. ... By Samuel Squire, ...  1751 (catalogued 1751)"
+  ],
+  "squire-speedy-repentance": [
+   "bim_eighteenth-century_a-speedy-repentance-the-_squire-samuel_1756_0",
+   "A speedy repentance the most effectual means to avert Gods [sic] judgments. A sermon preached at the parish church of St. Anne Westminster, February 6, 1756; being the day appointed for a general fast and humiliation, ... By Samuel Squire, ...  1756 (catalogued 1756)"
+  ],
+  "squire-indifference": [
+   "bim_eighteenth-century_indifference-for-religio_squire-samuel_1758",
+   "Indifference for religion inexcusable; or, a serious, impartial and practical review of the certainty, importance, and harmony of religion ... By Samuel Squire, ...  1758 (catalogued 1758)"
+  ],
+  "squire-smallpox-1760": [
+   "bim_eighteenth-century_a-sermon-preached-before_squire-samuel_1760",
+   "A sermon preached before His Grace Charles, Duke of Marlborough, president, the vice-presidents, the treasurer, &c. of the Hospitals for the Small-Pox, on Thursday, March 27, 1760. By Samuel Squire, ...  1760 (catalogued 1760)"
+  ],
+  "squire-lords-1762": [
+   "bim_eighteenth-century_a-sermon-preached-before_squire-samuel_1762",
+   "A sermon preached before the Lords ... in the Abbey church, Westminster, on Saturday, January 30, 1762, ... By Samuel, Lord Bishop of St. David's.  1762 (catalogued 1762)"
+  ],
+  "squire-principles-religion": [
+   "bim_eighteenth-century_the-principles-of-religi_squire-samuel_1763",
+   "The principles of religion made easy to young persons, in a short and familiar catechism. By Samuel, Lord Bishop of St. David's.  1763 (catalogued 1763)"
+  ],
+  "squire-st-lawrence-1765": [
+   "bim_eighteenth-century_a-sermon-preached-at-st_squire-samuel_1765",
+   "A sermon preached at St. Lawrence Jewry, on Thursday, March 28, 1765, before His Royal Highness Edward Duke of York, President, and the governors of the London-Hospital, at Mile-End, ... By Samuel, Lord Bishop of St. David's. ...  1765 (catalogued 1765)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "squire-political": "the Enquiry into the English Constitution, the Letter to a Tory Friend, The Important Question Discussed, and the remarks on Carte and on The Academic are political or historical",
+  "squire-dups": "the 1763 printing of Indifference for Religion"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "squire-cambridge-1749": "title page (image): 'By Samuel Squire, D.D. Archdeacon of Bath, and Chaplain to his Grace the Duke of Newcastle', 1749",
+  "squire-christ-church-1749": "title page (image): 'By Samuel Squire, M.A. Archdeacon of Bath', charity-school sermon, 3 May 1749",
+  "squire-commons-1751": "the Commons' order printed with the sermon thanks 'the Reverend Doctor Squire, for the sermon by him preached yesterday at St. Margaret's', 22 June 1751 (the title page is too dark to read)",
+  "squire-speedy-repentance": "title page (OCR): 'By Samuel Squire, D.D. Fellow of the Royal Society, Archdeacon of Bath' (OCR reads S$2UIRE), 1756",
+  "squire-lords-1762": "title page (OCR): 'The Lord Bishop of St. David's Sermon before the House of Lords, January 30, 1762' (Squire was Bishop of St David's 1761-1766)",
+  "squire-principles-religion": "title page (OCR): 'Samuel Lord Bishop of St. David's' (Squire was Bishop of St David's 1761-1766)",
+  "squire-st-lawrence-1765": "title page (OCR): 'By Samuel, Lord Bishop of St. David's', 1765 (Squire was Bishop of St David's 1761-1766)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "squire-lord-mayor-1745": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "squire",
+   "identity": "ok",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "squire-cambridge-1749": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "squire-christ-church-1749": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "squire-commons-1751": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1751",
+   "ia_date": "1751",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "squire-speedy-repentance": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1756",
+   "ia_date": "1756",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "squire-indifference": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "squire",
+   "identity": "ok",
+   "ia_rights": "ok: published 1758",
+   "ia_date": "1758",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "squire-smallpox-1760": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "squire",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "squire-lords-1762": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1762",
+   "ia_date": "1762",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "squire-principles-religion": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "squire-st-lawrence-1765": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

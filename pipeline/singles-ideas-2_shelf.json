@@ -1,0 +1,1392 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: more one-off translations of philosophy, religion and politics: Durkheim's Elementary Forms of the Religious Life (Swain, 1915), Engels's Socialism, Utopian and Scientific (Aveling), Kant's Critique of Judgement (Bernard) and Perpetual Peace (Campbell Smith), Grotius's Rights of War and Peace, Pascal's Thoughts (Kegan Paul), Schopenhauer (2), Croce (2), Trotsky's Our Revolution (1918), Bebel's Woman and Socialism, Stendhal's On Love, Comte's General View of Positivism, Petrarch (2), Della Casa's Galateo (1576), Maimon's autobiography, Drews's The Christ Myth, d'Holbach (2), Eucken (2) and others. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 41); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. c. campbell",
+  "alban g. widgery",
+  "alban gregory widgery",
+  "anson phelps atterbury",
+  "archibald colin campbell",
+  "arthur brodrick bullock",
+  "baijnath singh",
+  "c. delisle burns",
+  "c. kegan paul",
+  "caroline rollin corson",
+  "cecil hague",
+  "cecil n. sidney woolf",
+  "charles edwardes",
+  "charles kegan paul",
+  "christabel m. meredith",
+  "christabel margaret meredith",
+  "dino bigongiari",
+  "edward b. aveling",
+  "h. j. stenning",
+  "henry james stenning",
+  "j. h. bernard",
+  "john clark murray",
+  "john henry bernard",
+  "john henry bridges",
+  "john m. gitterman",
+  "john milton gitterman",
+  "joseph m. hone",
+  "joseph maunsell hone",
+  "joseph ward swain",
+  "julius h. seelye",
+  "julius hawley seelye",
+  "karl hillebrand",
+  "l. i. finch",
+  "laura i. finch",
+  "margaret von seydewitz",
+  "marie adèle lewenz",
+  "mario emilio cosenza",
+  "mary campbell smith",
+  "max gysi",
+  "meta stern lilienthal",
+  "moissaye j. olgin",
+  "moissaye joseph olgin",
+  "o. w. wight",
+  "orlando williams wight",
+  "paul henri thiry holbach",
+  "philip h. wicksteed",
+  "philip henry wicksteed",
+  "philip sidney woolf",
+  "r. g. collingwood",
+  "r. martineau",
+  "robert peterson",
+  "robin george collingwood",
+  "russell martineau",
+  "savel zimand",
+  "t. c. partington",
+  "thomas frognall dibdin",
+  "w. m. johnson",
+  "william h. draper",
+  "william martin johnson"
+ ],
+ "_surname": [
+  "a. c. campbell",
+  "alban g. widgery",
+  "alban gregory widgery",
+  "anson phelps atterbury",
+  "archibald colin campbell",
+  "arthur brodrick bullock",
+  "baijnath singh",
+  "c. delisle burns",
+  "c. kegan paul",
+  "caroline rollin corson",
+  "cecil hague",
+  "cecil n. sidney woolf",
+  "charles edwardes",
+  "charles kegan paul",
+  "christabel m. meredith",
+  "christabel margaret meredith",
+  "dino bigongiari",
+  "edward b. aveling",
+  "h. j. stenning",
+  "henry james stenning",
+  "j. h. bernard",
+  "john clark murray",
+  "john henry bernard",
+  "john henry bridges",
+  "john m. gitterman",
+  "john milton gitterman",
+  "joseph m. hone",
+  "joseph maunsell hone",
+  "joseph ward swain",
+  "julius h. seelye",
+  "julius hawley seelye",
+  "karl hillebrand",
+  "l. i. finch",
+  "laura i. finch",
+  "margaret von seydewitz",
+  "marie adèle lewenz",
+  "mario emilio cosenza",
+  "mary campbell smith",
+  "max gysi",
+  "meta stern lilienthal",
+  "moissaye j. olgin",
+  "moissaye joseph olgin",
+  "o. w. wight",
+  "orlando williams wight",
+  "paul henri thiry holbach",
+  "philip h. wicksteed",
+  "philip henry wicksteed",
+  "philip sidney woolf",
+  "r. g. collingwood",
+  "r. martineau",
+  "robert peterson",
+  "robin george collingwood",
+  "russell martineau",
+  "savel zimand",
+  "t. c. partington",
+  "thomas frognall dibdin",
+  "w. m. johnson",
+  "william h. draper",
+  "william martin johnson"
+ ],
+ "_surname_by_slug": {
+  "si2-34804": [
+   "philip h. wicksteed",
+   "philip henry wicksteed",
+   "wicksteed"
+  ],
+  "si2-35210": [
+   "anson phelps atterbury",
+   "atterbury"
+  ],
+  "si2-36208": [
+   "o. w. wight",
+   "orlando williams wight",
+   "wight"
+  ],
+  "si2-36303": [
+   "moissaye j. olgin",
+   "moissaye joseph olgin",
+   "olgin"
+  ],
+  "si2-36762": [
+   "bigongiari",
+   "dino bigongiari"
+  ],
+  "si2-37016": [
+   "caroline rollin corson",
+   "corson"
+  ],
+  "si2-37290": [
+   "h. j. stenning",
+   "henry james stenning",
+   "partington",
+   "stenning",
+   "t. c. partington"
+  ],
+  "si2-37998": [
+   "lewenz",
+   "marie adèle lewenz"
+  ],
+  "si2-38102": [
+   "holbach",
+   "paul henri thiry holbach"
+  ],
+  "si2-39023": [
+   "savel zimand",
+   "zimand"
+  ],
+  "si2-39257": [
+   "aveling",
+   "edward b. aveling"
+  ],
+  "si2-39653": [
+   "christabel m. meredith",
+   "christabel margaret meredith",
+   "meredith"
+  ],
+  "si2-40770": [
+   "johnson",
+   "w. m. johnson",
+   "william martin johnson"
+  ],
+  "si2-41042": [
+   "john clark murray",
+   "murray"
+  ],
+  "si2-41360": [
+   "joseph ward swain",
+   "swain"
+  ],
+  "si2-41412": [
+   "julius h. seelye",
+   "julius hawley seelye",
+   "seelye"
+  ],
+  "si2-43405": [
+   "margaret von seydewitz",
+   "seydewitz"
+  ],
+  "si2-43719": [
+   "alban g. widgery",
+   "alban gregory widgery",
+   "widgery"
+  ],
+  "si2-44929": [
+   "arthur brodrick bullock",
+   "bullock"
+  ],
+  "si2-45540": [
+   "burns",
+   "c. delisle burns"
+  ],
+  "si2-46564": [
+   "a. c. campbell",
+   "archibald colin campbell",
+   "campbell"
+  ],
+  "si2-46921": [
+   "c. kegan paul",
+   "charles kegan paul",
+   "paul"
+  ],
+  "si2-47244": [
+   "lilienthal",
+   "meta stern lilienthal"
+  ],
+  "si2-48433": [
+   "bernard",
+   "j. h. bernard",
+   "john henry bernard"
+  ],
+  "si2-50922": [
+   "mary campbell smith",
+   "smith"
+  ],
+  "si2-49228": [
+   "cecil hague",
+   "hague"
+  ],
+  "si2-50966": [
+   "hillebrand",
+   "karl hillebrand"
+  ],
+  "si2-51544": [
+   "gitterman",
+   "john m. gitterman",
+   "john milton gitterman"
+  ],
+  "si2-52814": [
+   "collingwood",
+   "r. g. collingwood",
+   "robin george collingwood"
+  ],
+  "si2-53620": [
+   "hone",
+   "joseph m. hone",
+   "joseph maunsell hone"
+  ],
+  "si2-53720": [
+   "cecil n. sidney woolf",
+   "philip sidney woolf",
+   "woolf"
+  ],
+  "si2-53799": [
+   "bridges",
+   "john henry bridges"
+  ],
+  "si2-47993": [
+   "peterson",
+   "robert peterson"
+  ],
+  "si2-47859": [
+   "cosenza",
+   "mario emilio cosenza"
+  ],
+  "si2-49450": [
+   "draper",
+   "william h. draper"
+  ],
+  "si2-48967": [
+   "martineau",
+   "r. martineau",
+   "russell martineau"
+  ],
+  "si2-47621": [
+   "dibdin",
+   "thomas frognall dibdin"
+  ],
+  "si2-52356": [
+   "charles edwardes",
+   "edwardes"
+  ],
+  "si2-47749": [
+   "baijnath singh",
+   "singh"
+  ],
+  "si2-39986": [
+   "gysi",
+   "max gysi"
+  ],
+  "si2-46942": [
+   "finch",
+   "l. i. finch",
+   "laura i. finch"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "si2-34804": [
+   34804,
+   "Lectures on the Origin and Growth of Religion as Illustrated by the Native Religions of Mexico and Peru"
+  ],
+  "si2-35210": [
+   35210,
+   "Socialism and the Social Movement in the 19th Century"
+  ],
+  "si2-36208": [
+   36208,
+   "Lectures on the true, the beautiful and the good"
+  ],
+  "si2-36303": [
+   36303,
+   "Our Revolution: Essays on Working-Class and International Revolution, 1904-1917"
+  ],
+  "si2-36762": [
+   36762,
+   "The Reform of Education"
+  ],
+  "si2-37016": [
+   37016,
+   "Elements of Morals With Special Application of the Moral Law to the Duties of the Individual and of Society and the State"
+  ],
+  "si2-37290": [
+   37290,
+   "The life and teaching of Karl Marx"
+  ],
+  "si2-37998": [
+   37998,
+   "Morals and the Evolution of Man"
+  ],
+  "si2-38102": [
+   38102,
+   "Critical Examination of the Life of St. Paul"
+  ],
+  "si2-39023": [
+   39023,
+   "The Future Belongs to the People"
+  ],
+  "si2-39257": [
+   39257,
+   "Socialism, Utopian and Scientific"
+  ],
+  "si2-39653": [
+   39653,
+   "Historical materialism and the economics of Karl Marx"
+  ],
+  "si2-40770": [
+   40770,
+   "Christianity Unveiled Being an Examination of the Principles and Effects of the Christian Religion"
+  ],
+  "si2-41042": [
+   41042,
+   "Solomon Maimon: An Autobiography."
+  ],
+  "si2-41360": [
+   41360,
+   "The Elementary Forms of the Religious Life"
+  ],
+  "si2-41412": [
+   41412,
+   "A History of Philosophy in Epitome"
+  ],
+  "si2-43405": [
+   43405,
+   "Ethics and Modern Thought: A Theory of Their Relations"
+  ],
+  "si2-43719": [
+   43719,
+   "Life's Basis and Life's Ideal: The Fundamentals of a New Philosophy of Life"
+  ],
+  "si2-44929": [
+   44929,
+   "The Basis of Morality"
+  ],
+  "si2-45540": [
+   45540,
+   "The Christ Myth"
+  ],
+  "si2-46564": [
+   46564,
+   "The Rights of War and Peace"
+  ],
+  "si2-46921": [
+   46921,
+   "The Thoughts of Blaise Pascal"
+  ],
+  "si2-47244": [
+   47244,
+   "Woman and Socialism"
+  ],
+  "si2-48433": [
+   48433,
+   "Kant's Critique of Judgement"
+  ],
+  "si2-50922": [
+   50922,
+   "Perpetual Peace: A Philosophical Essay"
+  ],
+  "si2-49228": [
+   49228,
+   "The Origin of the Knowledge of Right and Wrong"
+  ],
+  "si2-50966": [
+   50966,
+   "On the Fourfold Root of the Principle of Sufficient Reason, and On the Will in Nature: Two Essays (revised edition)"
+  ],
+  "si2-51544": [
+   51544,
+   "The State: Its History and Development Viewed Sociologically"
+  ],
+  "si2-52814": [
+   52814,
+   "The Philosophy of Giambattista Vico"
+  ],
+  "si2-53620": [
+   53620,
+   "The life of Friedrich Nietzsche"
+  ],
+  "si2-53720": [
+   53720,
+   "On Love"
+  ],
+  "si2-53799": [
+   53799,
+   "A General View of Positivism Or, Summary exposition of the System of Thought and Life"
+  ],
+  "si2-47993": [
+   47993,
+   "A Renaissance Courtesy-book: Galateo of Manners & Behaviours"
+  ],
+  "si2-47859": [
+   47859,
+   "Petrarch's Letters to Classical Authors"
+  ],
+  "si2-49450": [
+   49450,
+   "Petrarch's Secret; or, the Soul's Conflict with Passion Three Dialogues Between Himself and S. Augustine"
+  ],
+  "si2-48967": [
+   48967,
+   "Mythology among the Hebrews and Its Historical Development"
+  ],
+  "si2-47621": [
+   47621,
+   "Fenelon's Treatise on the Education of Daughters Translated from the French, and Adapted to English Readers"
+  ],
+  "si2-52356": [
+   52356,
+   "Essays and Dialogues"
+  ],
+  "si2-47749": [
+   47749,
+   "Letters from a Sûfî Teacher"
+  ],
+  "si2-39986": [
+   39986,
+   "The Way of Initiation; or, How to Attain Knowledge of the Higher Worlds"
+  ],
+  "si2-46942": [
+   46942,
+   "Metapsychical phenomena"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-ideas-2-annet-critical-examination-of-the-life-of-st-p": {
+   "source": "si2-38102",
+   "of": "Peter Annet",
+   "work": "Critical Examination of the Life of St. Paul",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Paul Henri Thiry Holbach",
+   "scan_edition": "Project Gutenberg 38102 (clean text)"
+  },
+  "singles-ideas-2-bebel-woman-and-socialism": {
+   "source": "si2-47244",
+   "of": "August Bebel",
+   "work": "Woman and Socialism",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Meta Stern Lilienthal",
+   "scan_edition": "Project Gutenberg 47244 (clean text)"
+  },
+  "singles-ideas-2-beer-the-life-and-teaching-of-karl-marx": {
+   "source": "si2-37290",
+   "of": "Max Beer",
+   "work": "The life and teaching of Karl Marx",
+   "translated": "(see the Gutenberg header)",
+   "translator": "T. C. Partington and H. J. Stenning",
+   "scan_edition": "Project Gutenberg 37290 (clean text)"
+  },
+  "singles-ideas-2-brentano-the-origin-of-the-knowledge-of-right-and": {
+   "source": "si2-49228",
+   "of": "Franz Brentano",
+   "work": "The Origin of the Knowledge of Right and Wrong",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Cecil Hague",
+   "scan_edition": "Project Gutenberg 49228 (clean text)"
+  },
+  "singles-ideas-2-comte-a-general-view-of-positivism-or-summary": {
+   "source": "si2-53799",
+   "of": "Auguste Comte",
+   "work": "A General View of Positivism Or, Summary exposition of the System of Thought and Life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Henry Bridges",
+   "scan_edition": "Project Gutenberg 53799 (clean text)"
+  },
+  "singles-ideas-2-cousin-lectures-on-the-true-the-beautiful-and-t": {
+   "source": "si2-36208",
+   "of": "Victor Cousin",
+   "work": "Lectures on the true, the beautiful and the good",
+   "translated": "(see the Gutenberg header)",
+   "translator": "O. W. Wight",
+   "scan_edition": "Project Gutenberg 36208 (clean text)"
+  },
+  "singles-ideas-2-croce-historical-materialism-and-the-economics": {
+   "source": "si2-39653",
+   "of": "Benedetto Croce",
+   "work": "Historical materialism and the economics of Karl Marx",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Christabel M. Meredith",
+   "scan_edition": "Project Gutenberg 39653 (clean text)"
+  },
+  "singles-ideas-2-croce-the-philosophy-of-giambattista-vico": {
+   "source": "si2-52814",
+   "of": "Benedetto Croce",
+   "work": "The Philosophy of Giambattista Vico",
+   "translated": "(see the Gutenberg header)",
+   "translator": "R. G. Collingwood",
+   "scan_edition": "Project Gutenberg 52814 (clean text)"
+  },
+  "singles-ideas-2-della-casa-a-renaissance-courtesy-book": {
+   "source": "si2-47993",
+   "of": "Giovanni Della Casa",
+   "work": "A Renaissance Courtesy-book: Galateo of Manners & Behaviours",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Peterson",
+   "scan_edition": "Project Gutenberg 47993 (clean text)"
+  },
+  "singles-ideas-2-drews-the-christ-myth": {
+   "source": "si2-45540",
+   "of": "Arthur Drews",
+   "work": "The Christ Myth",
+   "translated": "(see the Gutenberg header)",
+   "translator": "C. Delisle Burns",
+   "scan_edition": "Project Gutenberg 45540 (clean text)"
+  },
+  "singles-ideas-2-durkheim-the-elementary-forms-of-the-religious-li": {
+   "source": "si2-41360",
+   "of": "Émile Durkheim",
+   "work": "The Elementary Forms of the Religious Life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joseph Ward Swain",
+   "scan_edition": "Project Gutenberg 41360 (clean text)",
+   "note": "Swain's translation was first published by Allen & Unwin in 1915. Gutenberg keyed this from the fifth impression (1964); an impression is a reprint of the same setting (flagged in DIGEST-C)."
+  },
+  "singles-ideas-2-engels-socialism-utopian-and-scientific": {
+   "source": "si2-39257",
+   "of": "Friedrich Engels",
+   "work": "Socialism, Utopian and Scientific",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edward B. Aveling",
+   "scan_edition": "Project Gutenberg 39257 (clean text)"
+  },
+  "singles-ideas-2-eucken-ethics-and-modern-thought": {
+   "source": "si2-43405",
+   "of": "Rudolf Eucken",
+   "work": "Ethics and Modern Thought: A Theory of Their Relations",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Margaret von Seydewitz",
+   "scan_edition": "Project Gutenberg 43405 (clean text)"
+  },
+  "singles-ideas-2-eucken-life-s-basis-and-life-s-ideal": {
+   "source": "si2-43719",
+   "of": "Rudolf Eucken",
+   "work": "Life's Basis and Life's Ideal: The Fundamentals of a New Philosophy of Life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alban G. Widgery",
+   "scan_edition": "Project Gutenberg 43719 (clean text)"
+  },
+  "singles-ideas-2-fenelon-fenelon-s-treatise-on-the-education-of-d": {
+   "source": "si2-47621",
+   "of": "Fénelon",
+   "work": "Fenelon's Treatise on the Education of Daughters Translated from the French, and Adapted to English Readers",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas Frognall Dibdin",
+   "scan_edition": "Project Gutenberg 47621 (clean text)"
+  },
+  "singles-ideas-2-gentile-the-reform-of-education": {
+   "source": "si2-36762",
+   "of": "Giovanni Gentile",
+   "work": "The Reform of Education",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Dino Bigongiari",
+   "scan_edition": "Project Gutenberg 36762 (clean text)"
+  },
+  "singles-ideas-2-goldziher-mythology-among-the-hebrews-and-its-hist": {
+   "source": "si2-48967",
+   "of": "Ignác Goldziher",
+   "work": "Mythology among the Hebrews and Its Historical Development",
+   "translated": "(see the Gutenberg header)",
+   "translator": "R. Martineau",
+   "scan_edition": "Project Gutenberg 48967 (clean text)"
+  },
+  "singles-ideas-2-grotius-the-rights-of-war-and-peace": {
+   "source": "si2-46564",
+   "of": "Hugo Grotius",
+   "work": "The Rights of War and Peace",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. C. Campbell",
+   "scan_edition": "Project Gutenberg 46564 (clean text)"
+  },
+  "singles-ideas-2-halevy-the-life-of-friedrich-nietzsche": {
+   "source": "si2-53620",
+   "of": "Daniel Halévy",
+   "work": "The life of Friedrich Nietzsche",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joseph M. Hone",
+   "scan_edition": "Project Gutenberg 53620 (clean text)"
+  },
+  "singles-ideas-2-holbach-christianity-unveiled-being-an-examinati": {
+   "source": "si2-40770",
+   "of": "Paul Henri Thiry Holbach",
+   "work": "Christianity Unveiled Being an Examination of the Principles and Effects of the Christian Religion",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. M. Johnson",
+   "scan_edition": "Project Gutenberg 40770 (clean text)"
+  },
+  "singles-ideas-2-janet-elements-of-morals-with-special-applicat": {
+   "source": "si2-37016",
+   "of": "Paul Janet",
+   "work": "Elements of Morals With Special Application of the Moral Law to the Duties of the Individual and of Society and the State",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Caroline Rollin Corson",
+   "scan_edition": "Project Gutenberg 37016 (clean text)"
+  },
+  "singles-ideas-2-kant-kant-s-critique-of-judgement": {
+   "source": "si2-48433",
+   "of": "Immanuel Kant",
+   "work": "Kant's Critique of Judgement",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. H. Bernard",
+   "scan_edition": "Project Gutenberg 48433 (clean text)"
+  },
+  "singles-ideas-2-kant-perpetual-peace": {
+   "source": "si2-50922",
+   "of": "Immanuel Kant",
+   "work": "Perpetual Peace: A Philosophical Essay",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mary Campbell Smith",
+   "scan_edition": "Project Gutenberg 50922 (clean text)"
+  },
+  "singles-ideas-2-leopardi-essays-and-dialogues": {
+   "source": "si2-52356",
+   "of": "Giacomo Leopardi",
+   "work": "Essays and Dialogues",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Edwardes",
+   "scan_edition": "Project Gutenberg 52356 (clean text)"
+  },
+  "singles-ideas-2-liebknecht-the-future-belongs-to-the-people": {
+   "source": "si2-39023",
+   "of": "Karl Liebknecht",
+   "work": "The Future Belongs to the People",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Savel Zimand",
+   "scan_edition": "Project Gutenberg 39023 (clean text)"
+  },
+  "singles-ideas-2-maimon-solomon-maimon": {
+   "source": "si2-41042",
+   "of": "Solomon Maimon",
+   "work": "Solomon Maimon: An Autobiography.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Clark Murray",
+   "scan_edition": "Project Gutenberg 41042 (clean text)"
+  },
+  "singles-ideas-2-maniri-letters-from-a-sufi-teacher": {
+   "source": "si2-47749",
+   "of": "Sharafuddin Maneri",
+   "work": "Letters from a Sûfî Teacher",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Baijnath Singh",
+   "scan_edition": "Project Gutenberg 47749 (clean text)"
+  },
+  "singles-ideas-2-maxwell-metapsychical-phenomena": {
+   "source": "si2-46942",
+   "of": "J. Maxwell",
+   "work": "Metapsychical phenomena",
+   "translated": "(see the Gutenberg header)",
+   "translator": "L. I. Finch",
+   "scan_edition": "Project Gutenberg 46942 (clean text)"
+  },
+  "singles-ideas-2-nordau-morals-and-the-evolution-of-man": {
+   "source": "si2-37998",
+   "of": "Max Nordau",
+   "work": "Morals and the Evolution of Man",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Marie Adèle Lewenz",
+   "scan_edition": "Project Gutenberg 37998 (clean text)"
+  },
+  "singles-ideas-2-oppenheimer-the-state": {
+   "source": "si2-51544",
+   "of": "Franz Oppenheimer",
+   "work": "The State: Its History and Development Viewed Sociologically",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John M. Gitterman",
+   "scan_edition": "Project Gutenberg 51544 (clean text)"
+  },
+  "singles-ideas-2-pascal-the-thoughts-of-blaise-pascal": {
+   "source": "si2-46921",
+   "of": "Blaise Pascal",
+   "work": "The Thoughts of Blaise Pascal",
+   "translated": "(see the Gutenberg header)",
+   "translator": "C. Kegan Paul",
+   "scan_edition": "Project Gutenberg 46921 (clean text)"
+  },
+  "singles-ideas-2-petrarca-petrarch-s-letters-to-classical-authors": {
+   "source": "si2-47859",
+   "of": "Francesco Petrarca",
+   "work": "Petrarch's Letters to Classical Authors",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mario Emilio Cosenza",
+   "scan_edition": "Project Gutenberg 47859 (clean text)"
+  },
+  "singles-ideas-2-petrarca-petrarch-s-secret": {
+   "source": "si2-49450",
+   "of": "Francesco Petrarca",
+   "work": "Petrarch's Secret; or, the Soul's Conflict with Passion Three Dialogues Between Himself and S. Augustine",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William H. Draper",
+   "scan_edition": "Project Gutenberg 49450 (clean text)"
+  },
+  "singles-ideas-2-reville-lectures-on-the-origin-and-growth-of-rel": {
+   "source": "si2-34804",
+   "of": "Albert Réville",
+   "work": "Lectures on the Origin and Growth of Religion as Illustrated by the Native Religions of Mexico and Peru",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Philip H. Wicksteed",
+   "scan_edition": "Project Gutenberg 34804 (clean text)"
+  },
+  "singles-ideas-2-schopenhauer-on-the-fourfold-root-of-the-principle-of": {
+   "source": "si2-50966",
+   "of": "Arthur Schopenhauer",
+   "work": "On the Fourfold Root of the Principle of Sufficient Reason, and On the Will in Nature: Two Essays (revised edition)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Karl Hillebrand",
+   "scan_edition": "Project Gutenberg 50966 (clean text)"
+  },
+  "singles-ideas-2-schopenhauer-the-basis-of-morality": {
+   "source": "si2-44929",
+   "of": "Arthur Schopenhauer",
+   "work": "The Basis of Morality",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Arthur Brodrick Bullock",
+   "scan_edition": "Project Gutenberg 44929 (clean text)"
+  },
+  "singles-ideas-2-schwegler-a-history-of-philosophy-in-epitome": {
+   "source": "si2-41412",
+   "of": "Albert Schwegler",
+   "work": "A History of Philosophy in Epitome",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Julius H. Seelye",
+   "scan_edition": "Project Gutenberg 41412 (clean text)"
+  },
+  "singles-ideas-2-sombart-socialism-and-the-social-movement-in-the": {
+   "source": "si2-35210",
+   "of": "Werner Sombart",
+   "work": "Socialism and the Social Movement in the 19th Century",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Anson Phelps Atterbury",
+   "scan_edition": "Project Gutenberg 35210 (clean text)"
+  },
+  "singles-ideas-2-steiner-the-way-of-initiation": {
+   "source": "si2-39986",
+   "of": "Rudolf Steiner",
+   "work": "The Way of Initiation; or, How to Attain Knowledge of the Higher Worlds",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Max Gysi",
+   "scan_edition": "Project Gutenberg 39986 (clean text)"
+  },
+  "singles-ideas-2-stendhal-on-love": {
+   "source": "si2-53720",
+   "of": "Stendhal",
+   "work": "On Love",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Cecil N. Sidney Woolf and Philip Sidney Woolf",
+   "scan_edition": "Project Gutenberg 53720 (clean text)"
+  },
+  "singles-ideas-2-trotsky-our-revolution": {
+   "source": "si2-36303",
+   "of": "Leon Trotsky",
+   "work": "Our Revolution: Essays on Working-Class and International Revolution, 1904-1917",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Moissaye J. Olgin",
+   "scan_edition": "Project Gutenberg 36303 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "si2-34804": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "philip h. wicksteed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Philip H. Wicksteed"
+  },
+  "si2-35210": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anson phelps atterbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anson Phelps Atterbury"
+  },
+  "si2-36208": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "o. w. wight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "O. W. Wight"
+  },
+  "si2-36303": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "moissaye j. olgin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Moissaye J. Olgin"
+  },
+  "si2-36762": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bigongiari",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dino Bigongiari"
+  },
+  "si2-37016": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "caroline rollin corson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Caroline Rollin Corson"
+  },
+  "si2-37290": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. j. stenning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. C. Partington; H. J. Stenning"
+  },
+  "si2-37998": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lewenz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Marie Adèle Lewenz"
+  },
+  "si2-38102": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "holbach",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "baron d' Paul Henri Thiry Holbach"
+  },
+  "si2-39023": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "savel zimand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Savel Zimand"
+  },
+  "si2-39257": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aveling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward B. Aveling"
+  },
+  "si2-39653": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christabel m. meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Christabel M. Meredith"
+  },
+  "si2-40770": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. M. Johnson"
+  },
+  "si2-41042": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john clark murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Clark Murray"
+  },
+  "si2-41360": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph ward swain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Ward Swain"
+  },
+  "si2-41412": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "julius h. seelye",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Julius H. Seelye"
+  },
+  "si2-43405": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "margaret von seydewitz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Margaret von Seydewitz"
+  },
+  "si2-43719": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alban g. widgery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alban G. Widgery"
+  },
+  "si2-44929": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur brodrick bullock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Brodrick Bullock"
+  },
+  "si2-45540": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. delisle burns",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. Delisle Burns"
+  },
+  "si2-46564": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. campbell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. C. Campbell"
+  },
+  "si2-46921": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. kegan paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. Kegan Paul"
+  },
+  "si2-47244": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lilienthal",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Meta Stern Lilienthal"
+  },
+  "si2-48433": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. H. Bernard"
+  },
+  "si2-50922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary campbell smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Campbell Smith"
+  },
+  "si2-49228": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cecil hague",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cecil Hague"
+  },
+  "si2-50966": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hillebrand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mme. Karl Hillebrand"
+  },
+  "si2-51544": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gitterman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John M. Gitterman"
+  },
+  "si2-52814": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "collingwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. G. Collingwood"
+  },
+  "si2-53620": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hone",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph M. Hone"
+  },
+  "si2-53720": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cecil n. sidney woolf",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cecil N. Sidney Woolf; Philip Sidney Woolf"
+  },
+  "si2-53799": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john henry bridges",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Henry Bridges"
+  },
+  "si2-47993": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "peterson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 1576-1606 Robert Peterson"
+  },
+  "si2-47859": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cosenza",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mario Emilio Cosenza"
+  },
+  "si2-49450": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "draper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William H. Draper"
+  },
+  "si2-48967": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Martineau"
+  },
+  "si2-47621": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dibdin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Frognall Dibdin"
+  },
+  "si2-52356": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles edwardes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Edwardes"
+  },
+  "si2-47749": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "baijnath singh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Baijnath Singh"
+  },
+  "si2-39986": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gysi",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Max Gysi"
+  },
+  "si2-46942": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "finch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "L. I. Finch"
+  }
+ },
+ "_verified": {
+  "si2-34804": {
+   "pg": 34804,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Philip H. Wicksteed"
+  },
+  "si2-35210": {
+   "pg": 35210,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anson Phelps Atterbury"
+  },
+  "si2-36208": {
+   "pg": 36208,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "O. W. Wight"
+  },
+  "si2-36303": {
+   "pg": 36303,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Moissaye J. Olgin"
+  },
+  "si2-36762": {
+   "pg": 36762,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dino Bigongiari"
+  },
+  "si2-37016": {
+   "pg": 37016,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Caroline Rollin Corson"
+  },
+  "si2-37290": {
+   "pg": 37290,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. C. Partington"
+  },
+  "si2-37998": {
+   "pg": 37998,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Marie Adèle Lewenz"
+  },
+  "si2-38102": {
+   "pg": 38102,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "baron d' Paul Henri Thiry Holbach"
+  },
+  "si2-39023": {
+   "pg": 39023,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Savel Zimand"
+  },
+  "si2-39257": {
+   "pg": 39257,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward B. Aveling"
+  },
+  "si2-39653": {
+   "pg": 39653,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Christabel M. Meredith"
+  },
+  "si2-40770": {
+   "pg": 40770,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. M. Johnson"
+  },
+  "si2-41042": {
+   "pg": 41042,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Clark Murray"
+  },
+  "si2-41360": {
+   "pg": 41360,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph Ward Swain"
+  },
+  "si2-41412": {
+   "pg": 41412,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Julius H. Seelye"
+  },
+  "si2-43405": {
+   "pg": 43405,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Margaret von Seydewitz"
+  },
+  "si2-43719": {
+   "pg": 43719,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alban G. Widgery"
+  },
+  "si2-44929": {
+   "pg": 44929,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Brodrick Bullock"
+  },
+  "si2-45540": {
+   "pg": 45540,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. Delisle Burns"
+  },
+  "si2-46564": {
+   "pg": 46564,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. C. Campbell"
+  },
+  "si2-46921": {
+   "pg": 46921,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. Kegan Paul"
+  },
+  "si2-47244": {
+   "pg": 47244,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Meta Stern Lilienthal"
+  },
+  "si2-48433": {
+   "pg": 48433,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. H. Bernard"
+  },
+  "si2-50922": {
+   "pg": 50922,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Campbell Smith"
+  },
+  "si2-49228": {
+   "pg": 49228,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cecil Hague"
+  },
+  "si2-50966": {
+   "pg": 50966,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mme. Karl Hillebrand"
+  },
+  "si2-51544": {
+   "pg": 51544,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John M. Gitterman"
+  },
+  "si2-52814": {
+   "pg": 52814,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. G. Collingwood"
+  },
+  "si2-53620": {
+   "pg": 53620,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph M. Hone"
+  },
+  "si2-53720": {
+   "pg": 53720,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cecil N. Sidney Woolf"
+  },
+  "si2-53799": {
+   "pg": 53799,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Henry Bridges"
+  },
+  "si2-47993": {
+   "pg": 47993,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "active 1576-1606 Robert Peterson"
+  },
+  "si2-47859": {
+   "pg": 47859,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mario Emilio Cosenza"
+  },
+  "si2-49450": {
+   "pg": 49450,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William H. Draper"
+  },
+  "si2-48967": {
+   "pg": 48967,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Martineau"
+  },
+  "si2-47621": {
+   "pg": 47621,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Frognall Dibdin"
+  },
+  "si2-52356": {
+   "pg": 52356,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Edwardes"
+  },
+  "si2-47749": {
+   "pg": 47749,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Baijnath Singh"
+  },
+  "si2-39986": {
+   "pg": 39986,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Max Gysi"
+  },
+  "si2-46942": {
+   "pg": 46942,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "L. I. Finch"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,68 @@
+{
+ "_about": "Public-domain Benet of Canfield (William Fitch, 1562-1610), the English Capuchin mystic, for the Word Hoard: The Rule of Perfection, which he wrote in English (Rouen: John Cousturier, approbation 1608), and The Holy Will of God, a short rule of perfection, translated by Father Collins (1878), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "canfield",
+  "canfeld",
+  "fitch"
+ ],
+ "_surname": [
+  "benet of canfield",
+  "benedict canfield",
+  "canfield",
+  "canfeld",
+  "w. fitch"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "canfield-rule-perfection-1609": [
+   "bim_early-english-books-1475-1640_the-rule-of-perfection-_fitch-william_1609_0",
+   "The Rule of Perfection, contayning a breif and perspicuous abridgement of all the wholle spirituall life (Rouen: for Iohn Cousturier; approbation dated 1608, catalogued 1609)"
+  ],
+  "canfield-holy-will-1878": [
+   "holywillgodasho00fitcgoog",
+   "The Holy Will of God: a short rule of perfection, tr. Father Collins (London: Thomas Richardson & Sons, 1878)"
+  ]
+ },
+ "_alternates": {
+  "canfield-copies": "Two other 1609 issues (title pages garbled); A Bright Starre (third part of the Rule, catalogued 1646, translator garbled); TheHolyWillOfGod (another copy)"
+ },
+ "_excluded": {
+  "canfield-other": "The Christian Knight (1619): the title page credits Sir William Wiseman"
+ },
+ "_rights_checked": {
+  "canfield-rule-perfection-1609": "title page read: by the R. F. Benet Capucin, heretofore called W. Fitch of Canfeld in Essex; written in English; no year legible, the Paris approbation is dated 20 September 1608"
+ },
+ "_pending": {},
+ "_translators": {
+  "canfield-holy-will-1878": "collins"
+ },
+ "_checks": {
+  "canfield-rule-perfection-1609": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "canfeld",
+   "identity": "ok",
+   "ia_rights": "ok: published 1609",
+   "ia_date": "1609",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: by the R. F. Benet Capucin, heretofore called W. Fitch of Canfeld in Essex; written in English; no year legible, the Paris approbation is dated 20 September 1608"
+  },
+  "canfield-holy-will-1878": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benedict canfield",
+   "translator_claimed": "collins",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

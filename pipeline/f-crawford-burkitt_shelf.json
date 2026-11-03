@@ -1,0 +1,166 @@
+{
+ "_about": "Public-domain F. Crawford Burkitt, Norrisian Professor of Divinity at Cambridge and a scholar of Syriac Christianity, for the Word Hoard, his own studies: The Syriac Forms of New Testament Proper Names, The Old Latin and the Itala, Early Christianity outside the Roman Empire, Two Lectures on the Gospels, S. Ephraim's Quotations from the Gospel, Early Eastern Christianity, The Gospel History and its Transmission, The Earliest Sources for the Life of Jesus, and Jewish and Christian Apocalypses. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 132 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "francis crawford burkitt",
+  "f. crawford burkitt",
+  "f. c. burkitt",
+  "burkitt"
+ ],
+ "_surname": [
+  "burkitt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fcburkitt-syriac-names": [
+   "syriacformsofnew00burk",
+   "The Syriac forms of New Testament proper names (London : Henry Frowde, Oxford University press, 1884)"
+  ],
+  "fcburkitt-old-latin-itala": [
+   "oldlatinanditala00burkuoft",
+   "The Old Latin and the Itala, with an appendix containing the text of the S. Gallen palimpsest of Jeremiah (Cambridge, University press, 1896)"
+  ],
+  "fcburkitt-outside-roman-empire": [
+   "earlychristiani00burk",
+   "Early Christianity outside the Roman Empire : two lectures delivered at Trinity College, Dublin (Cambridge : University Press, 1899)"
+  ],
+  "fcburkitt-two-lectures-gospels": [
+   "twolecturesonthe00burkuoft",
+   "Two lectures on the Gospels (London : Macmillan, 1901)"
+  ],
+  "fcburkitt-ephraim-quotations": [
+   "sephraimsquotati00burkuoft",
+   "S. Ephraim's quotations from the Gospel (Cambridge [Eng.] The University press, 1901)"
+  ],
+  "fcburkitt-early-eastern": [
+   "earlyeasternchri00burk_1",
+   "Early eastern Christianity (London : J. Murray, 1904)"
+  ],
+  "fcburkitt-gospel-history": [
+   "gospelhistoryits0000burk",
+   "The gospel history and its transmission (Edinburgh : T. & T. Clark, 1906)"
+  ],
+  "fcburkitt-earliest-sources": [
+   "earliestsources00burk",
+   "The earliest sources for the life of Jesus (Boston and New York : Houghton, 1910)"
+  ],
+  "fcburkitt-apocalypses": [
+   "jewishandchristi00burkuoft",
+   "Jewish and Christian apocalypses (London, Pub. for the British academy by H. Milford, 1914)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "fcburkitt-editions": "his editions and translations of other men's texts (Tyconius, the Syriac Gospels, Evangelion da-Mepharreshe, Euphemia and the Goth, S. Ephraim against Mani, the Aquila fragments, the Palestinian Syriac relics)",
+  "fcburkitt-others": "the Arabic grammar, Bernard's Criticism of the New Testament and Select Narratives of Holy Women are by others",
+  "fcburkitt-german": "Urchristentum im Orient is a German translation by Erwin Preuschen"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "fcburkitt-two-lectures-gospels": "Title page: 'Two Lectures on the Gospels by F. Crawford Burkitt, M.A. Trinity College, Cambridge. London: Macmillan & Co., 1901' (OCR splits the surname as 'Bur kit t')."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "fcburkitt-syriac-names": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fcburkitt-old-latin-itala": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fcburkitt-outside-roman-empire": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fcburkitt-two-lectures-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fcburkitt-ephraim-quotations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fcburkitt-early-eastern": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fcburkitt-gospel-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fcburkitt-earliest-sources": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fcburkitt-apocalypses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burkitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

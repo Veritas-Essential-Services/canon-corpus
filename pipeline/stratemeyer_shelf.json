@@ -1,0 +1,1590 @@
+{
+ "_about": "Edward Stratemeyer's own-name books for boys (the Old Glory, Soldiers of Fortune, Pan-American and other series): every English text under his own name at Gutenberg that no other shelf holds (catalogue: Stratemeyer 1862-1930). The Alger books he finished are on the horatio-alger shelf, and his pen-name series are on their own shelves. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Edward Stratemeyer",
+ "_name_words": [
+  "stratemeyer"
+ ],
+ "_surname": [
+  "edward stratemeyer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stratemeyer-true-to-himself": [
+   4995,
+   "True to Himself; Or, Roger Strong's Struggle for Place"
+  ],
+  "stratemeyer-rover-boys-in-business": [
+   5002,
+   "The Rover Boys in Business; Or, The Search for the Missing Bonds"
+  ],
+  "stratemeyer-rover-boys-in-new-york": [
+   5003,
+   "The Rover Boys in New York; Or, Saving Their Father's Honor"
+  ],
+  "stratemeyer-rover-boys-in-the-jungle": [
+   5770,
+   "The Rover Boys in the Jungle; Or, Stirring Adventures in Africa"
+  ],
+  "stratemeyer-rover-boys-at-school": [
+   5780,
+   "The Rover Boys at School; Or, The Cadets of Putnam Hall"
+  ],
+  "stratemeyer-rover-boys-on-the-ocean": [
+   5875,
+   "The Rover Boys on the Ocean; Or, A chase for a fortune"
+  ],
+  "stratemeyer-rover-boys-out-west": [
+   6071,
+   "The Rover Boys out West; Or, The Search for a Lost Mine"
+  ],
+  "stratemeyer-richard-dares-venture": [
+   6365,
+   "Richard Dare's Venture; Or, Striking Out for Himself",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-on-the-trail-of-pontiac": [
+   6433,
+   "On the Trail of Pontiac; Or, The Pioneer Boys of the Ohio"
+  ],
+  "stratemeyer-rover-boys-on-the-great-lakes": [
+   6451,
+   "The Rover Boys on the Great Lakes; Or, The Secret of the Island Cave",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-guns-and-snowshoes": [
+   8697,
+   "Guns and Snowshoes; Or, the Winter Outing of the Young Hunters"
+  ],
+  "stratemeyer-rover-boys-at-college": [
+   10323,
+   "The Rover Boys at College; Or, The Right Road and the Wrong",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-young-hunters-of-the-lake": [
+   12936,
+   "Young Hunters of the Lake; or, Out with Rod and Gun"
+  ],
+  "stratemeyer-out-with-gun-and-camera": [
+   12937,
+   "Out with Gun and Camera; or, The Boy Hunters in the Mountains",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-four-boy-hunters": [
+   12952,
+   "Four Boy Hunters; Or, The Outing of the Gun Club"
+  ],
+  "stratemeyer-rover-boys-in-the-mountains": [
+   13455,
+   "The Rover Boys In The Mountains; Or, A Hunt for Fun and Fortune",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-on-treasure-isle": [
+   15723,
+   "The Rover Boys on Treasure Isle; Or, The Strange Cruise of the Steam Yacht",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-in-camp": [
+   15795,
+   "The Rover Boys in Camp; or, The Rivals of Pine Island"
+  ],
+  "stratemeyer-rover-boys-on-the-river": [
+   15904,
+   "The Rover Boys on the River; Or, The Search for the Missing Houseboat"
+  ],
+  "stratemeyer-rover-boys-on-land-and-sea": [
+   16476,
+   "The Rover Boys on Land and Sea: The Crusoes of Seven Islands"
+  ],
+  "stratemeyer-mystery-at-putnam-hall": [
+   17636,
+   "The Mystery at Putnam Hall: The School Chums' Strange Discovery",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porter-at-star-ranch": [
+   19016,
+   "Dave Porter at Star Ranch; Or, The Cowboy's Secret",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-in-the-air": [
+   20053,
+   "The Rover Boys in the Air; Or, From College Campus to the Clouds",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-boy-land-boomer": [
+   20618,
+   "The Boy Land Boomer; Or, Dick Arbuckle's Adventures in Oklahoma"
+  ],
+  "stratemeyer-young-bridge-tender": [
+   21344,
+   "The Young Bridge-Tender; or, Ralph Nelson's Upward Struggle",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-at-colby-hall": [
+   21894,
+   "The Rover Boys at Colby Hall; or, The Struggles of the Young Cadets",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-on-a-hunt": [
+   22012,
+   "The Rover Boys on a Hunt; or, The Mysterious House in the Woods",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-on-the-farm": [
+   22163,
+   "The Rover Boys on the Farm; or, Last Days at Putnam Hall",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-for-the-liberty-of-texas": [
+   22186,
+   "For the Liberty of Texas",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-american-boys-life-of-theodore-roosevelt": [
+   22352,
+   "American Boy's Life of Theodore Roosevelt"
+  ],
+  "stratemeyer-rover-boys-on-snowshoe-island": [
+   22996,
+   "The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-under-canvas": [
+   23286,
+   "The Rover Boys Under Canvas; Or, The Mystery of the Wrecked Submarine",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porter-in-the-gold-fields": [
+   24033,
+   "Dave Porter in the Gold Fields; Or, The Search for the Landslide Mine"
+  ],
+  "stratemeyer-dave-porter-and-his-rivals": [
+   26160,
+   "Dave Porter and His Rivals; or, The Chums and Foes of Oak Hall",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-on-the-plains": [
+   26182,
+   "The Rover Boys on the Plains; Or, The Mystery of Red Rock Ranch",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-in-southern-waters": [
+   26193,
+   "The Rover Boys in Southern Waters; or, The Deserted Steam Yacht",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-young-oarsmen-of-lakeview": [
+   26218,
+   "The Young Oarsmen of Lakeview",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-at-big-horn-ranch": [
+   26539,
+   "The Rover Boys at Big Horn Ranch; Or, The Cowboys' Double Round-Up",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-in-alaska": [
+   26902,
+   "The Rover Boys in Alaska; or, Lost in the Fields of Ice",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porter-and-the-runaways": [
+   28654,
+   "Dave Porter and the Runaways; Or, Last Days at Oak Hall",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porter-in-the-far-north": [
+   28861,
+   "Dave Porter in the Far North; Or, The Pluck of an American Schoolboy"
+  ],
+  "stratemeyer-dave-porter-at-bear-camp": [
+   29859,
+   "Dave Porter At Bear Camp; Or, The Wild Man of Mirror Lake",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porter-and-his-double": [
+   30394,
+   "Dave Porter and His Double; Or, The Disapperarance of the Basswood Fortune",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-in-the-land-of-luck": [
+   30841,
+   "The Rover Boys in the Land of Luck; Or, Stirring Adventures in the Oil Fields",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-missing-tin-box": [
+   30864,
+   "The Missing Tin Box; Or, The Stolen Railroad Bonds"
+  ],
+  "stratemeyer-young-auctioneers": [
+   31140,
+   "Young Auctioneers; Or, The Polishing of a Rolling Stone"
+  ],
+  "stratemeyer-campaign-of-the-jungle": [
+   31317,
+   "The Campaign of the Jungle; Or, Under Lawton through Luzon",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-to-alaska-for-gold": [
+   31989,
+   "To Alaska for Gold; Or, The Fortune Hunters of the Yukon",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-boys-of-the-fort": [
+   32057,
+   "Boys of The Fort; Or, A Young Captain's Pluck",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-at-the-fall-of-port-arthur": [
+   33559,
+   "At the Fall of Port Arthur; Or, A Young American in the Japanese Navy"
+  ],
+  "stratemeyer-three-young-ranchmen": [
+   33615,
+   "Three Young Ranchmen; or, Daring Adventures in the Great West",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-fighting-in-cuban-waters": [
+   34306,
+   "Fighting in Cuban waters",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porter-in-the-south-seas": [
+   34347,
+   "Dave Porter in the South Seas; or, The Strange Cruise of the Stormy Petrel",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-marching-on-niagara": [
+   34355,
+   "Marching on Niagara; Or, The Soldier Boys of the Old Frontier",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-last-cruise-of-the-spitfire": [
+   34367,
+   "The Last Cruise of the Spitfire; or, Luke Foster's Strange Voyage"
+  ],
+  "stratemeyer-leo-the-circus-boy": [
+   35821,
+   "Leo the Circus Boy; or, Life under the great white canvas",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-on-a-tour": [
+   36179,
+   "The Rover Boys on a Tour; or, Last Days at Brill College",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porter-on-cave-island": [
+   36377,
+   "Dave Porter on Cave Island; Or, A Schoolboy's Mysterious Mission",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-first-at-the-north-pole": [
+   38968,
+   "First at the North Pole; Or, Two Boys in the Arctic Circle"
+  ],
+  "stratemeyer-rover-boys-down-east": [
+   40303,
+   "The Rover Boys Down East; or, The Struggle for the Stanhope Fortune",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-a-young-inventors-pluck": [
+   42142,
+   "A Young Inventor's Pluck; or, The Mystery of the Willington Legacy",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-putnam-hall-cadets": [
+   45517,
+   "The Putnam Hall Cadets; or, Good Times in School and Out",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-putnam-hall-rivals": [
+   46872,
+   "The Putnam Hall Rivals; or, Fun and Sport Afloat and Ashore",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-putnam-hall-champions": [
+   47023,
+   "The Putnam Hall Champions; or, Bound to Win Out",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-putnam-hall-rebellion": [
+   47451,
+   "The Putnam Hall Rebellion; or, The Rival Runaways",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-putnam-hall-encampment": [
+   47562,
+   "The Putnam Hall Encampment; or, The Secret of the Old Mill",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-when-santiago-fell": [
+   51798,
+   "When Santiago Fell; or, The War Adventures of Two Chums",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-young-hunters-in-porto-rico": [
+   52217,
+   "Young Hunters in Porto Rico; or, The Search for a Lost Treasure",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-gun-club-boys-of-lakeport": [
+   52386,
+   "The Gun Club boys of Lakeport",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porters-return-to-school": [
+   53407,
+   "Dave Porter's Return to School; Or, Winning the Medal of Honor",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porter-and-his-classmates": [
+   53414,
+   "Dave Porter and His Classmates; Or, For the Honor of Oak Hall",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porters-great-search": [
+   55764,
+   "Dave Porter's Great Search; Or, The Perils of a Young Civil Engineer",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-trail-and-trading-post": [
+   63431,
+   "Trail and Trading Post; or, The Young Hunters of the Ohio",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-oliver-brights-search": [
+   66171,
+   "Oliver Bright's Search; or, The Mystery of a Mine",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-at-big-bear-lake": [
+   67285,
+   "The Rover Boys at Big Bear Lake; or, The Camps of the Rival Cadets",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-shipwrecked": [
+   67893,
+   "The Rover Boys Shipwrecked; or, A Thrilling Hunt for Pirates' Gold",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rover-boys-on-sunset-trail": [
+   68332,
+   "The Rover Boys on Sunset Trail; or, The old miner's mysterious message",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-lost-on-the-orinoco": [
+   68944,
+   "Lost on the Orinoco; or, American boys in Venezuela"
+  ],
+  "stratemeyer-rover-boys-winning-a-fortune": [
+   69463,
+   "The Rover Boys winning a fortune; or, Strenuous days ashore and afloat",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-at-the-fall-of-montreal": [
+   69501,
+   "At the fall of Montreal; or, A soldier boy's final victory",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-on-to-pekin": [
+   69749,
+   "On to Pekin; or, Old Glory in China"
+  ],
+  "stratemeyer-with-washington-in-the-west": [
+   70193,
+   "With Washington in the west;",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-fort-in-the-wilderness": [
+   71411,
+   "The fort in the wilderness",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-pioneer-boys-of-the-gold-fields": [
+   71417,
+   "Pioneer boys of the gold fields",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-two-young-lumbermen": [
+   71427,
+   "Two young lumbermen",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-young-volcano-explorers": [
+   71552,
+   "The young volcano explorers"
+  ],
+  "stratemeyer-with-boone-on-the-frontier": [
+   71642,
+   "With Boone on the frontier",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-under-the-mikados-flag": [
+   71728,
+   "Under the Mikado's flag",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-reuben-stones-discovery": [
+   74197,
+   "Reuben Stone's discovery",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-dave-porters-war-honors": [
+   74496,
+   "Dave Porter's war honors",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-baseball-boys-of-lakeport": [
+   74593,
+   "The baseball boys of Lakeport"
+  ],
+  "stratemeyer-bob-the-photographer": [
+   75034,
+   "Bob, the photographer",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-tour-of-the-zero-club": [
+   75342,
+   "Tour of the Zero Club"
+  ],
+  "stratemeyer-young-naval-captain": [
+   75394,
+   "The young naval captain",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-garry-grayson-at-lenox-high": [
+   75746,
+   "Garry Grayson at Lenox High",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-rival-bicyclists": [
+   75952,
+   "The rival bicyclists"
+  ],
+  "stratemeyer-garry-graysons-football-rivals": [
+   76086,
+   "Garry Grayson's football rivals",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-a-sailor-boy-with-dewey": [
+   77081,
+   "A sailor boy with Dewey",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-larry-barlows-ambition": [
+   77209,
+   "Larry Barlow's ambition"
+  ],
+  "stratemeyer-aircraft-boys-of-lakeport": [
+   77538,
+   "The aircraft boys of Lakeport"
+  ],
+  "stratemeyer-lost-in-the-land-of-ice": [
+   77580,
+   "Lost in the land of ice",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-defending-his-flag": [
+   77848,
+   "Defending his flag",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-under-dewey-at-manila": [
+   78934,
+   "Under Dewey at Manila",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratemeyer-neka-the-boy-conjuror": [
+   79533,
+   "Neka, the boy conjuror",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 22547 (Rover Boys on Treasure Isle) and 50201 (Young Oarsmen of Lakeview): second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "stratemeyer-true-to-himself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-in-business": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-in-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-in-the-jungle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-at-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-the-ocean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-out-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-richard-dares-venture": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-on-the-trail-of-pontiac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-the-great-lakes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-guns-and-snowshoes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-at-college": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-young-hunters-of-the-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-out-with-gun-and-camera": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-four-boy-hunters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-in-the-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-treasure-isle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-in-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-the-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-land-and-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-mystery-at-putnam-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porter-at-star-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-in-the-air": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-boy-land-boomer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-young-bridge-tender": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-at-colby-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-a-hunt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-the-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-for-the-liberty-of-texas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-american-boys-life-of-theodore-roosevelt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-snowshoe-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-under-canvas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porter-in-the-gold-fields": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porter-and-his-rivals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-the-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-in-southern-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-young-oarsmen-of-lakeview": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-at-big-horn-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-in-alaska": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porter-and-the-runaways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porter-in-the-far-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porter-at-bear-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porter-and-his-double": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-in-the-land-of-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-missing-tin-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-young-auctioneers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-campaign-of-the-jungle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-to-alaska-for-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-boys-of-the-fort": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-at-the-fall-of-port-arthur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-three-young-ranchmen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-fighting-in-cuban-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porter-in-the-south-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-marching-on-niagara": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-last-cruise-of-the-spitfire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-leo-the-circus-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-a-tour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porter-on-cave-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-first-at-the-north-pole": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-down-east": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-a-young-inventors-pluck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-putnam-hall-cadets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-putnam-hall-rivals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-putnam-hall-champions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-putnam-hall-rebellion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-putnam-hall-encampment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-when-santiago-fell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-young-hunters-in-porto-rico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-gun-club-boys-of-lakeport": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porters-return-to-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porter-and-his-classmates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porters-great-search": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-trail-and-trading-post": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-oliver-brights-search": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-at-big-bear-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-shipwrecked": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-on-sunset-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-lost-on-the-orinoco": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rover-boys-winning-a-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-at-the-fall-of-montreal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-on-to-pekin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-with-washington-in-the-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-fort-in-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-pioneer-boys-of-the-gold-fields": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-two-young-lumbermen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-young-volcano-explorers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-with-boone-on-the-frontier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-under-the-mikados-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-reuben-stones-discovery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-dave-porters-war-honors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-baseball-boys-of-lakeport": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-bob-the-photographer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-tour-of-the-zero-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-young-naval-captain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-garry-grayson-at-lenox-high": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-rival-bicyclists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-garry-graysons-football-rivals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-a-sailor-boy-with-dewey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-larry-barlows-ambition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-aircraft-boys-of-lakeport": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-lost-in-the-land-of-ice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-defending-his-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-under-dewey-at-manila": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratemeyer-neka-the-boy-conjuror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward stratemeyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

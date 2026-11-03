@@ -1,0 +1,123 @@
+{
+ "_about": "Henry Maudsley (1835-1918), English psychiatrist and materialist philosopher of mind. Raw IA OCR: The Physiology of Mind (London: Macmillan, 1876), clean 0.93; Body and Will (New York: Appleton, 1884), clean 0.94; Responsibility in Mental Disease (London: Kegan Paul, fourth edition 1885), clean 0.92; Natural Causes and Supernatural Seemings (London: Kegan Paul, 1886), clean 0.91; Body and Mind, enlarged and revised edition with psychological essays (New York: Appleton, 1890), clean 0.93; The Pathology of Mind (London: Macmillan, 1895), clean 0.94; Organic to Human, psychological and sociological (London: Macmillan, 1916), clean 0.95. US public domain. No uids minted.",
+ "_author": "Henry Maudsley",
+ "_name_words": [
+  "henry",
+  "maudsley"
+ ],
+ "_surname": [
+  "maudsley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "maudsley-physiology-of-mind-1876": [
+   "physiologyofmind00mauduoft",
+   "The Physiology of Mind (Macmillan, 1876)"
+  ],
+  "maudsley-body-and-will-1884": [
+   "bodywillbeingess00maud",
+   "Body and Will (Appleton, 1884)"
+  ],
+  "maudsley-responsibility-in-mental-disease-1885": [
+   "cu31924031204690",
+   "Responsibility in Mental Disease (Kegan Paul, 1885)"
+  ],
+  "maudsley-natural-causes-supernatural-seemings-1886": [
+   "cu31924031176815",
+   "Natural Causes and Supernatural Seemings (Kegan Paul, 1886)"
+  ],
+  "maudsley-body-and-mind-1890": [
+   "bodymindinquiryi00maud",
+   "Body and Mind (Appleton, 1890)"
+  ],
+  "maudsley-pathology-of-mind-1895": [
+   "pathologymindas00maudgoog",
+   "The Pathology of Mind (Macmillan, 1895)"
+  ],
+  "maudsley-organic-to-human-1916": [
+   "organictohumanps00maudiala",
+   "Organic to Human (Macmillan, 1916)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "maudsley-physiology-of-mind-1876": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maudsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maudsley-body-and-will-1884": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maudsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maudsley-responsibility-in-mental-disease-1885": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maudsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maudsley-natural-causes-supernatural-seemings-1886": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maudsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maudsley-body-and-mind-1890": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maudsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maudsley-pathology-of-mind-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maudsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maudsley-organic-to-human-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maudsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

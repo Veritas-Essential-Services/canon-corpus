@@ -1,0 +1,142 @@
+{
+ "_about": "Public-domain William MacCallum Clow (1853-1930), United Free Church minister in Glasgow and Principal of the United Free Church College there, for the Word Hoard: The Cross in Christian Experience (1908), The Day of the Cross (1909), The Secret of the Lord (1910), Christ in the Social Order (1913), The Evangel of the Strait Gate (1916), The Christian Message in the Light of the War (1918), The Quest of Industrial Peace (1921) and Dr. George Reith: a Scottish Ministry (1928). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 71 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "clow"
+ ],
+ "_surname": [
+  "clow"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "clow-cross-in-christian-experience": [
+   "crossinchristian00clowuoft",
+   "The Cross in Christian Experience (New York: Hodder and Stoughton; undated, catalogued 1908; the copy was given from the books of Edward Blake, who died in 1912)"
+  ],
+  "clow-day-of-the-cross": [
+   "dayofcrosscourse00clow",
+   "The day of the cross ; a course of sermons on the men and women and some of the notable things of the day of the crucifixion of Jesus (London : Hodder and Stoughton, 1909)"
+  ],
+  "clow-secret-of-the-lord": [
+   "secretofthelord00clowuoft",
+   "The secret of the Lord (New York : Hodder & Stoughton, 1910)"
+  ],
+  "clow-christ-in-social-order": [
+   "christinsocialor00clow",
+   "Christ in the social order (New York : Hodder & Stoughton : George H. Doran company, 1913)"
+  ],
+  "clow-evangel-strait-gate": [
+   "evangelofstraitg00clow",
+   "The evangel of the strait gate (London, New York [etc.] Hodder and Stoughton, 1916)"
+  ],
+  "clow-christian-message-war": [
+   "christianmessage0000clow",
+   "The Christian Message in the Light of the War (London, Edinburgh and New York: Marshall Brothers; undated, written during the 1914-1918 war, catalogued 1918)"
+  ],
+  "clow-quest-industrial-peace": [
+   "questofindustria00clowuoft",
+   "The quest of industrial peace (London, Hodder and Stoughton, 1921)"
+  ],
+  "clow-george-reith": [
+   "drgeorgereithsco0000clow",
+   "Dr. George Reith: a Scottish ministry (London, Hodder and Stoughton, 1928)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "clow-cross-in-christian-experience": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "[1908]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "clow-day-of-the-cross": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "clow-secret-of-the-lord": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "clow-christ-in-social-order": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clow-evangel-strait-gate": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clow-christian-message-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clow-quest-industrial-peace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "clow-george-reith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

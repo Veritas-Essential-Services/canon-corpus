@@ -7,6 +7,7 @@ model_log:
   - 2026-09-27 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
   - 2026-10-19 claude-opus-5-5 edited
   - 2026-10-20 claude-opus-5-5 edited (Aphthonius commands)
+  - 2026-11-03 claude-opus-5-5 edited (Bible dictionaries: Easton, Nave, Hurlbut's atlas)
 fable_review: pending
 ---
 # canon-corpus — rules for AI sessions
@@ -240,6 +241,26 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_commentaries.py --report  # per book: openers, coverage, Greek (and Hebrew) measures
     python3 tests/commentaries_test.py       # the note readers on fixtures; the manifest's measures
     python3 pipeline/build_commentaries.py --report delitzsch-psalms-2  # one volume (Alford, Bengel, K&D, Meyer read by build_book_2b)
+    python3 pipeline/build_xrefs.py --fetch            # the Treasury's two archive.org scans, pinned (~1.2 GB)
+    python3 pipeline/build_xrefs.py                    # cross-reference layer -> data/xrefs/ + build/xrefs/
+    python3 pipeline/build_xrefs.py --check            # tsk.jsonl byte-identical
+    python3 pipeline/xrefs.py kjv:John.1.1             # a verse's Treasury refs and its citers
+    python3 tests/xrefs_test.py                        # the Treasury reader rule by rule; the committed layer
+    python3 pipeline/build_commentary.py --fetch       # CCEL Henry/JFB/Barnes/Wesley/Calvin, Poole (EEBO-TCP), scans (Clarke, Spurgeon, Hodge, Haldane, Brown), pinned
+    python3 pipeline/build_commentary.py               # commentary layer -> data/commentary/ + build/commentary/
+    python3 pipeline/build_commentary.py --check       # byte-identical
+    python3 pipeline/build_commentary.py --collate     # CCEL's wording vs 1828/1840/1873 printings -> collation.json
+    python3 pipeline/commentary.py kjv:John.3.16       # the comments on a verse, and those citing it
+    python3 tests/commentary_test.py                   # the reader's commentary rules; fixtures; the committed layer
+    python3 pipeline/build_topical.py --fetch          # Nave, Torrey, Easton, Smith (CCEL) + their scans' OCR, pinned
+    python3 pipeline/build_topical.py                  # topical/dictionary layer -> data/topical/ (2-of-3 vote with print)
+    python3 pipeline/build_topical.py --check          # data/topical byte-identical
+    python3 pipeline/topical.py kjv:John.3.16          # every topic and article citing a verse
+    python3 tests/topical_test.py                      # the reference reader rule by rule; the committed layer
+    python3 pipeline/extract_short_pieces.py           # short pieces -> data/shorts/ (docs/short-pieces/SHORT-PIECES.tsv)
+    python3 pipeline/extract_short_pieces.py --check   # every ok piece resolves exactly once
+    python3 tests/short_pieces_test.py                 # the extractor, fixtures inline
+    python3 tests/bible_dictionaries_test.py           # Easton's, Nave's, Hurlbut's atlas: converters, pins, offline (35)
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -938,6 +959,54 @@ The living truth for project state is the Obsidian vault:
   A run that crosses a chapter fills to that chapter's length in the book's
   decided numbering; undecided, the shorter count, marked run_approximate
   (review c13). The K&D harvest reads verse lists through verse_lists too.
+- pipeline/build_xrefs.py (+ tsk_layout.py, tsk_read.py, tsk_glyphs.py, xrefs.py)
+  — the cross-reference layer on KJV verse ids. The Treasury of Scripture
+  Knowledge (PD) read from two archive.org scans: OCR re-laid in columns,
+  entries ALIGNED to KJV verses (not walked), every 3/8 re-read from the page
+  image (the face's 3 OCRs as 8), only references both scans attest committed
+  -> data/xrefs/tsk.jsonl. The fathers' notes (PR #7) and every book link to
+  a verse join it in build/xrefs/cited-by.jsonl (gitignored: CC BY-SA
+  inputs). OpenBible.info (CC BY) measures it and is never an input. Rules
+  and measurements: pipeline/README-xrefs.md
+- pipeline/build_topical.py (+ topical_read.py, topical.py) — Nave's, Torrey's,
+  Easton's and Smith's (Peloubet 1884, not the 1863 work) from CCEL's ThML,
+  keyed to KJV verse ids -> data/topical/*.jsonl (COMMITTED: headings, outline,
+  references; the dictionaries' prose only in build/topical/). A reference is
+  committed when 2 of 3 readings agree: CCEL's tag, an independent reader of
+  the displayed text, and the open archive.org scans' OCR aligned in order.
+  CCEL's Nave carries modern glosses (DONKEY, bronze): rows flag such wording
+  (`wording_not_in_print`). Hitchcock (no references) joins by headword.
+  pipeline/README-topical.md
+  Easton's and Nave's are also BOOKS (`easton`, `nave`, from the same pinned CCEL
+  files): see "Bible dictionaries" below. Keep both: book = the entries, layer = the verse index.
+- pipeline/build_commentary.py (+ commentary.py, clarke_read.py) — Henry, JFB, Barnes, Wesley,
+  Calvin, Hodge (Ephesians), Manton (James, Jude) (CCEL ThML; Calvin's CTS translators'
+  footnotes dropped as the editors'), Poole and Trapp (EEBO-TCP's hand-keyed first
+  editions; Trapp's place read by his "Verse N." head and lemma) and Clarke (scans) keyed to KJV
+  verse ids -> data/commentary/*.jsonl (COMMITTED: which verses each comment
+  is on, which it cites, Poole's margin parallels; the prose only in
+  build/commentary/). Each comment's place is read twice (CCEL's mark and the
+  comment's own verse numbers; Poole's inline verse numbers in order). CCEL
+  citations are voted as in the topical layer, with period scans (Henry 1828,
+  JFB 1873/79, Barnes 1840 Gospels). 🔴 CCEL's Barnes is keyed from Baker's
+  1949 reprint (flagged `ccel_print_source_check`) and is British-spelled;
+  CCEL's JFB and Henry are lightly edited (viz.->namely, spake->spoke):
+  measured in data/commentary/collation.json (`--collate`). Clarke is on
+  no keyed site: pipeline/clarke_read.py reads him from the archive.org OCR
+  of two printings of each Testament (1843/1846 OT, 1846/1835 NT), notes
+  placed by their "Verse N." heads and lemmas, chapters by alignment; a
+  citation is committed only when both printings read it. The 1843/1846 OT
+  share plates, so there the vote removes OCR error, not margin leakage.
+  Spurgeon's Treasury of David (Exposition only; CCEL has page images only)
+  is read the same way by pipeline/spurgeon_read.py, from the London
+  (Marshall) and New York (Funk & Wagnalls) printings: comments by
+  Spurgeon's numbered heads inside each printed verse group.
+  Hodge (Romans 1864, 1 and 2 Corinthians), Haldane (Romans) and John Brown
+  (Hebrews, 1 Peter) are read the same way by pipeline/single_read.py: verse
+  heads placed by lemma (Hodge, Haldane), printed passages (Brown's 1 Peter
+  discourses), or heads placed by lemma alone (Brown's Hebrews, whose CHAPTERs
+  are not the Bible's).
+  pipeline/README-commentary.md
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
@@ -1161,6 +1230,49 @@ it was not kept. Where the remaining gap to ~5,600 sits: of Strong's 5,494
 headword keys, 5,100 are found; most of the 394 others are inflected forms
 Strong's numbers separately (ἐμέ, ὑμῖν, μία) that Thayer does not head. The
 next real gain is proofreading those three pages, not another rule.
+
+## Bible dictionaries — Easton's, Nave's, Hurlbut's atlas (2026-11-03)
+
+For the Armarium's hub pages (vision map item 37). All three are in `LEXICONS`, pinned by
+URL and by sha256 (`LEXICON_SHA256`: a fetched file that differs is refused, kept as
+`*.refused`). Same `{id, ref, text, links[]}` contract; `ref` is the headword AS PRINTED, so a
+hub page finds an entry by its name (Brewer's `Brewer, s.v. X` refs do not match a hub; these do).
+
+- **`easton`** — Easton's Bible Dictionary (3rd ed., 1897), CCEL ThML `ebd2` v2.0, DC.Rights
+  "Public Domain". 3,964 entries, `easton:<headword-slug>`.
+- **`nave`** — Nave's Topical Bible (1896), CCEL ThML `nave/bible`: the reference edition
+  (topics, sub-topics, references; no quoted verses). 5,322 topics; sub-topic depth in
+  `lex.levels`. **DC.Rights is empty** in this file, so `redistribute_whole: false` until Adam
+  reads CCEL's page for it (rule 6).
+- **`hurlbut-bible-atlas`** — Hurlbut, The Rand-McNally Bible Atlas (1884; 1910 printing), PG
+  41140 from the Internet Archive's Gutenberg mirror. 1,378 gazetteer names from the book's three
+  printed indexes (map of Palestine, map of the OT World with modern names, descriptive matter
+  with pages) + 978 prose paragraphs (`text.<chapter>.<para>`). The maps are pictures and are
+  NOT carried; a name's unit is its index lines in words and links the paragraphs that print
+  it in bold. One unit per printed name, not per place. Printed pages are not in the
+  transcription, so "described on pp." is carried, not linked.
+
+ccel.org and gutenberg.org were not reachable from the session that added these. Easton's and
+Nave's are CCEL's own ThML files as kept (header and all) in `neuu-org/bible-dictionary-dataset`
+and `neuu-org/bible-topics-dataset` on GitHub, pinned to a commit; the host fetches those same
+bytes. Scripture: CCEL's `<scripRef parsed=...>` is read, never re-parsed, and every target is
+CHECKED against the KJV's verse list (`data/parallel/kjv-parallel.tsv`, `kjv_verse_index`):
+a verse or chapter the KJV lacks, or an Apocrypha book, stays `resolved: false` with `why`. A
+whole-chapter reference links verse 1 with `end` the last verse and `chapter: true`. Easton's
+23,643 references: 23,615 resolve (23,026 links after merging repeats per entry); Nave's 77,934:
+77,908 (72,193 links). See-references: Easton 651 resolved / 36 not; Nave 4,043 / 322 (a
+`PRIEST, HIGH` sub-topic links its topic, `match: "topic"`; `match` also marks `number` and
+`prefix` matches). Hurlbut: 483 scripture citations parsed from the prose, all checked.
+Wordhoard's hub finds dictionaries by title or slug (`LEXICON_TITLE`, `LEXICON_SLUG` in
+apps/armarium/pipeline/armarium.py): Easton's and Nave's match; the atlas needs `atlas` (or
+`hurlbut`) added there.
+
+**Same files as the topical layer, two jobs (ruled 2026-11-03, Adam's "merge what you can";
+keep both).** `easton` and `nave` here are the SAME CCEL bytes `build_topical.py` reads (one
+sha256 each, pinned in both places). The two are kept on purpose: these books are the
+readable entries a hub page shows (`easton:<slug>`, `ref` = headword), while
+`data/topical/` is the verse-keyed index (which topics cite a verse, voted 2-of-3 against the
+scans). Neither is rebuilt from the other. If one pin moves, move the other with it.
 
 ## STEPBible Greek — the one non-PD source, and how the limit is enforced (2026-09-06)
 

@@ -1,0 +1,176 @@
+{
+ "_about": "Thomas Smyth (1808-1873), Old School Presbyterian minister of Second Presbyterian Church, Charleston: Complete Works, edited by J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912, 10 vols), a reissue of his writings on church polity, the Westminster Assembly, apostolic succession, the unity of the human races and much else, paid for by a fund he left. Princeton copies, except vol. VI (Toronto). Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "thomas smyth",
+  "dr. smyth",
+  "dr smyth",
+  "smyth, thomas"
+ ],
+ "_surname": [
+  "thomas smyth",
+  "dr. smyth",
+  "dr smyth",
+  "smyth, thomas"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "smyth-works-1": [
+   "completeworksofr01smyt",
+   "Complete Works of Rev. Thomas Smyth, ed. J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912), vol. I"
+  ],
+  "smyth-works-2": [
+   "completeworksofr02smyt",
+   "Complete Works of Rev. Thomas Smyth, ed. J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912), vol. II"
+  ],
+  "smyth-works-3": [
+   "completeworksofr03smyt",
+   "Complete Works of Rev. Thomas Smyth, ed. J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912), vol. III"
+  ],
+  "smyth-works-4": [
+   "completeworksofr04smyt",
+   "Complete Works of Rev. Thomas Smyth, ed. J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912), vol. IV"
+  ],
+  "smyth-works-5": [
+   "completeworksofr05smyt",
+   "Complete Works of Rev. Thomas Smyth, ed. J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912), vol. V"
+  ],
+  "smyth-works-6": [
+   "completeworks06smytuoft",
+   "Complete Works of Rev. Thomas Smyth, ed. J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912), vol. VI"
+  ],
+  "smyth-works-7": [
+   "completeworksofr07smyt",
+   "Complete Works of Rev. Thomas Smyth, ed. J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912), vol. VII"
+  ],
+  "smyth-works-8": [
+   "completeworksofr08smyt",
+   "Complete Works of Rev. Thomas Smyth, ed. J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912), vol. VIII"
+  ],
+  "smyth-works-9": [
+   "completeworksofr09smyt",
+   "Complete Works of Rev. Thomas Smyth, ed. J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912), vol. IX"
+  ],
+  "smyth-works-10": [
+   "completeworksofr10smyt",
+   "Complete Works of Rev. Thomas Smyth, ed. J. Wm. Flinn (Columbia, S.C.: R. L. Bryan, 1908-1912), vol. X"
+  ]
+ },
+ "_alternates": {
+  "completeworksofr06smyt": "Princeton vol. VI; IA returned HTTP 500 for its text on 2026-10-03.",
+  "completeworks01-10smytuoft (Toronto), completeworksre*smytgoog, completeworksre0*flingoog": "Other copies of the set."
+ },
+ "_excluded": {},
+ "_checks": {
+  "smyth-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1908-1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-works-9": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smyth-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

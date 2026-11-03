@@ -1,0 +1,132 @@
+{
+ "_about": "Public-domain Charles Silvester Horne (1865-1914), Congregational minister of Whitefield's Tabernacle, London, and Member of Parliament, for the Word Hoard: The Story of the L.M.S. (1894), A Popular History of the Free Churches (1903), Nonconformity in the XIXth Century (1905), The Ministry of the Modern Church (1907), David Livingstone (1913), Pulpit, Platform and Parliament (1913) and his Yale Lectures, The Romance of Preaching (1914). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 72 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "horne"
+ ],
+ "_surname": [
+  "silvester horne",
+  "c. silvester horne"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "horne-story-of-lms": [
+   "storyoflms1795horn",
+   "The story of the L.M.S., 1795-1895 (London : London missionary society ; J. Snow, 1895)"
+  ],
+  "horne-free-churches": [
+   "apopularhistoryo00hornuoft",
+   "A popular history of the free churches (London : J. Clarke, 1903)"
+  ],
+  "horne-nonconformity-19th-century": [
+   "nonconformityinx0000horn",
+   "Nonconformity in the XIXth century (London : National Council of Evangelical Free Churches, 1905)"
+  ],
+  "horne-ministry-modern-church": [
+   "ministryofmodern0000horn",
+   "The Ministry of the Modern Church: lectures delivered to the students of Regent's Park Baptist College (London: J. Clarke, 1907)"
+  ],
+  "horne-david-livingstone": [
+   "cu31924028680274",
+   "David Livingstone (New York, The Macmillan company, 1913)"
+  ],
+  "horne-pulpit-platform-parliament": [
+   "pulpitplatformpa00horniala",
+   "Pulpit, platform and parliament (London : Hodder and Stoughton, 1913)"
+  ],
+  "horne-romance-of-preaching": [
+   "romanceofpreachi00horn",
+   "The romance of preaching (New York, Chicago [etc.] Fleming H. Revell Company, 1914)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "horne-other": "Let Us Pray (1897, a compiled book of collects); the 1914 In Memoriam booklet and W. B. Selbie's Life (1920), both about him"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "horne-story-of-lms": "title page OCR reads 'THE STORY OF THE L.M.S. 1795-1895 BY C. SILVESTER HORXE, M.A. ... SECOND AND REVISED EDITION ... LONDON MISSIONARY SOCIETY ... 1895' (OCR garbled); the library label reads 'Horne, C. Silvester 1865-1914'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "horne-story-of-lms": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horne-free-churches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "silvester horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horne-nonconformity-19th-century": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "silvester horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horne-ministry-modern-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "silvester horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horne-david-livingstone": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "silvester horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horne-pulpit-platform-parliament": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "silvester horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horne-romance-of-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "silvester horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

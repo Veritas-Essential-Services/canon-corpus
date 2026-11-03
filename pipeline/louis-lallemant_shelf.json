@@ -1,0 +1,44 @@
+{
+ "_about": "Public-domain Louis Lallemant (1588-1635, Jesuit) in English for the Word Hoard: The Spiritual Doctrine of Father Louis Lallemant, translated from the French and edited by Frederick William Faber (London: Burns & Lambert, 1855), from an Internet Archive scan. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lallemant"
+ ],
+ "_surname": [
+  "lallemant",
+  "louis lallemant"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lallemant-spiritual-doctrine": [
+   "spiritualdoctri00fabegoog",
+   "The Spiritual Doctrine of Father Louis Lallemant, translated from the French, ed. Frederick William Faber (London: Burns & Lambert, 1855)"
+  ]
+ },
+ "_alternates": {
+  "lallemant-copies": "Other 1855 copies; Sadlier's new edition (copyright 1885)"
+ },
+ "_excluded": {
+  "lallemant-late": "The 1946 edition and modern anthologies"
+ },
+ "_rights_checked": {
+  "lallemant-spiritual-doctrine": "title page read: 'Translated from the French. Edited by Frederick William Faber'; the translator is not named"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lallemant-spiritual-doctrine": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lallemant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Translated from the French. Edited by Frederick William Faber'; the translator is not named"
+  }
+ }
+}

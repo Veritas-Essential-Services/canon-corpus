@@ -1,0 +1,85 @@
+{
+ "_about": "Public-domain John Ireland (1838-1918), Archbishop of St. Paul and leader of the Americanist Catholics, for the Word Hoard: The Church and Modern Society, his lectures and addresses (Chicago: McBride, 1896, and the two-volume St. Paul edition of 1905), and his address Patriotism: Its Duty and Value (1894), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ireland"
+ ],
+ "_surname": [
+  "john ireland",
+  "archbishop ireland",
+  "archbishop of st. paul"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jireland-church-modern-society-1896": [
+   "churchmodernsoci00irel",
+   "The Church and Modern Society: Lectures and Addresses (Chicago and New York: D. H. McBride; title page undated, copyright 1896)"
+  ],
+  "jireland-church-modern-society-1": [
+   "churchmodernsoci01irel",
+   "The Church and Modern Society: Lectures and Addresses, vol. I (St. Paul: Pioneer Press, 1905)"
+  ],
+  "jireland-church-modern-society-2": [
+   "churchmodernsoci02irel",
+   "The Church and Modern Society: Lectures and Addresses, vol. II (St. Paul: Pioneer Press, 1905)"
+  ],
+  "jireland-patriotism": [
+   "patriotismitsdut00irel",
+   "Patriotism: Its Duty and Value, an address before the New York Commandery of the Loyal Legion, April 4, 1894 (New York: Catholic Book Exchange; title page undated)"
+  ]
+ },
+ "_alternates": {
+  "jireland-copies": "Other 1896 and 1903 McBride issues; a 1904 Pioneer Press vol. II (catalogued 1903 in error); his Memoir of Rev. Lucian Galtier and the Shields address (offprints, no imprint)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jireland-church-modern-society-1896": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john ireland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jireland-church-modern-society-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john ireland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jireland-church-modern-society-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john ireland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jireland-patriotism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john ireland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

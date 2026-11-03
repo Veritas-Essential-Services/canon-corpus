@@ -4,6 +4,7 @@
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-10-19 claude-opus-5-5 edited
 # prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius + Rainolde manifest entries)
+# prov: 2026-11-03 claude-opus-5-5 edited (Easton's, Nave's, Hurlbut's atlas; LEXICON_SHA256 pins)
 # fable_review: pending
 """fetch_sources.py — manifest-driven fetcher for the structured shelves.
 
@@ -2150,7 +2151,58 @@ LEXICONS = {
         "brewer-character-sketches-4.txt",
         "Brewer, Character Sketches, vol. IV (Skeggs-Z, three appendices), "
         "PG 58988. Headwords in =bold=."),
+    # ---- Bible dictionaries for the hub pages (2026-11-03, vision map item 37) ----
+    # CCEL's ThML is the house's first choice (scripture refs come pre-tagged),
+    # but ccel.org was not reachable from the session that added these. The
+    # CCEL files are CCEL's own ThML, byte copies kept in GitHub dataset repos
+    # (CC BY 4.0 over its own parsing; the XML in 00_raw/ is CCEL's file as
+    # published, header and all), PINNED to a commit and by sha256 below, so the
+    # hosted rebuild fetches exactly these bytes. Rights read from each file.
+    "easton": (
+        "https://raw.githubusercontent.com/neuu-org/bible-dictionary-dataset/"
+        "b8e82aa7ca847f4d97fb432cd965e398a111333c/data/00_raw/ccel/xml/easton_ebd2.xml",
+        "easton-ebd.xml",
+        "Easton's Bible Dictionary (M. G. Easton, Illustrated Bible Dictionary, 3rd ed., "
+        "1897; PD). CCEL ThML ebd2 v2.0 (from the Online Bible), DC.Rights 'Public "
+        "Domain'. 3,964 entries."),
+    "nave": (
+        "https://raw.githubusercontent.com/neuu-org/bible-topics-dataset/"
+        "eeb9b7418be4d02c497d142da3b9890fad356252/data/00_raw/xml/nave_bible.xml",
+        "nave-bible.xml",
+        "Nave's Topical Bible (Orville J. Nave, 1896; PD). CCEL ThML nave/bible, the "
+        "reference edition (topics + references, no quoted verses). DC.Rights EMPTY: "
+        "held redistribute_whole false until CCEL's page is read. 5,322 topics."),
+    # The atlas: Project Gutenberg 41140, from the Internet Archive's Gutenberg
+    # mirror (gutenberg.org was not reachable). Header read 2026-11-03: no
+    # COPYRIGHTED marker; printed copyrights 1884-1910 -- US public domain.
+    "hurlbut-bible-atlas": (
+        "https://archive.org/download/bibleatlasamanua41140gut/41140.txt",
+        "hurlbut-bible-atlas.txt",
+        "Jesse L. Hurlbut, The Rand-McNally Bible Atlas: A Manual of Biblical Geography "
+        "and History (1884; 1910 printing), PG 41140 (ASCII). Text and its three printed "
+        "indexes; the maps are images and are not carried."),
 }
+
+# sha256 of a lexicon file as fetched. A fetched file that differs is refused
+# (renamed *.refused) rather than built. Pinned for the files added 2026-11-03.
+LEXICON_SHA256 = {
+    "easton": "10e3f432e38ee8197c30a613576dc363af3f29fa4aa90ebd0782533df906e5f1",
+    "nave": "dc58dd4e37d5af639f508a4c64657b40f5ccbe727f523b219ffaa70d661f619d",
+    "hurlbut-bible-atlas": "a5637c553ff33814e40ab2c6bd070cb87da9238c066be7328b84100b9a88ee64",
+}
+
+
+def check_pinned(slug, dest):
+    """None if `dest` is the pinned file (or the slug has no pin); else why not."""
+    import hashlib
+    want = LEXICON_SHA256.get(slug)
+    if not want or not os.path.exists(dest):
+        return None
+    got = hashlib.sha256(open(dest, "rb").read()).hexdigest()
+    if got == want:
+        return None
+    os.replace(dest, dest + ".refused")
+    return f"sha256 {got[:12]}..., not the pinned {want[:12]}... (kept as {os.path.basename(dest)}.refused)"
 
 
 # ------------------------------------------------- Local sources (not fetched)
@@ -2659,7 +2711,11 @@ def main():
     for slug, (url, fn, note) in LEXICONS.items():
         dest = os.path.join(CORPUS, "lexicons", fn)
         try:
-            print(f"lexicon/{slug}: {fetch_lexicon(url, dest)}")
+            got = fetch_lexicon(url, dest)
+            bad = check_pinned(slug, dest)
+            if bad:
+                raise RuntimeError(bad)
+            print(f"lexicon/{slug}: {got}")
         except Exception as e:
             failures.append(slug); print(f"lexicon/{slug}: FAIL {e}")
         time.sleep(0.5)

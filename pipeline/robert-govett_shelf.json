@@ -1,0 +1,147 @@
+{
+ "_about": "Public-domain Robert Govett (1813-1901, Surrey Chapel, Norwich) for the Word Hoard: 7 named works from Internet Archive scans, 1841-1922: Isaiah Unfulfilled (1841), Not Water Baptism (1844), Infant Sprinkling No Baptism (1858), Christ's Resurrection and Ours (1876), The Bride's Bath (1876), The Apocalypse Expounded by Scripture (abridged, 1920) and Entrance into the Kingdom, Part I (second edition, 1922). Raw OCR. His many anonymous Norwich tracts are listed as alternates, not shelved. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "govett"
+ ],
+ "_surname": [
+  "robert govett",
+  "r. govett",
+  "govett, robert",
+  "r. govett, jun.",
+  "robert govett, m.a.",
+  "r. govett, m.a."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "govett-isaiah-unfulfilled": [
+   "isaiahunfulfill00govegoog",
+   "Isaiah Unfulfilled: an Exposition of the Prophet, with New Version and Critical Notes (London: James Nisbet, MDCCCXLI)"
+  ],
+  "govett-not-water-baptism": [
+   "notwaterbaptismb00gove",
+   "Not Water Baptism, but the Gifts of the Holy Spirit the Baptism of Christ (Norwich: Josiah Fletcher; London: Hamilton, Adams, 1844)"
+  ],
+  "govett-infant-sprinkling": [
+   "infantsprinkling00gove",
+   "Infant Sprinkling No Baptism: a Refutation of Mr. C. Paget's Godly Practice of Infant Baptism (London: Houlston and Wright, 1858)"
+  ],
+  "govett-christs-resurrection": [
+   "christsresurrec00govegoog",
+   "Christ's Resurrection and Ours; or, I. Corinthians XV. Expounded (Glasgow: James Maclehose; London: Macmillan, 1876)"
+  ],
+  "govett-brides-bath": [
+   "Robert_Govett_Bath",
+   "The Bride's Bath (Norwich: Fletcher and Son, MDCCCLXXVI)",
+   "bath_djvu.txt"
+  ],
+  "govett-apocalypse-expounded": [
+   "apocalypseexpoun00gove",
+   "The Apocalypse Expounded by Scripture, abridged from the four-volume edition first issued under the pen-name Mathetes (London: Chas. J. Thynne, November 1920)"
+  ],
+  "govett-entrance-kingdom": [
+   "entranceintoking00gove",
+   "Entrance into the Kingdom; or, Reward According to Works, Part I, second edition (London: Charles J. Thynne, October 1922)"
+  ]
+ },
+ "_alternates": {
+  "govett-anonymous-tracts": "Anonymous Norwich tracts catalogued to him, no name on the title page: The Passage through the Red Sea a Type of Baptism (passagethroughre00gove), Baptism Foreshadowed by Noah's Salvation (baptismforeshado00gove), Principal Arguments in favour of Infant Baptism Considered (principalargumen00gove), Open or Strict Communion? (openorstrictcomm00gove, 1845), Sin after Baptism (sinafterbaptismo00gove, 1845), At Any Rate, Infant Baptism is Not Forbidden (atanyrateinfantb00gove, 1847), Your Children Holy (yourchildrenholy00gove, 1857), Infant Baptism and the Abrahamic Covenant (infantbaptismabr00gove, 1860)",
+  "govett-olivet": "The Prophecy on Olivet, Part I (Norwich, 1846; prophecyonolive00ofgoog): anonymous; attributed to him from an advertisement in his 1847 tract",
+  "govett-english-hebrew": "English Derived from Hebrew (1869; englishderivedf00govegoog): philology, not divinity",
+  "govett-apocalypse-copies": "Other copies of the 1920 abridgment, and the 1929 Thynne and Jarvis printing"
+ },
+ "_excluded": {
+  "govett-calvinism": "Calvinism by Calvin: Calvin's text with his introductory essay, modern reprint",
+  "govett-reprints": "Schoettle and Conley reprints (1981-2010)",
+  "govett-namesakes": "Ernest Govett and others"
+ },
+ "_identity_checked": {
+  "govett-not-water-baptism": {
+   "author": "title page read: 'By R. Govett, Jun., Minister of the Gospel' (OCR 'GOYETT')"
+  },
+  "govett-brides-bath": {
+   "author": "title page read: 'By R. Govett' (OCR 'E. GOYETT'), Norwich: Fletcher and Son, 1876"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "govett-isaiah-unfulfilled": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. govett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "govett-not-water-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "govett-infant-sprinkling": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. govett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "govett-christs-resurrection": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. govett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "govett-brides-bath": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876-02-02",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "govett-apocalypse-expounded": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert govett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "govett-entrance-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert govett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

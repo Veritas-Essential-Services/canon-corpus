@@ -1,0 +1,269 @@
+{
+ "_about": "William Carleton's Traits and Stories of the Irish Peasantry, his novels and tales. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "William Carleton",
+ "_name_words": [
+  "carleton",
+  "william"
+ ],
+ "_surname": [
+  "william carleton",
+  "carleton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wcarleton-willy-reilly-the-works-of-william-carleton-volume": [
+   16001,
+   "Willy Reilly The Works of William Carleton, Volume One"
+  ],
+  "wcarleton-fardorougha-the-miser-the-works-of-william-carleto": [
+   16002,
+   "Fardorougha, The Miser The Works of William Carleton, Volume One"
+  ],
+  "wcarleton-black-baronet": [
+   16003,
+   "The Black Baronet; or, The Chronicles Of Ballytrain The Works of William Carleton, Volume One"
+  ],
+  "wcarleton-evil-eye": [
+   16004,
+   "The Evil Eye; Or, The Black Spector The Works of William Carleton, Volume One"
+  ],
+  "wcarleton-jane-sinclair": [
+   16005,
+   "Jane Sinclair; Or, The Fawn Of Springvale The Works of William Carleton, Volume Two"
+  ],
+  "wcarleton-lha-dhu": [
+   16006,
+   "Lha Dhu; Or, The Dark Day The Works of William Carleton, Volume Two"
+  ],
+  "wcarleton-dead-boxer-the-works-of-william-carleton-volume-tw": [
+   16007,
+   "The Dead Boxer The Works of William Carleton, Volume Two"
+  ],
+  "wcarleton-ellen-duncan": [
+   16008,
+   "Ellen Duncan; And The Proctor's Daughter The Works of William Carleton, Volume Two"
+  ],
+  "wcarleton-valentine-mclutchy-the-irish-agent-the-works-of-wi": [
+   16009,
+   "Valentine M'Clutchy, The Irish Agent The Works of William Carleton, Volume Two"
+  ],
+  "wcarleton-tithe-proctor-the-works-of-william-carleton-volume": [
+   16010,
+   "The Tithe-Proctor The Works of William Carleton, Volume Two"
+  ],
+  "wcarleton-emigrants-of-ahadarra-the-works-of-william-carleto": [
+   16011,
+   "The Emigrants Of Ahadarra The Works of William Carleton, Volume Two"
+  ],
+  "wcarleton-ned-mkeown-stories-traits-and-stories-of-the-irish": [
+   16012,
+   "The Ned M'Keown Stories Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three"
+  ],
+  "wcarleton-station": [
+   16013,
+   "The Station; The Party Fight And Funeral; The Lough Derg Pilgrim Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three"
+  ],
+  "wcarleton-hedge-school": [
+   16014,
+   "The Hedge School; The Midnight Mass; The Donagh Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three"
+  ],
+  "wcarleton-phil-purcel-the-pig-driver": [
+   16015,
+   "Phil Purcel, The Pig-Driver; The Geography Of An Irish Oath; The Lianhan Shee Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three"
+  ],
+  "wcarleton-going-to-maynooth-traits-and-stories-of-the-irish": [
+   16016,
+   "Going to Maynooth Traits and Stories of the Irish Peasantry, The Works of William Carleton, Volume Three"
+  ],
+  "wcarleton-poor-scholar-traits-and-stories-of-the-irish-peasa": [
+   16017,
+   "The Poor Scholar Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three"
+  ],
+  "wcarleton-black-prophet": [
+   16018,
+   "The Black Prophet: A Tale Of Irish Famine Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three"
+  ],
+  "wcarleton-phelim-otooles-courtship-and-other-stories-traits": [
+   16019,
+   "Phelim Otoole's Courtship and Other Stories Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-28896": "PG 28896: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "wcarleton-willy-reilly-the-works-of-william-carleton-volume": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-fardorougha-the-miser-the-works-of-william-carleto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-black-baronet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-evil-eye": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-jane-sinclair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-lha-dhu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-dead-boxer-the-works-of-william-carleton-volume-tw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-ellen-duncan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-valentine-mclutchy-the-irish-agent-the-works-of-wi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-tithe-proctor-the-works-of-william-carleton-volume": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-emigrants-of-ahadarra-the-works-of-william-carleto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-ned-mkeown-stories-traits-and-stories-of-the-irish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-station": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-hedge-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-phil-purcel-the-pig-driver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-going-to-maynooth-traits-and-stories-of-the-irish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-poor-scholar-traits-and-stories-of-the-irish-peasa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-black-prophet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcarleton-phelim-otooles-courtship-and-other-stories-traits": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william carleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

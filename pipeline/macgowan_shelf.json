@@ -1,0 +1,30 @@
+{
+ "_about": "Chinese Folk-Lore Tales by the Rev. J. Macgowan (1910). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "John Macgowan",
+ "_name_words": [
+  "macgowan"
+ ],
+ "_surname": [
+  "j. macgowan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "macgowan-chinese-folk-lore-tales": [
+   26070,
+   "Chinese Folk-Lore Tales"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "macgowan-chinese-folk-lore-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. macgowan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

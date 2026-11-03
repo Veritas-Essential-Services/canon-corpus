@@ -1,0 +1,240 @@
+{
+ "_about": "Sir James George Frazer (1854-1941), comparative religion and anthropology. The Golden Bough, a study in magic and religion, third edition (Macmillan, 1906-1915), complete in twelve volumes from Project Gutenberg; the first edition, The Golden Bough, a study in comparative religion (1890, 2 vols.), also from Gutenberg, since the third is a different and much larger book; The Belief in Immortality and the Worship of the Dead, vols. I and II (vol. III is not on Gutenberg); Psyche's Task. The 1922 one-volume abridgement is on the adler shelf (PG 3623) and is not repeated; PG 12261 is the same text as vol. X here and is not taken. His Greek writing is on the frazer-greece shelf, which left The Golden Bough out of its classical scope; this shelf takes it up as philosophy of religion. US public domain. No uids minted.",
+ "_author": "James George Frazer",
+ "_name_words": [
+  "james",
+  "george",
+  "frazer"
+ ],
+ "_surname": [
+  "frazer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "frazer-golden-bough-3rd-ed-v01": [
+   59607,
+   "The Golden Bough, 3rd ed., vol. 1: The Magic Art and the Evolution of Kings, vol. I"
+  ],
+  "frazer-golden-bough-3rd-ed-v02": [
+   60250,
+   "The Golden Bough, 3rd ed., vol. 2: The Magic Art and the Evolution of Kings, vol. II"
+  ],
+  "frazer-golden-bough-3rd-ed-v03": [
+   41832,
+   "The Golden Bough, 3rd ed., vol. 3: Taboo and the Perils of the Soul"
+  ],
+  "frazer-golden-bough-3rd-ed-v04": [
+   41572,
+   "The Golden Bough, 3rd ed., vol. 4: The Dying God"
+  ],
+  "frazer-golden-bough-3rd-ed-v05": [
+   43605,
+   "The Golden Bough, 3rd ed., vol. 5: Adonis, Attis, Osiris, vol. I"
+  ],
+  "frazer-golden-bough-3rd-ed-v06": [
+   41923,
+   "The Golden Bough, 3rd ed., vol. 6: Adonis, Attis, Osiris, vol. II"
+  ],
+  "frazer-golden-bough-3rd-ed-v07": [
+   42067,
+   "The Golden Bough, 3rd ed., vol. 7: Spirits of the Corn and of the Wild, vol. I"
+  ],
+  "frazer-golden-bough-3rd-ed-v08": [
+   42336,
+   "The Golden Bough, 3rd ed., vol. 8: Spirits of the Corn and of the Wild, vol. II"
+  ],
+  "frazer-golden-bough-3rd-ed-v09": [
+   42661,
+   "The Golden Bough, 3rd ed., vol. 9: The Scapegoat"
+  ],
+  "frazer-golden-bough-3rd-ed-v10": [
+   43049,
+   "The Golden Bough, 3rd ed., vol. 10: Balder the Beautiful, vol. I"
+  ],
+  "frazer-golden-bough-3rd-ed-v11": [
+   43433,
+   "The Golden Bough, 3rd ed., vol. 11: Balder the Beautiful, vol. II"
+  ],
+  "frazer-golden-bough-3rd-ed-v12": [
+   44772,
+   "The Golden Bough, 3rd ed., vol. 12: Bibliography and General Index"
+  ],
+  "frazer-golden-bough-1890-v1": [
+   41082,
+   "The Golden Bough, a study in comparative religion, 1st ed. (1890), vol. 1"
+  ],
+  "frazer-golden-bough-1890-v2": [
+   41359,
+   "The Golden Bough, a study in comparative religion, 1st ed. (1890), vol. 2"
+  ],
+  "frazer-belief-in-immortality-v1": [
+   20116,
+   "The Belief in Immortality and the Worship of the Dead, vol. I"
+  ],
+  "frazer-belief-in-immortality-v2": [
+   33524,
+   "The Belief in Immortality and the Worship of the Dead, vol. II"
+  ],
+  "frazer-psyches-task": [
+   71985,
+   "Psyche's Task"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "frazer-golden-bough-3rd-ed-v01": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v02": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v03": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v04": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v05": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v06": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v07": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v08": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v09": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v10": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v11": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-3rd-ed-v12": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-1890-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-golden-bough-1890-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-belief-in-immortality-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-belief-in-immortality-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frazer-psyches-task": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frazer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

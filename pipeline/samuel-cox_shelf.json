@@ -1,0 +1,134 @@
+{
+ "_about": "Public-domain Samuel Cox (1826-1893), Baptist minister of Nottingham and founding editor of The Expositor, for the Word Hoard: The Private Letters of St. Paul and St. John (1867), The Quest of the Chief Good (1868), Expository Essays and Discourses (1877), Salvator Mundi (1878), An Expositor's Note-book (1879), The Genesis of Evil (1880), A Commentary on the Book of Job (1880) and Miracles: an Argument and a Challenge (1884), from Internet Archive scans. Added 2026-10-23 by lane A, round 58 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cox"
+ ],
+ "_surname": [
+  "samuel cox",
+  "s. cox"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "scox-chief-good": [
+   "questofchiefgood00coxs",
+   "The quest of the chief good : expository lectures on the book Ecclesiastes, with a new translation : a commenrary for laymen (London : A. Miall, 1868)"
+  ],
+  "scox-expository-essays": [
+   "expositoryessays0000coxs",
+   "Expository essays and discourses (London : Hodder and Stoughton, 1877)"
+  ],
+  "scox-salvator-mundi": [
+   "salvatormundiori00coxs",
+   "Salvator Mundi : or, Is Christ the Savior of all men ? (New York : Dutton, 1878)"
+  ],
+  "scox-notebook": [
+   "expositorsnotebo0000coxs",
+   "An expositor's note-book, or, Brief essays on obscure or misread Scriptures (London : Hodder and Stoughton, 1879)"
+  ],
+  "scox-genesis-of-evil": [
+   "genesisofeviloth00coxs",
+   "The genesis of evil, and other sermons, mainly expository (London : G. Kegan Paul & Co., 1880)"
+  ],
+  "scox-job": [
+   "ldpd_10824381_000",
+   "A commentary on the book of Job : with a translation (London : C. Kegan Paul & Co., 1880)"
+  ],
+  "scox-miracles": [
+   "MiraclesAnArgument",
+   "Miracles; an argument and a challenge (London, Kegan Paul, Trench & Co., 1884)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "scox-other": "The Expositor volumes he edited (many contributors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "scox-salvator-mundi": "Title page OCR reads 'SALVATOR MUNDI OR IS CHRIST THE SAVIOUR OF ALL MEN? BY SAMUEL COX' (OCR '[A MUEL COX'); library label 'Cox, Samuel, 1826-1893'."
+ },
+ "_pending": {
+  "scox-private-letters": "privatelettersof00coxs: The Private Letters of St. Paul and St. John (1867). This scan has lost its title page and nothing in the text names the author; pending a complete copy."
+ },
+ "_translators": {},
+ "_checks": {
+  "scox-chief-good": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scox-expository-essays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scox-salvator-mundi": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scox-notebook": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scox-genesis-of-evil": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scox-job": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scox-miracles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

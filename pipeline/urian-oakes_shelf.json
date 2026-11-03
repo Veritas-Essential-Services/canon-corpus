@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain Urian Oakes (1631-1681), minister of Cambridge, Massachusetts, and president of Harvard, for the Word Hoard: New-England Pleaded With (1673), The Unconquerable, All-Conquering Souldier (1674), The Soveraign Efficacy of Divine Providence (1682) and A Seasonable Discourse (1682), from Internet Archive scans of Early English Books. Added 2026-10-23 by lane A, round 51 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "oakes"
+ ],
+ "_surname": [
+  "urian oakes",
+  "u. oakes",
+  "urian oakes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "oakes-new-england-pleaded": [
+   "bim_early-english-books-1641-1700_new-england-pleaded-with_oakes-urian_1673",
+   "New-England pleaded with, ...  1673 (catalogued 1673)"
+  ],
+  "oakes-unconquerable-souldier": [
+   "bim_early-english-books-1641-1700_the-unconquerable-all-c_oakes-urian_1674",
+   "The unconquerable, all-conqvering ... souldier: ...  1674 (catalogued 1674)"
+  ],
+  "oakes-soveraign-efficacy": [
+   "bim_early-english-books-1641-1700_the-soveraign-efficacy-_oakes-urian_1682",
+   "The soveraign efficacy, ...  1682 (catalogued 1682)"
+  ],
+  "oakes-seasonable-discourse": [
+   "bim_early-english-books-1641-1700_a-seasonable-discourse-_oakes-urian_1682",
+   "A seasonable discourse, ...  1682 (catalogued 1682)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "oakes-other": "His 1650 almanac; Eikon Basilike Trite (1697, the catalogue's attribution is doubtful)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "oakes-new-england-pleaded": {
+   "author": "title page read from the page image: 'New-England Pleaded with, and pressed to consider the things which concern her Peace ... delivered in a Sermon preached at Boston in New-England, May 7. 1673, being the Day of Election there. By Urian Oakes, Pastor of the Church of Christ in Cambridge. Cambridge: printed by Samuel Green, 1673' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'New-England Pleaded with, and pressed to consider the things which concern her Peace ... delivered in a Sermon preached at Boston in New-England, May 7. 1673, being the Day of Election there. By Urian Oakes, Pastor of the Church of Christ in Cambridge. Cambridge: printed by Samuel Green, 1673' (OCR of the scan is unreadable)"
+  },
+  "oakes-unconquerable-souldier": {
+   "author": "title page read from the page image: 'The Unconquerable, All-Conquering, & more-then-Conquering Souldier ... a Sermon preached at Boston in New-England on the day of the Artillery-Election there, June 3d. 1672. By Urian Oakes, Pastor of the Church of Christ in Cambridge. Cambridge: printed by Samuel Green, 1674' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'The Unconquerable, All-Conquering, & more-then-Conquering Souldier ... a Sermon preached at Boston in New-England on the day of the Artillery-Election there, June 3d. 1672. By Urian Oakes, Pastor of the Church of Christ in Cambridge. Cambridge: printed by Samuel Green, 1674' (OCR of the scan is unreadable)"
+  },
+  "oakes-seasonable-discourse": {
+   "author": "title page read from the page image: 'A Seasonable Discourse wherein Sincerity & Delight in the Service of God is earnestly pressed upon Professors of Religion ... By the Reverend and Learned Urian Oakes, late Pastor of the Church there and President of Harvard Colledge. Cambridge: printed by Samuel Green, 1682' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'A Seasonable Discourse wherein Sincerity & Delight in the Service of God is earnestly pressed upon Professors of Religion ... By the Reverend and Learned Urian Oakes, late Pastor of the Church there and President of Harvard Colledge. Cambridge: printed by Samuel Green, 1682' (OCR of the scan is unreadable)"
+  }
+ },
+ "_pending": {
+  "oakes-elegie": "An Elegie upon the Death of the Reverend Mr. Thomas Shepard (Cambridge, 1677): the title page, read from the page image, says only 'By a great Admirer of his Worth'; attributed to Oakes by the catalogue and by later scholars"
+ },
+ "_translators": {},
+ "_checks": {
+  "oakes-new-england-pleaded": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1673",
+   "ia_date": "1673",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "oakes-unconquerable-souldier": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1674",
+   "ia_date": "1674",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "oakes-soveraign-efficacy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "urian oakes",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1682",
+   "ia_date": "1682",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "oakes-seasonable-discourse": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1682",
+   "ia_date": "1682",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

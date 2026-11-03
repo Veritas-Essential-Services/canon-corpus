@@ -1,0 +1,72 @@
+{
+ "_about": "Edward Dennett (1831-1914), Plymouth Brethren writer (not the Africanist R. E. Dennett, whose books share his surname in the catalogue). Added 2026-11-03 by lane A from the Plymouth Brethren line of Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and date read from each scan's title page or dated preface. No uids minted. All pre-1931, so US public domain.",
+ "_name_words": [
+  "edward dennett"
+ ],
+ "_surname": [
+  "dennett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dennett-heavenly-laws": [
+   "heavenlylawsfor00denngoog",
+   "Heavenly Laws for Earthly Homes: A Manual of the Relative Duties (London: Elliot Stock, 1872)"
+  ],
+  "dennett-fundamental-truths": [
+   "fundamentaltruth00dennrich",
+   "Fundamental Truths of Salvation: Being Helps for the Anxious and for Young Believers (London: W. H. Broom, 1876)"
+  ],
+  "dennett-typical-teachings-exodus": [
+   "typicalteaching00denngoog",
+   "Typical Teachings of Exodus (London: W. H. Broom, 1882)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "blessedhopebeing0000edwa": "The Blessed Hope: an undated 'new edition' reissued by the Wilson Foundation, Denver, whose address carries a ZIP code, so a post-1963 reprint; wait for an early printing",
+  "dennett-africanist": "Richard Edward Dennett's books on West Africa: a different man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "dennett-more": "Dennett's Exposition of Daniel (1919), The Visions of John in Patmos (1892) and the rest are on IA only as lending scans; not yet checked"
+ },
+ "_translators": {},
+ "_checks": {
+  "dennett-heavenly-laws": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dennett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dennett-fundamental-truths": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dennett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dennett-typical-teachings-exodus": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dennett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

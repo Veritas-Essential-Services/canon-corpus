@@ -1,0 +1,80 @@
+{
+ "_about": "Arthur Kenyon Rogers (1868-1936), American critical realist and historian of philosophy (Butler, Yale). Raw IA OCR: A Brief Introduction to Modern Philosophy (New York: Macmillan, copyright 1899; this copy a 1923 printing), clean 0.97; A Student's History of Philosophy (Macmillan, new edition revised, 1925; first 1901), clean 0.95; The Religious Conception of the World (Macmillan, 1907), clean 0.96; English and American Philosophy since 1800 (Macmillan, 1922), clean 0.94. US public domain. No uids minted.",
+ "_author": "Arthur Kenyon Rogers",
+ "_name_words": [
+  "arthur",
+  "kenyon",
+  "rogers"
+ ],
+ "_surname": [
+  "kenyon rogers",
+  "rogers"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rogers-brief-introduction-modern-philosophy-1923": [
+   "abriefintroducti00rogeuoft",
+   "A Brief Introduction to Modern Philosophy (Macmillan, 1899; printing of 1923)"
+  ],
+  "rogers-students-history-of-philosophy-1925": [
+   "studentshistoryo0000arth_y2z4",
+   "A Student's History of Philosophy (Macmillan, 1925)"
+  ],
+  "rogers-religious-conception-of-the-world-1907": [
+   "religiousconc00rogeuoft",
+   "The Religious Conception of the World (Macmillan, 1907)"
+  ],
+  "rogers-english-american-philosophy-since-1800-1922": [
+   "englishamericanp0000roge_a5i3",
+   "English and American Philosophy since 1800 (Macmillan, 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "rogers-brief-introduction-modern-philosophy-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kenyon rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rogers-students-history-of-philosophy-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kenyon rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rogers-religious-conception-of-the-world-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kenyon rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rogers-english-american-philosophy-since-1800-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kenyon rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

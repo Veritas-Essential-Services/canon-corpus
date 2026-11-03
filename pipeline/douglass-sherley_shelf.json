@@ -1,0 +1,85 @@
+{
+ "_about": "Douglass Sherley: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Douglass Sherley",
+ "_name_words": [
+  "douglass",
+  "sherley"
+ ],
+ "_surname": [
+  "douglass sherley",
+  "sherley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dsherley-spray-of-kentucky-pine-placed-at-the-feet-of-the-de": [
+   14821,
+   "A Spray of Kentucky Pine Placed at the Feet of the Dead Poet James Whitcomb Riley"
+  ],
+  "dsherley-few-short-sketches": [
+   14855,
+   "A Few Short Sketches"
+  ],
+  "dsherley-story-of-a-picture": [
+   15095,
+   "The Story of a Picture"
+  ],
+  "dsherley-inner-sisterhood-a-social-study-in-high-colors": [
+   15179,
+   "The Inner Sisterhood A Social Study in High Colors"
+  ],
+  "dsherley-love-instigated": [
+   19122,
+   "Love Instigated: The Story of a Carved Ivory Umbrella Handle"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "dsherley-spray-of-kentucky-pine-placed-at-the-feet-of-the-de": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "douglass sherley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dsherley-few-short-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "douglass sherley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dsherley-story-of-a-picture": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "douglass sherley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dsherley-inner-sisterhood-a-social-study-in-high-colors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "douglass sherley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dsherley-love-instigated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "douglass sherley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

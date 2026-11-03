@@ -1,0 +1,137 @@
+{
+ "_about": "Public-domain John Lingard (1771-1851), English Catholic priest and historian, for the Word Hoard: his church writings, The Antiquities of the Anglo-Saxon Church (second edition, 1810), the History and Antiquities of the Anglo-Saxon Church (1845, two volumes), his Collection of Tracts (1826), Catechistical Instructions (1841), A Review of Certain Anti-Catholic Publications (1813) and Strictures on Dr. Marsh's Comparative View (1815), from Internet Archive scans. His History of England is listed as an alternate, not shelved. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lingard"
+ ],
+ "_surname": [
+  "lingard",
+  "john lingard"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lingard-antiquities-1810": [
+   "a590878800linguoft",
+   "The Antiquities of the Anglo-Saxon Church, second edition (Newcastle: Edward Walker; sold by J. Booker and Keating, London, 1810)"
+  ],
+  "lingard-history-antiquities-1": [
+   "historyantiquiti01linguoft",
+   "The History and Antiquities of the Anglo-Saxon Church, vol. I (London: C. Dolman, 1845)"
+  ],
+  "lingard-history-antiquities-2": [
+   "historyantiquiti02linguoft",
+   "The History and Antiquities of the Anglo-Saxon Church, vol. II (London: C. Dolman, 1845)"
+  ],
+  "lingard-collection-tracts": [
+   "collectionoftrac00linguoft",
+   "A Collection of Tracts on Several Subjects connected with the Civil and Religious Principles of Catholics (London: Keating and Brown, 1826)"
+  ],
+  "lingard-catechistical-instructions": [
+   "CatechisticalInstructions",
+   "Catechistical Instructions on the Doctrines and Worship of the Catholic Church, second edition, revised and corrected (New York: Patrick S. Casserly & Sons, 1841)"
+  ],
+  "lingard-review-anti-catholic": [
+   "reviewofcertaina00linguoft",
+   "A Review of Certain Anti-Catholic Publications (London: Joseph Booker, 1813)"
+  ],
+  "lingard-strictures-marsh": [
+   "a622945100linguoft",
+   "Strictures on Dr. Marsh's Comparative View of the Churches of England and Rome (London: Joseph Booker, 1815)"
+  ]
+ },
+ "_alternates": {
+  "lingard-history-england": "The History of England, first edition (London: J. Mawman, then Baldwin and Cradock, 1819-1830, eight volumes; vols IV-VIII catalogued 1819 in error), later sets of 1825 and 1837, and the 1912 Belloc edition (PG 10700)",
+  "lingard-copies": "Other Antiquities copies (1810 BSB, Philadelphia 1841, Baltimore 1851-54) and the 1858 History and Antiquities"
+ },
+ "_excluded": {
+  "lingard-anonymous": "A New Version of the Four Gospels (1836, 'by a Catholic') and two controversial pamphlets: their title pages name no one; Ward's Errata; the timber treatise by another John Lingard"
+ },
+ "_identity_checked": {
+  "lingard-collection-tracts": {
+   "author": "title page read: 'By the Rev. J. Lingard, D.D.' (OCR 'tLINGARD')"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lingard-antiquities-1810": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lingard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lingard-history-antiquities-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lingard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lingard-history-antiquities-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lingard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lingard-collection-tracts": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lingard-catechistical-instructions": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lingard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lingard-review-anti-catholic": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lingard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lingard-strictures-marsh": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lingard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

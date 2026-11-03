@@ -1,0 +1,33 @@
+{
+ "_about": "Charles Sanders Peirce (1839-1914), from Project Gutenberg: Chance, Love, and Logic: philosophical essays, edited by Morris R. Cohen, with a supplementary essay on the pragmatism of Peirce by John Dewey (New York: Harcourt, Brace, 1923). Published before 1930, so US public domain. No uids minted.",
+ "_author": "Charles S. Peirce",
+ "_name_words": [
+  "charles",
+  "sanders",
+  "s",
+  "peirce"
+ ],
+ "_surname": [
+  "peirce"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "peirce-chance-love-and-logic-1923": [
+   65274,
+   "Chance, Love, and Logic: philosophical essays, ed. Morris R. Cohen (New York: Harcourt, Brace, 1923)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "peirce-chance-love-and-logic-1923": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "peirce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

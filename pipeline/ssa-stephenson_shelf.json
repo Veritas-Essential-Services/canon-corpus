@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: S. E. A. H. Stephenson: Friedrich Spielhagen's The Breaking of the Storm (Bentley, 1877, 3 vols). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "stephenson"
+ ],
+ "_surname": [
+  "stephenson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "sst-34657": [
+   34657,
+   "The Breaking of the Storm, Vol. I."
+  ],
+  "sst-34658": [
+   34658,
+   "The Breaking of the Storm, Vol. II."
+  ],
+  "sst-34659": [
+   34659,
+   "The Breaking of the Storm, Vol. III."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ssa-stephenson-spielhagen-the-breaking-of-the-storm-vol-i": {
+   "source": "sst-34657",
+   "of": "Friedrich Spielhagen",
+   "work": "The Breaking of the Storm, Vol. I.",
+   "translated": "1877 (see the Gutenberg header)",
+   "translator": "S. E. A. H. Stephenson",
+   "scan_edition": "Project Gutenberg 34657 (clean text)"
+  },
+  "ssa-stephenson-spielhagen-the-breaking-of-the-storm-vol-ii": {
+   "source": "sst-34658",
+   "of": "Friedrich Spielhagen",
+   "work": "The Breaking of the Storm, Vol. II.",
+   "translated": "1877 (see the Gutenberg header)",
+   "translator": "S. E. A. H. Stephenson",
+   "scan_edition": "Project Gutenberg 34658 (clean text)"
+  },
+  "ssa-stephenson-spielhagen-the-breaking-of-the-storm-vol-iii": {
+   "source": "sst-34659",
+   "of": "Friedrich Spielhagen",
+   "work": "The Breaking of the Storm, Vol. III.",
+   "translated": "1877 (see the Gutenberg header)",
+   "translator": "S. E. A. H. Stephenson",
+   "scan_edition": "Project Gutenberg 34659 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sst-34657": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "stephenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. E. A. H. Stephenson"
+  },
+  "sst-34658": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "stephenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. E. A. H. Stephenson"
+  },
+  "sst-34659": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "stephenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. E. A. H. Stephenson"
+  }
+ },
+ "_verified": {
+  "sst-34657": {
+   "pg": 34657,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. E. A. H. Stephenson"
+  },
+  "sst-34658": {
+   "pg": 34658,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. E. A. H. Stephenson"
+  },
+  "sst-34659": {
+   "pg": 34659,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. E. A. H. Stephenson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

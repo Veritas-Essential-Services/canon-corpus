@@ -1,0 +1,156 @@
+{
+ "_about": "TRANSLATOR SHELF: Matthew Gregory 'Monk' Lewis (1775-1818) as translator: Zschokke's The Bravo of Venice (1805) and Benedikte Naubert's Feudal Tyrants, 4 vols (1806). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "matthew gregory lewis",
+  "m. g. lewis"
+ ],
+ "_surname": [
+  "matthew gregory lewis",
+  "m. g. lewis"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mgl-2706": [
+   2706,
+   "The Bravo of Venice: A Romance"
+  ],
+  "mgl-69553": [
+   69553,
+   "Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 1 (of 4)"
+  ],
+  "mgl-69623": [
+   69623,
+   "Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 2 (of 4)"
+  ],
+  "mgl-69624": [
+   69624,
+   "Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 3 (of 4)"
+  ],
+  "mgl-69625": [
+   69625,
+   "Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 4 (of 4)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mg-lewis-naubert-feudal-tyrants-or-the-counts-of-carlshei-vol-1": {
+   "source": "mgl-69553",
+   "of": "Benedikte Naubert",
+   "work": "Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 1 (of 4)",
+   "translated": "1805-1806 (see the Gutenberg header)",
+   "translator": "Matthew Gregory Lewis",
+   "scan_edition": "Project Gutenberg 69553 (clean text)"
+  },
+  "mg-lewis-naubert-feudal-tyrants-or-the-counts-of-carlshei-vol-2": {
+   "source": "mgl-69623",
+   "of": "Benedikte Naubert",
+   "work": "Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 2 (of 4)",
+   "translated": "1805-1806 (see the Gutenberg header)",
+   "translator": "Matthew Gregory Lewis",
+   "scan_edition": "Project Gutenberg 69623 (clean text)"
+  },
+  "mg-lewis-naubert-feudal-tyrants-or-the-counts-of-carlshei-vol-3": {
+   "source": "mgl-69624",
+   "of": "Benedikte Naubert",
+   "work": "Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 3 (of 4)",
+   "translated": "1805-1806 (see the Gutenberg header)",
+   "translator": "Matthew Gregory Lewis",
+   "scan_edition": "Project Gutenberg 69624 (clean text)"
+  },
+  "mg-lewis-naubert-feudal-tyrants-or-the-counts-of-carlshei-vol-4": {
+   "source": "mgl-69625",
+   "of": "Benedikte Naubert",
+   "work": "Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 4 (of 4)",
+   "translated": "1805-1806 (see the Gutenberg header)",
+   "translator": "Matthew Gregory Lewis",
+   "scan_edition": "Project Gutenberg 69625 (clean text)"
+  },
+  "mg-lewis-zschokke-the-bravo-of-venice-a-romance": {
+   "source": "mgl-2706",
+   "of": "Heinrich Zschokke",
+   "work": "The Bravo of Venice: A Romance",
+   "translated": "1805-1806 (see the Gutenberg header)",
+   "translator": "Matthew Gregory Lewis",
+   "scan_edition": "Project Gutenberg 2706 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mgl-2706": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "matthew gregory lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. G. Lewis"
+  },
+  "mgl-69553": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. g. lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. G. Lewis"
+  },
+  "mgl-69623": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. g. lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. G. Lewis"
+  },
+  "mgl-69624": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. g. lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. G. Lewis"
+  },
+  "mgl-69625": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. g. lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. G. Lewis"
+  }
+ },
+ "_verified": {
+  "mgl-2706": {
+   "pg": 2706,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. G. Lewis"
+  },
+  "mgl-69553": {
+   "pg": 69553,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. G. Lewis"
+  },
+  "mgl-69623": {
+   "pg": 69623,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. G. Lewis"
+  },
+  "mgl-69624": {
+   "pg": 69624,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. G. Lewis"
+  },
+  "mgl-69625": {
+   "pg": 69625,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. G. Lewis"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

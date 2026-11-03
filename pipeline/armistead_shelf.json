@@ -1,0 +1,42 @@
+{
+ "_about": "Wilson Armistead's Tales and Legends of the English Lakes (London, 1891, published after his death). Gutenberg catalogue: Armistead died 1868. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Wilson Armistead",
+ "_name_words": [
+  "lakes"
+ ],
+ "_surname": [
+  "wilson armistead"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "armistead-tales-and-legends-of-the-english-lakes": [
+   42359,
+   "Tales and Legends of the English Lakes",
+   {
+    "levels": [
+     {
+      "re": "(?:HELWISE;\\ OR,\\ THE\\ ILL\\-FATED\\ LOVERS|ST\\.\\ HERBERT|THE\\ LOVERS'\\ VOWS|THE\\ STONE\\ OF\\ WALLOW\\ CRAG|THE\\ SKULLS\\ OF\\ CALGARTH|THE\\ LUCK\\ OF\\ EDEN\\ HALL|THE\\ MAID\\ OF\\ HARDRA\\ SCAR|THE\\ TWO\\ BROTHERS|EMMA;\\ OR,\\ THE\\ MURDERED\\ MAID|ASSOCIATIONS\\ OF\\ CARLISLE|THE\\ DRUIDS'\\ SACRIFICE|THE\\ HEIGHTS\\ OF\\ HELVELLYN|THE\\ REGATTA|THE\\ SHEPHERD\\ OF\\ GREEN\\-HEAD\\ GHYLL|THE\\ INSCRIBED\\ ROCKS\\ OF\\ WINDERMERE|EDGAR,\\ THE\\ LORD\\ OF\\ ENNERDALE|LADY\\ EVA\\ AND\\ THE\\ GIANT|KIRKBY\\ LONSDALE\\ BRIDGE|THE\\ SPECTRE\\ ARMY|RUSTIC\\ POETS\\ OF\\ THE\\ LAKE\\ DISTRICT|THE\\ HART'S\\-HORN\\ TREE|THE\\ QUAKERESS\\ BRIDE|THE\\ BEAUTY\\ OF\\ BUTTERMERE|THE\\ BORDER\\ FREEBOOTERS|JOSSY\\ WITH\\ WHIPS|EMMA\\ AND\\ SIR\\ EGLAMORE|THE\\ BRIDAL\\ OF\\ TRIERMAIN|TALES\\ AND\\ LEGENDS|OF|ENGLISH\\ LAKES)[.,:;]?$",
+      "title_next": true,
+      "max": 120,
+      "strip": "[.,:;]$"
+     }
+    ],
+    "start": "HELWISE; OR, THE ILL-FATED LOVERS:?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "armistead-tales-and-legends-of-the-english-lakes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wilson armistead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

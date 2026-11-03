@@ -1,0 +1,45 @@
+{
+ "_about": "James Cowan's Maori Folk-Tales of the Port Hills, Canterbury, New Zealand (1923): Maori legends of the hills about Lyttelton and Christchurch. Gutenberg catalogue: Cowan 1870-1943. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "James Cowan",
+ "_name_words": [
+  "maori"
+ ],
+ "_surname": [
+  "james cowan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jcowan-maori-folk-tales-of-the-port-hills": [
+   73766,
+   "Maori folk-tales of the Port Hills, Canterbury, New Zealand",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVX]+\\.$",
+      "title_next": true
+     },
+     {
+      "re": "(?!CHAPTER )[A-Z“][^a-z]*$",
+      "max": 120,
+      "strip": "\\.$"
+     }
+    ],
+    "start": "MAORI FOLK-TALES OF THE PORT HILLS$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jcowan-maori-folk-tales-of-the-port-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james cowan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

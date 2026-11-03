@@ -1,0 +1,1455 @@
+{
+ "_about": "History the PNEU programmes set: English, European and ancient history, biography for children, and the Great War readers. Added in reading-lists batch 10 (2026-10-30), at Adam's request: books set by Charlotte Mason's PNEU programmes or named in her Home Education series that no shelf on any branch held (docs/reading-lists/charlotte-mason/). No uids minted.",
+ "_author": "various",
+ "_name_words": [
+  "arnold",
+  "baikie",
+  "beesly",
+  "boswell",
+  "boyle",
+  "breasted",
+  "brooke",
+  "budge",
+  "burgh",
+  "carlyle",
+  "charles",
+  "collingwood",
+  "creighton",
+  "crusades",
+  "cyril",
+  "devizes",
+  "donald",
+  "duruy",
+  "edward",
+  "eleanor",
+  "emily",
+  "epps",
+  "ethel",
+  "fletcher",
+  "forster",
+  "frances",
+  "freeman",
+  "frewen",
+  "gardiner",
+  "golding",
+  "green",
+  "hall",
+  "harold",
+  "harvey",
+  "hendrik",
+  "henry",
+  "holinshed",
+  "household",
+  "hunt",
+  "james",
+  "john",
+  "joinville",
+  "joseph",
+  "knight",
+  "loon",
+  "lord",
+  "louise",
+  "macgregor",
+  "mackenzie",
+  "marjorie",
+  "marshall",
+  "mary",
+  "morris",
+  "mowat",
+  "mrs",
+  "neale",
+  "pasquale",
+  "pauli",
+  "powell",
+  "prescott",
+  "price",
+  "priestley",
+  "quennell",
+  "rawson",
+  "reinhold",
+  "richard",
+  "robinson",
+  "rosebery",
+  "samuel",
+  "scott",
+  "smollett",
+  "stone",
+  "sykes",
+  "thayer",
+  "thomas",
+  "tobias",
+  "trevelyan",
+  "van",
+  "vautier",
+  "victor",
+  "villari",
+  "vinsauf",
+  "violet",
+  "wallis",
+  "walter",
+  "wheeler",
+  "willem",
+  "william",
+  "wilton",
+  "wood",
+  "woodward",
+  "york"
+ ],
+ "_surname_by_slug": {
+  "golding-story-stanley": [
+   "golding"
+  ],
+  "carlyle-oliver-cromwell-s-1": [
+   "carlyle",
+   "thomas carlyle"
+  ],
+  "carlyle-oliver-cromwell-s-2": [
+   "carlyle",
+   "thomas carlyle"
+  ],
+  "carlyle-oliver-cromwell-s-3": [
+   "carlyle",
+   "thomas carlyle"
+  ],
+  "boyle-man-before-history": [
+   "boyle",
+   "mary e. boyle"
+  ],
+  "creighton-first-history-france": [
+   "creighton",
+   "louise creighton"
+  ],
+  "freeman-old-english-history": [
+   "freeman",
+   "edward a. freeman"
+  ],
+  "household-fighting-sea-power": [
+   "household",
+   "h. w. household"
+  ],
+  "frewen-lord-tales-westminster-abbey": [
+   "frewen lord"
+  ],
+  "macgregor-story-france": [
+   "macgregor",
+   "mary macgregor"
+  ],
+  "mackenzie-heroes-heroic-deeds": [
+   "mackenzie",
+   "donald a. mackenzie"
+  ],
+  "mackenzie-story-great-war": [
+   "mackenzie",
+   "donald a. mackenzie"
+  ],
+  "marshall-our-island-story": [
+   "marshall",
+   "h. e. marshall"
+  ],
+  "neale-theodora-phranza-fall": [
+   "neale",
+   "j. m. neale"
+  ],
+  "powell-old-stories-british": [
+   "powell",
+   "f. york powell"
+  ],
+  "ec-price-stories-french-history": [
+   "e. c. price",
+   "eleanor c. price"
+  ],
+  "rosebery-napoleon-last-phase": [
+   "rosebery"
+  ],
+  "thayer-abraham-lincoln-pioneer": [
+   "thayer",
+   "william m. thayer"
+  ],
+  "trevelyan-history-england": [
+   "trevelyan",
+   "g. m. trevelyan"
+  ],
+  "villari-life-times-girolamo": [
+   "villari",
+   "pasquale villari"
+  ],
+  "wilton-hall-social-life-england": [
+   "wilton hall",
+   "r. wilton hall"
+  ],
+  "beesly-stories-history-rome": [
+   "beesly"
+  ],
+  "breasted-ancient-times-history": [
+   "breasted",
+   "james henry breasted"
+  ],
+  "burgh-legacy-ancient-world": [
+   "burgh"
+  ],
+  "gardiner-student-s-history": [
+   "gardiner",
+   "samuel rawson gardiner"
+  ],
+  "jr-green-short-history-english": [
+   "j. r. green",
+   "john richard green"
+  ],
+  "knight-popular-history-england-i": [
+   "knight",
+   "charles knight"
+  ],
+  "knight-popular-history-england-ii": [
+   "knight",
+   "charles knight"
+  ],
+  "knight-popular-history-england-iii": [
+   "knight",
+   "charles knight"
+  ],
+  "knight-popular-history-england-iv": [
+   "knight",
+   "charles knight"
+  ],
+  "knight-popular-history-england-v": [
+   "knight",
+   "charles knight"
+  ],
+  "knight-popular-history-england-vi": [
+   "knight",
+   "charles knight"
+  ],
+  "knight-popular-history-england-vii": [
+   "knight",
+   "charles knight"
+  ],
+  "knight-popular-history-england-viii": [
+   "knight",
+   "charles knight"
+  ],
+  "van-loon-story-mankind": [
+   "van loon",
+   "loon"
+  ],
+  "mackenzie-ancient-crete-myths": [
+   "mackenzie",
+   "donald a. mackenzie"
+  ],
+  "mowat-short-history-great": [
+   "mowat",
+   "r. b. mowat"
+  ],
+  "priestley-lectures-history": [
+   "priestley",
+   "joseph priestley"
+  ],
+  "quennell-history-everyday-things": [
+   "quennell"
+  ],
+  "thayer-log-cabin-white": [
+   "thayer",
+   "w. m. thayer"
+  ],
+  "trevelyan-life-letters-lord-1": [
+   "trevelyan",
+   "g. o. trevelyan"
+  ],
+  "trevelyan-life-letters-lord-2": [
+   "trevelyan",
+   "g. o. trevelyan"
+  ],
+  "gw-morris-golden-fleece": [
+   "g. w. morris",
+   "l. s. wood"
+  ],
+  "arnold-forster-history-england": [
+   "arnold-forster",
+   "h. o. arnold-forster"
+  ],
+  "carlyle-french-revolution-essay": [
+   "carlyle",
+   "thomas carlyle"
+  ],
+  "carlyle-french-revolution-essay-2": [
+   "carlyle",
+   "thomas carlyle"
+  ],
+  "epps-british-museum-children": [
+   "epps",
+   "frances epps"
+  ],
+  "holinshed-morte-d-arthur": [
+   "holinshed",
+   "boswell-stone"
+  ],
+  "lord-modern-europe": [
+   "john lord"
+  ],
+  "mackenzie-lord-kitchener": [
+   "mackenzie",
+   "donald a. mackenzie"
+  ],
+  "pauli-pictures-old-england": [
+   "pauli",
+   "reinhold pauli"
+  ],
+  "robinson-history-england-i": [
+   "robinson",
+   "cyril e. robinson"
+  ],
+  "robinson-history-england": [
+   "robinson",
+   "cyril e. robinson"
+  ],
+  "smollett-history-england": [
+   "smollett",
+   "tobias smollett"
+  ],
+  "woodward-expansion-british-empire": [
+   "woodward",
+   "w. h. woodward"
+  ],
+  "joinville-chronicles-crusades-joinville": [
+   "joinville",
+   "devizes",
+   "vinsauf"
+  ],
+  "baikie-ancient-jerusalem": [
+   "baikie",
+   "james baikie"
+  ],
+  "sykes-readings-indian-history": [
+   "sykes",
+   "ethel r. sykes"
+  ],
+  "gw-morris-english-speaking-nations": [
+   "g. w. morris",
+   "l. s. wood"
+  ],
+  "wheeler-story-lord-roberts": [
+   "wheeler",
+   "harold f. b. wheeler"
+  ],
+  "budge-dwellers-nile": [
+   "budge"
+  ],
+  "carlyle-heroes-hero-worship": [
+   "carlyle",
+   "thomas carlyle"
+  ],
+  "collingwood-roman-britain": [
+   "collingwood",
+   "r. g. collingwood"
+  ],
+  "duruy-history-modern-times": [
+   "duruy",
+   "victor duruy"
+  ],
+  "fletcher-great-war": [
+   "fletcher",
+   "c. r. l. fletcher"
+  ],
+  "household-our-sea-power": [
+   "household",
+   "h. w. household"
+  ],
+  "brooke-hunt-prisoners-tower": [
+   "brooke-hunt",
+   "violet brooke-hunt"
+  ],
+  "mackenzie-footprints-early-man": [
+   "mackenzie",
+   "donald a. mackenzie"
+  ],
+  "prescott-history-conquest-mexico-1": [
+   "prescott",
+   "w. h. prescott"
+  ],
+  "prescott-history-conquest-mexico-2": [
+   "prescott",
+   "w. h. prescott"
+  ],
+  "prescott-history-conquest-mexico-3": [
+   "prescott",
+   "w. h. prescott"
+  ],
+  "prescott-history-conquest-mexico-4": [
+   "prescott",
+   "w. h. prescott"
+  ],
+  "robinson-medieval-modern-times": [
+   "robinson",
+   "james harvey robinson"
+  ],
+  "scott-tales-grandfather": [
+   "scott",
+   "walter scott"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "frewen-lord-tales-westminster-abbey": [
+   65748,
+   "Mrs. Frewen Lord, Tales from Westminster Abbey Told to Children (PG 65748; 2nd ed., London: Sampson Low, 1894)"
+  ],
+  "wilton-hall-social-life-england": [
+   44894,
+   "H. R. Wilton Hall, Social Life in England Through the Centuries (PG 44894)"
+  ],
+  "van-loon-story-mankind": [
+   754,
+   "Hendrik Willem van Loon, The Story of Mankind (New York: Boni and Liveright, 1921)"
+  ],
+  "trevelyan-life-letters-lord-1": [
+   2647,
+   "G. O. Trevelyan, The Life and Letters of Lord Macaulay, vol. 1 (PG 2647)"
+  ],
+  "carlyle-french-revolution-essay": [
+   1301,
+   "Thomas Carlyle, The French Revolution: a History (PG etext)"
+  ],
+  "carlyle-french-revolution-essay-2": [
+   36074,
+   "Thomas Carlyle, Life of Robert Burns [the Essay on Burns] (New York, 1859)"
+  ],
+  "smollett-history-england": [
+   19217,
+   "Tobias Smollett, The History of England, vol. II: from William and Mary to George II (London: James S. Virtue, 1860; Hume-Smollett set)"
+  ],
+  "carlyle-heroes-hero-worship": [
+   1091,
+   "Thomas Carlyle, On Heroes, Hero-Worship, and the Heroic in History (PG edition)"
+  ],
+  "prescott-history-conquest-mexico-1": [
+   59755,
+   "W. H. Prescott, History of the Conquest of Mexico (PG edition, printing not stated), vol 1"
+  ],
+  "prescott-history-conquest-mexico-2": [
+   59820,
+   "W. H. Prescott, History of the Conquest of Mexico (PG edition, printing not stated), vol 2"
+  ],
+  "prescott-history-conquest-mexico-3": [
+   59830,
+   "W. H. Prescott, History of the Conquest of Mexico (PG edition, printing not stated), vol 3"
+  ],
+  "prescott-history-conquest-mexico-4": [
+   59832,
+   "W. H. Prescott, History of the Conquest of Mexico (PG edition, printing not stated), vol 4"
+  ]
+ },
+ "internet_archive": {
+  "golding-story-stanley": [
+   "storyofhmstanley00gold",
+   "Vautier Golding, The Story of H. M. Stanley (Children's Heroes series), London: T. C. & E. C. Jack, 1906"
+  ],
+  "carlyle-oliver-cromwell-s-1": [
+   "lettersspeecheso01cromuoft",
+   "Thomas Carlyle (ed.), The Letters and Speeches of Oliver Cromwell, ed. S. C. Lomas, intro C. H. Firth, London: Methuen, 1904, vol. 1"
+  ],
+  "carlyle-oliver-cromwell-s-2": [
+   "lettersspeecheso02cromuoft",
+   "Thomas Carlyle (ed.), The Letters and Speeches of Oliver Cromwell, ed. S. C. Lomas, London: Methuen, 1904, vol. 2"
+  ],
+  "carlyle-oliver-cromwell-s-3": [
+   "lettersspeecheso03cromuoft",
+   "Thomas Carlyle (ed.), The Letters and Speeches of Oliver Cromwell, ed. S. C. Lomas, London: Methuen, 1904, vol. 3"
+  ],
+  "boyle-man-before-history": [
+   "manbeforehistory00boyl",
+   "Mary E. Boyle, Man Before History: A Short Account of Prehistoric Times, Boston: Little, Brown, 1924"
+  ],
+  "creighton-first-history-france": [
+   "firsthistoryoffr00crei",
+   "Louise Creighton, A First History of France, London: Longmans, Green, 1901"
+  ],
+  "freeman-old-english-history": [
+   "oldenglishhistor00free",
+   "Edward A. Freeman, Old English History for Children, London: Macmillan, 1869"
+  ],
+  "household-fighting-sea-power": [
+   "fightingforseapo00hous",
+   "H. W. Household, Fighting for Sea Power in the Days of Sail, London: Macmillan, 1918"
+  ],
+  "macgregor-story-france": [
+   "storyoffrancetol00macg",
+   "Mary Macgregor, The Story of France Told to Boys and Girls, New York: Frederick A. Stokes, [c1920]"
+  ],
+  "mackenzie-heroes-heroic-deeds": [
+   "heroesheroicdeed00mackiala",
+   "Donald A. Mackenzie, Heroes and Heroic Deeds of the Great War, London: Blackie, 1916"
+  ],
+  "mackenzie-story-great-war": [
+   "in.ernet.dli.2015.43420",
+   "Donald A. Mackenzie, The Story of the Great War, London and Glasgow: Blackie, [1920]",
+   "2015.43420.Story-Of-The-Great-War_djvu.txt"
+  ],
+  "marshall-our-island-story": [
+   "ourislandstoryhi00marsuoft",
+   "H. E. Marshall, Our Island Story: A History of England for Boys and Girls, London: T. C. & E. C. Jack, [n.d., c.1905-1910]"
+  ],
+  "neale-theodora-phranza-fall": [
+   "fallofconstantin0000neal",
+   "J. M. Neale, The Fall of Constantinople, being the Story of Theodora Phranza (Everyman's Library), London: J. M. Dent; New York: E. P. Dutton, 1920"
+  ],
+  "powell-old-stories-british": [
+   "oldstoriesfromb03powegoog",
+   "F. York Powell, Old Stories from British History, London: Longmans, Green, 1894"
+  ],
+  "ec-price-stories-french-history": [
+   "storiesfromfrenc00pric",
+   "Eleanor C. Price, Stories from French History, ill. M. Meredith Williams, New York: Dodd, Mead, [1921]"
+  ],
+  "rosebery-napoleon-last-phase": [
+   "napoleonlastphase00roseuoft",
+   "Lord Rosebery, Napoleon: The Last Phase, London: A. L. Humphreys, 1900"
+  ],
+  "thayer-abraham-lincoln-pioneer": [
+   "abrahamlincolnpi00thay",
+   "William M. Thayer, Abraham Lincoln, the Pioneer Boy and How He Became President, London: Hodder and Stoughton, 1896"
+  ],
+  "trevelyan-history-england": [
+   "bwb_KU-671-080",
+   "G. M. Trevelyan, History of England, London: Longmans, Green, 1926"
+  ],
+  "villari-life-times-girolamo": [
+   "lifetimesofgirol00vill",
+   "Pasquale Villari, Life and Times of Girolamo Savonarola, tr. Linda Villari, London: T. F. Unwin, 1899"
+  ],
+  "beesly-stories-history-rome": [
+   "storiesfromhist01beesgoog",
+   "Mrs. E. S. (Emily) Beesly, Stories from the History of Rome (London: Macmillan, 1886)"
+  ],
+  "breasted-ancient-times-history": [
+   "ancienttimeshist0000unse",
+   "James Henry Breasted, Ancient Times: A History of the Early World (Boston: Ginn, 1916)"
+  ],
+  "burgh-legacy-ancient-world": [
+   "legacyofancientw0000will",
+   "W. G. de Burgh, The Legacy of the Ancient World (London: Macdonald & Evans, 1924)"
+  ],
+  "gardiner-student-s-history": [
+   "cu31924027973068",
+   "Samuel Rawson Gardiner, A Student's History of England, from the Earliest Times to 1885 (London: Longmans, Green, 1892), one volume"
+  ],
+  "jr-green-short-history-english": [
+   "cu31924088057314",
+   "John Richard Green, A Short History of the English People (London and New York: Macmillan, 1892 revised ed.)"
+  ],
+  "knight-popular-history-england-i": [
+   "cu31924087991059",
+   "Charles Knight, The Popular History of England, vol. I (London: Bradbury and Evans, 1856-62)"
+  ],
+  "knight-popular-history-england-ii": [
+   "cu31924087991067",
+   "Charles Knight, The Popular History of England, vol. II (London: Bradbury and Evans, 1856-62)"
+  ],
+  "knight-popular-history-england-iii": [
+   "cu31924088002385",
+   "Charles Knight, The Popular History of England, vol. III (London: Bradbury and Evans, 1856-62)"
+  ],
+  "knight-popular-history-england-iv": [
+   "popularhistoryof04kniguoft",
+   "Charles Knight, The Popular History of England, vol. IV (London: Bradbury and Evans, 1856-62)"
+  ],
+  "knight-popular-history-england-v": [
+   "cu31924088002344",
+   "Charles Knight, The Popular History of England, vol. V (London: Bradbury and Evans, 1856-62)"
+  ],
+  "knight-popular-history-england-vi": [
+   "cu31924088002351",
+   "Charles Knight, The Popular History of England, vol. VI (London: Bradbury and Evans, 1856-62)"
+  ],
+  "knight-popular-history-england-vii": [
+   "cu31924088002369",
+   "Charles Knight, The Popular History of England, vol. VII (London: Bradbury and Evans, 1856-62)"
+  ],
+  "knight-popular-history-england-viii": [
+   "popularhistorye15kniggoog",
+   "Charles Knight, The Popular History of England, vol. VIII (London: Bradbury and Evans, 1856-62)"
+  ],
+  "mackenzie-ancient-crete-myths": [
+   "mythsofcretepreh0000mack",
+   "Donald A. Mackenzie, Myths of Crete and Pre-Hellenic Europe (London: Gresham, 1917)"
+  ],
+  "mowat-short-history-great": [
+   "shorthistoryofgr0000rbmo",
+   "R. B. Mowat, A Short History of Great Britain (Oxford University Press, 1927)"
+  ],
+  "priestley-lectures-history": [
+   "lecturesonhistor00prie",
+   "Joseph Priestley, Lectures on History, and General Policy (Dublin: L. White, 1788)"
+  ],
+  "quennell-history-everyday-things": [
+   "historyofevery00quen",
+   "Marjorie and C. H. B. Quennell, A History of Everyday Things in England, parts I-II (1066-1499, 1500-1799) in one volume (New York: Scribner, 1918[-19])"
+  ],
+  "thayer-log-cabin-white": [
+   "fromlogcabintowh00thayuoft",
+   "W. M. Thayer, From Log-Cabin to White House: The Story of President Garfield's Life (London: Hodder & Stoughton, 1881)"
+  ],
+  "trevelyan-life-letters-lord-2": [
+   "lifelettersoflor02trevuoft",
+   "G. O. Trevelyan, The Life and Letters of Lord Macaulay, vol. 2 (London: Longmans, Green, 1876)"
+  ],
+  "gw-morris-golden-fleece": [
+   "goldenfleeceintr00morruoft",
+   "G. W. Morris and L. S. Wood, The Golden Fleece: An Introduction to the Industrial History of England (Oxford: Clarendon Press, 1922)"
+  ],
+  "arnold-forster-history-england": [
+   "cu31924027971716",
+   "H. O. Arnold-Forster, A History of England from the Landing of Julius Caesar to the Present Day, revised by M. L. Arnold-Forster (London and New York: Cassell, 1913)"
+  ],
+  "epps-british-museum-children": [
+   "in.ernet.dli.2015.122965",
+   "Frances Epps, The British Museum for Children (1914)",
+   "2015.122965.The-British-Museum-For-Children_djvu.txt"
+  ],
+  "holinshed-morte-d-arthur": [
+   "shakespearesholi00holirich",
+   "W. G. Boswell-Stone, Shakespeare's Holinshed: the Chronicle and the historical plays compared (London: Chatto & Windus, 1907)"
+  ],
+  "lord-modern-europe": [
+   "moderneuropescho00lorduoft",
+   "John Lord, Modern Europe: a school history (London: Simpkin, 1875)"
+  ],
+  "mackenzie-lord-kitchener": [
+   "lordkitchener00mack",
+   "Donald A. Mackenzie, Lord Kitchener (London: Blackie, 1916)"
+  ],
+  "pauli-pictures-old-england": [
+   "cu31924027950405",
+   "Reinhold Pauli, Pictures of Old England, tr. E. C. Otte (Cambridge and London: Macmillan, 1861)"
+  ],
+  "robinson-history-england-i": [
+   "historyofengland00robiuoft",
+   "Cyril E. Robinson, A History of England, [part I]: Early and Middle Ages to 1485 (London: Methuen, [1920])"
+  ],
+  "robinson-history-england": [
+   "in.ernet.dli.2015.68133",
+   "Cyril E. Robinson, A History of England: William III to Waterloo, 1689-1815, 2nd ed. (London: Methuen, 1923)",
+   "2015.68133.A-History-Of-England-Willam-Iii-To-Waterloo-1689-1815ed2_djvu.txt"
+  ],
+  "woodward-expansion-british-empire": [
+   "ashorthistoryex00woodgoog",
+   "W. H. Woodward, A Short History of the Expansion of the British Empire, 1500-1870 (Cambridge: University Press, 1899)"
+  ],
+  "joinville-chronicles-crusades-joinville": [
+   "chroniclesofcrus00gile",
+   "Chronicles of the Crusades: Richard of Devizes, Geoffrey de Vinsauf, Lord de Joinville (Bohn Antiquarian Library; London: H. G. Bohn, 1848)"
+  ],
+  "baikie-ancient-jerusalem": [
+   "in.ernet.dli.2015.142766",
+   "James Baikie, Ancient Jerusalem (Peeps at Ancient Civilisations; London: A. & C. Black, 1930)",
+   "2015.142766.Ancient-Jerusalem_djvu.txt"
+  ],
+  "sykes-readings-indian-history": [
+   "rbanms.25189.readingsfromindi0000ethe",
+   "Ethel R. Sykes, Readings from Indian History, Part I (London: 1915)"
+  ],
+  "gw-morris-english-speaking-nations": [
+   "englishspeakingn0000gwmo",
+   "G. W. Morris and L. S. Wood, The English-Speaking Nations: a study in the development of the Commonwealth ideal (Oxford: Clarendon Press, 1924)"
+  ],
+  "wheeler-story-lord-roberts": [
+   "storyoflordrober00wheeuoft",
+   "Harold F. B. Wheeler, The Story of Lord Roberts (London: G. G. Harrap, [1915])"
+  ],
+  "budge-dwellers-nile": [
+   "dwellersonnileor00budg",
+   "E. A. Wallis Budge, The Dwellers on the Nile (London: Religious Tract Society, 1885)"
+  ],
+  "collingwood-roman-britain": [
+   "b29827590",
+   "R. G. Collingwood, Roman Britain (London: Oxford University Press, H. Milford, 1924 [first publ. 1923])"
+  ],
+  "duruy-history-modern-times": [
+   "historyofmodernt00duruuoft",
+   "Victor Duruy, History of Modern Times from the Fall of Constantinople to the French Revolution, tr. Edwin A. Grosvenor (New York: Holt, 1894)"
+  ],
+  "fletcher-great-war": [
+   "greatwar1914191800fletuoft",
+   "C. R. L. Fletcher, The Great War, 1914-1918: a brief sketch (London: John Murray, 1920)"
+  ],
+  "household-our-sea-power": [
+   "in.ernet.dli.2015.72687",
+   "H. W. Household, Our Sea Power: its story and its meaning (London: Macmillan, 1918)",
+   "2015.72687.Our-Sea-Power_djvu.txt"
+  ],
+  "brooke-hunt-prisoners-tower": [
+   "prisonersoftower00broo",
+   "Violet Brooke-Hunt, Prisoners of the Tower of London (London: Dent, 1901)"
+  ],
+  "mackenzie-footprints-early-man": [
+   "footprintsofearl014801mbp",
+   "Donald A. Mackenzie, Footprints of Early Man (London: Blackie / Gresham, 1927)"
+  ],
+  "robinson-medieval-modern-times": [
+   "medievalmodernti00robiuoft",
+   "James Harvey Robinson, Medieval and Modern Times (Boston: Ginn, 1919)"
+  ],
+  "scott-tales-grandfather": [
+   "talesofgrandfath00scotuoft",
+   "Walter Scott, Tales of a Grandfather: being the history of Scotland (Boston: Ginn, 1885)"
+  ]
+ },
+ "_rights_checked": {
+  "mackenzie-story-great-war": "Blackie, undated; the narrative ends with 1919, written as a school history just after the war",
+  "marshall-our-island-story": "Jack, undated; first published 1905, the ads list her books to 1909",
+  "baikie-ancient-jerusalem": "imprint reads 1930 (A. & C. Black): published 1930, PD under the 1930 rule",
+  "mackenzie-footprints-early-man": "Gresham, undated; latest year cited 1926 (published 1927)"
+ },
+ "_held_back": {
+  "mackenzie-ancient-egypt": "wrong book: the scan is Sewell and Lynch, The Story of Egypt (1960)"
+ },
+ "_checks": {
+  "wilton-hall-social-life-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "wilton hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "van-loon-story-mankind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "van loon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "trevelyan-life-letters-lord-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "trevelyan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carlyle-french-revolution-essay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carlyle-french-revolution-essay-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smollett-history-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "smollett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carlyle-heroes-hero-worship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "golding-story-stanley": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "golding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carlyle-oliver-cromwell-s-1": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carlyle-oliver-cromwell-s-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carlyle-oliver-cromwell-s-3": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boyle-man-before-history": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "boyle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "creighton-first-history-france": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "creighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "freeman-old-english-history": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "freeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "household-fighting-sea-power": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "household",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macgregor-story-france": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "macgregor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[c1920]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-heroes-heroic-deeds": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-story-great-war": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Blackie, undated; the narrative ends with 1919, written as a school history just after the war"
+  },
+  "marshall-our-island-story": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "marshall",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[n.d.]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Jack, undated; first published 1905, the ads list her books to 1909"
+  },
+  "neale-theodora-phranza-fall": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "neale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "powell-old-stories-british": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "powell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ec-price-stories-french-history": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "eleanor c. price",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "[1921]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rosebery-napoleon-last-phase": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "rosebery",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thayer-abraham-lincoln-pioneer": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "thayer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trevelyan-history-england": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "trevelyan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "villari-life-times-girolamo": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "villari",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beesly-stories-history-rome": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "beesly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "breasted-ancient-times-history": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "breasted",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burgh-legacy-ancient-world": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "burgh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gardiner-student-s-history": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "gardiner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jr-green-short-history-english": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "j. r. green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knight-popular-history-england-i": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "knight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knight-popular-history-england-ii": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "knight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knight-popular-history-england-iii": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "knight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knight-popular-history-england-iv": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "knight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "[1856-62]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "knight-popular-history-england-v": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "knight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knight-popular-history-england-vi": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "knight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knight-popular-history-england-vii": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "knight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knight-popular-history-england-viii": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "knight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-ancient-crete-myths": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mowat-short-history-great": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mowat",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "priestley-lectures-history": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "priestley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quennell-history-everyday-things": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "quennell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thayer-log-cabin-white": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "thayer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "trevelyan-life-letters-lord-2": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "trevelyan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gw-morris-golden-fleece": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "g. w. morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arnold-forster-history-england": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "arnold-forster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "epps-british-museum-children": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "epps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holinshed-morte-d-arthur": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "holinshed",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lord-modern-europe": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "john lord",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-lord-kitchener": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pauli-pictures-old-england": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "pauli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "robinson-history-england-i": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[1920]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "robinson-history-england": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woodward-expansion-british-empire": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "woodward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "joinville-chronicles-crusades-joinville": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "joinville",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baikie-ancient-jerusalem": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "imprint reads 1930 (A. & C. Black): published 1930, PD under the 1930 rule"
+  },
+  "sykes-readings-indian-history": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "sykes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gw-morris-english-speaking-nations": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "g. w. morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wheeler-story-lord-roberts": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "wheeler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "[1915?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "budge-dwellers-nile": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "budge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "collingwood-roman-britain": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "collingwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duruy-history-modern-times": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fletcher-great-war": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "fletcher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "household-our-sea-power": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "household",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brooke-hunt-prisoners-tower": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "brooke-hunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-footprints-early-man": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "0000",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Gresham, undated; latest year cited 1926 (published 1927)"
+  },
+  "robinson-medieval-modern-times": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "[1919]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scott-tales-grandfather": {
+   "kind": "ia",
+   "checked": "2026-10-30",
+   "name_check": "surname",
+   "author_seen": "scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

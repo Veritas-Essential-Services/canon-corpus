@@ -1,0 +1,119 @@
+{
+ "_about": "Public-domain William John Knox Little (1839-1918, Anglo-Catholic preacher, Canon of Worcester) for the Word Hoard: 6 books from Internet Archive scans: Characteristics and Motives of the Christian Life (new and revised edition, 1881), The Mystery of the Passion (1881), The Hopes and Decisions of the Passion (1886), The Light of Life (1889), Sunlight and Shadow in the Christian Life (new edition, 1892) and Sacerdotalism (1894). Written in English. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "little"
+ ],
+ "_surname": [
+  "knox little",
+  "knox-little",
+  "w. j. knox little"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "knox-little-characteristics-motives": [
+   "CharacteristicsAndMotives",
+   "Characteristics and Motives of the Christian Life, new and revised edition (New York: E. and J. B. Young, MDCCCLXXXI)"
+  ],
+  "knox-little-mystery-of-passion": [
+   "OurMostHolyRedeemer",
+   "The Mystery of the Passion of our Most Holy Redeemer (New York: E. & J. B. Young, MDCCCLXXXI)"
+  ],
+  "knox-little-hopes-decisions-passion": [
+   "hopesdecisionsof00littrich",
+   "The Hopes and Decisions of the Passion of our Most Holy Redeemer (London: Rivingtons, MDCCCLXXXVI)"
+  ],
+  "knox-little-light-of-life": [
+   "lightoflifesermo00litt",
+   "The Light of Life: sermons preached on various occasions (London: Rivingtons, MDCCCLXXXIX)"
+  ],
+  "knox-little-sunlight-shadow": [
+   "sunlightshadowin0000wjkn",
+   "Sunlight and Shadow in the Christian Life, new edition (London: Longmans, Green, 1892)"
+  ],
+  "knox-little-sacerdotalism": [
+   "sacerdotalismifr00littrich",
+   "Sacerdotalism, if rightly understood, the teaching of the Church of England (London: Longmans, Green, 1894)"
+  ]
+ },
+ "_alternates": {
+  "knox-little-copies": "Mystery of the Passion second edition (1882); Characteristics third and fourth editions; Light of Life new edition (1892); Sermons preached in Manchester (1892)"
+ },
+ "_excluded": {
+  "knox-little-anthologies": "PG 37501 and PG 11693: anthologies of many preachers"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "knox-little-firsts": "First editions of the Mystery (c.1880), Characteristics (c.1878) and Sunlight and Shadow: not found"
+ },
+ "_translators": {},
+ "_checks": {
+  "knox-little-characteristics-motives": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "knox little",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knox-little-mystery-of-passion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "knox little",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knox-little-hopes-decisions-passion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "knox little",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "knox-little-light-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "knox little",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knox-little-sunlight-shadow": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "knox little",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knox-little-sacerdotalism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "knox little",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

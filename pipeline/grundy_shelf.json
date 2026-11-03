@@ -1,0 +1,30 @@
+{
+ "_about": "George Beardoe Grundy (1861-1948), Oxford. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Great Persian War and Its Preliminaries, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "grundy"
+ ],
+ "_surname": [
+  "g. b. grundy",
+  "george beardoe grundy",
+  "grundy, g. b"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "grundy-great-persian-war": [
+   72704,
+   "The Great Persian War and Its Preliminaries"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "grundy-great-persian-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. b. grundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

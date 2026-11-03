@@ -1,0 +1,33 @@
+{
+ "_about": "Louise Seymour Houghton's The Russian Grandmother's Wonder Tales (undated in the text), South Slavonic tales which her preface says she took from Friedrich Krauss's German collection and set in a frame of village life. Gutenberg catalogue: Houghton 1838-1920, Krauss 1859-1938. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Louise Seymour Houghton",
+ "_name_words": [
+  "grandmother"
+ ],
+ "_surname": [
+  "louise seymour houghton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lhoughton-russian-grandmothers-wonder-tales": [
+   45214,
+   "The Russian Grandmother's Wonder Tales",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lhoughton-russian-grandmothers-wonder-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "louise seymour houghton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

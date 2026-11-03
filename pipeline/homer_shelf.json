@@ -1,0 +1,1143 @@
+{
+ "_about": "Homer in English, translator recorded per title. Verse: George Chapman (Iliads 1611, Odysseys and the shorter poems 1614-16), Alexander Pope (Iliad 1715-20, ed. Buckley; Odyssey 1725-26, with Broome and Fenton), William Cowper (Iliad and Odyssey, blank verse, 1791; Iliad here in Southey's edition), the Earl of Derby (Iliad, blank verse, 1864), William Cullen Bryant (Iliad 1870, Odyssey 1871-72, blank verse; raw IA OCR). Prose: T. A. Buckley (Iliad, Bohn, 1851) and Samuel Butler's unrevised Odyssey (1900). Butler's Iliad is already in the build from Perseus (iliad-butler) and is not refetched. The build's odyssey-eng4 is Butler REVISED by Power and Nagy (a modern revision), so the plain 1900 Butler Odyssey is held here as the text of record. Lang-Leaf-Myers Iliad and Butcher-Lang Odyssey live on the Lang shelf (lane D); Dryden's Homer on the Dryden shelf (lane C); Evelyn-White's Homeric Hymns and Epigrams in hesiod-evelyn-white. All cross-referenced, none refetched. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Mackail's Odyssey is one set whose IA record dates every volume 1903; the title pages read 1903 (vol. I), 1905 (vol. II) and 1910 (vol. III), so the 1903 in _checks' ia_date and ia_rights is IA's set date, not those volumes' printing (all three are before 1930). Added 2026-10-03 (later): Sotheby's Odyssey Books I-XII, the missing vol. III of his Iliad and Odyssey, from a Google scan of another copy (title page MDCCCXXXIV, 1834; vols. I, II and IV above are the 1833-dated set). Also added: Thomas Shaw Brandreth's blank-verse Iliad, vol. I (Pickering), Google scan, clean 0.88; vol. II not found on IA.",
+ "_name_words": [
+  "homer",
+  "homers",
+  "iliad",
+  "odyssey",
+  "iliads",
+  "odysseys",
+  "translated",
+  "english"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "homer-chapman-iliad": [
+   51355,
+   "The Iliads of Homer Translated according to the Greek",
+   "tr. George Chapman (verse, 1611)"
+  ],
+  "homer-chapman-odyssey": [
+   48895,
+   "The Odysseys of Homer, together with the shorter poems",
+   "tr. George Chapman (verse, 1614-16; Hymns, Batrachomyomachia, Epigrams)"
+  ],
+  "homer-pope-iliad": [
+   6130,
+   "The Iliad",
+   "tr. Alexander Pope (verse, 1715-20), notes by T. A. Buckley"
+  ],
+  "homer-pope-odyssey": [
+   3160,
+   "The Odyssey",
+   "tr. Alexander Pope, with William Broome and Elijah Fenton (verse, 1725-26)"
+  ],
+  "homer-cowper-iliad": [
+   16452,
+   "The Iliad of Homer Translated into English Blank Verse",
+   "tr. William Cowper (1791), ed. Robert Southey"
+  ],
+  "homer-cowper-odyssey": [
+   24269,
+   "The Odyssey of Homer",
+   "tr. William Cowper (blank verse, 1791)"
+  ],
+  "homer-derby-iliad": [
+   6150,
+   "The Iliad",
+   "tr. Edward Stanley, Earl of Derby (blank verse, 1864)"
+  ],
+  "homer-buckley-iliad": [
+   22382,
+   "The Iliad",
+   "tr. Theodore Alois Buckley (prose, Bohn, 1851)"
+  ],
+  "homer-butler-odyssey": [
+   1727,
+   "The Odyssey Rendered into English prose",
+   "tr. Samuel Butler (prose, 1900), unrevised"
+  ]
+ },
+ "internet_archive": {
+  "homer-bryant-iliad-v1": [
+   "iliadofhomertran01homeuoft",
+   "The Iliad of Homer, translated into English blank verse, vol. 1 (1875 printing)",
+   "tr. William Cullen Bryant"
+  ],
+  "homer-bryant-iliad-v2": [
+   "iliadofhomertran02homeuoft",
+   "The Iliad of Homer, translated into English blank verse, vol. 2 (1875 printing)",
+   "tr. William Cullen Bryant"
+  ],
+  "homer-bryant-odyssey-v1": [
+   "odysseyofhomertr11homeuoft",
+   "The Odyssey of Homer, translated into English blank verse, vol. 1 (1873 printing)",
+   "tr. William Cullen Bryant"
+  ],
+  "homer-bryant-odyssey-v2": [
+   "odysseyofhomertr22homeuoft",
+   "The Odyssey of Homer, translated into English blank verse, vol. 2 (1873 printing)",
+   "tr. William Cullen Bryant"
+  ],
+  "homer-norgate-iliad": [
+   "iliadorachillesw00homeuoft",
+   "Homer, The Iliad, or Achilles' Wrath at the Siege of Ilion, in English blank verse (1864)",
+   "tr. T. S. Norgate (attributed by catalogue)"
+  ],
+  "homer-hobbes-iliad-odyssey": [
+   "englishworksofth0010hobb_d2j3",
+   "The English Works of Thomas Hobbes, vol. 10: Homer's Iliads and Odysses (ed. Molesworth)",
+   "tr. Thomas Hobbes"
+  ],
+  "homer-morris-odyssey-1887": [
+   "odysseyofhomer00homeuoft",
+   "The Odyssey of Homer done into English Verse (London: Reeves & Turner, 1887)",
+   "tr. William Morris"
+  ],
+  "homer-palmer-odyssey-1891": [
+   "odysseyhomer02palmgoog",
+   "The Odyssey of Homer, translated into English prose (preface dated Cambridge, February 1891)",
+   "tr. George Herbert Palmer"
+  ],
+  "homer-worsley-odyssey-1861-v1": [
+   "odysseyhomer04worsgoog",
+   "The Odyssey of Homer translated into English Verse in the Spenserian Stanza, vol. I, books I-XII (Blackwood, 1861)",
+   "tr. Philip Stanhope Worsley"
+  ],
+  "homer-worsley-odyssey-1862-v2": [
+   "odysseyhomer01worsgoog",
+   "The Odyssey of Homer translated into English Verse in the Spenserian Stanza, vol. II, books XIII-XXIV (Blackwood, 1862)",
+   "tr. Philip Stanhope Worsley"
+  ],
+  "homer-way-odyssey-1904": [
+   "odysseyofhomerin00homerich",
+   "The Odyssey of Homer in English Verse, third edition (Macmillan, 1904)",
+   "tr. Arthur S. Way"
+  ],
+  "homer-newman-iliad-1856": [
+   "iliadhomerfaith00newmgoog",
+   "The Iliad of Homer faithfully translated into unrhymed English metre (London: Walton and Maberly, 1856; the title-page date OCRs poorly)",
+   "tr. Francis William Newman"
+  ],
+  "homer-worsley-iliad-1865-v1": [
+   "iliadhomertrans00conigoog",
+   "The Iliad of Homer translated into English Verse in the Spenserian Stanza, vol. I, books I-XII (Blackwood, 1865) (identity: title page read, 'The Iliad of Homer translated into English verse in the Spenserian stanza by Philip Stanhope Worsley ... vol. I, books I-XII'; IA files it under Conington, who finished vol. II, hence the ...conigoog id)",
+   "tr. Philip Stanhope Worsley"
+  ],
+  "homer-conington-iliad-1868-v2": [
+   "iliadhomertrans01conigoog",
+   "The Iliad of Homer translated into English Verse in the Spenserian Stanza, vol. II, books XIII-XXIV (Blackwood, 1868)",
+   "tr. John Conington"
+  ],
+  "homer-way-iliad-1886-v1": [
+   "iliadhomer01home",
+   "The Iliad of Homer done into English Verse, vol. I, books I-XII (Sampson Low, 1886) (identity: title page read, 'The Iliad of Homer done into English Verse ... vol. I, books I-XII', headmaster of Wesley College, Melbourne, Sampson Low 1886; the name is OCR'd as 'oie RS.) WAY', and vol. II names Arthur S. Way cleanly)",
+   "tr. Arthur S. Way"
+  ],
+  "homer-way-iliad-1888-v2": [
+   "iliaddoneintoen02homegoog",
+   "The Iliad of Homer done into English Verse, vol. II, books XIII-XXIV (Sampson Low, 1888)",
+   "tr. Arthur S. Way"
+  ],
+  "homer-mackail-odyssey-1903-v1": [
+   "cu31924087936112",
+   "The Odyssey translated into English verse, vol. I: Books I-VIII (John Murray, 1903)",
+   "tr. J. W. Mackail"
+  ],
+  "homer-mackail-odyssey-1905-v2": [
+   "cu31924087936120",
+   "The Odyssey translated into English verse, vol. II: Books IX-XVI (John Murray, 1905)",
+   "tr. J. W. Mackail"
+  ],
+  "homer-mackail-odyssey-1910-v3": [
+   "cu31924087936138",
+   "The Odyssey translated into English verse, vol. III: Books XVII-XXIV (John Murray, 1910)",
+   "tr. J. W. Mackail"
+  ],
+  "homer-cotterill-odyssey-1911": [
+   "homersodyssey00homeuoft",
+   "Homer's Odyssey, a line-for-line translation in the metre of the original (Harrap, 1911)",
+   "tr. H. B. Cotterill"
+  ],
+  "homer-carnarvon-odyssey-1886": [
+   "homerodyssey00homerich",
+   "The Odyssey of Homer, Books I-XII, translated into English verse (1886)",
+   "tr. the Earl of Carnarvon"
+  ],
+  "homer-munford-iliad-1846-v2": [
+   "homersiliad00munfgoog",
+   "Homer's Iliad, vol. II (Boston: Little and Brown, 1846)",
+   "tr. William Munford"
+  ],
+  "homer-wright-iliad-1861-v1": [
+   "wrighthomer00homerich",
+   "The Iliad of Homer translated into English verse, vol. I: Books I-XII (1861)",
+   "tr. Ichabod Charles Wright"
+  ],
+  "homer-blackie-iliad-1866-v2": [
+   "homeriliad02homeuoft",
+   "Homer and the Iliad, vol. II: The Iliad in English verse, Books I-XII (Edinburgh: Edmonston and Douglas, 1866)",
+   "tr. John Stuart Blackie"
+  ],
+  "homer-blackie-iliad-1866-v3": [
+   "homeriliad33homeuoft",
+   "Homer and the Iliad, vol. III: The Iliad in English verse, Books XIII-XXIV (Edinburgh: Edmonston and Douglas, 1866)",
+   "tr. John Stuart Blackie"
+  ],
+  "homer-cayley-iliad-1877": [
+   "iliadhomer02caylgoog",
+   "The Iliad of Homer, homometrically translated (London, 1877)",
+   "tr. C. B. Cayley"
+  ],
+  "homer-merivale-iliad-1869": [
+   "homersiliadineng00home",
+   "Homer's Iliad in English rhymed verse, 2 vols. in one file (London, 1869)",
+   "tr. Charles Merivale"
+  ],
+  "homer-morrice-iliad-1809": [
+   "homeriliadof00homerich",
+   "The Iliad of Homer translated, 2 vols. in one file (1809)",
+   "tr. James Morrice"
+  ],
+  "homer-musgrave-odyssey-1865-v2": [
+   "odysseyhomer00musggoog",
+   "The Odyssey of Homer rendered into English blank verse, vol. II: Books XIII-XXIV (London: Bell and Daldy, 1865)",
+   "tr. George Musgrave"
+  ],
+  "homer-barnard-odyssey-1876": [
+   "odysseyofhomerre00homerich",
+   "The Odyssey of Homer rendered into English blank verse (London, 1876)",
+   "tr. Mordaunt Barnard"
+  ],
+  "homer-schomberg-odyssey-1879-v1": [
+   "odysseyrendered00schogoog",
+   "The Odyssey of Homer rendered into English verse, Books I-XII (John Murray, 1879)",
+   "tr. G. A. Schomberg"
+  ],
+  "homer-schomberg-odyssey-1882-v2": [
+   "odysseyrendered01schogoog",
+   "The Odyssey of Homer rendered into English verse, Books XIII-XXIV (London, 1882)",
+   "tr. G. A. Schomberg"
+  ],
+  "homer-hs-wright-iliad-1885": [
+   "iliadhomer00wriggoog",
+   "The Iliad of Homer, Books I-IV, translated into English verse (George Bell, 1885)",
+   "tr. H. Smith Wright"
+  ],
+  "homer-cordery-iliad-1871-v1": [
+   "iliadhomer02cordgoog",
+   "The Iliad of Homer translated, vol. I (1871)",
+   "tr. J. G. Cordery"
+  ],
+  "homer-cordery-iliad-1871-v2": [
+   "iliadhomer00cordgoog",
+   "The Iliad of Homer translated, vol. II (1871)",
+   "tr. J. G. Cordery"
+  ],
+  "homer-sotheby-iliad-1833-v1": [
+   "iliadodyssey01home",
+   "The Iliad and Odyssey, vol. I: the Iliad (London: Nicol and Murray, 1833 set)",
+   "tr. William Sotheby"
+  ],
+  "homer-sotheby-iliad-1833-v2": [
+   "iliadodyssey02home",
+   "The Iliad and Odyssey, vol. II: the Iliad (London: Nicol and Murray, 1833 set)",
+   "tr. William Sotheby"
+  ],
+  "homer-sotheby-odyssey-1833-v4": [
+   "iliadodyssey04home",
+   "The Iliad and Odyssey, vol. IV: the Odyssey (London: Nicol and Murray, 1833)",
+   "tr. William Sotheby"
+  ],
+  "homer-sotheby-odyssey-1834-v3": [
+   "iliadandodyssey02homegoog",
+   "The Iliad and Odyssey, [vol. III]: the Odyssey, Books I-XII (London: G. and W. Nicol; J. Murray, 1834; volume number not legible in the OCR, contents fill the gap between vols. II and IV)",
+   "tr. William Sotheby"
+  ],
+  "homer-brandreth-iliad-1846-v1": [
+   "iliadhomer01unkngoog",
+   "The Iliad of Homer, vol. I (London: William Pickering; the title-page date OCRs as 1816, catalogue 1846)",
+   "tr. T. S. Brandreth"
+  ],
+  "homer-du-cane-odyssey-1880": [
+   "odysseybooksixi00homegoog",
+   "The Odyssey of Homer, Books I-XII, translated into English verse, with notes and parallel passages (Edinburgh and London: William Blackwood and Sons, 1880)",
+   "tr. Sir Charles Du Cane"
+  ],
+  "homer-dart-iliad-1865": [
+   "cu31924026468441",
+   "The Iliad of Homer in English Hexameter Verse (London: Longmans, Green, and Co.; title-page date partly legible as LXV, catalogue 1865)",
+   "tr. J. Henry Dart"
+  ],
+  "homer-purves-iliad-1891": [
+   "iliadhomertrans00abbogoog",
+   "The Iliad of Homer, translated into English prose, edited with an introduction by Evelyn Abbott (London: Percival and Co., 1891)",
+   "tr. John Purves"
+  ],
+  "homer-conwell-hymns-1830": [
+   "hymnshomertrans00conwgoog",
+   "The Hymns of Homer, translated into verse from the original Greek, with notes (Philadelphia: Mifflin and Parry, 1830)",
+   "tr. Columbus C. Conwell"
+  ],
+  "homer-gilchrist-iliad-1869": [
+   "englishtranslati00home",
+   "An English Translation of the First Eight Books of the Iliad of Homer (Belfast: H. Adair, 1869)",
+   "tr. James Gilchrist"
+  ],
+  "homer-ritso-iliad-i-iii-1861": [
+   "iliadofhomerfirs00home",
+   "The Iliad of Homer, the first three books, faithfully translated into English hexameters (London: Rivingtons, 1861)",
+   "tr. Frederick H. J. Ritso"
+  ]
+ },
+ "_cross_ref": {
+  "iliad-butler": "build manifest (fetch_sources.PERSEUS), Butler's Iliad 1898; PG 2199 is the same translation, not fetched",
+  "odyssey-eng4": "build manifest (fetch_sources.PERSEUS): Butler's Odyssey revised by Timothy Power and Gregory Nagy, a modern revision; homer-butler-odyssey here is the unrevised 1900 text",
+  "lang-iliad": "Lang shelf, lane D (PG 3059, Lang, Leaf and Myers)",
+  "lang-odyssey": "Lang shelf, lane D (PG 1728, Butcher and Lang)",
+  "lang-homeric-hymns": "Lang shelf, lane D (PG 16338)",
+  "dryden-iliad": "Dryden shelf, lane C (Iliad I and the Last Parting of Hector and Andromache)",
+  "hesiod-evelyn-white": "Hesiod shelf: Evelyn-White's Homeric Hymns, Epigrams, Contest of Homer and Hesiod (1914)",
+  "maginn-homeric-ballads-1856": "lucian shelf: lucian-maginn-1856 (Maginn's Homeric Ballads and Comedies of Lucian, 1856) holds his Homeric ballads and episodes; not refetched here"
+ },
+ "_excluded": {
+  "pg2199": "Butler's Iliad: already in the build from Perseus (iliad-butler)",
+  "pg28797": "Butler's Odyssey: duplicate of PG 1727",
+  "pg24856": "Odysseus, the Hero of Ithaca (Burt, Ragozin): a schoolbook adaptation",
+  "Brandreth's Iliad vol. II (1846)": "no scan found on IA (2026-10-03); vol. I held as homer-brandreth-iliad-1846-v1"
+ },
+ "perseus": {
+  "homer-perseus-murray-iliad": [
+   "tlg0012.tlg001.perseus-eng3",
+   "Iliad",
+   "Augustus Taber Murray",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Homer. The Iliad, Volume 1-2. Murray, A. T. (Augustus Taber), translator. London: William Heinmann; New York: G.P. Putnam's Sons, 1924-1925."
+  ],
+  "homer-perseus-murray-odyssey": [
+   "tlg0012.tlg002.perseus-eng3",
+   "Odyssey",
+   "Augustus Taber Murray",
+   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Homer. The Odyssey, Volume 1-2. Murray, A. T. (Augustus Taber), translator. London: William Heinmann; New York: G.P. Putnam's Sons, 1919."
+  ]
+ },
+ "_surname": [
+  "homer",
+  "homerus"
+ ],
+ "_translators": {
+  "homer-chapman-iliad": "George Chapman",
+  "homer-chapman-odyssey": "George Chapman",
+  "homer-pope-iliad": "alexander pope",
+  "homer-pope-odyssey": "Alexander Pope",
+  "homer-cowper-iliad": "William Cowper",
+  "homer-cowper-odyssey": "William Cowper",
+  "homer-derby-iliad": "Earl of Edward George Geoffrey Smith Stanley Derby",
+  "homer-buckley-iliad": "Theodore Alois Buckley",
+  "homer-butler-odyssey": "Samuel Butler",
+  "homer-bryant-iliad-v1": "William Cullen Bryant",
+  "homer-bryant-iliad-v2": "William Cullen Bryant",
+  "homer-bryant-odyssey-v1": "William Cullen Bryant",
+  "homer-hobbes-iliad-odyssey": "Thomas Hobbes",
+  "homer-perseus-murray-iliad": "Augustus Taber Murray",
+  "homer-perseus-murray-odyssey": "Augustus Taber Murray",
+  "homer-morris-odyssey-1887": "William Morris",
+  "homer-palmer-odyssey-1891": "George Herbert Palmer",
+  "homer-worsley-odyssey-1861-v1": "Philip Stanhope Worsley",
+  "homer-worsley-odyssey-1862-v2": "Philip Stanhope Worsley",
+  "homer-way-odyssey-1904": "Arthur S. Way",
+  "homer-newman-iliad-1856": "F. W. Newman",
+  "homer-worsley-iliad-1865-v1": "Philip Stanhope Worsley",
+  "homer-conington-iliad-1868-v2": "John Conington",
+  "homer-way-iliad-1888-v2": "Arthur S. Way",
+  "homer-mackail-odyssey-1903-v1": "Mackail",
+  "homer-mackail-odyssey-1905-v2": "Mackail",
+  "homer-mackail-odyssey-1910-v3": "Mackail",
+  "homer-cotterill-odyssey-1911": "Cotterill",
+  "homer-carnarvon-odyssey-1886": "earl of carnarvon",
+  "homer-munford-iliad-1846-v2": "Munford",
+  "homer-wright-iliad-1861-v1": "i. c. wright",
+  "homer-blackie-iliad-1866-v2": "Blackie",
+  "homer-blackie-iliad-1866-v3": "Blackie",
+  "homer-cayley-iliad-1877": "Cayley",
+  "homer-merivale-iliad-1869": "Merivale",
+  "homer-morrice-iliad-1809": "Morrice",
+  "homer-musgrave-odyssey-1865-v2": "Musgrave",
+  "homer-barnard-odyssey-1876": "mordaunt barnard",
+  "homer-schomberg-odyssey-1882-v2": "Schomberg",
+  "homer-cordery-iliad-1871-v1": "Cordery",
+  "homer-cordery-iliad-1871-v2": "Cordery",
+  "homer-sotheby-iliad-1833-v1": "Sotheby",
+  "homer-sotheby-iliad-1833-v2": "Sotheby",
+  "homer-sotheby-odyssey-1833-v4": "Sotheby",
+  "homer-sotheby-odyssey-1834-v3": "william sotheby",
+  "homer-brandreth-iliad-1846-v1": "t. s. brandreth",
+  "homer-du-cane-odyssey-1880": "charles du cane",
+  "homer-dart-iliad-1865": "j. henry dart",
+  "homer-purves-iliad-1891": "john purves",
+  "homer-conwell-hymns-1830": "columbus c. conwell",
+  "homer-gilchrist-iliad-1869": "james gilchrist",
+  "homer-ritso-iliad-i-iii-1861": "frederick h. j. ritso"
+ },
+ "_translator_unchecked": {
+  "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "homer-norgate-iliad": "attributed by the catalogue; the text names Norgate only in a publisher's notice",
+  "homer-way-iliad-1886-v1": "title page OCRs the name as 'oie RS.) WAY, MEA.' (headmaster of Wesley College, Melbourne, as in vol. II, where 'Arthur S. Way' reads cleanly); the full name is not printed as a word in this OCR",
+  "homer-schomberg-odyssey-1879-v1": "title page names G. A. Schomberg, C.B. (John Murray, 1879); the OCR reads 'SCHOMBEEG'; vol. II of the same set prints the name cleanly",
+  "homer-hs-wright-iliad-1885": "title page OCR reads 'H. SM-ITH WRIGHT' (Henry Smith Wright), split by the OCR, and 'wright' alone is a common word that also matches I. C. Wright, whom this volume's preface names; left unchecked on that reading"
+ },
+ "_checks": {
+  "homer-chapman-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "George Chapman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Chapman",
+   "translator_match": true
+  },
+  "homer-chapman-odyssey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "George Chapman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Chapman",
+   "translator_match": true
+  },
+  "homer-pope-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "alexander pope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Pope",
+   "translator_match": true
+  },
+  "homer-pope-odyssey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Alexander Pope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Pope",
+   "translator_match": true
+  },
+  "homer-cowper-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "William Cowper",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Cowper",
+   "translator_match": true
+  },
+  "homer-cowper-odyssey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "William Cowper",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Cowper",
+   "translator_match": true
+  },
+  "homer-derby-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Earl of Edward George Geoffrey Smith Stanley Derby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Earl of Edward George Geoffrey Smith Stanley Derby",
+   "translator_match": true
+  },
+  "homer-buckley-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Theodore Alois Buckley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Theodore Alois Buckley",
+   "translator_match": true
+  },
+  "homer-butler-odyssey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Samuel Butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Samuel Butler",
+   "translator_match": true
+  },
+  "homer-bryant-iliad-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "William Cullen Bryant",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-bryant-iliad-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "William Cullen Bryant",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-bryant-odyssey-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "William Cullen Bryant",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "[1873]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-bryant-odyssey-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "[1873]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-norgate-iliad": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-hobbes-iliad-odyssey": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Thomas Hobbes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-morris-odyssey-1887": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "William Morris",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-palmer-odyssey-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "George Herbert Palmer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-worsley-odyssey-1861-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Philip Stanhope Worsley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-worsley-odyssey-1862-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Philip Stanhope Worsley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-way-odyssey-1904": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-newman-iliad-1856": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "F. W. Newman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-worsley-iliad-1865-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Philip Stanhope Worsley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-conington-iliad-1868-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "John Conington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-way-iliad-1886-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-way-iliad-1888-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-mackail-odyssey-1903-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Mackail",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-mackail-odyssey-1905-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Mackail",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-mackail-odyssey-1910-v3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Mackail",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-cotterill-odyssey-1911": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Cotterill",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-carnarvon-odyssey-1886": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "earl of carnarvon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-munford-iliad-1846-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Munford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-wright-iliad-1861-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "i. c. wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-blackie-iliad-1866-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Blackie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-blackie-iliad-1866-v3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Blackie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-cayley-iliad-1877": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Cayley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-merivale-iliad-1869": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Merivale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-morrice-iliad-1809": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Morrice",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-musgrave-odyssey-1865-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Musgrave",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-barnard-odyssey-1876": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "mordaunt barnard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-schomberg-odyssey-1879-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-schomberg-odyssey-1882-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Schomberg",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-hs-wright-iliad-1885": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-cordery-iliad-1871-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Cordery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-cordery-iliad-1871-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Cordery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-sotheby-iliad-1833-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Sotheby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-sotheby-iliad-1833-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Sotheby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-sotheby-odyssey-1833-v4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Sotheby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-sotheby-odyssey-1834-v3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "william sotheby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-brandreth-iliad-1846-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "t. s. brandreth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-du-cane-odyssey-1880": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "charles du cane",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-dart-iliad-1865": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "j. henry dart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-purves-iliad-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "john purves",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-conwell-hymns-1830": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "columbus c. conwell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-gilchrist-iliad-1869": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "james gilchrist",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "homer-ritso-iliad-i-iii-1861": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "frederick h. j. ritso",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "homer-perseus-murray-iliad": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0012.tlg001.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Augustus Taber Murray",
+   "author_seen": "homer",
+   "source_years": [
+    1924,
+    1925
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0012/tlg001/tlg0012.tlg001.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "homer-perseus-murray-odyssey": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0012.tlg002.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Augustus Taber Murray",
+   "author_seen": "homer",
+   "source_years": [
+    1919
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0012/tlg002/tlg0012.tlg002.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_identity_checked": {
+  "homer-mackail-odyssey-1903-v1": "title page reads 'The Odyssey, translated by J. W. Mackail, Books I-VIII' (John Murray, 1903); Homer's name is not printed in this volume; vol. III of the same set names him",
+  "homer-mackail-odyssey-1905-v2": "title page reads 'The Odyssey, translated by J. W. Mackail, Books IX-XVI' (John Murray, 1905); Homer's name is not printed in this volume; vol. III of the same set names him",
+  "homer-schomberg-odyssey-1882-v2": "title page reads 'The Odyssey of Homer rendered into English verse, Books XIII. to XXIV., by G. A. Schomberg, C.B., General' (John Murray, 1882); the OCR prints Homer as 'HOMEE'"
+ }
+}

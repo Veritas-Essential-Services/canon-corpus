@@ -1,0 +1,98 @@
+{
+ "_about": "Christy Mathewson: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Christy Mathewson",
+ "_name_words": [
+  "christy",
+  "mathewson"
+ ],
+ "_surname": [
+  "christy mathewson",
+  "mathewson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cmathewson-pitching-in-a-pinch": [
+   33291,
+   "Pitching in a Pinch; or, Baseball from the Inside"
+  ],
+  "cmathewson-won-in-the-ninth": [
+   49568,
+   "Won in the ninth"
+  ],
+  "cmathewson-pitcher-pollock": [
+   50761,
+   "Pitcher Pollock"
+  ],
+  "cmathewson-second-base-sloan": [
+   52407,
+   "Second Base Sloan"
+  ],
+  "cmathewson-catcher-craig": [
+   56337,
+   "Catcher Craig"
+  ],
+  "cmathewson-first-base-faulkner": [
+   64435,
+   "First Base Faulkner"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cmathewson-pitching-in-a-pinch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christy mathewson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmathewson-won-in-the-ninth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christy mathewson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmathewson-pitcher-pollock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christy mathewson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmathewson-second-base-sloan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christy mathewson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmathewson-catcher-craig": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christy mathewson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmathewson-first-base-faulkner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christy mathewson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,620 @@
+{
+ "_about": "Charles Lever's Irish military and comic novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Charles Lever",
+ "_name_words": [
+  "lever"
+ ],
+ "_surname": [
+  "charles lever"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "clever-confessions-of-harry-lorrequer-complete": [
+   5240,
+   "The Confessions of Harry Lorrequer — Complete"
+  ],
+  "clever-charles-omalley-the-irish-dragoon-volume-1": [
+   8577,
+   "Charles O'Malley, The Irish Dragoon, Volume 1"
+  ],
+  "clever-charles-omalley-the-irish-dragoon-volume-2": [
+   8674,
+   "Charles O'Malley, The Irish Dragoon, Volume 2"
+  ],
+  "clever-lord-kilgobbin": [
+   8941,
+   "Lord Kilgobbin"
+  ],
+  "clever-cornelius-odowd-upon-men-and-women-and-other-things-i": [
+   22058,
+   "Cornelius O'Dowd Upon Men And Women And Other Things In General"
+  ],
+  "clever-nuts-and-nutcrackers": [
+   31685,
+   "Nuts and Nutcrackers"
+  ],
+  "clever-tom-burke-of-ours-volume-i": [
+   31901,
+   "Tom Burke Of \"Ours\", Volume I"
+  ],
+  "clever-tom-burke-of-ours-volume-ii": [
+   31902,
+   "Tom Burke Of \"Ours\", Volume II"
+  ],
+  "clever-confessions-of-con-cregan-the-irish-gil-blas": [
+   32060,
+   "Confessions Of Con Cregan, the Irish Gil Blas"
+  ],
+  "clever-daltons": [
+   32061,
+   "The Daltons; Or, Three Roads In Life. Volume I (of II)"
+  ],
+  "clever-daltons-32062": [
+   32062,
+   "The Daltons; Or, Three Roads In Life. Volume II (of II)"
+  ],
+  "clever-a-rent-in-a-cloud": [
+   32082,
+   "A Rent In A Cloud"
+  ],
+  "clever-st-patricks-eve": [
+   32083,
+   "St. Patrick's Eve"
+  ],
+  "clever-odonoghue": [
+   32340,
+   "The O'Donoghue: Tale of Ireland Fifty Years Ago"
+  ],
+  "clever-davenport-dunn-a-man-of-our-day-volume-1-of-2": [
+   32341,
+   "Davenport Dunn, a Man of Our Day. Volume 1 (of 2)"
+  ],
+  "clever-davenport-dunn-a-man-of-our-day-volume-2-of-2": [
+   32342,
+   "Davenport Dunn, a Man of Our Day. Volume 2 (of 2)"
+  ],
+  "clever-arthur-oleary": [
+   32424,
+   "Arthur O'Leary: His Wanderings And Ponderings In Many Lands"
+  ],
+  "clever-maurice-tiernay-soldier-of-fortune": [
+   32425,
+   "Maurice Tiernay, Soldier of Fortune"
+  ],
+  "clever-gerald-fitzgerald-the-chevalier": [
+   32560,
+   "Gerald Fitzgerald, the Chevalier: A Novel"
+  ],
+  "clever-bramleighs-of-bishops-folly": [
+   32561,
+   "The Bramleighs of Bishop's Folly"
+  ],
+  "clever-a-days-ride": [
+   32692,
+   "A Day's Ride: A Life's Romance"
+  ],
+  "clever-that-boy-of-norcotts": [
+   32693,
+   "That Boy of Norcott's"
+  ],
+  "clever-one-of-them": [
+   32840,
+   "One Of Them"
+  ],
+  "clever-sir-jasper-carew": [
+   33081,
+   "Sir Jasper Carew: His Life and Experience"
+  ],
+  "clever-jack-hinton": [
+   33082,
+   "Jack Hinton: The Guardsman"
+  ],
+  "clever-diary-and-notes-of-horace-templeton-esq-volume-i-of-i": [
+   33216,
+   "Diary And Notes Of Horace Templeton, Esq. Volume I (of II)"
+  ],
+  "clever-diary-and-notes-of-horace-templeton-esq-volume-ii-of": [
+   33217,
+   "Diary And Notes Of Horace Templeton, Esq. Volume II (of II)"
+  ],
+  "clever-roland-cashel-volume-i-of-ii": [
+   33468,
+   "Roland Cashel, Volume I (of II)"
+  ],
+  "clever-roland-cashel-volume-ii-of-ii": [
+   33469,
+   "Roland Cashel, Volume II (of II)"
+  ],
+  "clever-fortunes-of-glencore": [
+   33556,
+   "The Fortunes of Glencore"
+  ],
+  "clever-tony-butler": [
+   33604,
+   "Tony Butler"
+  ],
+  "clever-barrington-volume-1-of-2": [
+   34882,
+   "Barrington. Volume 1 (of 2)"
+  ],
+  "clever-barrington-volume-2-of-2": [
+   34883,
+   "Barrington. Volume 2 (of 2)"
+  ],
+  "clever-tales-of-the-trains-being-some-chapters-of-railroad-r": [
+   34884,
+   "Tales of the Trains Being Some Chapters of Railroad Romance by Tilbury Tramp, Queen's Messenger"
+  ],
+  "clever-martins-of-cro-martin-vol-i-of-ii": [
+   35143,
+   "The Martins Of Cro' Martin, Vol. I (of II)"
+  ],
+  "clever-martins-of-cro-martin-vol-ii-of-ii": [
+   35144,
+   "The Martins Of Cro' Martin, Vol. II (of II)"
+  ],
+  "clever-paul-gossletts-confessions-in-love-law-and-the-civil": [
+   35145,
+   "Paul Gosslett's Confessions in Love, Law, and The Civil Service"
+  ],
+  "clever-sir-brook-fossbrooke-volume-i": [
+   35296,
+   "Sir Brook Fossbrooke, Volume I."
+  ],
+  "clever-sir-brook-fossbrooke-volume-ii": [
+   35297,
+   "Sir Brook Fossbrooke, Volume II."
+  ],
+  "clever-dodd-family-abroad-vol-i": [
+   35441,
+   "The Dodd Family Abroad, Vol. I"
+  ],
+  "clever-dodd-family-abroad-vol-ii": [
+   35442,
+   "The Dodd Family Abroad, Vol. II"
+  ],
+  "clever-luttrell-of-arran": [
+   35717,
+   "Luttrell Of Arran"
+  ],
+  "clever-knight-of-gwynne-vol-1-of-2": [
+   35755,
+   "The Knight Of Gwynne, Vol. 1 (of 2)"
+  ],
+  "clever-knight-of-gwynne-vol-2-of-2": [
+   35756,
+   "The Knight Of Gwynne, Vol. 2 (of 2)"
+  ],
+  "clever-charles-lever-his-life-in-his-letters-vol-i": [
+   35864,
+   "Charles Lever, His Life in His Letters, Vol. I"
+  ],
+  "clever-charles-lever-his-life-in-his-letters-vol-ii": [
+   35865,
+   "Charles Lever, His Life in His Letters, Vol. II"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-29381": "PG 29381: Gutenberg's index of the author's works, not a book.",
+  "split-parts": "Gutenberg's split-part files PG 5234, 5235, 5236, 5237, 5238, 5239: the complete edition of each is on the shelf instead.",
+  "repeat-editions": "PG 35500: second Gutenberg editions of titles already on the shelf.",
+  "pg-7548": "PG 7548: David Widger's quotation and image selection."
+ },
+ "_checks": {
+  "clever-confessions-of-harry-lorrequer-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-charles-omalley-the-irish-dragoon-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-charles-omalley-the-irish-dragoon-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-lord-kilgobbin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-cornelius-odowd-upon-men-and-women-and-other-things-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-nuts-and-nutcrackers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-tom-burke-of-ours-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-tom-burke-of-ours-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-confessions-of-con-cregan-the-irish-gil-blas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-daltons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-daltons-32062": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-a-rent-in-a-cloud": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-st-patricks-eve": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-odonoghue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-davenport-dunn-a-man-of-our-day-volume-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-davenport-dunn-a-man-of-our-day-volume-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-arthur-oleary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-maurice-tiernay-soldier-of-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-gerald-fitzgerald-the-chevalier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-bramleighs-of-bishops-folly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-a-days-ride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-that-boy-of-norcotts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-one-of-them": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-sir-jasper-carew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-jack-hinton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-diary-and-notes-of-horace-templeton-esq-volume-i-of-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-diary-and-notes-of-horace-templeton-esq-volume-ii-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-roland-cashel-volume-i-of-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-roland-cashel-volume-ii-of-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-fortunes-of-glencore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-tony-butler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-barrington-volume-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-barrington-volume-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-tales-of-the-trains-being-some-chapters-of-railroad-r": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-martins-of-cro-martin-vol-i-of-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-martins-of-cro-martin-vol-ii-of-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-paul-gossletts-confessions-in-love-law-and-the-civil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-sir-brook-fossbrooke-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-sir-brook-fossbrooke-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-dodd-family-abroad-vol-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-dodd-family-abroad-vol-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-luttrell-of-arran": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-knight-of-gwynne-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-knight-of-gwynne-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-charles-lever-his-life-in-his-letters-vol-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clever-charles-lever-his-life-in-his-letters-vol-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

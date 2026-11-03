@@ -1,0 +1,227 @@
+{
+ "_about": "Lewis Spence's myths and legends retold: The Popol Vuh (David Nutt, 1908), The Myths of Mexico and Peru (preface dated July 1913), The Myths of the North American Indians (preface dated March 1914), Hero Tales and Legends of the Rhine (Harrap, 1915, per the transcriber's note), Myths and Legends of Ancient Egypt (1915), Myths and Legends of Babylonia and Assyria (1916), Legends and Romances of Spain (preface dated June 1920), Legends and Romances of Brittany (Stokes; undated in the text). His studies (An Introduction to Mythology, The Gods of Mexico) are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Lewis Spence",
+ "_name_words": [
+  "spence"
+ ],
+ "_surname": [
+  "lewis spence"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "spence-popol-vuh": [
+   56550,
+   "The Popol Vuh",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|THE POPOL VUH|BIBLIOGRAPHICAL APPENDIX|NOTES|FOOTNOTES)$"
+     },
+     {
+      "re": "(?:THE (?:FIRST|SECOND|THIRD|FOURTH) BOOK|COSMOGONY OF THE \"POPOL VUH\"|KICHÉ AND MEXICAN MYTHOLOGY|THE PANTHEON OF THE \"POPOL VUH\"|THE VUKUB-CAKIX MYTH|BOOK II\\. COMMENTED UPON|THE HARRYING OF XIBALBA|BOOK III\\. COMMENTED UPON|EARLY SPANISH AUTHORS AND THE \"POPOL VUH\"|EVIDENCE OF METRICAL COMPOSITION|[IV]+|NOTE \\d+\\. \\(PAGE \\d+\\))$"
+     },
+     {
+      "re": "THE MYTH OF VUKUB-CAKIX$"
+     }
+    ],
+    "start": "PREFACE$",
+    "front": true
+   }
+  ],
+  "spence-myths-of-mexico-and-peru": [
+   53080,
+   "The Myths of Mexico and Peru",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS:?|LIST OF ILLUSTRATIONS|INTRODUCTION|BIBLIOGRAPHY|SHORT BIBLIOGRAPHY OF WORKS IN ENGLISH DEALING WITH SPANISH ROMANCE|NOTES|GLOSSARY (?:AND|&) INDEX|INDEX AND GLOSSARY|INDEX|THE PRONUNCIATION OF [A-Z]+|NOTE ON THE PRONUNCIATION OF .*|CHAPTER [IVXL]+(?::|--) ?[A-Z\"].*)$",
+      "max": 130
+     },
+     {
+      "re": "FOOTNOTES:$"
+     }
+    ],
+    "start": "(?:PREFACE|INTRODUCTION)$",
+    "front": true
+   }
+  ],
+  "spence-myths-of-the-north-american-indians": [
+   42390,
+   "The Myths of the North American Indians",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS:?|LIST OF ILLUSTRATIONS|INTRODUCTION|BIBLIOGRAPHY|SHORT BIBLIOGRAPHY OF WORKS IN ENGLISH DEALING WITH SPANISH ROMANCE|NOTES|GLOSSARY (?:AND|&) INDEX|INDEX AND GLOSSARY|INDEX|THE PRONUNCIATION OF [A-Z]+|NOTE ON THE PRONUNCIATION OF THE MEXICAN, MAYAN, AND PERUVIAN NAMES|CHAPTER [IVXL]+(?::|--) ?[A-Z\"].*)$",
+      "max": 130
+     },
+     {
+      "re": "FOOTNOTES:$"
+     }
+    ],
+    "start": "(?:PREFACE|INTRODUCTION)$",
+    "front": true
+   }
+  ],
+  "spence-hero-tales-of-the-rhine": [
+   16539,
+   "Hero Tales and Legends of the Rhine",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS:?|LIST OF ILLUSTRATIONS|INTRODUCTION|BIBLIOGRAPHY|SHORT BIBLIOGRAPHY OF WORKS IN ENGLISH DEALING WITH SPANISH ROMANCE|NOTES|GLOSSARY (?:AND|&) INDEX|INDEX AND GLOSSARY|INDEX|THE PRONUNCIATION OF [A-Z]+|NOTE ON THE PRONUNCIATION OF THE MEXICAN, MAYAN, AND PERUVIAN NAMES|CHAPTER [IVXL]+(?::|--) ?[A-Z\"].*)$",
+      "max": 130
+     },
+     {
+      "re": "FOOTNOTES:$"
+     }
+    ],
+    "start": "(?:PREFACE|INTRODUCTION)$",
+    "front": true
+   }
+  ],
+  "spence-myths-of-ancient-egypt": [
+   43662,
+   "Myths and Legends of Ancient Egypt",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS:?|LIST OF ILLUSTRATIONS|INTRODUCTION|BIBLIOGRAPHY|SHORT BIBLIOGRAPHY OF WORKS IN ENGLISH DEALING WITH SPANISH ROMANCE|NOTES|GLOSSARY (?:AND|&) INDEX|INDEX AND GLOSSARY|INDEX|THE PRONUNCIATION OF [A-Z]+|NOTE ON THE PRONUNCIATION OF THE MEXICAN, MAYAN, AND PERUVIAN NAMES|CHAPTER [IVXL]+(?::|--) ?[A-Z\"].*)$",
+      "max": 130
+     },
+     {
+      "re": "FOOTNOTES:$"
+     }
+    ],
+    "start": "(?:PREFACE|INTRODUCTION)$",
+    "front": true
+   }
+  ],
+  "spence-myths-of-babylonia-and-assyria": [
+   45137,
+   "Myths and Legends of Babylonia and Assyria",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS:?|LIST OF ILLUSTRATIONS|INTRODUCTION|BIBLIOGRAPHY|SHORT BIBLIOGRAPHY OF WORKS IN ENGLISH DEALING WITH SPANISH ROMANCE|NOTES|GLOSSARY (?:AND|&) INDEX|INDEX AND GLOSSARY|INDEX|THE PRONUNCIATION OF [A-Z]+|NOTE ON THE PRONUNCIATION OF THE MEXICAN, MAYAN, AND PERUVIAN NAMES|CHAPTER [IVXL]+(?::|--) ?[A-Z\"].*)$",
+      "max": 130
+     },
+     {
+      "re": "FOOTNOTES:$"
+     }
+    ],
+    "start": "(?:PREFACE|INTRODUCTION)$",
+    "front": true
+   }
+  ],
+  "spence-legends-of-spain": [
+   38530,
+   "Legends and Romances of Spain",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS:?|LIST OF ILLUSTRATIONS|INTRODUCTION|BIBLIOGRAPHY|SHORT BIBLIOGRAPHY OF WORKS IN ENGLISH DEALING WITH SPANISH ROMANCE|NOTES|GLOSSARY (?:AND|&) INDEX|INDEX AND GLOSSARY|INDEX|THE PRONUNCIATION OF [A-Z]+|NOTE ON THE PRONUNCIATION OF THE MEXICAN, MAYAN, AND PERUVIAN NAMES|CHAPTER [IVXL]+(?::|--) ?[A-Z\"].*)$",
+      "max": 130
+     },
+     {
+      "re": "FOOTNOTES:$"
+     }
+    ],
+    "start": "(?:PREFACE|INTRODUCTION)$",
+    "front": true
+   }
+  ],
+  "spence-legends-of-brittany": [
+   30871,
+   "Legends and Romances of Brittany",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS:?|LIST OF ILLUSTRATIONS|INTRODUCTION|BIBLIOGRAPHY|SHORT BIBLIOGRAPHY OF WORKS IN ENGLISH DEALING WITH SPANISH ROMANCE|NOTES|GLOSSARY (?:AND|&) INDEX|INDEX AND GLOSSARY|INDEX|THE PRONUNCIATION OF [A-Z]+|NOTE ON THE PRONUNCIATION OF THE MEXICAN, MAYAN, AND PERUVIAN NAMES|CHAPTER [IVXL]+(?::|--) ?[A-Z\"].*)$",
+      "max": 130
+     },
+     {
+      "re": "FOOTNOTES:$"
+     }
+    ],
+    "start": "(?:PREFACE|INTRODUCTION)$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "spence-popol-vuh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lewis spence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spence-myths-of-mexico-and-peru": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lewis spence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spence-myths-of-the-north-american-indians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lewis spence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spence-hero-tales-of-the-rhine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lewis spence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spence-myths-of-ancient-egypt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lewis spence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spence-myths-of-babylonia-and-assyria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lewis spence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spence-legends-of-spain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lewis spence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spence-legends-of-brittany": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lewis spence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

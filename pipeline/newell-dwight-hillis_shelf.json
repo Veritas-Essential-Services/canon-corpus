@@ -1,0 +1,139 @@
+{
+ "_about": "Public-domain Newell Dwight Hillis (1858-1929), Beecher's successor at Plymouth Church, Brooklyn, for the Word Hoard: his religious books, A Man's Value to Society (fifth edition, 1897), The Investment of Influence (1898), Foretokens of Immortality (copyright 1897), How the Inner Light Failed (1897-98), The Influence of Christ in Modern Life (1900), The Quest of Happiness (1902) and The Great Refusal (1923), from Internet Archive scans. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hillis"
+ ],
+ "_surname": [
+  "newell dwight hillis",
+  "hillis"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ndhillis-mans-value": [
+   "mansvaluetosocie00hill",
+   "A Man's Value to Society: Studies in Self-Culture and Character, fifth edition (New York, Chicago, Toronto: Fleming H. Revell, 1897)"
+  ],
+  "ndhillis-investment-influence": [
+   "investmentofinfl00hill",
+   "The Investment of Influence: A Study of Social Sympathy and Service (New York, Chicago, Toronto: Fleming H. Revell, 1898)"
+  ],
+  "ndhillis-foretokens": [
+   "foretokensofimmo00hill_0",
+   "Foretokens of Immortality (New York, Chicago, Toronto: Fleming H. Revell; title page undated, copyright 1897)"
+  ],
+  "ndhillis-inner-light": [
+   "howinnerlightfai0000hill",
+   "How the Inner Light Failed, with How the Inner Light Grows (New York, Chicago, Toronto: Fleming H. Revell; copyright 1897 and 1898)"
+  ],
+  "ndhillis-influence-christ": [
+   "influenceofchris00hill",
+   "The Influence of Christ in Modern Life (New York and London: Macmillan, 1900)"
+  ],
+  "ndhillis-quest-happiness": [
+   "questhappinessa00hillgoog",
+   "The Quest of Happiness: A Study of Victory over Life's Troubles (New York and London: Macmillan, 1902)"
+  ],
+  "ndhillis-great-refusal": [
+   "greatrefusalothe00hill",
+   "The Great Refusal and Other Evangelistic Sermons (New York, Chicago, Toronto: Fleming H. Revell; copyright 1923)"
+  ]
+ },
+ "_alternates": {
+  "ndhillis-copies": "Later editions of Man's Value and Investment (PG 28875, PG 17274); Right Living as a Fine Art (PG 36695, 1903); The Quest of John Chapman, a novel (1904)"
+ },
+ "_excluded": {
+  "ndhillis-other": "His war books (PG 18557, 49515, 22821); Beecher's and Swing's books, which he edited"
+ },
+ "_identity_checked": {
+  "ndhillis-influence-christ": {
+   "author": "title page read: 'NEWELL DWIGHT HILLIS, Pastor of Plymouth Church, Brooklyn' (OCR garbled)"
+  }
+ },
+ "_rights_checked": {
+  "ndhillis-foretokens": "title page undated; its advertisements list a 1911 book, so this is a later printing of a book copyrighted 1897, still before 1930"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ndhillis-mans-value": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "newell dwight hillis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899, c1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ndhillis-investment-influence": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "newell dwight hillis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898, [c1897]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ndhillis-foretokens": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "newell dwight hillis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page undated; its advertisements list a 1911 book, so this is a later printing of a book copyrighted 1897, still before 1930"
+  },
+  "ndhillis-inner-light": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "newell dwight hillis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ndhillis-influence-christ": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "newell dwight hillis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ndhillis-quest-happiness": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "newell dwight hillis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ndhillis-great-refusal": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "newell dwight hillis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

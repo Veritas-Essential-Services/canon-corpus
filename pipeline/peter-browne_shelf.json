@@ -1,0 +1,39 @@
+{
+ "_about": "Peter Browne (c. 1665-1735), provost of Trinity College, Dublin, and Bishop of Cork, critic of Locke and Toland. Raw IA OCR: The Procedure, Extent, and Limits of Human Understanding (London: William Innys, MDCCXXVIII), clean 0.92. The book was published anonymously; the attribution is the library catalogue's and standard bibliographies' (an inference this shelf does not test against the text). US public domain. No uids minted.",
+ "_author": "Peter Browne",
+ "_name_words": [
+  "peter",
+  "browne"
+ ],
+ "_surname": [
+  "browne",
+  "peter browne"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "browne-procedure-extent-limits-1728": [
+   "procedureextentl00browuoft",
+   "The Procedure, Extent, and Limits of Human Understanding (Innys, 1728)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "browne-procedure-extent-limits-1728": {
+   "author": "Peter Browne (published anonymously; attribution from the library catalogue and standard bibliographies)"
+  }
+ },
+ "_checks": {
+  "browne-procedure-extent-limits-1728": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1728",
+   "ia_date": "1728",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

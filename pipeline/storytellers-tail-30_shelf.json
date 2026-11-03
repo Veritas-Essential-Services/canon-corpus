@@ -1,0 +1,528 @@
+{
+ "_about": "Storytellers' tail, group 30: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Robert Scott Fittis, S. J. Adair Fitz-Gerald, Michael Fitzgerald, W. D. Flatt, D. H. Fletcher, Henry Fletcher, Samuel H. Fletcher, Elliott Flower, Lawrence Daniel Fogg, Thomas J. Ford, Fanny Forester, William Bentinck Forfar, A. E. Forrest, Andrew Forrester, Arthur M. Forrester, Forrester, Louise Forsslund, Charles Foster, Maximilian Foster, William Dudley Foulke, Charles Henry Fowler, Mary Fox, Hector France, J. G. Francis, Ulrich Frank, Julia Frankau, Harry W. French, James Strange French, W. A. Frisbie, Richard J. Fulfer. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 30 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "rsfittis-mosstrooper": [
+   "robert scott fittis",
+   "fittis"
+  ],
+  "sjafitzgerald-zankiwank-and-the-bletherwitch": [
+   "s. j. adair fitz-gerald",
+   "shafto justin adair fitz-gerald",
+   "fitz-gerald"
+  ],
+  "mfitzgerald-1812": [
+   "michael fitzgerald",
+   "fitzgerald"
+  ],
+  "wdflatt-making-of-a-man": [
+   "w. d. flatt",
+   "william delos flatt",
+   "flatt"
+  ],
+  "dhfletcher-history-of-company-a-second-illinois-cavalry": [
+   "d. h. fletcher",
+   "fletcher"
+  ],
+  "hfletcher-north-shore-mystery": [
+   "henry fletcher",
+   "fletcher"
+  ],
+  "shfletcher-history-of-company-a-second-illinois-cavalry": [
+   "samuel h. fletcher",
+   "fletcher"
+  ],
+  "eflower-best-policy": [
+   "elliott flower",
+   "flower"
+  ],
+  "ldfogg-asbestos-society-of-sinners": [
+   "lawrence daniel fogg"
+  ],
+  "tjford-with-the-rank-and-file": [
+   "thomas j. ford"
+  ],
+  "fforester-effie-maurice-or-what-do-i-love-best": [
+   "fanny forester",
+   "forester"
+  ],
+  "wbforfar-wizard-of-west-penwith": [
+   "william bentinck forfar",
+   "forfar"
+  ],
+  "aeforrest-silent-guests": [
+   "a. e. forrest",
+   "alfred edgar forrest",
+   "forrest"
+  ],
+  "aforrester-secret-service": [
+   "andrew forrester",
+   "forrester"
+  ],
+  "amforrester-irish-crazy-quilt": [
+   "arthur m. forrester",
+   "forrester"
+  ],
+  "forrester-diana-carew": [
+   "forrester",
+   "forrester"
+  ],
+  "lforsslund-old-lady-number-31": [
+   "louise forsslund",
+   "forsslund"
+  ],
+  "cfoster-new-lights-on-old-paths": [
+   "charles foster",
+   "foster"
+  ],
+  "mfoster-rich-man-poor-man": [
+   "maximilian foster",
+   "foster"
+  ],
+  "wdfoulke-masterpieces-of-the-masters-of-fiction": [
+   "william dudley foulke",
+   "foulke"
+  ],
+  "chfowler-historical-romance-of-the-american-negro": [
+   "charles henry fowler",
+   "fowler"
+  ],
+  "mfox-account-of-an-expedition-to-the-interior-of-new-holland": [
+   "mary fox"
+  ],
+  "hfrance-grip-of-desire": [
+   "hector france",
+   "france"
+  ],
+  "jgfrancis-book-of-cheerful-cats-and-other-animated-animals": [
+   "j. g. francis",
+   "joseph greene francis",
+   "francis"
+  ],
+  "ufrank-simon-eichelkatz": [
+   "ulrich frank",
+   "frank"
+  ],
+  "jfrankau-twilight": [
+   "julia frankau",
+   "frankau"
+  ],
+  "hwfrench-lance-of-kanana": [
+   "harry w. french",
+   "harry willard french"
+  ],
+  "jsfrench-elkswatawa": [
+   "james strange french"
+  ],
+  "wafrisbie-pirate-frog-and-other-tales": [
+   "w. a. frisbie",
+   "william albert frisbie",
+   "frisbie"
+  ],
+  "rjfulfer-history-of-the-trials-and-hardships-of-the-twenty-f": [
+   "richard j. fulfer",
+   "richard johnson fulfer",
+   "fulfer"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "rsfittis-mosstrooper": [
+   41323,
+   "The Mosstrooper: A Legend of the Scottish Border"
+  ],
+  "sjafitzgerald-zankiwank-and-the-bletherwitch": [
+   37111,
+   "The Zankiwank and The Bletherwitch: An Original Fantastic Fairy Extravaganza"
+  ],
+  "mfitzgerald-1812": [
+   69333,
+   "1812: A tale of Cape Cod"
+  ],
+  "wdflatt-making-of-a-man": [
+   68921,
+   "The making of a man"
+  ],
+  "dhfletcher-history-of-company-a-second-illinois-cavalry": [
+   35692,
+   "The History of Company A, Second Illinois Cavalry"
+  ],
+  "hfletcher-north-shore-mystery": [
+   67735,
+   "The North Shore Mystery"
+  ],
+  "shfletcher-history-of-company-a-second-illinois-cavalry": [
+   35692,
+   "The History of Company A, Second Illinois Cavalry"
+  ],
+  "eflower-best-policy": [
+   36393,
+   "The Best Policy"
+  ],
+  "ldfogg-asbestos-society-of-sinners": [
+   67190,
+   "The Asbestos Society of Sinners"
+  ],
+  "tjford-with-the-rank-and-file": [
+   50410,
+   "With the rank and file"
+  ],
+  "fforester-effie-maurice-or-what-do-i-love-best": [
+   17467,
+   "Effie Maurice Or What do I Love Best"
+  ],
+  "wbforfar-wizard-of-west-penwith": [
+   41058,
+   "The Wizard of West Penwith: A Tale of the Land's-End"
+  ],
+  "aeforrest-silent-guests": [
+   78254,
+   "Silent guests"
+  ],
+  "aforrester-secret-service": [
+   46520,
+   "Secret Service; or, Recollections of a City Detective"
+  ],
+  "amforrester-irish-crazy-quilt": [
+   62180,
+   "An Irish Crazy-Quilt: Smiles and tears, woven into song and story"
+  ],
+  "forrester-diana-carew": [
+   79096,
+   "Diana Carew"
+  ],
+  "lforsslund-old-lady-number-31": [
+   10087,
+   "Old Lady Number 31"
+  ],
+  "cfoster-new-lights-on-old-paths": [
+   51062,
+   "New Lights on Old Paths"
+  ],
+  "mfoster-rich-man-poor-man": [
+   46945,
+   "Rich Man, Poor Man"
+  ],
+  "wdfoulke-masterpieces-of-the-masters-of-fiction": [
+   72848,
+   "Masterpieces of the masters of fiction"
+  ],
+  "chfowler-historical-romance-of-the-american-negro": [
+   35189,
+   "Historical Romance of the American Negro"
+  ],
+  "mfox-account-of-an-expedition-to-the-interior-of-new-holland": [
+   69476,
+   "Account of an expedition to the interior of New Holland"
+  ],
+  "hfrance-grip-of-desire": [
+   10963,
+   "The Grip of Desire: The Story of a Parish-Priest"
+  ],
+  "jgfrancis-book-of-cheerful-cats-and-other-animated-animals": [
+   30328,
+   "A Book of Cheerful Cats and Other Animated Animals"
+  ],
+  "ufrank-simon-eichelkatz": [
+   37419,
+   "Simon Eichelkatz; The Patriarch. Two Stories of Jewish Life"
+  ],
+  "jfrankau-twilight": [
+   55276,
+   "Twilight"
+  ],
+  "hwfrench-lance-of-kanana": [
+   39853,
+   "The Lance of Kanana: A Story of Arabia"
+  ],
+  "jsfrench-elkswatawa": [
+   74401,
+   "Elkswatawa"
+  ],
+  "wafrisbie-pirate-frog-and-other-tales": [
+   64360,
+   "The Pirate Frog, and Other Tales"
+  ],
+  "rjfulfer-history-of-the-trials-and-hardships-of-the-twenty-f": [
+   62981,
+   "A history of the trials and hardships of the Twenty-fourth Indiana Volunteer Infantry"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rsfittis-mosstrooper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert scott fittis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjafitzgerald-zankiwank-and-the-bletherwitch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. j. adair fitz-gerald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mfitzgerald-1812": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael fitzgerald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdflatt-making-of-a-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. d. flatt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dhfletcher-history-of-company-a-second-illinois-cavalry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. h. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfletcher-north-shore-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shfletcher-history-of-company-a-second-illinois-cavalry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel h. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eflower-best-policy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elliott flower",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ldfogg-asbestos-society-of-sinners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lawrence daniel fogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tjford-with-the-rank-and-file": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas j. ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fforester-effie-maurice-or-what-do-i-love-best": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny forester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbforfar-wizard-of-west-penwith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william bentinck forfar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeforrest-silent-guests": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. e. forrest",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aforrester-secret-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew forrester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amforrester-irish-crazy-quilt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur m. forrester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "forrester-diana-carew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "forrester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lforsslund-old-lady-number-31": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise forsslund",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfoster-new-lights-on-old-paths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles foster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mfoster-rich-man-poor-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maximilian foster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdfoulke-masterpieces-of-the-masters-of-fiction": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william dudley foulke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chfowler-historical-romance-of-the-american-negro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles henry fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mfox-account-of-an-expedition-to-the-interior-of-new-holland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrance-grip-of-desire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hector france",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgfrancis-book-of-cheerful-cats-and-other-animated-animals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. g. francis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ufrank-simon-eichelkatz": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ulrich frank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfrankau-twilight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia frankau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwfrench-lance-of-kanana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry w. french",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfrench-elkswatawa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james strange french",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wafrisbie-pirate-frog-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. a. frisbie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjfulfer-history-of-the-trials-and-hardships-of-the-twenty-f": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard j. fulfer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

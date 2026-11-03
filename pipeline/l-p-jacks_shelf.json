@@ -1,0 +1,59 @@
+{
+ "_about": "Lawrence Pearsall Jacks (1860-1955), Unitarian philosopher, principal of Manchester College, Oxford, and editor of the Hibbert Journal. Gutenberg: Mad Shepherds and Other Human Studies; All Men are Ghosts; Religious Perplexities. US public domain. No uids minted.",
+ "_author": "L. P. Jacks",
+ "_name_words": [
+  "lawrence",
+  "pearsall",
+  "jacks"
+ ],
+ "_surname": [
+  "l. p. jacks",
+  "jacks"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jacks-mad-shepherds": [
+   31386,
+   "Mad Shepherds, and Other Human Studies"
+  ],
+  "jacks-all-men-are-ghosts": [
+   36518,
+   "All Men are Ghosts"
+  ],
+  "jacks-religious-perplexities": [
+   32578,
+   "Religious Perplexities"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jacks-mad-shepherds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "l. p. jacks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacks-all-men-are-ghosts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "l. p. jacks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacks-religious-perplexities": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "l. p. jacks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

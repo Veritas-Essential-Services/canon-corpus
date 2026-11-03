@@ -1,0 +1,326 @@
+{
+ "_about": "TRANSLATOR SHELF: Ellen E. Frewer (1848-1940): Verne's Dick Sands (1879), Cahun's Captain Mago, Schweinfurth's The Heart of Africa (1873, 2 vols) and Holub's Seven Years in South Africa (1881, 2 vols). US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_name_words": [
+  "ellen e. frewer",
+  "ellen frewer",
+  "frewer"
+ ],
+ "_surname": [
+  "ellen e. frewer",
+  "ellen frewer",
+  "frewer"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fre-47582": [
+   47582,
+   "The adventures of Captain Mago; or, a Phoenician expedition, B.C. 1000"
+  ],
+  "fre-71621": [
+   71621,
+   "The heart of Africa, Vol. 1 (of 2)"
+  ],
+  "fre-71622": [
+   71622,
+   "The heart of Africa, Vol. 2 (of 2)"
+  ],
+  "fre-74281": [
+   74281,
+   "Seven years in South Africa, volume 1 (of 2)"
+  ],
+  "fre-74291": [
+   74291,
+   "Seven years in South Africa, volume 2 (of 2)"
+  ],
+  "fre-9150": [
+   9150,
+   "Dick Sands, the Boy Captain"
+  ]
+ },
+ "internet_archive": {
+  "fre-verne-three-englishmen": [
+   "india.history.resource.84919",
+   "Adventures of Three Englishmen and Three Russians",
+   "84919_djvu.txt"
+  ],
+  "fre-verne-hector-servadac": [
+   "verne-jules-hector-servadac-scribner-armstrong-1878",
+   "Hector Servadac",
+   "Verne, Jules - Hector Servadac (Scribner, Armstrong, 1878)_djvu.txt"
+  ],
+  "fre-verne-tribulations": [
+   "tribulationsach01verngoog",
+   "The Tribulations of a Chinaman"
+  ],
+  "fre-barbou-victor-hugo": [
+   "victorhugohistim00barbiala",
+   "Victor Hugo and His Times"
+  ]
+ },
+ "titles": {
+  "frewer-cahun-the-adventures-of-captain-mago-or-a-phoe": {
+   "source": "fre-47582",
+   "of": "David-Léon Cahun",
+   "work": "The adventures of Captain Mago; or, a Phoenician expedition, B.C. 1000",
+   "translated": "1873-1881 (see the Gutenberg header)",
+   "translator": "Ellen E. Frewer",
+   "scan_edition": "Project Gutenberg 47582 (clean text)"
+  },
+  "frewer-holub-seven-years-in-south-africa-volume-1-of": {
+   "source": "fre-74281",
+   "of": "Emil Holub",
+   "work": "Seven years in South Africa, volume 1 (of 2)",
+   "translated": "1873-1881 (see the Gutenberg header)",
+   "translator": "Ellen E. Frewer",
+   "scan_edition": "Project Gutenberg 74281 (clean text)"
+  },
+  "frewer-holub-seven-years-in-south-africa-volume-2-of": {
+   "source": "fre-74291",
+   "of": "Emil Holub",
+   "work": "Seven years in South Africa, volume 2 (of 2)",
+   "translated": "1873-1881 (see the Gutenberg header)",
+   "translator": "Ellen E. Frewer",
+   "scan_edition": "Project Gutenberg 74291 (clean text)"
+  },
+  "frewer-schweinfurth-the-heart-of-africa-vol-1-of-2": {
+   "source": "fre-71621",
+   "of": "Georg August Schweinfurth",
+   "work": "The heart of Africa, Vol. 1 (of 2)",
+   "translated": "1873-1881 (see the Gutenberg header)",
+   "translator": "Ellen E. Frewer",
+   "scan_edition": "Project Gutenberg 71621 (clean text)"
+  },
+  "frewer-schweinfurth-the-heart-of-africa-vol-2-of-2": {
+   "source": "fre-71622",
+   "of": "Georg August Schweinfurth",
+   "work": "The heart of Africa, Vol. 2 (of 2)",
+   "translated": "1873-1881 (see the Gutenberg header)",
+   "translator": "Ellen E. Frewer",
+   "scan_edition": "Project Gutenberg 71622 (clean text)"
+  },
+  "frewer-verne-dick-sands-the-boy-captain": {
+   "source": "fre-9150",
+   "of": "Jules Verne",
+   "work": "Dick Sands, the Boy Captain",
+   "translated": "1873-1881 (see the Gutenberg header)",
+   "translator": "Ellen E. Frewer",
+   "scan_edition": "Project Gutenberg 9150 (clean text)"
+  },
+  "frewer-verne-adventures-of-three-englishmen-and-three-russians": {
+   "source": "fre-verne-three-englishmen",
+   "of": "Jules Verne",
+   "work": "The Adventures of Three Englishmen and Three Russians in South Africa",
+   "translated": 1876,
+   "translator": "Ellen E. Frewer",
+   "scan_edition": "Sampson Low, London 1876; archive.org scan (Asiatic Society of Mumbai copy)"
+  },
+  "frewer-verne-hector-servadac": {
+   "source": "fre-verne-hector-servadac",
+   "of": "Jules Verne",
+   "work": "Hector Servadac",
+   "translated": 1878,
+   "translator": "Ellen E. Frewer",
+   "scan_edition": "Scribner, Armstrong, New York 1878; archive.org scan"
+  },
+  "frewer-verne-the-tribulations-of-a-chinaman": {
+   "source": "fre-verne-tribulations",
+   "of": "Jules Verne",
+   "work": "The Tribulations of a Chinaman in China",
+   "translated": 1880,
+   "translator": "Ellen E. Frewer",
+   "scan_edition": "Sampson Low, London 1880; archive.org scan (Google)"
+  },
+  "frewer-barbou-victor-hugo-and-his-times": {
+   "source": "fre-barbou-victor-hugo",
+   "of": "Alfred Barbou",
+   "work": "Victor Hugo and His Times",
+   "translated": 1882,
+   "translator": "Ellen E. Frewer",
+   "scan_edition": "Harper and Brothers, New York 1882; archive.org scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fre-47582": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen e. frewer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-71621": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen e. frewer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-71622": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen e. frewer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-74281": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen e. frewer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-74291": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen e. frewer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-9150": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen e. frewer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-verne-three-englishmen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen e. frewer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fre-verne-hector-servadac": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen e. frewer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fre-verne-tribulations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen e. frewer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fre-barbou-victor-hugo": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen e. frewer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "fre-47582": {
+   "pg": 47582,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-71621": {
+   "pg": 71621,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-71622": {
+   "pg": 71622,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-74281": {
+   "pg": 74281,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-74291": {
+   "pg": 74291,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-9150": {
+   "pg": 9150,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen E. Frewer"
+  },
+  "fre-verne-three-englishmen": {
+   "ia": "india.history.resource.84919",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1854,
+    1876
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "2018 is the digitising line (18 July 2018); the imprint is London 1876"
+  },
+  "fre-verne-hector-servadac": {
+   "ia": "verne-jules-hector-servadac-scribner-armstrong-1878",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1876,
+    1878
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fre-verne-tribulations": {
+   "ia": "tribulationsach01verngoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1644,
+    1880
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fre-barbou-victor-hugo": {
+   "ia": "victorhugohistim00barbiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1810,
+    1811,
+    1819,
+    1824,
+    1830,
+    1848,
+    1853,
+    1867,
+    1872,
+    1882
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,414 @@
+{
+ "_about": "F. Hopkinson Smith's novels, stories and travel sketches: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "F. Hopkinson Smith",
+ "_name_words": [
+  "smith"
+ ],
+ "_surname": [
+  "f. hopkinson smith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fhsmith-tom-grogan": [
+   850,
+   "Tom Grogan"
+  ],
+  "fhsmith-fortunes-of-oliver-horn": [
+   3417,
+   "The Fortunes of Oliver Horn"
+  ],
+  "fhsmith-tides-of-barnegat": [
+   4398,
+   "The Tides of Barnegat"
+  ],
+  "fhsmith-peter": [
+   4516,
+   "Peter: A Novel of Which He is Not the Hero"
+  ],
+  "fhsmith-veiled-lady-and-other-men-and-women": [
+   4713,
+   "The Veiled Lady, and Other Men and Women",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhsmith-kennedy-square": [
+   4746,
+   "Kennedy Square"
+  ],
+  "fhsmith-felix-oday": [
+   5229,
+   "Felix O'Day",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "fhsmith-colonel-carter-of-cartersville": [
+   6743,
+   "Colonel Carter of Cartersville"
+  ],
+  "fhsmith-under-dog": [
+   9463,
+   "The Under Dog"
+  ],
+  "fhsmith-a-gentleman-vagabond-and-some-others": [
+   14967,
+   "A Gentleman Vagabond and Some Others",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhsmith-homo-1909": [
+   23694,
+   "Homo 1909"
+  ],
+  "fhsmith-little-gray-lady-1909": [
+   23695,
+   "The Little Gray Lady 1909"
+  ],
+  "fhsmith-a-gentlemans-gentleman-1909": [
+   23696,
+   "A Gentleman's Gentleman 1909"
+  ],
+  "fhsmith-forty-minutes-late-1909": [
+   23697,
+   "Forty Minutes Late 1909"
+  ],
+  "fhsmith-fiddles-1909": [
+   23698,
+   "Fiddles 1909"
+  ],
+  "fhsmith-abijahs-bubble": [
+   23699,
+   "Abijah's Bubble"
+  ],
+  "fhsmith-man-in-the-high-water-boots": [
+   23701,
+   "The Man In The High-Water Boots"
+  ],
+  "fhsmith-a-list-to-starboard-1909": [
+   23702,
+   "A List To Starboard 1909"
+  ],
+  "fhsmith-parthenon-by-way-of-papendrecht": [
+   23703,
+   "The Parthenon By Way Of Papendrecht"
+  ],
+  "fhsmith-outdoor-sketching-four-talks-given-before-the-art-in": [
+   27340,
+   "Outdoor Sketching Four Talks Given before the Art Institute of Chicago; The Scammon Lectures, 1914",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhsmith-colonel-carters-christmas-and-the-romance-of-an-old": [
+   27741,
+   "Colonel Carter's Christmas and The Romance of an Old-Fashioned Gentleman"
+  ],
+  "fhsmith-wood-fire-in-no-3": [
+   34284,
+   "The Wood Fire in No. 3",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhsmith-other-fellow": [
+   37148,
+   "The Other Fellow",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhsmith-arm-chair-at-the-inn": [
+   41284,
+   "The Arm-Chair at the Inn"
+  ],
+  "fhsmith-caleb-west-master-diver": [
+   42362,
+   "Caleb West, Master Diver",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhsmith-at-close-range": [
+   55257,
+   "At Close Range",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhsmith-gondola-days": [
+   71528,
+   "Gondola days"
+  ],
+  "fhsmith-enoch-crane": [
+   73453,
+   "Enoch Crane (completed by F. Berkeley Smith)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-61989": "PG 61989 Some Artists at the Fair: a many-author book."
+ },
+ "_checks": {
+  "fhsmith-tom-grogan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-fortunes-of-oliver-horn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-tides-of-barnegat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-peter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-veiled-lady-and-other-men-and-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-kennedy-square": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-felix-oday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-colonel-carter-of-cartersville": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-under-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-a-gentleman-vagabond-and-some-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-homo-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-little-gray-lady-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-a-gentlemans-gentleman-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-forty-minutes-late-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-fiddles-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-abijahs-bubble": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-man-in-the-high-water-boots": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-a-list-to-starboard-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-parthenon-by-way-of-papendrecht": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-outdoor-sketching-four-talks-given-before-the-art-in": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-colonel-carters-christmas-and-the-romance-of-an-old": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-wood-fire-in-no-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-other-fellow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-arm-chair-at-the-inn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-caleb-west-master-diver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-at-close-range": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-gondola-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhsmith-enoch-crane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. hopkinson smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

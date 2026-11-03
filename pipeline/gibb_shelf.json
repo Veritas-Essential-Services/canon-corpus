@@ -1,0 +1,244 @@
+{
+ "_about": "TRANSLATOR SHELF: E. J. W. Gibb (1857-1901). Ottoman Poems translated into English verse in the original forms (Trübner, 1882) and A History of Ottoman Poetry (Luzac, 1900-07), whose five volumes of history carry his verse translations of the poets; vols II-V were edited after his death by Edward G. Browne. Vol. VI (1909) is the Turkish originals and is left out. Hammer-Purgstall's Turkish anthology is on its own shelf. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 84); Adam may veto. No uids minted.",
+ "_name_words": [
+  "gibb",
+  "e. j. w. gibb",
+  "elias john wilkinson gibb"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Bare 'gibb' would also match H. A. R. Gibb (on broadway-travellers), so _surname carries Gibb's initials.",
+ "_surname": [
+  "e. j. w. gibb",
+  "elias john wilkinson gibb"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gibb-ottoman-poems": [
+   "ottomanpoemstran00gibb",
+   "Ottoman Poems, translated into English verse in the original forms (1882)",
+   "ottomanpoemstran00gibb_djvu.txt"
+  ],
+  "gibb-history-1": [
+   "historyofottoman01gibbuoft",
+   "A History of Ottoman Poetry, vol. I (1900)",
+   "historyofottoman01gibbuoft_djvu.txt"
+  ],
+  "gibb-history-2": [
+   "historyofottoman02gibb",
+   "A History of Ottoman Poetry, vol. II (1902)",
+   "historyofottoman02gibb_djvu.txt"
+  ],
+  "gibb-history-3": [
+   "historyofottoman03gibbuoft",
+   "A History of Ottoman Poetry, vol. III (1904)",
+   "historyofottoman03gibbuoft_djvu.txt"
+  ],
+  "gibb-history-4": [
+   "historyofottoman04gibbuoft",
+   "A History of Ottoman Poetry, vol. IV (1905)",
+   "historyofottoman04gibbuoft_djvu.txt"
+  ],
+  "gibb-history-5": [
+   "historyofottoman05gibbuoft",
+   "A History of Ottoman Poetry, vol. V (1907)",
+   "historyofottoman05gibbuoft_djvu.txt"
+  ]
+ },
+ "titles": {
+  "gibb-ottoman-poems": {
+   "source": "gibb-ottoman-poems",
+   "of": "Ottoman Turkish poets",
+   "work": "Ottoman Poems, translated into English verse in the original forms",
+   "translated": 1882,
+   "translator": "E. J. W. Gibb",
+   "scan_edition": "Trübner & Co., London 1882; archive.org scan"
+  },
+  "gibb-history-1": {
+   "source": "gibb-history-1",
+   "of": "Ottoman Turkish poets",
+   "work": "A History of Ottoman Poetry, vol. I",
+   "translated": 1900,
+   "translator": "E. J. W. Gibb",
+   "scan_edition": "Luzac & Co., London 1900; University of Toronto scan"
+  },
+  "gibb-history-2": {
+   "source": "gibb-history-2",
+   "of": "Ottoman Turkish poets",
+   "work": "A History of Ottoman Poetry, vol. II",
+   "translated": 1902,
+   "translator": "E. J. W. Gibb (edited by Edward G. Browne)",
+   "scan_edition": "Luzac & Co., London 1902, edited by Edward G. Browne; archive.org scan"
+  },
+  "gibb-history-3": {
+   "source": "gibb-history-3",
+   "of": "Ottoman Turkish poets",
+   "work": "A History of Ottoman Poetry, vol. III",
+   "translated": 1904,
+   "translator": "E. J. W. Gibb (edited by Edward G. Browne)",
+   "scan_edition": "Luzac & Co., London 1904, edited by Edward G. Browne; University of Toronto scan"
+  },
+  "gibb-history-4": {
+   "source": "gibb-history-4",
+   "of": "Ottoman Turkish poets",
+   "work": "A History of Ottoman Poetry, vol. IV",
+   "translated": 1905,
+   "translator": "E. J. W. Gibb (edited by Edward G. Browne)",
+   "scan_edition": "Luzac & Co., London 1905, edited by Edward G. Browne; University of Toronto scan"
+  },
+  "gibb-history-5": {
+   "source": "gibb-history-5",
+   "of": "Ottoman Turkish poets",
+   "work": "A History of Ottoman Poetry, vol. V",
+   "translated": 1907,
+   "translator": "E. J. W. Gibb (edited by Edward G. Browne)",
+   "scan_edition": "Luzac & Co., London 1907, edited by Edward G. Browne; University of Toronto scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "gibb-history-6": "Vol. VI of A History of Ottoman Poetry (1909, historyofottoman06gibbuoft) contains the Turkish originals, not translations.",
+  "gibb-ottoman-literature-1901": "Ottoman Literature: the Poets and Poetry of Turkey (M. Walter Dunne, 1901) was not taken: not checked against the Colonial Press Turkish Literature of the same year (Gutenberg 56464, on hammer-purgstall)."
+ },
+ "_identity_checked": {
+  "gibb-ottoman-poems": {
+   "author": "The title page OCR reads 'BY K. I . W. CI I', r,. M . R. A . S' for E. J. W. Gibb, M.R.A.S., under 'OTTOMAN POEMS TRANSLATED INTO ENGLISH VERSE IN THE ORIGINAL FORMS', with a London and Glasgow imprint and an edition of 345 copies. Checked by eye 2026-10-17."
+  }
+ },
+ "_checks": {
+  "gibb-ottoman-poems": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gibb-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. j. w. gibb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900-09",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gibb-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. j. w. gibb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gibb-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. j. w. gibb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900-09",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gibb-history-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. j. w. gibb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900-09",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gibb-history-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. j. w. gibb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900-09",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "gibb-ottoman-poems": {
+   "ia": "ottomanpoemstran00gibb",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1734
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gibb-history-1": {
+   "ia": "historyofottoman01gibbuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1836,
+    1838,
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gibb-history-2": {
+   "ia": "historyofottoman02gibb",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882,
+    1883,
+    1889,
+    1900,
+    1901,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gibb-history-3": {
+   "ia": "historyofottoman03gibbuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1520,
+    1712,
+    1904,
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gibb-history-4": {
+   "ia": "historyofottoman04gibbuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880,
+    1888,
+    1893,
+    1897,
+    1904,
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gibb-history-5": {
+   "ia": "historyofottoman05gibbuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1859,
+    1879,
+    1901,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

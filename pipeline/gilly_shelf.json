@@ -1,0 +1,39 @@
+{
+ "_about": "William Stephen Gilly (1789-1855), Prebendary of Durham, whose books stirred English support for the Waldenses: Waldensian Researches during a Second Visit to the Vaudois of Piemont, with an introductory inquiry into the antiquity and purity of the Waldensian church (London: Rivington, 1831). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "gilly"
+ ],
+ "_surname": [
+  "gilly"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gilly-waldensian-researches-1831": [
+   "waldensianresea00gill",
+   "Waldensian Researches during a Second Visit to the Vaudois of Piemont (London, 1831)"
+  ]
+ },
+ "_alternates": {
+  "waldensianresea01gillgoog": "A Google copy."
+ },
+ "_pending": {
+  "Narrative of an Excursion to the Mountains of Piemont (1824-1827)": "Google and Munich scans only (narrativeanexcu00..03gillgoog, 10469049bsb); not yet title-checked."
+ },
+ "_excluded": {
+  "waldensianreseac0000will": "Lending-library scan."
+ },
+ "_checks": {
+  "gilly-waldensian-researches-1831": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gilly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

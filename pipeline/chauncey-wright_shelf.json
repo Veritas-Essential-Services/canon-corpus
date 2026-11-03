@@ -1,0 +1,33 @@
+{
+ "_about": "Chauncey Wright (1830-1875), raw IA OCR: Philosophical Discussions, with a biographical sketch of the author by Charles Eliot Norton (New York: Henry Holt, 1877). US public domain. No uids minted.",
+ "_author": "Chauncey Wright",
+ "_name_words": [
+  "chauncey",
+  "wright"
+ ],
+ "_surname": [
+  "chauncey wright"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chauncey-wright-philosophical-discussions-1877": [
+   "philosophicaldis00wrig",
+   "Philosophical Discussions, ed. Charles Eliot Norton (New York: Henry Holt, 1877)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "chauncey-wright-philosophical-discussions-1877": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "chauncey wright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

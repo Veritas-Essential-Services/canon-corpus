@@ -1,0 +1,44 @@
+{
+ "_about": "John Adams (1735-1826), American founder and constitutional theorist. Gutenberg: Novanglus, and Massachusettensis (1774-75; with Daniel Leonard); Familiar Letters of John Adams and his Wife Abigail Adams (1876). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "John Adams",
+ "_name_words": [
+  "john",
+  "adams"
+ ],
+ "_surname": [
+  "john adams"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "adams-novanglus": [
+   45205,
+   "Novanglus, and Massachusettensis (1774-75; with Daniel Leonard)"
+  ],
+  "adams-familiar-letters": [
+   34123,
+   "Familiar Letters of John Adams and his Wife Abigail Adams (1876)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "adams-novanglus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adams-familiar-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

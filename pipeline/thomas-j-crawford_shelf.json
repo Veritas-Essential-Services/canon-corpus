@@ -1,0 +1,75 @@
+{
+ "_about": "Thomas Jackson Crawford (1812-1875), professor of divinity at Edinburgh (Church of Scotland): The Doctrine of Holy Scripture respecting the Atonement (Edinburgh: Blackwood, 1871); The Mysteries of Christianity, the Baird Lecture for 1874 (Edinburgh: Blackwood, 1874); The Preaching of the Cross, and other sermons (Edinburgh: Blackwood, 1876). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "thomas j. crawford",
+  "thomas jackson crawford",
+  "t. j. crawford",
+  "professor crawford",
+  "dr crawford",
+  "dr. crawford"
+ ],
+ "_surname": [
+  "thomas j. crawford",
+  "thomas jackson crawford",
+  "t. j. crawford",
+  "professor crawford",
+  "dr crawford",
+  "dr. crawford"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "crawford-atonement-1871": [
+   "doctrineofholysc00craw",
+   "The Doctrine of Holy Scripture respecting the Atonement (Edinburgh: Blackwood, 1871)"
+  ],
+  "crawford-mysteries-1874": [
+   "mysteriesofchris00craw",
+   "The Mysteries of Christianity, the Baird Lecture for 1874 (Edinburgh: Blackwood, 1874)"
+  ],
+  "crawford-preaching-of-cross-1876": [
+   "preachingofcross00craw",
+   "The Preaching of the Cross, and other sermons (Edinburgh: Blackwood, 1876)"
+  ]
+ },
+ "_alternates": {
+  "thedoctrineofhol00crawuoft": "Toronto copy of the Atonement.",
+  "mysterieschrist00/01crawgoog": "Google copies of the Mysteries."
+ },
+ "_excluded": {},
+ "_checks": {
+  "crawford-atonement-1871": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas j. crawford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "crawford-mysteries-1874": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas j. crawford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "crawford-preaching-of-cross-1876": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas j. crawford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

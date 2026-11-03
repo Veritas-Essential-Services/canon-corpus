@@ -1,0 +1,164 @@
+{
+ "_about": "Frances Trego Montgomery's writing at Gutenberg: billy Whiskers stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frances Trego Montgomery",
+ "_name_words": [
+  "frances",
+  "montgomery",
+  "trego"
+ ],
+ "_surname": [
+  "frances trego montgomery",
+  "trego montgomery"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ftmontgomery-billy-whiskers-adventures": [
+   18990,
+   "Billy Whiskers' Adventures"
+  ],
+  "ftmontgomery-billy-whiskers": [
+   19167,
+   "Billy Whiskers: The Autobiography of a Goat"
+  ],
+  "ftmontgomery-zip-the-adventures-of-a-frisky-fox-terrier": [
+   24482,
+   "Zip, the Adventures of a Frisky Fox Terrier"
+  ],
+  "ftmontgomery-billy-whiskers-travels": [
+   43872,
+   "Billy Whiskers' Travels"
+  ],
+  "ftmontgomery-billy-whiskers-at-home": [
+   65433,
+   "Billy Whiskers at Home"
+  ],
+  "ftmontgomery-billy-whiskers-at-the-circus": [
+   65655,
+   "Billy Whiskers at the Circus"
+  ],
+  "ftmontgomery-billy-whiskers-at-the-fair": [
+   65763,
+   "Billy Whiskers at the Fair"
+  ],
+  "ftmontgomery-billy-whiskers-in-france": [
+   65898,
+   "Billy Whiskers in France"
+  ],
+  "ftmontgomery-billy-whiskers-jr": [
+   66006,
+   "Billy Whiskers, Jr."
+  ],
+  "ftmontgomery-billy-whiskers-out-for-fun": [
+   66450,
+   "Billy Whiskers Out for Fun"
+  ],
+  "ftmontgomery-on-a-lark-to-the-planets-a-sequel-to-the-wonder": [
+   69637,
+   "On a lark to the planets A sequel to \"The wonderful electric elephant\""
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ftmontgomery-billy-whiskers-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftmontgomery-billy-whiskers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftmontgomery-zip-the-adventures-of-a-frisky-fox-terrier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftmontgomery-billy-whiskers-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftmontgomery-billy-whiskers-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftmontgomery-billy-whiskers-at-the-circus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftmontgomery-billy-whiskers-at-the-fair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftmontgomery-billy-whiskers-in-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftmontgomery-billy-whiskers-jr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftmontgomery-billy-whiskers-out-for-fun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftmontgomery-on-a-lark-to-the-planets-a-sequel-to-the-wonder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances trego montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

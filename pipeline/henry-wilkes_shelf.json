@@ -1,0 +1,164 @@
+{
+ "_about": "Public-domain Henry Wilkes (1805-1886), Congregational minister of Zion Church, Montreal, and principal of the Congregational College of British North America, for the Word Hoard: Who is Christ? (the 1851 sermon John Cordner answered), Jesus the Divine Messiah, his Zion Church discourses, The Internal Administration of the Churches (1859), a lecture on freedom of mind, a funeral address, and Brief Annals of Zion Church (1871). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 93 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "henry wilkes",
+  "h. wilkes"
+ ],
+ "_surname": [
+  "henry wilkes",
+  "h. wilkes",
+  "wilkes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wilkes-freedom-of-mind": [
+   "cihm_62449",
+   "Lecture on freedom of mind, by the Reverend Henry Wilkes, A.M., and speech of His Excellency the Right Hon. the Earl of Elgin & Kincardine, K. T., &c. : delivered before the Mercantile Library Association of Montreal, at the opening of the winter's course of lectures of that institution, Nov. 16, 1848 ([Montreal? : s.n.], 1848)"
+  ],
+  "wilkes-death-in-city": [
+   "cihm_28957b",
+   "Death in the city : address at the funeral of the late John Easton Mills, Esq., mayor of the city of Montreal, delivered in the American Presbyterian Church, November, 1847 ([Montreal? : s.n.], 1848)"
+  ],
+  "wilkes-who-is-christ": [
+   "whoischristorour00wilk",
+   "Who is Christ? or, Our Lord's teaching concerning his own person, A discourse preached in the Wesleyan Church, Great St. James Street, Montreal, on Christmas Day, 1850 (Montreal : John C. Becket, 1851)"
+  ],
+  "wilkes-divine-messiah": [
+   "cihm_60234",
+   "Jesus, the Divine Messiah : an address to Jews ([Montreal? : s.n.], 1851)"
+  ],
+  "wilkes-knowing-the-time": [
+   "cihm_92337",
+   "\"Knowing the time\" : a discourse on the improvement of time, delivered in Zion Church, on the first Sabbath, (January 2) of 1853 ([Montréal? : s.n.], 1853)"
+  ],
+  "wilkes-christianity-restorer": [
+   "cihm_89959",
+   "Christianity the restorer, or, Man's dominion over the earth, disturbed by sin, restored by Christ : a sermon preached in Zion Church, Montreal, April 17, 1859 ([Montréal? : s.n.], 1859)"
+  ],
+  "wilkes-internal-administration": [
+   "internaladminist00wilk",
+   "The internal administration of the churches; or, Congregational independency viewed from within (Montreal, Lovell, 1859)"
+  ],
+  "wilkes-use-this-world": [
+   "cihm_63957",
+   "How to use this world : a discourse delivered in Zion Church, Montreal, January 16, 1859 ([Montreal? : s.n.], 1859)"
+  ],
+  "wilkes-zion-annals": [
+   "cihm_42749",
+   "Brief annals of Zion Church, Montreal, from 1832 to 10th May, 1871 : with lists of office-bearers and members and reports for 1870 ([Montreal? : s.n.], 1871)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wilkes-other": "Jesuits' Estates in Canada (1850, attribution uncertain)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "wilkes-purity-communion": "cihm_89276: the author line of the title page is lost in the OCR; catalogued under Wilkes; needs a page-image check"
+ },
+ "_translators": {},
+ "_checks": {
+  "wilkes-freedom-of-mind": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wilkes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wilkes-death-in-city": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wilkes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wilkes-who-is-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wilkes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wilkes-divine-messiah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wilkes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wilkes-knowing-the-time": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wilkes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wilkes-christianity-restorer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wilkes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wilkes-internal-administration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wilkes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wilkes-use-this-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wilkes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wilkes-zion-annals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wilkes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain William Symington (1795-1862, Reformed Presbyterian, Glasgow) for the Word Hoard: Messiah the Prince, or The Mediatorial Dominion of Jesus Christ (Nelson, 1881, with a memoir by his sons) and On the Atonement and Intercession of Jesus Christ (2nd ed., Edinburgh, 1834), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "symington",
+  "william"
+ ],
+ "_surname": [
+  "william symington",
+  "w. symington",
+  "symington, william",
+  "william symington, d.d",
+  "rev. william symington"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "symington-messiah-prince-1881": [
+   "messiahtheprince00symiuoft",
+   "Messiah the Prince: or, The Mediatorial Dominion of Jesus Christ, with a memoir (London, Edinburgh and New York: T. Nelson, 1881)"
+  ],
+  "symington-atonement-1834": [
+   "onatonementinter00symi_1",
+   "On the Atonement and Intercession of Jesus Christ, second edition (Edinburgh: William Whyte, MDCCCXXXIV)"
+  ]
+ },
+ "_alternates": {
+  "symington-messiah-1840": "Messiah the Prince, 2nd ed. (Edinburgh: Johnstone, catalogued 1840; IA messiahprinceorm00symi_1): noisy front matter",
+  "symington-atonement-1847": "On the Atonement, 3rd American ed. (New York: Carter, 1847; IA onatonementinter00symi)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "symington-messiah-prince-1881": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william symington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "symington-atonement-1834": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william symington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "_about": "William Wallace (1844-1897), Whyte's Professor of Moral Philosophy at Oxford, Hegel's English translator. Not Alfred Russel Wallace or Edgar Wallace. His own books, raw IA OCR: Epicureanism (London: SPCK, 1880), Life of Arthur Schopenhauer (London: Walter Scott, 1890), Prolegomena to the Study of Hegel's Philosophy and especially of his Logic, 2nd ed. revised (Oxford: Clarendon Press, 1894) and Lectures and Essays on Natural Theology and Ethics, edited with a biographical introduction by Edward Caird (Clarendon Press, 1898). His Kant (1882) is on philosophical-classics-for-english-readers. His translations of Hegel's Logic and Philosophy of Mind are translations and are not repeated here. US public domain. No uids minted.",
+ "_author": "William Wallace",
+ "_name_words": [
+  "william",
+  "wallace"
+ ],
+ "_surname": [
+  "william wallace",
+  "w. wallace"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wallace-epicureanism-1880": [
+   "epicureanism00wall",
+   "Epicureanism (SPCK, 1880)"
+  ],
+  "wallace-life-of-schopenhauer-1890": [
+   "lifeofschopenhau00walluoft",
+   "Life of Arthur Schopenhauer (Walter Scott, 1890)"
+  ],
+  "wallace-prolegomena-hegel-1894": [
+   "prolegomenato00walluoft",
+   "Prolegomena to the Study of Hegel's Philosophy, 2nd ed. (Clarendon Press, 1894)"
+  ],
+  "wallace-lectures-essays-natural-theology-ethics-1898": [
+   "lecturesandessay00walluoft",
+   "Lectures and Essays on Natural Theology and Ethics, ed. Edward Caird (Clarendon Press, 1898)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "wallace-epicureanism-1880": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wallace-life-of-schopenhauer-1890": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wallace-prolegomena-hegel-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wallace-lectures-essays-natural-theology-ethics-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

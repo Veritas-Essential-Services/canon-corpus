@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Arthur Hornblow (1865-1942): D'Annunzio's The Intruder (1898) and The Triumph of Death (1896). US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "arthur hornblow",
+  "hornblow"
+ ],
+ "_surname": [
+  "arthur hornblow",
+  "hornblow"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hor-54236": [
+   54236,
+   "The Intruder"
+  ],
+  "hor-54272": [
+   54272,
+   "The Triumph of Death"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "hornblow-d-annunzio-the-intruder": {
+   "source": "hor-54236",
+   "of": "Gabriele D'Annunzio",
+   "work": "The Intruder",
+   "translated": "1896-1898 (see the Gutenberg header)",
+   "translator": "Arthur Hornblow",
+   "scan_edition": "Project Gutenberg 54236 (clean text)"
+  },
+  "hornblow-d-annunzio-the-triumph-of-death": {
+   "source": "hor-54272",
+   "of": "Gabriele D'Annunzio",
+   "work": "The Triumph of Death",
+   "translated": "1896-1898 (see the Gutenberg header)",
+   "translator": "Arthur Hornblow",
+   "scan_edition": "Project Gutenberg 54272 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hor-54236": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur hornblow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Hornblow"
+  },
+  "hor-54272": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur hornblow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Hornblow"
+  }
+ },
+ "_verified": {
+  "hor-54236": {
+   "pg": 54236,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Hornblow"
+  },
+  "hor-54272": {
+   "pg": 54272,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Hornblow"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

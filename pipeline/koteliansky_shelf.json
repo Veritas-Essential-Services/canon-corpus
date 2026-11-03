@@ -1,0 +1,492 @@
+{
+ "_about": "TRANSLATOR SHELF: S. S. Koteliansky (1880-1955), Russian into English with his Bloomsbury collaborators: Leonard and Virginia Woolf, D. H. Lawrence, John Middleton Murry. Chekhov, Gorky's Reminiscences, Bunin, Kuprin, Shestov, Countess Tolstoy. All published 1915-1923: US public domain. UK: Koteliansky d. 1955, so PD there only since 2026; Murry (d. 1957) co-translated The Bet, The River of Life and Anton Tchekhov and Other Essays, which are UK PD only from 2028. Added 2026-10-10 by lane C (round 17); Adam may veto. No uids minted. Round 130 (2026-10-23, vetoable) added five archive.org books: Dostoevsky's Pages from the Journal of an Author (with Murry; Luce, 1916), Chekhov's My Life and Other Stories (with Gilbert Cannan, 1920), Hippius's The Green Ring (1920), Dostoevsky: Letters and Reminiscences (with Murry, 1923) and Dostoevsky Portrayed by His Wife (1926).",
+ "_name_words": [
+  "s. s. koteliansky",
+  "s. koteliansky",
+  "koteliansky"
+ ],
+ "_surname": [
+  "s. s. koteliansky",
+  "s. koteliansky",
+  "koteliansky"
+ ],
+ "_surname_note": "'koteliansky' is a unique surname, not an English word.",
+ "ccel": {},
+ "gutenberg": {
+  "kot-12494": [
+   12494,
+   "Note-Book of Anton Chekhov"
+  ],
+  "kot-37129": [
+   37129,
+   "Reminiscences of Anton Chekhov"
+  ],
+  "kot-55284": [
+   55284,
+   "Reminiscences of Leo Nicolayevitch Tolstoi"
+  ],
+  "kot-38027": [
+   38027,
+   "Autobiography of Countess Tolstoy"
+  ],
+  "kot-44998": [
+   44998,
+   "The Gentleman from San Francisco and Other Stories"
+  ],
+  "kot-55283": [
+   55283,
+   "The Bet, and Other Stories"
+  ],
+  "kot-58406": [
+   58406,
+   "The River of Life, and Other Stories"
+  ],
+  "kot-56758": [
+   56758,
+   "Anton Tchekhov, and Other Essays"
+  ],
+  "kot-57369": [
+   57369,
+   "All Things are Possible"
+  ],
+  "kot-65159": [
+   65159,
+   "Talks with Tolstoi"
+  ],
+  "kot-57050": [
+   57050,
+   "Stavrogin's Confession and The Plan of The Life of a Great Sinner"
+  ]
+ },
+ "internet_archive": {
+  "kot-dostoevsky-pages-from-journal": [
+   "pagesfromjourna00murrgoog",
+   "Pages from the Journal of an Author"
+  ],
+  "kot-chekhov-my-life": [
+   "mylifeotherstori00chekuoft",
+   "My Life and Other Stories"
+  ],
+  "kot-hippius-green-ring": [
+   "greenringplayinf00gippuoft",
+   "The Green Ring"
+  ],
+  "kot-dostoevsky-letters-reminiscences": [
+   "dostoevskyletter00dostuoft",
+   "Dostoevsky: Letters and Reminiscences"
+  ],
+  "kot-dostoevsky-portrayed-by-his-wife": [
+   "dostoevskyportra0000ssko",
+   "Dostoevsky Portrayed by His Wife"
+  ]
+ },
+ "titles": {
+  "koteliansky-bunin-gentleman-from-san-francisco": {
+   "source": "kot-44998",
+   "of": "Bunin",
+   "work": "The Gentleman from San Francisco and Other Stories",
+   "translated": 1922,
+   "translator": "S. S. Koteliansky and Leonard Woolf; the title story by D. H. Lawrence and S. S. Koteliansky (the book's own erratum note)",
+   "scan_edition": "Project Gutenberg 44998 (clean text)"
+  },
+  "koteliansky-chekhov-note-book": {
+   "source": "kot-12494",
+   "of": "Chekhov",
+   "work": "Note-Book of Anton Chekhov",
+   "translated": 1921,
+   "translator": "S. S. Koteliansky and Leonard Woolf",
+   "scan_edition": "Project Gutenberg 12494 (clean text)"
+  },
+  "koteliansky-chekhov-the-bet": {
+   "source": "kot-55283",
+   "of": "Chekhov",
+   "work": "The Bet, and Other Stories",
+   "translated": 1915,
+   "translator": "S. S. Koteliansky and J. M. Murry",
+   "scan_edition": "Project Gutenberg 55283 (clean text)"
+  },
+  "koteliansky-countess-tolstoy-autobiography": {
+   "source": "kot-38027",
+   "of": "S. A. Tolstaya",
+   "work": "Autobiography of Countess Tolstoy",
+   "translated": 1922,
+   "translator": "S. S. Koteliansky and Leonard Woolf",
+   "scan_edition": "Project Gutenberg 38027 (clean text)"
+  },
+  "koteliansky-dostoevsky-stavrogins-confession": {
+   "source": "kot-57050",
+   "of": "Fyodor Dostoevsky",
+   "work": "Stavrogin's Confession and The Plan of The Life of a Great Sinner",
+   "translated": "1922",
+   "translator": "S. S. Koteliansky and Virginia Woolf",
+   "scan_edition": "Project Gutenberg 57050 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto"
+  },
+  "koteliansky-goldenweizer-talks-with-tolstoi": {
+   "source": "kot-65159",
+   "of": "A. B. Goldenweizer",
+   "work": "Talks with Tolstoi",
+   "translated": 1923,
+   "translator": "S. S. Koteliansky and Virginia Woolf",
+   "scan_edition": "Project Gutenberg 65159 (clean text)"
+  },
+  "koteliansky-gorky-reminiscences-of-chekhov": {
+   "source": "kot-37129",
+   "of": "Gorky",
+   "work": "Reminiscences of Anton Chekhov",
+   "translated": 1921,
+   "translator": "S. S. Koteliansky and Leonard Woolf",
+   "scan_edition": "Project Gutenberg 37129 (clean text)"
+  },
+  "koteliansky-gorky-reminiscences-of-tolstoy": {
+   "source": "kot-55284",
+   "of": "Gorky",
+   "work": "Reminiscences of Leo Nicolayevitch Tolstoi",
+   "translated": 1920,
+   "translator": "S. S. Koteliansky and Leonard Woolf",
+   "scan_edition": "Project Gutenberg 55284 (clean text)"
+  },
+  "koteliansky-kuprin-river-of-life": {
+   "source": "kot-58406",
+   "of": "Kuprin",
+   "work": "The River of Life, and Other Stories",
+   "translated": 1916,
+   "translator": "S. S. Koteliansky and J. M. Murry",
+   "scan_edition": "Project Gutenberg 58406 (clean text)"
+  },
+  "koteliansky-shestov-all-things-are-possible": {
+   "source": "kot-57369",
+   "of": "Shestov",
+   "work": "All Things are Possible",
+   "translated": 1920,
+   "translator": "S. S. Koteliansky (foreword by D. H. Lawrence)",
+   "scan_edition": "Project Gutenberg 57369 (clean text)"
+  },
+  "koteliansky-shestov-anton-tchekhov": {
+   "source": "kot-56758",
+   "of": "Shestov",
+   "work": "Anton Tchekhov, and Other Essays",
+   "translated": 1916,
+   "translator": "S. S. Koteliansky and J. M. Murry",
+   "scan_edition": "Project Gutenberg 56758 (clean text)"
+  },
+  "koteliansky-dostoevsky-pages-from-the-journal-of-an-author": {
+   "source": "kot-dostoevsky-pages-from-journal",
+   "of": "Fyodor Dostoevsky",
+   "work": "Pages from the Journal of an Author",
+   "translated": 1916,
+   "translator": "S. S. Koteliansky and J. Middleton Murry",
+   "scan_edition": "John W. Luce, Boston 1916; archive.org scan (Google copy)"
+  },
+  "koteliansky-chekhov-my-life-and-other-stories": {
+   "source": "kot-chekhov-my-life",
+   "of": "Anton Chekhov",
+   "work": "My Life and Other Stories",
+   "translated": 1920,
+   "translator": "S. S. Koteliansky and Gilbert Cannan",
+   "scan_edition": "C. W. Daniel, London 1920 (the OCR reads the year as \"L020\"); archive.org scan (Toronto copy)"
+  },
+  "koteliansky-hippius-the-green-ring": {
+   "source": "kot-hippius-green-ring",
+   "of": "Zinaida Hippius",
+   "work": "The Green Ring: A Play in Four Acts",
+   "translated": 1920,
+   "translator": "S. S. Koteliansky",
+   "scan_edition": "C. W. Daniel, London 1920; archive.org scan (Toronto copy)"
+  },
+  "koteliansky-dostoevsky-letters-and-reminiscences": {
+   "source": "kot-dostoevsky-letters-reminiscences",
+   "of": "Fyodor Dostoevsky and others",
+   "work": "Dostoevsky: Letters and Reminiscences",
+   "translated": 1923,
+   "translator": "S. S. Koteliansky and J. Middleton Murry",
+   "scan_edition": "Chatto & Windus, London 1923; archive.org scan (Toronto copy)"
+  },
+  "koteliansky-dostoevskaya-dostoevsky-portrayed-by-his-wife": {
+   "source": "kot-dostoevsky-portrayed-by-his-wife",
+   "of": "Anna Grigorievna Dostoevskaya",
+   "work": "Dostoevsky Portrayed by His Wife: The Diary and Reminiscences of Mme. Dostoevsky",
+   "translated": 1926,
+   "translator": "S. S. Koteliansky",
+   "scan_edition": "George Routledge & Sons, London 1926; archive.org scan"
+  }
+ },
+ "_pending": {
+  "ia-life-and-letters-of-tchekhov": "The Life and Letters of Anton Tchekhov (with Philip Tomlinson; Cassell, first published 1925; bwb_W1-BZN-178): the scan's imprint and date leaf are illegible, so it is an undated printing for now."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "kot-12494": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Leonard Woolf"
+  },
+  "kot-37129": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Leonard Woolf"
+  },
+  "kot-55284": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Leonard Woolf"
+  },
+  "kot-38027": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Leonard Woolf"
+  },
+  "kot-44998": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; D. H. Lawrence; Leonard Woolf"
+  },
+  "kot-55283": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; John Middleton Murry"
+  },
+  "kot-58406": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; John Middleton Murry"
+  },
+  "kot-56758": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; John Middleton Murry"
+  },
+  "kot-57369": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-65159": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Virginia Woolf"
+  },
+  "kot-57050": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Virginia Woolf"
+  },
+  "kot-dostoevsky-pages-from-journal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. koteliansky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kot-chekhov-my-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kot-hippius-green-ring": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kot-dostoevsky-letters-reminiscences": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kot-dostoevsky-portrayed-by-his-wife": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "kot-12494": {
+   "pg": 12494,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-37129": {
+   "pg": 37129,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-55284": {
+   "pg": 55284,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-38027": {
+   "pg": 38027,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-44998": {
+   "pg": 44998,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-55283": {
+   "pg": 55283,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-58406": {
+   "pg": 58406,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-56758": {
+   "pg": 56758,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-57369": {
+   "pg": 57369,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-65159": {
+   "pg": 65159,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-57050": {
+   "pg": 57050,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-dostoevsky-pages-from-journal": {
+   "ia": "pagesfromjourna00murrgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "kot-chekhov-my-life": {
+   "ia": "mylifeotherstori00chekuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "no legible arabic year in the front matter; the imprint year reads L020 in the OCR (1920)"
+  },
+  "kot-hippius-green-ring": {
+   "ia": "greenringplayinf00gippuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1867,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "kot-dostoevsky-letters-reminiscences": {
+   "ia": "dostoevskyletter00dostuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1849,
+    1881,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "kot-dostoevsky-portrayed-by-his-wife": {
+   "ia": "dostoevskyportra0000ssko",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1857,
+    1864,
+    1866,
+    1867,
+    1881,
+    1894,
+    1897,
+    1909,
+    1912,
+    1917,
+    1922,
+    1923,
+    1925,
+    1926
+   ],
+   "post_1930_years_in_front_15k": [
+    2015
+   ],
+   "post_1930_examined": "7 MAR 2015 is a library date stamp"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

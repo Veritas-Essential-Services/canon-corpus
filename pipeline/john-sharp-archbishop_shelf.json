@@ -1,0 +1,101 @@
+{
+ "_about": "Public-domain John Sharp (1645-1714), Archbishop of York, for the Word Hoard: his Theological Works (Oxford: University Press, 1829, five volumes: sermons and the discourses on conscience), from Internet Archive scans. Added 2026-10-23 by lane A, round 43 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sharp"
+ ],
+ "_surname": [
+  "john sharp"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sharp-works-1": [
+   "theologicalworks01shar",
+   "The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 1 (Oxford : At the University Press, 1829)"
+  ],
+  "sharp-works-2": [
+   "theologicalworks02shar",
+   "The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 2 (Oxford : At the University Press, 1829)"
+  ],
+  "sharp-works-3": [
+   "theologicalworks03shar",
+   "The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 3 (Oxford : At the University Press, 1829)"
+  ],
+  "sharp-works-4": [
+   "theologicalworks04shar",
+   "The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 4 (Oxford : At the University Press, 1829)"
+  ],
+  "sharp-works-5": [
+   "theologicalworks05shar",
+   "The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 5 (Oxford : At the University Press, 1829)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "sharp-life": "The Life of John Sharp by his son Thomas Sharp (1825): another man's book"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "sharp-works-2": "title page text: 'The Theological Works of the Most Reverend John Sharp, D.D. late Archbishop of York. A new edition, in five volumes. Vol. II. Oxford, at the University Press. MDCCCXXIX' (the OCR puts a stray mark before the surname)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "sharp-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john sharp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sharp-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sharp-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john sharp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sharp-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john sharp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sharp-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john sharp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

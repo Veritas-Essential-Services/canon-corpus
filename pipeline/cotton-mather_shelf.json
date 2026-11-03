@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain Cotton Mather (1663-1728, minister of the Second Church, Boston) for the Word Hoard: the Magnalia Christi Americana (Hartford: Silas Andrus and Son, 2 vols, copyright 1852; these copies printed 1868 and 1858) and Essays to Do Good, his Bonifacius (Boston, 1808), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "m/mather",
+ "_name_words": [
+  "mather",
+  "cotton"
+ ],
+ "_surname": [
+  "cotton mather",
+  "c. mather",
+  "cottonus matherus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cmather-magnalia-1": [
+   "magnaliachristi01robbgoog",
+   "Magnalia Christi Americana, vol. 1 (Hartford: Silas Andrus and Son; this copy printed 1868, copyright entered 1852)"
+  ],
+  "cmather-magnalia-2": [
+   "magnaliachristi00robbgoog",
+   "Magnalia Christi Americana, vol. 2 (Hartford: Silas Andrus and Son; this copy printed 1858, copyright entered 1852)"
+  ],
+  "cmather-essays-to-do-good-1808": [
+   "essaystodogood01math",
+   "Essays to Do Good, Addressed to All Christians (Boston, 1808)"
+  ]
+ },
+ "_alternates": {
+  "cmather-magnalia": "other scans of the 1853 Andrus set (magnaliachristi03robbgoog, magnaliachristi04robbgoog; Claremont magnaliachristia0001math_n0j8); the Hartford 1820 printing (microfilm)",
+  "cmather-essays": "Glasgow 1825 (essaystodogo00math) and later printings"
+ },
+ "_excluded": {
+  "cmather-wonders": "PG 28513, The Wonders of the Invisible World: the file bundles Increase Mather's Cases of Conscience with it, two authors in one text; and it is his defence of the Salem witch trials, which Adam may not want on the shelf at all. Left for his call."
+ },
+ "_checks": {
+  "cmather-magnalia-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cotton mather",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cmather-magnalia-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cotton mather",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cmather-essays-to-do-good-1808": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cotton mather",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

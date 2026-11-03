@@ -1,0 +1,47 @@
+{
+ "_about": "Jennie Hall's Viking Tales (1902), the saga of Harald Fairhair retold for children. Her Buried Cities is history and is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Jennie Hall",
+ "_name_words": [
+  "hall"
+ ],
+ "_surname": [
+  "jennie hall"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jhall-viking-tales": [
+   24811,
+   "Viking Tales",
+   {
+    "levels": [
+     {
+      "re": "_PART I+_$|(?i:[\\W_]*(?:What[\\W_]*the[\\W_]*Sagas[\\W_]*Were|Suggestions[\\W_]*to[\\W_]*Teachers|A[\\W_]*Pronouncing[\\W_]*Index|A[\\W_]*Reading[\\W_]*List|Descriptive[\\W_]*Notes)[\\W_]*)$",
+      "title_next": false
+     },
+     {
+      "re": "(?i:[\\W_]*(?:King[\\W_]*Harald[\\W_]*Goes[\\W_]*West[\\W_]*Over[\\W_]*Seas|Olaf[\\W_]*s[\\W_]*Fight[\\W_]*with[\\W_]*Havard|Leif[\\W_]*and[\\W_]*His[\\W_]*New[\\W_]*Land|King[\\W_]*Harald[\\W_]*s[\\W_]*Wedding|Gyda[\\W_]*s[\\W_]*Saucy[\\W_]*Message|Wineland[\\W_]*the[\\W_]*Good|The[\\W_]*Tooth[\\W_]*Thrall|Homes[\\W_]*in[\\W_]*Iceland|Harald[\\W_]*s[\\W_]*Battle|Harald[\\W_]*is[\\W_]*King|The[\\W_]*Sea[\\W_]*Fight|Eric[\\W_]*the[\\W_]*Red|Olaf[\\W_]*s[\\W_]*Farm|Foes[\\W_]*fear|The[\\W_]*Baby)[\\W_]*)$"
+     },
+     {
+      "re": "FOOTNOTES:$",
+      "strip": ":$"
+     }
+    ],
+    "start": "What _the_ Sagas Were$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jhall-viking-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jennie hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

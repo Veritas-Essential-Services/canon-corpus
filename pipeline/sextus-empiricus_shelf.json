@@ -1,0 +1,37 @@
+{
+ "_about": "Sextus Empiricus in English: Mary Mills Patrick, Sextus Empiricus and Greek Scepticism (1899), which includes her translation of the first book of the Pyrrhonic Sketches, clean Gutenberg. No complete PD English Sextus exists; Bury's Loeb began in 1933.",
+ "_name_words": [
+  "sextus",
+  "empiricus",
+  "scepticism"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sextus-empiricus-patrick": [
+   17556,
+   "Sextus Empiricus and Greek Scepticism",
+   "Mary Mills Patrick (study, with tr. of Pyrrhonic Sketches I)"
+  ]
+ },
+ "internet_archive": {},
+ "_surname": [
+  "sextus",
+  "empiricus"
+ ],
+ "_translators": {
+  "sextus-empiricus-patrick": "mary mills patrick"
+ },
+ "_checks": {
+  "sextus-empiricus-patrick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sextus",
+   "translator_claimed": "mary mills patrick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

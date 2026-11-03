@@ -1,0 +1,71 @@
+{
+ "_about": "Geerhardus Vos (1862-1949), professor of Biblical theology at Princeton: The Teaching of Jesus concerning the Kingdom of God and the Church (New York: American Tract Society, 1903); Grace and Glory, sermons preached in the chapel of Princeton Seminary (Grand Rapids: Reformed Press, 1922); The Self-Disclosure of Jesus (New York: Doran, 1926). All are US publications before 1930, so public domain in the US. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "vos"
+ ],
+ "_surname": [
+  "vos"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vos-teaching-of-jesus-1903": [
+   "teachingofjesusc02vosg",
+   "The Teaching of Jesus concerning the Kingdom of God and the Church (New York: American Tract Society, 1903)"
+  ],
+  "vos-grace-and-glory-1922": [
+   "graceglorysermonsp00vosg",
+   "Grace and Glory: sermons preached in the chapel of Princeton Theological Seminary (Grand Rapids, 1922)"
+  ],
+  "vos-self-disclosure-1926": [
+   "selfdisclosureof00vosg_0",
+   "The Self-Disclosure of Jesus (New York: Doran, 1926)"
+  ]
+ },
+ "_alternates": {
+  "theteachingofjes00vosuoft, bwb_S0-AUM-140": "Other copies of the Teaching of Jesus.",
+  "graceglorysermon00vosg (Princeton; IA returned HTTP 500 for its text on 2026-10-03), graceglory0000jenn": "Other copies of Grace and Glory.",
+  "selfdisclosureof0000geer*": "Other scans of the Self-Disclosure.",
+  "syllabusoflectur00vosg (1895), inaugurationofrevge00prin (1894)": "A lecture syllabus and his inaugural; not yet title-checked."
+ },
+ "_pending": {
+  "paulineeschatolo00vosg (The Pauline Eschatology, Princeton, 1930)": "Published 1930: public domain in the US since 1 January 2026, but this shelf follows the house's before-1930 line; Adam's call.",
+  "Dogmatiek (Grand Rapids, 1896-1910, Dutch; dogmatiek01-05vosg)": "Dutch-language; a Dutch shelf is its own decision."
+ },
+ "_excluded": {},
+ "_checks": {
+  "vos-teaching-of-jesus-1903": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vos-grace-and-glory-1922": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vos-self-disclosure-1926": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

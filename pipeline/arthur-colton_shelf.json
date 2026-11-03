@@ -1,0 +1,112 @@
+{
+ "_about": "Arthur Colton: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Arthur Colton",
+ "_name_words": [
+  "arthur",
+  "colton"
+ ],
+ "_surname": [
+  "arthur colton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "acolton-belted-seas": [
+   6862,
+   "The Belted Seas"
+  ],
+  "acolton-the-debatable-land": [
+   41963,
+   "\"The Debatable Land\": A Novel"
+  ],
+  "acolton-port-argent": [
+   50269,
+   "Port Argent: A Novel"
+  ],
+  "acolton-delectable-mountains": [
+   50270,
+   "The Delectable Mountains"
+  ],
+  "acolton-tioba-and-other-tales": [
+   50271,
+   "Tioba, and Other Tales"
+  ],
+  "acolton-cruise-of-the-violetta": [
+   50272,
+   "The Cruise of The Violetta"
+  ],
+  "acolton-harps-hung-up-in-babylon": [
+   52456,
+   "Harps Hung up in Babylon"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57478": "PG 57478: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "acolton-belted-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur colton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acolton-the-debatable-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur colton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acolton-port-argent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur colton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acolton-delectable-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur colton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acolton-tioba-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur colton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acolton-cruise-of-the-violetta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur colton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acolton-harps-hung-up-in-babylon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur colton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

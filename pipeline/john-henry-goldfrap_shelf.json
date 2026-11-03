@@ -1,0 +1,716 @@
+{
+ "_about": "John Henry Goldfrap's boys' and girls' series (Boy Aviators, Bungalow Boys, Motor Rangers)",
+ "_author": "John Henry Goldfrap",
+ "_name_words": [
+  "goldfrap"
+ ],
+ "_surname": [
+  "john henry goldfrap"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jhgoldfrap-boy-aviators-treasure-quest": [
+   6149,
+   "The Boy Aviators' Treasure Quest; Or, The Golden Galleon"
+  ],
+  "jhgoldfrap-boy-aviators-in-africa": [
+   6905,
+   "The Boy Aviators in Africa; Or, an Aerial Ivory Trail",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-aviators-polar-dash": [
+   6973,
+   "The Boy Aviators' Polar Dash; or, Facing Death in the Antarctic",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-scouts-of-the-eagle-patrol": [
+   12112,
+   "The Boy Scouts of the Eagle Patrol",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-border-boys-across-the-frontier": [
+   19083,
+   "The Border Boys Across the Frontier",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-ocean-wireless-boys-and-the-naval-code": [
+   26778,
+   "The Ocean Wireless Boys and the Naval Code",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-scouts-on-belgian-battlefields": [
+   29991,
+   "The Boy Scouts on Belgian Battlefields",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-scouts-for-uncle-sam": [
+   32460,
+   "The Boy Scouts for Uncle Sam",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-scouts-on-the-range": [
+   35071,
+   "The Boy Scouts on the Range",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-scouts-under-fire-in-mexico": [
+   36000,
+   "The Boy Scouts Under Fire in Mexico",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-aviators-flight-for-a-fortune": [
+   37175,
+   "The Boy Aviators' Flight for a Fortune",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-bungalow-boys-along-the-yukon": [
+   39643,
+   "The Bungalow Boys Along the Yukon",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-ocean-wireless-boys-and-the-lost-liner": [
+   41265,
+   "The Ocean Wireless Boys and the Lost Liner"
+  ],
+  "jhgoldfrap-boy-scouts-at-the-panama-canal": [
+   42077,
+   "The Boy Scouts at the Panama Canal",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-scouts-at-the-panama-pacific-exposition": [
+   42086,
+   "The Boy Scouts at the Panama-Pacific Exposition",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-scouts-mountain-camp": [
+   42102,
+   "The Boy Scouts' Mountain Camp",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-motor-rangers-through-the-sierras": [
+   43917,
+   "The Motor Rangers Through the Sierras",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-bungalow-boys-north-of-fifty-three": [
+   44317,
+   "The Bungalow Boys North of Fifty-Three",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-ocean-wireless-boys-on-the-pacific": [
+   44503,
+   "The Ocean Wireless Boys on the Pacific",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-aviators-in-record-flight": [
+   45182,
+   "The Boy Aviators in Record Flight; Or, The Rival Aeroplane"
+  ],
+  "jhgoldfrap-bungalow-boys-in-the-great-northwest": [
+   45262,
+   "The Bungalow Boys in the Great Northwest"
+  ],
+  "jhgoldfrap-boy-aviators-with-the-air-raiders": [
+   45727,
+   "The Boy Aviators with the Air Raiders: A Story of the Great World War",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-ocean-wireless-boys-on-war-swept-seas": [
+   45841,
+   "The Ocean Wireless Boys on War Swept Seas"
+  ],
+  "jhgoldfrap-boy-aviators-on-secret-service": [
+   45991,
+   "The Boy Aviators on Secret Service; Or, Working with Wireless",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-dreadnought-boys-on-battle-practice": [
+   47776,
+   "The Dreadnought Boys on Battle Practice",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-motor-rangers-cloud-cruiser": [
+   48270,
+   "The Motor Rangers' Cloud Cruiser",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-border-boys-on-the-trail": [
+   48680,
+   "The Border Boys on the Trail",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-ocean-wireless-boys-on-the-atlantic": [
+   48955,
+   "The Ocean Wireless Boys on the Atlantic",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-border-boys-with-the-texas-rangers": [
+   49002,
+   "The Border Boys with the Texas Rangers",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-aviators-in-nicaragua": [
+   49734,
+   "The Boy Aviators in Nicaragua; or, In League with the Insurgents",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-motor-rangers-wireless-station": [
+   50260,
+   "The Motor Rangers' Wireless Station",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-scouts-at-the-canadian-border": [
+   50602,
+   "The Boy Scouts at the Canadian Border",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-border-boys-along-the-st-lawrence": [
+   51600,
+   "The Border Boys Along the St. Lawrence",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-dreadnought-boys-on-aero-service": [
+   52637,
+   "The Dreadnought Boys on Aero Service",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-border-boys-in-the-canadian-rockies": [
+   52810,
+   "The Border Boys in the Canadian Rockies",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-border-boys-with-the-mexican-rangers": [
+   52832,
+   "The Border Boys with the Mexican Rangers",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-dreadnought-boys-in-home-waters": [
+   54496,
+   "The Dreadnought Boys in Home Waters",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-dreadnought-boys-aboard-a-destroyer": [
+   57396,
+   "The Dreadnought Boys Aboard a Destroyer"
+  ],
+  "jhgoldfrap-dreadnought-boys-on-a-submarine": [
+   58013,
+   "The Dreadnought Boys on a Submarine",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-dreadnought-boys-world-cruise": [
+   59986,
+   "The Dreadnought Boys' World Cruise",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-scouts-and-the-army-airship": [
+   62792,
+   "The Boy Scouts and the Army Airship",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-bungalow-boys-on-the-great-lakes": [
+   67898,
+   "The Bungalow Boys on the Great Lakes",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-motor-rangers-on-blue-water": [
+   67899,
+   "The Motor Rangers on Blue Water; or, The Secret of the Derelict",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-boy-scouts-badge-of-courage": [
+   68508,
+   "The Boy Scouts' badge of courage",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhgoldfrap-ocean-wireless-boys-of-the-iceberg-patrol": [
+   69517,
+   "The ocean wireless boys of the iceberg patrol"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jhgoldfrap-boy-aviators-treasure-quest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-aviators-in-africa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-aviators-polar-dash": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-of-the-eagle-patrol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-border-boys-across-the-frontier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-ocean-wireless-boys-and-the-naval-code": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-on-belgian-battlefields": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-for-uncle-sam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-on-the-range": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-under-fire-in-mexico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-aviators-flight-for-a-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-bungalow-boys-along-the-yukon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-ocean-wireless-boys-and-the-lost-liner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-at-the-panama-canal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-at-the-panama-pacific-exposition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-mountain-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-motor-rangers-through-the-sierras": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-bungalow-boys-north-of-fifty-three": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-ocean-wireless-boys-on-the-pacific": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-aviators-in-record-flight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-bungalow-boys-in-the-great-northwest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-aviators-with-the-air-raiders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-ocean-wireless-boys-on-war-swept-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-aviators-on-secret-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-dreadnought-boys-on-battle-practice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-motor-rangers-cloud-cruiser": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-border-boys-on-the-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-ocean-wireless-boys-on-the-atlantic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-border-boys-with-the-texas-rangers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-aviators-in-nicaragua": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-motor-rangers-wireless-station": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-at-the-canadian-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-border-boys-along-the-st-lawrence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-dreadnought-boys-on-aero-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-border-boys-in-the-canadian-rockies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-border-boys-with-the-mexican-rangers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-dreadnought-boys-in-home-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-dreadnought-boys-aboard-a-destroyer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-dreadnought-boys-on-a-submarine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-dreadnought-boys-world-cruise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-and-the-army-airship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-bungalow-boys-on-the-great-lakes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-motor-rangers-on-blue-water": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-boy-scouts-badge-of-courage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhgoldfrap-ocean-wireless-boys-of-the-iceberg-patrol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry goldfrap",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

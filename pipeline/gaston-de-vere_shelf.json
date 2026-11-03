@@ -1,0 +1,286 @@
+{
+ "_about": "TRANSLATOR SHELF: Gaston du C. de Vere (1882?-1955): the complete Vasari, Lives of the Most Eminent Painters, Sculptors and Architects, 10 vols (Medici Society/Macmillan, 1912-1915). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "gaston du c. de vere",
+  "gaston de vere"
+ ],
+ "_surname": [
+  "gaston du c. de vere",
+  "gaston de vere"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dvr-25326": [
+   25326,
+   "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 01 (of 10) Cimabue to Agnolo Gaddi"
+  ],
+  "dvr-25759": [
+   25759,
+   "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 02 (of 10) Berna to Michelozzo Michelozzi"
+  ],
+  "dvr-26860": [
+   26860,
+   "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 03 (of 10) Filarete and Simone to Mantegna"
+  ],
+  "dvr-28420": [
+   28420,
+   "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 04 (of 10) Filippino Lippi to Domenico Puligo"
+  ],
+  "dvr-28421": [
+   28421,
+   "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 05 (of 10) Andrea da Fiesole to Lorenzo Lotto"
+  ],
+  "dvr-28422": [
+   28422,
+   "Lives of the most Eminent Painters Sculptors and Architects, Vol. 06 (of 10) Fra Giocondo to Niccolo Soggi"
+  ],
+  "dvr-31845": [
+   31845,
+   "Lives of the most Eminent Painters Sculptors and Architects, Vol. 07 (of 10) Tribolo to Il Sodoma"
+  ],
+  "dvr-31938": [
+   31938,
+   "Lives of the most Eminent Painters Sculptors and Architects, Vol. 08 (of 10) Bastiano to Taddeo Zucchero"
+  ],
+  "dvr-32362": [
+   32362,
+   "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 09 (of 10) Michelagnolo to the Flemings"
+  ],
+  "dvr-33203": [
+   33203,
+   "Lives of the most Eminent Painters Sculptors and Architects, Vol. 10 (of 10) Bronzino to Vasari, & General Index."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-01": {
+   "source": "dvr-25326",
+   "of": "Giorgio Vasari",
+   "work": "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 01 (of 10) Cimabue to Agnolo Gaddi",
+   "translated": "1912-1915 (see the Gutenberg header)",
+   "translator": "Gaston du C. de Vere",
+   "scan_edition": "Project Gutenberg 25326 (clean text)"
+  },
+  "gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-02": {
+   "source": "dvr-25759",
+   "of": "Giorgio Vasari",
+   "work": "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 02 (of 10) Berna to Michelozzo Michelozzi",
+   "translated": "1912-1915 (see the Gutenberg header)",
+   "translator": "Gaston du C. de Vere",
+   "scan_edition": "Project Gutenberg 25759 (clean text)"
+  },
+  "gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-03": {
+   "source": "dvr-26860",
+   "of": "Giorgio Vasari",
+   "work": "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 03 (of 10) Filarete and Simone to Mantegna",
+   "translated": "1912-1915 (see the Gutenberg header)",
+   "translator": "Gaston du C. de Vere",
+   "scan_edition": "Project Gutenberg 26860 (clean text)"
+  },
+  "gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-04": {
+   "source": "dvr-28420",
+   "of": "Giorgio Vasari",
+   "work": "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 04 (of 10) Filippino Lippi to Domenico Puligo",
+   "translated": "1912-1915 (see the Gutenberg header)",
+   "translator": "Gaston du C. de Vere",
+   "scan_edition": "Project Gutenberg 28420 (clean text)"
+  },
+  "gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-05": {
+   "source": "dvr-28421",
+   "of": "Giorgio Vasari",
+   "work": "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 05 (of 10) Andrea da Fiesole to Lorenzo Lotto",
+   "translated": "1912-1915 (see the Gutenberg header)",
+   "translator": "Gaston du C. de Vere",
+   "scan_edition": "Project Gutenberg 28421 (clean text)"
+  },
+  "gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-06": {
+   "source": "dvr-28422",
+   "of": "Giorgio Vasari",
+   "work": "Lives of the most Eminent Painters Sculptors and Architects, Vol. 06 (of 10) Fra Giocondo to Niccolo Soggi",
+   "translated": "1912-1915 (see the Gutenberg header)",
+   "translator": "Gaston du C. de Vere",
+   "scan_edition": "Project Gutenberg 28422 (clean text)"
+  },
+  "gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-07": {
+   "source": "dvr-31845",
+   "of": "Giorgio Vasari",
+   "work": "Lives of the most Eminent Painters Sculptors and Architects, Vol. 07 (of 10) Tribolo to Il Sodoma",
+   "translated": "1912-1915 (see the Gutenberg header)",
+   "translator": "Gaston du C. de Vere",
+   "scan_edition": "Project Gutenberg 31845 (clean text)"
+  },
+  "gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-08": {
+   "source": "dvr-31938",
+   "of": "Giorgio Vasari",
+   "work": "Lives of the most Eminent Painters Sculptors and Architects, Vol. 08 (of 10) Bastiano to Taddeo Zucchero",
+   "translated": "1912-1915 (see the Gutenberg header)",
+   "translator": "Gaston du C. de Vere",
+   "scan_edition": "Project Gutenberg 31938 (clean text)"
+  },
+  "gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-09": {
+   "source": "dvr-32362",
+   "of": "Giorgio Vasari",
+   "work": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 09 (of 10) Michelagnolo to the Flemings",
+   "translated": "1912-1915 (see the Gutenberg header)",
+   "translator": "Gaston du C. de Vere",
+   "scan_edition": "Project Gutenberg 32362 (clean text)"
+  },
+  "gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-10": {
+   "source": "dvr-33203",
+   "of": "Giorgio Vasari",
+   "work": "Lives of the most Eminent Painters Sculptors and Architects, Vol. 10 (of 10) Bronzino to Vasari, & General Index.",
+   "translated": "1912-1915 (see the Gutenberg header)",
+   "translator": "Gaston du C. de Vere",
+   "scan_edition": "Project Gutenberg 33203 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dvr-25326": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston du c. de vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-25759": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston du c. de vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-26860": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston du c. de vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-28420": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston du c. de vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-28421": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston du c. de vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-28422": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston du c. de vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-31845": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston du c. de vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-31938": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston du c. de vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-32362": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston du c. de vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-33203": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaston du c. de vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaston du C. De Vere"
+  }
+ },
+ "_verified": {
+  "dvr-25326": {
+   "pg": 25326,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-25759": {
+   "pg": 25759,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-26860": {
+   "pg": 26860,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-28420": {
+   "pg": 28420,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-28421": {
+   "pg": 28421,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-28422": {
+   "pg": 28422,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-31845": {
+   "pg": 31845,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-31938": {
+   "pg": 31938,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-32362": {
+   "pg": 32362,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaston du C. De Vere"
+  },
+  "dvr-33203": {
+   "pg": 33203,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaston du C. De Vere"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

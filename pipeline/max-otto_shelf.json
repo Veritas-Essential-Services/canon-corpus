@@ -1,0 +1,55 @@
+{
+ "_about": "Max Carl Otto (1876-1968), Wisconsin pragmatist and humanist. Raw IA OCR: Things and Ideals, essays in functional philosophy (Henry Holt, copyright 1924); Natural Laws and Human Hopes (Holt, copyright 1926). Published before 1930. US public domain. No uids minted.",
+ "_author": "Max Otto",
+ "_name_words": [
+  "max",
+  "carl",
+  "otto"
+ ],
+ "_surname": [
+  "max otto",
+  "max c. otto"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "otto-things-and-ideals-1924": [
+   "thingsidealsessa0000otto",
+   "Things and Ideals (Holt, 1924)"
+  ],
+  "otto-natural-laws-and-human-hopes-1926": [
+   "naturallawshuman0000otto",
+   "Natural Laws and Human Hopes (Holt, 1926)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "otto-things-and-ideals-1924": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "max c. otto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "otto-natural-laws-and-human-hopes-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "otto-natural-laws-and-human-hopes-1926": {
+   "author": "Max Otto (title page OCR keeps only 'Max By'; the preface says the essay rounds out a discussion the author began in 'a book called Things and Ideals', which is Otto's 1924 book on this shelf; Holt, copyright 1926)"
+  }
+ }
+}

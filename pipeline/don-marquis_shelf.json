@@ -1,0 +1,113 @@
+{
+ "_about": "Don Marquis's writing at Gutenberg: humorous stories and verse. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Don Marquis",
+ "_name_words": [
+  "don",
+  "marquis"
+ ],
+ "_surname": [
+  "don marquis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dmarquis-dreams-and-dust": [
+   458,
+   "Dreams and Dust"
+  ],
+  "dmarquis-dannys-own-story": [
+   587,
+   "Danny's Own Story"
+  ],
+  "dmarquis-cruise-of-the-jasper-b": [
+   716,
+   "The Cruise of the Jasper B."
+  ],
+  "dmarquis-hermione-and-her-little-group-of-serious-thinkers": [
+   776,
+   "Hermione and Her Little Group of Serious Thinkers"
+  ],
+  "dmarquis-carter-and-other-people": [
+   51913,
+   "Carter, and Other People"
+  ],
+  "dmarquis-revolt-of-the-oyster": [
+   51917,
+   "The Revolt of the Oyster"
+  ],
+  "dmarquis-old-soak-and-hail-and-farewell": [
+   51920,
+   "The Old Soak, and Hail And Farewell"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57714": "PG 57714: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 51925: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "dmarquis-dreams-and-dust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "don marquis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmarquis-dannys-own-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "don marquis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmarquis-cruise-of-the-jasper-b": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "don marquis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmarquis-hermione-and-her-little-group-of-serious-thinkers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "don marquis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmarquis-carter-and-other-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "don marquis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmarquis-revolt-of-the-oyster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "don marquis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmarquis-old-soak-and-hail-and-farewell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "don marquis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

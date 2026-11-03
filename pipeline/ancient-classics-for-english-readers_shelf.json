@@ -1,0 +1,564 @@
+{
+ "_about": "SERIES SHELF of Ancient Classics for English Readers (Edinburgh and London: William Blackwood and Sons, 1870-1880; American issue Philadelphia: J. B. Lippincott), edited by the Rev. W. Lucas Collins: short English introductions to each Greek and Latin author, with the substance of the works retold and quoted in English translation. Twenty-seven of the twenty-eight volumes, each a first-decade printing dated on its title page (most in Roman numerals): Homer's Iliad and Odyssey, Virgil, Aristophanes, Plautus and Terence, Lucian, Livy, Thucydides and Cicero (W. Lucas Collins), Herodotus (George C. Swayne), Horace (Theodore Martin), Aeschylus (Reginald S. Copleston), Xenophon and Aristotle (Sir Alexander Grant), Sophocles and Plato (Clifton W. Collins), Pliny's Letters (Alfred Church and W. J. Brodribb), Euripides and Tacitus (William Bodham Donne), Juvenal (Edward Walford), Hesiod and Theognis and Catullus, Tibullus and Propertius (James Davies), the Greek Anthology (Lord Neaves), Ovid (Alfred Church), Demosthenes (W. J. Brodribb), Lucretius (W. H. Mallock) and Pindar (F. D. Morice). Cicero is the Project Gutenberg text (PG 11448); the rest are raw Internet Archive OCR, clean 0.89-0.94. Not taken: Anthony Trollope's Commentaries of Caesar (PG 55926), already on the trollope-works shelf. Mallock's Lucretius is kept here with its series rather than on the w-h-mallock shelf. The Aeschylus volume prints its title as Æschylus, so its title check reads weak; author and imprint were read on the scan. Each title gates on its own author's name. US public domain. No uids minted.",
+ "_author": "Ancient Classics for English Readers (ed. W. Lucas Collins)",
+ "_name_words": [
+  "alex. grant",
+  "alexander grant",
+  "alfred church",
+  "bodham donne",
+  "brodribb",
+  "clifton collins",
+  "clifton w. collins",
+  "collins",
+  "copleston",
+  "davies",
+  "donne",
+  "james davies",
+  "lucas collins",
+  "mallock",
+  "morice",
+  "neaves",
+  "swayne",
+  "theodore martin",
+  "w. lucas collins",
+  "walford",
+  "william lucas collins"
+ ],
+ "_name_words_note": "Volume authors only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "alex. grant",
+  "alexander grant",
+  "alfred church",
+  "bodham donne",
+  "brodribb",
+  "clifton collins",
+  "clifton w. collins",
+  "collins",
+  "copleston",
+  "davies",
+  "donne",
+  "james davies",
+  "lucas collins",
+  "mallock",
+  "morice",
+  "neaves",
+  "swayne",
+  "theodore martin",
+  "w. lucas collins",
+  "walford",
+  "william lucas collins"
+ ],
+ "_surname_by_slug": {
+  "acer-homer-iliad-1870": [
+   "collins",
+   "lucas collins"
+  ],
+  "acer-homer-odyssey-1870": [
+   "collins",
+   "lucas collins"
+  ],
+  "acer-herodotus-1870": [
+   "swayne"
+  ],
+  "acer-virgil-1870": [
+   "collins",
+   "lucas collins"
+  ],
+  "acer-horace-1870": [
+   "theodore martin"
+  ],
+  "acer-aeschylus-1870": [
+   "copleston"
+  ],
+  "acer-xenophon-1871": [
+   "alexander grant"
+  ],
+  "acer-sophocles-1871": [
+   "collins",
+   "clifton collins",
+   "clifton w. collins"
+  ],
+  "acer-pliny-1872": [
+   "brodribb"
+  ],
+  "acer-euripides-1872": [
+   "donne",
+   "bodham donne"
+  ],
+  "acer-juvenal-1872": [
+   "walford"
+  ],
+  "acer-aristophanes-1872": [
+   "collins",
+   "lucas collins"
+  ],
+  "acer-hesiod-theognis-1873": [
+   "davies",
+   "james davies"
+  ],
+  "acer-plautus-terence-1873": [
+   "collins",
+   "lucas collins"
+  ],
+  "acer-tacitus-1873": [
+   "donne",
+   "bodham donne"
+  ],
+  "acer-lucian-1873": [
+   "collins",
+   "lucas collins"
+  ],
+  "acer-plato-1874": [
+   "collins",
+   "clifton collins",
+   "clifton w. collins"
+  ],
+  "acer-greek-anthology-1874": [
+   "neaves"
+  ],
+  "acer-livy-1876": [
+   "collins",
+   "lucas collins"
+  ],
+  "acer-ovid-1876": [
+   "alfred church"
+  ],
+  "acer-catullus-tibullus-propertius-1876": [
+   "davies",
+   "james davies"
+  ],
+  "acer-demosthenes-1877": [
+   "brodribb"
+  ],
+  "acer-aristotle-1877": [
+   "alexander grant",
+   "alex. grant"
+  ],
+  "acer-thucydides-1878": [
+   "collins",
+   "lucas collins"
+  ],
+  "acer-lucretius-1878": [
+   "mallock"
+  ],
+  "acer-pindar-1879": [
+   "morice"
+  ],
+  "acer-cicero-1871": [
+   "collins",
+   "lucas collins"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "acer-cicero-1871": [
+   11448,
+   "Cicero, by W. Lucas Collins (Ancient Classics for English Readers, 1871)"
+  ]
+ },
+ "internet_archive": {
+  "acer-homer-iliad-1870": [
+   "homeriliad00colluoft",
+   "Homer: The Iliad, by W. Lucas Collins (Blackwood, 1870)"
+  ],
+  "acer-homer-odyssey-1870": [
+   "homerodyssey00coll",
+   "Homer: The Odyssey, by W. Lucas Collins (Blackwood, 1870)"
+  ],
+  "acer-herodotus-1870": [
+   "herodotus01swaygoog",
+   "Herodotus, by George C. Swayne (Blackwood, 1870)"
+  ],
+  "acer-virgil-1870": [
+   "virgilbyrevwluca00collrich",
+   "Virgil, by W. Lucas Collins (Blackwood, 1870)"
+  ],
+  "acer-horace-1870": [
+   "horace__00martuoft",
+   "Horace, by Theodore Martin (Blackwood, 1870)"
+  ],
+  "acer-aeschylus-1870": [
+   "aeschylus00coplrich",
+   "Aeschylus, by Reginald S. Copleston (Blackwood, 1870)"
+  ],
+  "acer-xenophon-1871": [
+   "xenophon01grangoog",
+   "Xenophon, by Sir Alexander Grant (Blackwood, 1871)"
+  ],
+  "acer-sophocles-1871": [
+   "sophoclesclifton00collrich",
+   "Sophocles, by Clifton W. Collins (Blackwood, 1871)"
+  ],
+  "acer-pliny-1872": [
+   "plinysletters00churrich",
+   "Pliny's Letters, by Alfred Church and W. J. Brodribb (Blackwood, 1872)"
+  ],
+  "acer-euripides-1872": [
+   "euripides00donnrich",
+   "Euripides, by William Bodham Donne (Blackwood, 1872)"
+  ],
+  "acer-juvenal-1872": [
+   "juvenaledward00walfrich",
+   "Juvenal, by Edward Walford (Blackwood, 1872)"
+  ],
+  "acer-aristophanes-1872": [
+   "aristophanes00collrich",
+   "Aristophanes, by W. Lucas Collins (Blackwood, 1872)"
+  ],
+  "acer-hesiod-theognis-1873": [
+   "hesiodtheognis00daviuoft",
+   "Hesiod and Theognis, by James Davies (Blackwood, 1873)"
+  ],
+  "acer-plautus-terence-1873": [
+   "plautusterence00col",
+   "Plautus and Terence, by W. Lucas Collins (Philadelphia: Lippincott, 1873)"
+  ],
+  "acer-tacitus-1873": [
+   "tacituswilliam00donnrich",
+   "Tacitus, by William Bodham Donne (Blackwood, 1873)"
+  ],
+  "acer-lucian-1873": [
+   "lucianlucas00collrich",
+   "Lucian, by W. Lucas Collins (Blackwood, 1873)"
+  ],
+  "acer-plato-1874": [
+   "platoclifton00collrich",
+   "Plato, by Clifton W. Collins (Blackwood, 1874)"
+  ],
+  "acer-greek-anthology-1874": [
+   "greekanthology0000wluc",
+   "The Greek Anthology, by Lord Neaves (Blackwood, 1874)"
+  ],
+  "acer-livy-1876": [
+   "livy00collgoog",
+   "Livy, by W. Lucas Collins (Philadelphia: Lippincott, 1876)"
+  ],
+  "acer-ovid-1876": [
+   "ovid_20231009",
+   "Ovid, by Alfred Church (Blackwood, 1876)"
+  ],
+  "acer-catullus-tibullus-propertius-1876": [
+   "catullustibullus00davi",
+   "Catullus, Tibullus, and Propertius, by James Davies (Blackwood, 1876)"
+  ],
+  "acer-demosthenes-1877": [
+   "demosthenes01brodgoog",
+   "Demosthenes, by W. J. Brodribb (Philadelphia: Lippincott, 1877)"
+  ],
+  "acer-aristotle-1877": [
+   "aristotle01grangoog",
+   "Aristotle, by Sir Alexander Grant (Blackwood, 1877; reprint 1879)"
+  ],
+  "acer-thucydides-1878": [
+   "thucydides00collgoog",
+   "Thucydides, by W. Lucas Collins (Blackwood, 1878)"
+  ],
+  "acer-lucretius-1878": [
+   "lucretius00mallgoog",
+   "Lucretius, by W. H. Mallock (Blackwood, 1878)"
+  ],
+  "acer-pindar-1879": [
+   "pindarmo00mori",
+   "Pindar, by F. D. Morice (Blackwood, 1879)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "acer-cicero-1871": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acer-homer-iliad-1870": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-homer-odyssey-1870": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "acer-herodotus-1870": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "swayne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-virgil-1870": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-horace-1870": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-aeschylus-1870": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "copleston",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-xenophon-1871": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alexander grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-sophocles-1871": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-pliny-1872": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brodribb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-euripides-1872": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-juvenal-1872": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-aristophanes-1872": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1872, 1877 printing",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-hesiod-theognis-1873": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "davies",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-plautus-terence-1873": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "acer-tacitus-1873": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-lucian-1873": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-plato-1874": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-greek-anthology-1874": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "neaves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "acer-livy-1876": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-ovid-1876": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred church",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "acer-catullus-tibullus-propertius-1876": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "davies",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-demosthenes-1877": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brodribb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-aristotle-1877": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alex. grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-thucydides-1878": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-lucretius-1878": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mallock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "acer-pindar-1879": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "morice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

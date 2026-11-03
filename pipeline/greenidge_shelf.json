@@ -1,0 +1,43 @@
+{
+ "_about": "Abel Hendy Jones Greenidge (1865-1906), Oxford ancient historian. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A History of Rome During the Later Republic and Early Principate, Roman Public Life, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "greenidge"
+ ],
+ "_surname": [
+  "a. h. j. greenidge",
+  "abel hendy jones greenidge",
+  "greenidge, a. h. j"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "greenidge-history-of-rome-later-republic": [
+   9781,
+   "A History of Rome During the Later Republic and Early Principate"
+  ],
+  "greenidge-roman-public-life": [
+   65392,
+   "Roman Public Life"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "greenidge-history-of-rome-later-republic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. h. j. greenidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "greenidge-roman-public-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. h. j. greenidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

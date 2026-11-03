@@ -1,0 +1,281 @@
+{
+ "_about": "Hall Caine's Manx novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Hall Caine",
+ "_name_words": [
+  "caine",
+  "hall"
+ ],
+ "_surname": [
+  "hall caine"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hcaine-scapegoat": [
+   1303,
+   "The Scapegoat"
+  ],
+  "hcaine-christian": [
+   8407,
+   "The Christian: A Story"
+  ],
+  "hcaine-shadow-of-a-crime": [
+   14262,
+   "The Shadow of a Crime: A Cumbrian Romance"
+  ],
+  "hcaine-woman-thou-gavest-me": [
+   14597,
+   "The Woman Thou Gavest Me; Being the Story of Mary O'Neill"
+  ],
+  "hcaine-eternal-city": [
+   19732,
+   "The Eternal City"
+  ],
+  "hcaine-manxman": [
+   25570,
+   "The Manxman : a novel"
+  ],
+  "hcaine-little-manx-nation-1891": [
+   25571,
+   "The Little Manx Nation - 1891"
+  ],
+  "hcaine-captn-davys-honeymoon": [
+   25572,
+   "Capt'n Davy's Honeymoon"
+  ],
+  "hcaine-drama-of-three-hundred-sixty-five-days": [
+   25573,
+   "The Drama Of Three Hundred & Sixty-Five Days: Scenes In The Great War"
+  ],
+  "hcaine-recollections-of-dante-gabriel-rossetti": [
+   25574,
+   "Recollections of Dante Gabriel Rossetti"
+  ],
+  "hcaine-son-of-hagar": [
+   26088,
+   "A Son of Hagar: A Romance of Our Time"
+  ],
+  "hcaine-bondman": [
+   33999,
+   "The Bondman: A New Saga"
+  ],
+  "hcaine-blind-mother-and-the-last-confession": [
+   35140,
+   "The Blind Mother, and The Last Confession"
+  ],
+  "hcaine-deemster": [
+   35781,
+   "The Deemster"
+  ],
+  "hcaine-shes-all-the-world-to-me": [
+   35786,
+   "She's All the World to Me"
+  ],
+  "hcaine-prodigal-son": [
+   51950,
+   "The Prodigal Son"
+  ],
+  "hcaine-white-prophet-volume-1-of-2": [
+   52342,
+   "The White Prophet, Volume 1 (of 2)"
+  ],
+  "hcaine-white-prophet-volume-2-of-2": [
+   52343,
+   "The White Prophet, Volume 2 (of 2)"
+  ],
+  "hcaine-master-of-man": [
+   61865,
+   "The Master of Man: The Story of a Sin"
+  ],
+  "hcaine-woman-of-knockaloe": [
+   66932,
+   "The Woman of Knockaloe: A Parable"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-29430": "PG 29430: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "hcaine-scapegoat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-christian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-shadow-of-a-crime": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-woman-thou-gavest-me": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-eternal-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-manxman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-little-manx-nation-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-captn-davys-honeymoon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-drama-of-three-hundred-sixty-five-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-recollections-of-dante-gabriel-rossetti": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-son-of-hagar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-bondman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-blind-mother-and-the-last-confession": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-deemster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-shes-all-the-world-to-me": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-prodigal-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-white-prophet-volume-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-white-prophet-volume-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-master-of-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcaine-woman-of-knockaloe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hall caine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

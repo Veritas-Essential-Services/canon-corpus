@@ -1,0 +1,149 @@
+{
+ "_about": "Public-domain Robert Hugh Benson (1871-1914, Anglican priest turned Catholic monsignor) for the Word Hoard: his religious non-fiction only, Paradoxes of Catholicism (1913) and Lourdes (1914) from Project Gutenberg, and The Religion of the Plain Man (1906), Non-Catholic Denominations (1910), Christ in the Church (1911), The Friendship of Christ (1912), Confessions of a Convert (1913) and the Spiritual Letters (1915) from Internet Archive scans. Written in English. His novels belong to the fiction lanes. Added 2026-10-17 by lane A, round 27 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "benson"
+ ],
+ "_surname": [
+  "robert hugh benson",
+  "r. hugh benson",
+  "hugh benson",
+  "benson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "benson-paradoxes-catholicism": [
+   "16309",
+   "Paradoxes of Catholicism (preface dated Easter 1913)"
+  ],
+  "benson-lourdes": [
+   "18729",
+   "Lourdes (St. Louis: B. Herder; London: Manresa Press, 1914)"
+  ]
+ },
+ "internet_archive": {
+  "benson-religion-plain-man": [
+   "religionofplainm00bens",
+   "The Religion of the Plain Man (London: Burns and Oates, 1906)"
+  ],
+  "benson-non-catholic-denominations": [
+   "NonCatholicDenominations",
+   "Non-Catholic Denominations (London: Longmans, Green, 1910)"
+  ],
+  "benson-christ-in-the-church": [
+   "christinchurchvo00bens",
+   "Christ in the Church: a Volume of Religious Essays (London: Longmans, Green, 1911)"
+  ],
+  "benson-friendship-of-christ": [
+   "TheFriendshipOfChrist",
+   "The Friendship of Christ (London: Longmans, Green, 1912)"
+  ],
+  "benson-confessions-convert": [
+   "confessionsofcon00bensuoft",
+   "Confessions of a Convert (London: Longmans, Green, 1913)"
+  ],
+  "benson-spiritual-letters": [
+   "spiritualletters00bensuoft",
+   "Spiritual Letters of Monsignor R. Hugh Benson to one of his converts, preface by A. C. Benson, second impression (London: Longmans, Green, 1915)"
+  ]
+ },
+ "_alternates": {
+  "benson-paradoxes-ia": "Paradoxes of Catholicism (London: Longmans, 1913; ParadoxesOfCatholicism)",
+  "benson-copies": "New York and St. Louis issues of Confessions, Christ in the Church and Friendship of Christ; later impressions"
+ },
+ "_excluded": {
+  "benson-fiction": "His novels and plays",
+  "benson-late": "Modern reprints"
+ },
+ "_rights_checked": {
+  "benson-paradoxes-catholicism": "PG title page read: 'By Robert Hugh Benson', preface dated Hare Street House, Easter 1913; the PG text does not state its source edition; the London Longmans 1913 scan is an alternate"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "benson-paradoxes-catholicism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hugh benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "benson-lourdes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hugh benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "benson-religion-plain-man": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hugh benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-non-catholic-denominations": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hugh benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-christ-in-the-church": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hugh benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-friendship-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hugh benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-confessions-convert": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hugh benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "benson-spiritual-letters": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hugh benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

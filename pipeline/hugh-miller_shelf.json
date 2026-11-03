@@ -1,0 +1,39 @@
+{
+ "_about": "Hugh Miller's Scenes and Legends of the North of Scotland, the traditions of Cromarty and its district (this printing Edinburgh, 1869; the dedication is dated Cromarty, 1834). His geology books are not taken. Gutenberg catalogue: Miller 1802-1856. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Hugh Miller",
+ "_name_words": [
+  "cromarty"
+ ],
+ "_surname": [
+  "hugh miller"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hmiller-scenes-and-legends-of-the-north-of-scotland": [
+   71325,
+   "Scenes and Legends of the North of Scotland",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.$"
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hmiller-scenes-and-legends-of-the-north-of-scotland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hugh miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

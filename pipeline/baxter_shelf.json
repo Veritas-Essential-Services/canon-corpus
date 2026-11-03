@@ -1,0 +1,1232 @@
+{
+ "_about": "Every public-domain Richard Baxter (1615-1691) text the Word Hoard holds. The target is Orme's edition of the Practical Works (London, 1830), 23 volumes, vol. 1 being William Orme's Life (Orme d. 1830). All 23 volumes are held as raw IA OCR, unconverted (the Edwards precedent); no single scan series is complete, so the set mixes Toronto, other library and Google/BSB scans, and each volume number was read off the title-page OCR. Every CCEL Baxter title is held as clean ThML, and Gutenberg's four-part Christian Directory (rights lines checked by the fetcher). Modern reprints are excluded. Extended 2026-10-28 by lane A at Adam's request (his Logos author list): the works Orme's Practical Works leaves out, from first or early printings of 1649 to 1696: Reliquiae Baxterianae (his autobiography, 1696), Catholick Theology (1675), the Aphorisms of Justification and the later justification disputes (Four Disputations, Of Saving Faith, A Treatise of Justifying Righteousness, Imputative Righteousness, An End of Doctrinal Controversies), the Paraphrase on the New Testament (1685), A Holy Commonwealth, The Certainty of the World of Spirits, and his writings on infant baptism, church government, concord, nonconformity and Popery.",
+ "_ccel_author": "b/baxter",
+ "_name_words": [
+  "baxter"
+ ],
+ "_surname": [
+  "baxter"
+ ],
+ "_held": {},
+ "ccel": {
+  "baxter-causes": [
+   "causes",
+   "The Causes and Danger of Slighting Christ and His Gospel",
+   ""
+  ],
+  "baxter-reformed-pastor": [
+   "pastor",
+   "The Reformed Pastor",
+   ""
+  ],
+  "baxter-saints-rest": [
+   "saints_rest",
+   "The Saints' Everlasting Rest",
+   ""
+  ],
+  "baxter-call-unconverted": [
+   "unconverted",
+   "A Call to the Unconverted to Turn and Live",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "baxter-directory-1": [
+   41633,
+   "A Christian Directory, Part 1: Christian Ethics"
+  ],
+  "baxter-directory-2": [
+   43800,
+   "A Christian Directory, Part 2: Christian Economics"
+  ],
+  "baxter-directory-3": [
+   44655,
+   "A Christian Directory, Part 3: Christian Ecclesiastics"
+  ],
+  "baxter-directory-4": [
+   43967,
+   "A Christian Directory, Part 4: Christian Politics"
+  ]
+ },
+ "internet_archive": {
+  "baxter-works-orme-01": [
+   "practicalworksof01baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 1 (Orme's Life of Baxter)"
+  ],
+  "baxter-works-orme-02": [
+   "practicalworksof02baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 2"
+  ],
+  "baxter-works-orme-03": [
+   "practicalworksof03baxt",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 3"
+  ],
+  "baxter-works-orme-04": [
+   "10785346bsb",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 4"
+  ],
+  "baxter-works-orme-05": [
+   "10785347bsb",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 5"
+  ],
+  "baxter-works-orme-06": [
+   "practicalworksof06baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 6"
+  ],
+  "baxter-works-orme-07": [
+   "practicalworksof07baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 7"
+  ],
+  "baxter-works-orme-08": [
+   "practicalworksof08baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 8"
+  ],
+  "baxter-works-orme-09": [
+   "practicalworksof09baxt",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 9"
+  ],
+  "baxter-works-orme-10": [
+   "practicalworksof10baxt",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 10"
+  ],
+  "baxter-works-orme-11": [
+   "practicalworksof11baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 11"
+  ],
+  "baxter-works-orme-12": [
+   "practicalworksof12baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 12"
+  ],
+  "baxter-works-orme-13": [
+   "practicalworksof13baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 13"
+  ],
+  "baxter-works-orme-14": [
+   "practicalworksof14baxt",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 14"
+  ],
+  "baxter-works-orme-15": [
+   "practicalworksof15baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 15"
+  ],
+  "baxter-works-orme-16": [
+   "practicalworksof16baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 16"
+  ],
+  "baxter-works-orme-17": [
+   "practicalworksof17baxt",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 17"
+  ],
+  "baxter-works-orme-18": [
+   "practicalworksof18baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 18"
+  ],
+  "baxter-works-orme-19": [
+   "practicalworksof19baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 19"
+  ],
+  "baxter-works-orme-20": [
+   "practicalworksr00ormegoog",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 20"
+  ],
+  "baxter-works-orme-21": [
+   "practicalworksof21baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 21"
+  ],
+  "baxter-works-orme-22": [
+   "practicalworksof22baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 22"
+  ],
+  "baxter-works-orme-23": [
+   "practicalworksof23baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 23"
+  ],
+  "baxter-aphorismes-justification-1649": [
+   "aphorismesofjust00baxt",
+   "Aphorismes of justification : with their explication annexed. Wherein also is opened the nature of the covenants, satisfaction, righteousnesse, faith, works, &c. Published especially for the use of the Church of Kederminster in Worcestershire (London : Printed for Francis Tyton, 1649)"
+  ],
+  "baxter-infant-baptism-1651": [
+   "plainscripturepr00baxt",
+   "Plain Scripture proof of infants church-membership and baptism : being the arguments prepared for (and partly managed in) the publick dispute with Mr. Tombes at Bewdley on the first day of Jan. 1649 (London : Printed for T.V.F.T., 1656)"
+  ],
+  "baxter-christian-concord-1653": [
+   "christianconcord00baxtuoft",
+   "Christian concord; or, The agreement of the associated pastors and churches of Worcestershire. With Rich. Baxter's Explication and defence of it, and his exhortation to unity (London, Printed by A.M. for T. Vnderhill, and F. Tyton, 1653)"
+  ],
+  "baxter-admonition-eyres-1654": [
+   "bim_eighteenth-century_rich-baxters-admonitio_baxter-richard_1654",
+   "Rich. Baxter's admonition to Mr. William Eyre ...  1654 (catalogued 1654)"
+  ],
+  "baxter-apology-1654": [
+   "richbaxtersapolo00baxt",
+   "Rich. Baxters apology against the modest exceptions of Mr T. Blake. And the digression of Mr G. Kendall (London, Printed for T. Underhill and F. Tyton, 1654)"
+  ],
+  "baxter-confession-1655": [
+   "richconfe00baxt",
+   "Rich. Baxter's Confession of his faith : especially concerning the interest of repentance and sincere obedience to Christ, in our justification & salvation (London : Printed by R.W. for T. Underhil, and F. Tyton, 1655)"
+  ],
+  "baxter-safe-religion-1657": [
+   "saferelig00baxt",
+   "The safe religion : or, Three disputations for the reformed catholike religion against popery (London : Printed by Abraham Miller, for Thomas Underhill and Francis Tyton, 1657)"
+  ],
+  "baxter-four-disputations-justification-1658": [
+   "ofjustificationf00baxt",
+   "Of justification: four disputations clearing and amicably defending the truth, against the unnecessary oppositions of divers learned and reverend brethren (London, Printed by R. W.[hite] for N. Simmons bookseller in Kederminster, and are to be sold by him there; and by N. Elkins, in Pauls Churchyard, 1658)"
+  ],
+  "baxter-confirmation-restauration-1658": [
+   "confirest00baxt",
+   "Confirmation and restauration, the necessary means of reformation, and reconciliation : for the healing of the corruptions and divisions of the churches (London : Printed by A.M. for N. Simmons, 1658)"
+  ],
+  "baxter-grotian-religion-1658": [
+   "grotianreligiond00baxt",
+   "The Grotian religion discovered, at the invitation of Mr. Thomas Pierce in his vindication : with a preface, vindicating the Synod of Dort from the calumnies of the new Tilenus, and David, Peter, &c. and the Puritanes, and sequestrations, &c. from the censures of Mr. Pierce (London : Printed by R.W. for N. Simmons, 1658)"
+  ],
+  "baxter-saving-faith-1658": [
+   "ofsavingfaiththa00baxt",
+   "Of saving faith: that it is not only gradually, but specifically distinct from all common faith. The agreement of Richard Baxter with that very learned consenting adversary, that hath maintained my assertion by a pretended confutation in the end of Sarjeant Shephards book of Sincerity and hypocrisie. With the reasons of my dissent in some passages that came in on the by. Together with his addition to the seventh impression of The Saints everlasting rest (London, Printed by R. W. for Nevil Simmons, 1658)"
+  ],
+  "baxter-key-for-catholicks-1659": [
+   "keyforcatholicks00baxt",
+   "A key for Catholicks, to open the jugling of the Jesuits, and satisfie all ... whether the cause of the Roman or Reformed churches be of God; and to leave the reader utterly unexcusable that after this will be a papist (London, Printed by R.W. for Nevil Simmons, bookseller in Kederminster, and by Thomas Johnson, 1659)"
+  ],
+  "baxter-five-disputations-1659": [
+   "fivedisputations00baxt",
+   "Five disputations of church-government, and worship (London : Printed by R.W. for N. Simmons, 1659)"
+  ],
+  "baxter-holy-commonwealth-1659": [
+   "holywealth00baxt",
+   "A holy commonwealth : or, Political aphorisms, opening the true principles of government: for the healing of the mistakes, and resolving the doubts, that most endanger England at this time (London : Printed for T. Underhill and F. Tyton, 1659)"
+  ],
+  "baxter-successive-visibility-1660": [
+   "succvisibi00baxt",
+   "The successive visibility of the church of which the Protestants are soundest members (London : Printed by R.W. for Nevil Simmons, 1660)"
+  ],
+  "baxter-universal-concord-1660": [
+   "universal00baxt",
+   "Universal concord (London : Printed by R.W. for Nevil Simmons, 1660)"
+  ],
+  "baxter-catholick-unity-1660": [
+   "catholickunityor00baxt",
+   "Catholick unity, or, The only way to bring us all to be of one religion (London : Printed by R.W. for Thomas Underhill [etc.], 1660)"
+  ],
+  "baxter-defence-principles-love-1671": [
+   "defenceofprincip00baxt",
+   "A defence of the principles of love, which are necessary to the unity and concord of Christians; and are delivered in a book called The cure of church-divisions ... Written to detect and eradicate all love-killing, dividing, and church-destroying principles, passions and practice, and to preserve the weak in this hour of manifold temptation (London, Printed for Nevil Simmons .., 1671)"
+  ],
+  "baxter-lords-day-1671": [
+   "divineapp00baxt",
+   "The divine appointment of the Lords Day proved : as a separated day for holy worship, especially in the Church assemblies, and consequently the cessation of the seventh day Sabbath (London : Printed for Nevil Simmons, 1671)"
+  ],
+  "baxter-second-admonition-1671": [
+   "secondadmonition00baxt",
+   "A second admonition to Mr. Edward Bagshaw : written to call him to repentance for many false doctrines, crimes, and specially fourscore palpable untruths (London : Printed for Nevill Simmons, 1671)"
+  ],
+  "baxter-sacrilegious-desertion-1672": [
+   "sacrileg00baxt",
+   "Sacrilegious desertion of the holy ministery rebuked : and tolerated preaching of the gospel vindicated, against the reasonings of a confident questionist, in a book called [Toleration not to be abused] ([London : s.n.], 1672)"
+  ],
+  "baxter-full-satisfaction-1674": [
+   "fusatisfa00baxt",
+   "Full and easie satisfaction which is the true and safe religion : In a conference between D. a doubter, P. a papist, and R. a reformed catholick Christian (London : Printed for Nevil Simmons, 1674)"
+  ],
+  "baxter-infants-church-membership-1675": [
+   "moreproofsofinfa00baxt",
+   "More proofs of infants church-membership and consequently their right to baptism: or A second defence of our infant rights and mercies. In three parts. The first is, the plain proof of Gods statute, or covenant for infants church-membership from the creation, and the continuance of it till the institution of baptism; with the defence of that proof against the frivolous exceptions of Mr. Tombes. And a confutation of Mr. Tombes his arguments against infants church-membership. The second is, a confutation of the strange forgeries of Mr. H. Danvers against the antiquity of infant-baptism ... The third part is, animadversions of Mr. Danvers's reply to Mr. Willes (London, Printed for N. Simmons ... and J. Robinson .., 1675)"
+  ],
+  "baxter-catholick-theology-1675": [
+   "baxtercatholicktheologie",
+   "Richard Baxter’s Catholick Theologie (London : Printed by Robert White, for Nevill Simmons at the Princes Arms in St. Pauls Church-yard, 1675)"
+  ],
+  "baxter-roman-tradition-1676": [
+   "romantraditionex00baxt",
+   "Roman tradition examined, as it is urged as infallible against all mens senses, reason, the Holy Scripture, the tradition and present judgment of the far greatest part of the Universal Church, in the point of transubstantiation. In answer to a book called A rational discourse of transubstantiation ([London], 1676)"
+  ],
+  "baxter-justifying-righteousness-1676": [
+   "treatjustif00baxt",
+   "A treatise of justifying righteousness : In two books: I. A treatise of imputed righteousness ... With an answer to Dr. Tullies Letter, adjoyned ; II. A friendly debate with ... Mr. Christopher Cartwright, containing: 1. His animadversions on my aphorisms, with my answer. 2. His exceptions against that answer. 3. My reply to the summe of the controversies agitated in those exceptions. All published instead of a fuller answer to the assaults in Dr. Tullies Justificatio Paulina (London : Printed for Nevil Simons and Jonath. Robinson, 1676)"
+  ],
+  "baxter-naked-popery-1677": [
+   "nakedpoperyornak00baxt",
+   "Naked popery; or, The naked falshood of a book called The Catholick naked truth, or The Puritan convert to apostolical Christianity; written by W.H. [i.e. William Hubert] Opening their fundamental errour of unwritten tradition, and their unjust description of the Puritan, the prelatical Protestant, and the papist, and their differences (London: Printed for N. Simmons .., 1677)"
+  ],
+  "baxter-nonconformists-plea-1679": [
+   "nonconformistspl00baxt",
+   "The nonconformists plea for peace: or An account of their judgement. In certain things in which they are misunderstood: written to reconcile and pacifie such as by mistaking them hinder love and concord (London, Printed for Benj. Alsop, 1679)"
+  ],
+  "baxter-imputative-righteousness-1679": [
+   "imprighte00baxt",
+   "Imputative righteousness truly stated, according to the tenour of the Gospel : manifesting in what sence sound protestants hold it and in what sence libertines pervert it (London : Printed by J. D. and are to be sold by Jonathan Robinson and William Abington, 1679)"
+  ],
+  "baxter-answer-stillingfleet-1680": [
+   "richardbaxtersan00baxt",
+   "Richard Baxter's answer to Dr. Edward Stillingfleet's charge of separation: containing (London, Printed for N. Simmons, at the Three Cocks at the west-end of S. Paul's, and T. Simmons, at the Prince's arms in Ludgate street, 1680)"
+  ],
+  "baxter-way-of-concord-1680": [
+   "truecon00baxt",
+   "The true and only way of concord of all the Christian churches (London ; Printed for John Hancock, 1680)"
+  ],
+  "baxter-church-history-bishops-1680": [
+   "churchhistoryofg00baxt",
+   "Church-history of the government of bishops and their councils abbreviated. Including the chief part of the government of christian princes and popes, and a true account of the most troubling controversies and heresies till the reformation (London, Printed, and are to be sold by John Kidgell .., 1680)"
+  ],
+  "baxter-english-schism-1681": [
+   "seenglish00baxt",
+   "A search for the English schismatick by the case and characters : I. Of the diocesan canoneers ; II. Of the present meer nonconformists ; Not as an accusation of the former, but a necessary defence of the later, so far as they are wrongfully accused and persecuted by them (London : Printed for Nevill Simmons, 1681)"
+  ],
+  "baxter-second-true-defence-1681": [
+   "secdefenc00baxt",
+   "A second true defence of the meer nonconformists, against the untrue accusations, reasonings and history of Dr. Edward Stillingfleet (London : Printed for Nevil Simons, 1681)"
+  ],
+  "baxter-episcopacy-1681": [
+   "treatiseofepisco0102baxt",
+   "A treatise of Episcopacy; confuting by scripture, reason, and the churches testimony, that fort of Diocesan churches, prelacy, and government, vol. 1-2 (London, Printed for Nevil Simmons .., 1681)"
+  ],
+  "baxter-immortality-soul-1682": [
+   "ofimmort00baxt",
+   "Of the immortality of man's soul, and the nature of it, and other spirits : two discourses (London : Printed for B. Simons, 1682)"
+  ],
+  "baxter-history-councils-1682": [
+   "truehistoryofcou00baxt",
+   "The true history of councils enlarged and defended, against the deceits of a pretended vindicator of the primitive church, but indeed of the tympanite & tyranny of some prelates many hundred years after Christ. With a detection of the false history of Edward Lord Bishop of Corke and Rosse in Ireland (London, Printed for T. Parkhurst, 1682)"
+  ],
+  "baxter-answer-dodwell-1682": [
+   "baxterdodwell",
+   "An Answer to Mr. Dodwell and Dr. Sherlocke; Confuting an Universal Humane Church—Supremacy, Aristocratical and Monarchical; as Church-tyranny and Popery: And Defending Dr. Isaac Barrow’s Treatise against It. By Richard Baxter. Preparatory to a Fuller Treatise against Such an Universal Soveraignty, as Contrary to Reason, Christianity, the Protestant Profession and the Church of England; though the Corrupters Usurp that Title (London : Printed for Thomas Parkhurst, at the Bible and Three Crowns, at the lower end of Cheapside, near Mercers Chappel, 1682)"
+  ],
+  "baxter-paraphrase-nt-1685": [
+   "baxternewtestament",
+   "A Paraphrase on the New Testament, with Notes, Doctrinal and Practical. By Plainness and Brevity Fitted to the Use of Religious Families, in the Daily Reading of the Scriptures; and of the Younger and Poorer Sort of Scholars and Ministers, who Want Fuller Helps. With an Advertisement of Difficulties in the Revelations (London : Printed for B. Simmons, at the Three Cocks in Ludgate-street, 1685)"
+  ],
+  "baxter-cain-abel-1689": [
+   "cainabelmalignit00baxt",
+   "Cain and Abel malignity, that is enmity to serious godliness, that is, to an holy and heavenly state of heart and life : lamented, described, detected, and unanswerably proved, to be the devilish nature, and the militia of the devil against God, and Christ, and the Church and kingdoms (London : Printed Tho. Parkhurst, 1689)"
+  ],
+  "baxter-scripture-gospel-defended-1690": [
+   "scripturegos0baxt",
+   "The Scripture Gospel defended, and Christ, grace and free justification vindicated against the libertines ... In two books, the first, A breviate of fifty controversies about justification ... The second upon the sudden reviving of Antinomianism ... and the re-printing of Dr. Crisp's sermons with additions (London : Printed for Tho. Parkhurst, 1690)"
+  ],
+  "baxter-english-nonconformity-1690": [
+   "engconfor00baxt",
+   "The English nonconformity, as under King Charles II, and King James II : truly stated and argued (London : Printed for Tho. Parkhurst, 1690)"
+  ],
+  "baxter-world-of-spirits-1691": [
+   "certaintyofworld00baxt",
+   "The certainty of the worlds of spirits, and consequently, of the immortality of souls. of the malice and misery of the devils, and the damned. And of the blessedness of the justified, : fully evinced by unquestionable histories of apparitions, operations, witchcrafts, voices, &c (London, : Printed for T. Parkhurst at the Bible and Three Crowns in Cheapside; and J. Salusbury at the Rising Sun near the Royal Exchange in Cornhill, 1691)"
+  ],
+  "baxter-revolt-foreign-jurisdiction-1691": [
+   "revolttof00baxt",
+   "Against the revolt to a foreign jurisdiction : which would be to England its perjury, church ruine and slavery (London : Printed for Tho. Parkhurst, 1691)"
+  ],
+  "baxter-end-doctrinal-controversies-1691": [
+   "endofdoc00baxt",
+   "An end of doctrinal controversies which have lately troubled the churches by reconciling explication, without much disputing (London : Printed for John Salusbury, 1691)"
+  ],
+  "baxter-protestant-religion-1692": [
+   "protreligi00baxt",
+   "The Protestant religion truly stated and justified (London : Printed for John Salusbury, 1692)"
+  ],
+  "baxter-reliquiae-baxterianae-1696": [
+   "reliquiaebaxteri00baxt",
+   "Reliquiæ Baxterianæ: or, Mr. Richard Baxter's narrative of the most memorable passages of his life and times (London : Printed for T. Parkhurst, J. Robinson, J. Lawrence, and J. Dunton, 1696)"
+  ]
+ },
+ "_alternates": {
+  "PG 58135": "The Saint's Everlasting Rest on Gutenberg; not fetched: CCEL's is held. Which edition each follows is unchecked.",
+  "practicalworksof{02,09,12}baxt, practicalworksof03baxtuoft, practicalworksr*baxtgoog, practicalworksr0[0-3]unkngoog/ormegoog, 10785351bsb": "Further scans of Orme 1830 volumes; verified by title page where read, not fetched: duplicates of the set above.",
+  "practicalworksof0001baxt, practicalworksof0004baxt, bim_eighteenth-century_works-the-practical-wo_baxter-richard_1707_*": "The Practical Works in four folio volumes (1707); not fetched: Orme supersedes it for the practical works. Note: the 1707 folios hold some texts Orme omitted.",
+  "practicalworksof0[2-4]baxt_0, practicalworksr22baxtgoog": "The 1838/1845 four-volume Practical Works; not fetched.",
+  "achristiandirec0[0-4]baxtgoog": "A Christian Directory, 1825; not fetched: Gutenberg's is held.",
+  "selectpractical*": "Select Practical Writings, ed. Leonard Bacon (1831-1855); not fetched: a selection."
+ },
+ "_excluded": {
+  "saintseverlastin00baxt_1, bim_eighteenth-century_the-saints-everlasting-r_baxter-richard_179*": "Wesley's abridgement, not Baxter's text",
+  "worksmoralandre*": "The works of Sir Matthew Hale, Baxter only a contributor",
+  "CCEL baxter/practical": "CCEL's 'Practical Works of Richard Baxter' is a stub: 965 paragraph tags but only about 8.5 KB of text (contents and page breaks; the chapters are empty). Fetched once 2026-10-02, measured, and dropped. The Christian Directory it outlines is held from Gutenberg.",
+  "baxter-x-practical": "later printings of the practical treatises (Saints' Rest, Gildas Salvianus, Right Method, Life of Faith, Divine Life, Self-Denial, Crucifying the World, Mischiefs of Self-Ignorance, Treatise of Death, Poor Man's Family Book, Catechizing of Families, Reasons of the Christian Religion, Unreasonableness of Infidelity, Converse with God, Monthly Preparations): Orme's Practical Works holds them",
+  "baxter-x-others": "Salter's Plea for Congregational Government, A Door of Salvation Opened, Burnet's Lives of Hale, and Calamy's Abridgment of Baxter's History are other men's books",
+  "baxter-x-verse": "Poetical Fragments (1689) is verse",
+  "baxter-x-dups": "other copies of the books added 2026-10-28"
+ },
+ "_pending": {
+  "Reliquiae Baxterianae (1696)": "Baxter's autobiography; not in Orme's Practical Works; no scan verified yet",
+  "Methodus Theologiae, Catholick Theology and other controversial works": "not in the Practical Works; not searched this burn"
+ },
+ "_checks": {
+  "baxter-causes": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "baxter-reformed-pastor": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "baxter-saints-rest": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: American Tract Society, 184?",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "baxter-call-unconverted": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "York: Wilson, Spence, and Mawman, 1795.",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "baxter-directory-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baxter-directory-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baxter-directory-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baxter-directory-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baxter-works-orme-01": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-02": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-03": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-04": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-05": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-06": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-07": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-08": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-09": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-10": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-11": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-12": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-13": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-14": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-15": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-16": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-17": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-18": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-19": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-20": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-21": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-22": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-23": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-aphorismes-justification-1649": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1649",
+   "ia_date": "1649",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-infant-baptism-1651": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1656",
+   "ia_date": "1656",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-christian-concord-1653": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1653",
+   "ia_date": "1653",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-admonition-eyres-1654": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1654",
+   "ia_date": "1654",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-apology-1654": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1654",
+   "ia_date": "1654",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-confession-1655": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1655",
+   "ia_date": "1655",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-safe-religion-1657": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1657",
+   "ia_date": "1657",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-four-disputations-justification-1658": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-confirmation-restauration-1658": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-grotian-religion-1658": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-saving-faith-1658": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-key-for-catholicks-1659": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-five-disputations-1659": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-holy-commonwealth-1659": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-successive-visibility-1660": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-universal-concord-1660": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-catholick-unity-1660": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-defence-principles-love-1671": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1671",
+   "ia_date": "1671",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-lords-day-1671": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1671",
+   "ia_date": "1671",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-second-admonition-1671": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1671",
+   "ia_date": "1671",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-sacrilegious-desertion-1672": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1672",
+   "ia_date": "1672",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-full-satisfaction-1674": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1674",
+   "ia_date": "1674",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-infants-church-membership-1675": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1675",
+   "ia_date": "1675",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-catholick-theology-1675": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1675",
+   "ia_date": "1675",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-roman-tradition-1676": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1676",
+   "ia_date": "1676",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-justifying-righteousness-1676": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1676",
+   "ia_date": "1676",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-naked-popery-1677": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1677",
+   "ia_date": "1677",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-nonconformists-plea-1679": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1679",
+   "ia_date": "1679",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-imputative-righteousness-1679": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1679",
+   "ia_date": "1679",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-answer-stillingfleet-1680": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1680",
+   "ia_date": "1680",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-way-of-concord-1680": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1680",
+   "ia_date": "1680",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-church-history-bishops-1680": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1680",
+   "ia_date": "1680",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-english-schism-1681": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1681",
+   "ia_date": "1681",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-second-true-defence-1681": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1681",
+   "ia_date": "1681",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-episcopacy-1681": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1681",
+   "ia_date": "1681",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-immortality-soul-1682": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1682",
+   "ia_date": "1682",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-history-councils-1682": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1682",
+   "ia_date": "1682",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-answer-dodwell-1682": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1682",
+   "ia_date": "1682",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-paraphrase-nt-1685": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1685",
+   "ia_date": "1685",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-cain-abel-1689": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1689",
+   "ia_date": "1689",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-scripture-gospel-defended-1690": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1690",
+   "ia_date": "1690",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-english-nonconformity-1690": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1690",
+   "ia_date": "1690",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-world-of-spirits-1691": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1691",
+   "ia_date": "1691",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-revolt-foreign-jurisdiction-1691": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1691",
+   "ia_date": "1691",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-end-doctrinal-controversies-1691": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1691",
+   "ia_date": "1691",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-protestant-religion-1692": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1692",
+   "ia_date": "1692",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-reliquiae-baxterianae-1696": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1696",
+   "ia_date": "1696",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "baxter-paraphrase-nt-1685": {
+   "title": "long-s OCR: 'Paraphrafe' 16 times and 'Teftament' 34 times in the text; the preface is Baxter's own account of writing the paraphrase (read 2026-10-28)"
+  },
+  "baxter-reliquiae-baxterianae-1696": {
+   "title": "ae-ligature title lost to OCR; 'Baxter' appears 526 times and 'Narrative' 10 times; the IA record is the 1696 Sylvester folio (checked 2026-10-28)"
+  },
+  "baxter-christian-concord-1653": {
+   "author": "the title page reads 'Mr. Baxters Explication and Defence of it' (possessive, so the whole-word surname check misses it); Worcestershire Association, London 1653 (read 2026-10-28)"
+  }
+ }
+}

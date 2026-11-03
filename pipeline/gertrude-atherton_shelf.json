@@ -1,0 +1,444 @@
+{
+ "_about": "Gertrude Atherton's California novels and others: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Gertrude Atherton",
+ "_name_words": [
+  "atherton"
+ ],
+ "_surname": [
+  "gertrude atherton",
+  "gertrude franklin horn atherton",
+  "gertrude franklin atherton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gatherton-valiant-runaways": [
+   3706,
+   "The Valiant Runaways"
+  ],
+  "gatherton-senator-north": [
+   6091,
+   "Senator North"
+  ],
+  "gatherton-sleeping-fires": [
+   6884,
+   "Sleeping Fires: a Novel"
+  ],
+  "gatherton-avalanche": [
+   7863,
+   "The Avalanche: A Mystery Story"
+  ],
+  "gatherton-sisters-in-law": [
+   8535,
+   "The Sisters-In-Law: A Novel of Our Time"
+  ],
+  "gatherton-doomswoman": [
+   12270,
+   "The Doomswoman: An Historical Romance of Old California"
+  ],
+  "gatherton-splendid-idle-forties": [
+   12697,
+   "The Splendid Idle Forties: Stories of Old California"
+  ],
+  "gatherton-what-dreams-may-come": [
+   12833,
+   "What Dreams May Come"
+  ],
+  "gatherton-conqueror": [
+   13246,
+   "The Conqueror: Being the True and Romantic Story of Alexander Hamilton"
+  ],
+  "gatherton-white-morning": [
+   13496,
+   "The White Morning: A Novel of the Power of the German Women in Wartime"
+  ],
+  "gatherton-living-present": [
+   14197,
+   "The Living Present"
+  ],
+  "gatherton-bell-in-the-fog-and-other-stories": [
+   14256,
+   "The Bell in the Fog and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "gatherton-californians": [
+   21903,
+   "The Californians"
+  ],
+  "gatherton-black-oxen": [
+   25542,
+   "Black Oxen"
+  ],
+  "gatherton-gorgeous-isle": [
+   30502,
+   "The Gorgeous Isle: A Romance; Scene-- Nevis, B.W.I. 1842"
+  ],
+  "gatherton-ancestors": [
+   31858,
+   "Ancestors: A Novel"
+  ],
+  "gatherton-a-daughter-of-the-vine": [
+   35512,
+   "A Daughter of the Vine"
+  ],
+  "gatherton-mrs-balfame": [
+   39443,
+   "Mrs. Balfame: A Novel"
+  ],
+  "gatherton-life-in-the-war-zone": [
+   48160,
+   "Life in the War Zone"
+  ],
+  "gatherton-hermia-suydam": [
+   50169,
+   "Hermia Suydam"
+  ],
+  "gatherton-travelling-thirds": [
+   50391,
+   "The Travelling Thirds"
+  ],
+  "gatherton-mrs-pendletons-four-in-hand": [
+   51059,
+   "Mrs. Pendleton's Four-in-hand"
+  ],
+  "gatherton-patience-sparhawk-and-her-times": [
+   53009,
+   "Patience Sparhawk and Her Times: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "gatherton-tower-of-ivory": [
+   56340,
+   "Tower of Ivory: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "gatherton-julia-france-and-her-times": [
+   57922,
+   "Julia France and Her Times: A Novel"
+  ],
+  "gatherton-crystal-cup": [
+   65310,
+   "The Crystal Cup"
+  ],
+  "gatherton-a-whirl-asunder": [
+   67075,
+   "A Whirl Asunder"
+  ],
+  "gatherton-his-fortunate-grace": [
+   68222,
+   "His fortunate Grace"
+  ],
+  "gatherton-perch-of-the-devil": [
+   69429,
+   "Perch of the Devil"
+  ],
+  "gatherton-rulers-of-kings": [
+   69460,
+   "Rulers of kings: A novel"
+  ],
+  "gatherton-aristocrats": [
+   72957,
+   "The aristocrats"
+  ],
+  "gatherton-transplanted": [
+   72997,
+   "Transplanted"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "gatherton-valiant-runaways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-senator-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-sleeping-fires": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-avalanche": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-sisters-in-law": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-doomswoman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-splendid-idle-forties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-what-dreams-may-come": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude franklin horn atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-conqueror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude franklin horn atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-white-morning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-living-present": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-bell-in-the-fog-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-californians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-black-oxen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-gorgeous-isle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-ancestors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-a-daughter-of-the-vine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-mrs-balfame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-life-in-the-war-zone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-hermia-suydam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude franklin horn atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-travelling-thirds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-mrs-pendletons-four-in-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-patience-sparhawk-and-her-times": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-tower-of-ivory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-julia-france-and-her-times": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-crystal-cup": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-a-whirl-asunder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-his-fortunate-grace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-perch-of-the-devil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-rulers-of-kings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-aristocrats": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatherton-transplanted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gertrude atherton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

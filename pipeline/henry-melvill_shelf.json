@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain Henry Melvill (1798-1871, Principal of the East India College, Haileybury, Canon of St Paul's, the most admired London preacher of his day) for the Word Hoard: Sermons ed. C. P. M'Ilvaine (2 vols, New York 1853), Sermons before the University of Cambridge (1836), Sermons on the Less Prominent Facts in Sacred Story (London 1843 and New York 1846), Sermons on Public Occasions (1846) and Lectures on Practical Subjects at St Margaret's, Lothbury (New York 1858), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "melvill",
+  "henry"
+ ],
+ "_surname": [
+  "henry melvill",
+  "henry melyill",
+  "h. melvill",
+  "melvill, henry",
+  "rev. henry melvill"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "melvill-sermons-1": [
+   "sermonsmcp01melv",
+   "Sermons, ed. C. P. M'Ilvaine, in two volumes, vol. 1 (New York: Stanford and Swords, 1853)"
+  ],
+  "melvill-sermons-2": [
+   "sermonsmcp02melv",
+   "Sermons, ed. C. P. M'Ilvaine, in two volumes, vol. 2 (New York: Stanford and Swords, 1853)"
+  ],
+  "melvill-cambridge-1836": [
+   "sermonspreached01melvgoog",
+   "Sermons Preached before the University of Cambridge during February 1836 (Cambridge: Pitt Press, 1836)"
+  ],
+  "melvill-less-prominent-facts-1": [
+   "sermonsoncertain01melv",
+   "Sermons on Certain of the Less Prominent Facts and References in Sacred Story, vol. 1 (London: Rivington, 1843)"
+  ],
+  "melvill-less-prominent-facts-2": [
+   "sermonsoncertain00melvrich",
+   "Sermons on Certain of the Less Prominent Facts and References in Sacred Story, second series (New York: Stanford and Swords, 1846)"
+  ],
+  "melvill-public-occasions-1846": [
+   "sermonspreachedo00melv",
+   "Sermons on Public Occasions (London: Francis & John Rivington, 1846)"
+  ],
+  "melvill-lothbury-lectures-1858": [
+   "lecturesonpracti00melv",
+   "Lectures on Practical Subjects, delivered at St. Margaret's, Lothbury (New York: Stanford & Delisser, 1858)"
+  ]
+ },
+ "_alternates": {
+  "melvill-golden-lectures": "The Golden Lectures (London: James Paul; no year on the title page; IA goldenlecturesfo0000melv), not shelved"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "melvill-public-occasions-1846": {
+   "author": "title page read 2026-10-03: OCR gives \"HENRY 'MELVILL, B.D. PRINCIPAL OF THE EAST INDIA COLLEGE, AND CHAPLAIN TO THE TOWER OF LONDON\" (the apostrophe is an OCR artifact), Rivington, London, 1846: Henry Melvill"
+  }
+ },
+ "_checks": {
+  "melvill-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry melyill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "melvill-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry melvill",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "melvill-cambridge-1836": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry melvill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "melvill-less-prominent-facts-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry melvill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "melvill-less-prominent-facts-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry melyill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "melvill-public-occasions-1846": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "melvill-lothbury-lectures-1858": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry melvill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

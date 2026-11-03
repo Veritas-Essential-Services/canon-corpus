@@ -1,0 +1,130 @@
+{
+ "_about": "Edward Caird (1835-1908), raw IA OCR: The Social Philosophy and Religion of Comte (Glasgow: MacLehose, 1885), The Evolution of Religion (Gifford Lectures, St Andrews; New York: Macmillan, 1893, 2 vols.), The Evolution of Theology in the Greek Philosophers (Gifford Lectures, Glasgow; MacLehose, 1904, 2 vols.) and The Critical Philosophy of Immanuel Kant (second edition, MacLehose, 1909, 2 vols.). US public domain. His brother John Caird has his own shelf (john-caird). No uids minted.",
+ "_author": "Edward Caird",
+ "_name_words": [
+  "edward",
+  "e",
+  "caird"
+ ],
+ "_surname": [
+  "caird",
+  "edward caird"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "caird-social-philosophy-of-comte-1885": [
+   "socialphilosophy00cairrich",
+   "The Social Philosophy and Religion of Comte (Glasgow: MacLehose, 1885)"
+  ],
+  "caird-evolution-of-religion-1893-v1": [
+   "evolutionofreligi01cair",
+   "The Evolution of Religion, vol. I (New York: Macmillan, 1893)"
+  ],
+  "caird-evolution-of-religion-1893-v2": [
+   "evolutionofreligi02cair",
+   "The Evolution of Religion, vol. II (New York: Macmillan, 1893)"
+  ],
+  "caird-evolution-of-theology-greek-1904-v1": [
+   "evolutionoftheol01cairuoft",
+   "The Evolution of Theology in the Greek Philosophers, vol. I (Glasgow: MacLehose, 1904)"
+  ],
+  "caird-evolution-of-theology-greek-1904-v2": [
+   "theevolutionofth00cairuoft",
+   "The Evolution of Theology in the Greek Philosophers, vol. II (Glasgow: MacLehose, 1904)"
+  ],
+  "caird-critical-philosophy-of-kant-1909-v1": [
+   "criticalphilosop01cairuoft",
+   "The Critical Philosophy of Immanuel Kant, second edition, vol. I (Glasgow: MacLehose, 1909)"
+  ],
+  "caird-critical-philosophy-of-kant-1909-v2": [
+   "cu31924092290950",
+   "The Critical Philosophy of Immanuel Kant, second edition, vol. II (Glasgow: MacLehose, 1909)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "caird-critical-philosophy-of-kant-1909-v2": {
+   "author": "title page OCR reads 'BY EDWARD CAIRO, D.C.L., LL.D. LATE MASTER OF BALLIOL COLLEGE' (Edward Caird), vol. II, second edition, MacLehose"
+  }
+ },
+ "_checks": {
+  "caird-social-philosophy-of-comte-1885": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caird-evolution-of-religion-1893-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caird-evolution-of-religion-1893-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caird-evolution-of-theology-greek-1904-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caird-evolution-of-theology-greek-1904-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caird-critical-philosophy-of-kant-1909-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caird-critical-philosophy-of-kant-1909-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

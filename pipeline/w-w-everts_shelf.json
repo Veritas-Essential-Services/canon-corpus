@@ -1,0 +1,135 @@
+{
+ "_about": "Public-domain William Wallace Everts, Baptist pastor in Chicago, for the Word Hoard: Words in Earnest, Compend of Christian Doctrines held by Baptists, The Bible in Schools, House of God, his life of William Colgate, The Sabbath, and Concise Comments on Baptism. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 133 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william wallace everts",
+  "w. w. everts",
+  "william w. everts",
+  "everts"
+ ],
+ "_surname": [
+  "everts"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "everts-words-in-earnest": [
+   "wordsinearnesto00evergoog",
+   "Words in Earnest: Or, The Path of Wisdom Made Plain (Edward H. Fletcher, 1852)"
+  ],
+  "everts-compend": [
+   "compendofchristi00ever",
+   "Compend of Christian doctrines held by Baptists : in catechism (Chicago : Church & Goodman, 1866)"
+  ],
+  "everts-bible-in-schools": [
+   "bibleinschools00ever",
+   "The Bible in schools (Chicago : Kennedy & Sumner, 1870)"
+  ],
+  "everts-house-of-god": [
+   "houseofgodorclai00ever",
+   "House of God : or claims of public worship (New York : American Tract Society, 1872)"
+  ],
+  "everts-william-colgate": [
+   "williamcolgatech00ever",
+   "William Colgate: The Christian layman (Philadelphia, American Baptist publication society, 1881)"
+  ],
+  "everts-sabbath": [
+   "sabbathitsperman00ever",
+   "The Sabbath : its permanence, promise, and defence (New York : E. B. Treat, 1885)"
+  ],
+  "everts-comments-baptism": [
+   "concisecomments00evergoog",
+   "Concise Comments on Baptism: With References Verified (American Baptist Publication Society, 1890)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "everts-selections": "the Bible Manual, Scripture School Reader, Pastor's Hand-book and Book of Worship are selections of Scripture and hymns",
+  "everts-others": "the John Foster, Manhood, Christian Womanhood and the life of Everts himself are by others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "everts-design-of-baptism": "Design and subjects of baptism ([Chicago : s.n., 1859) (IA designsubjectsof00ever): the scan has no title page naming him; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "everts-words-in-earnest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "everts-compend": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "Public Domain assumed. No evidence of copyright renewal could be found. Contact dcc@library.uiuc.edu for information.",
+   "ia_lending": null
+  },
+  "everts-bible-in-schools": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "everts-house-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "everts-william-colgate": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "everts-sabbath": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "everts-comments-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

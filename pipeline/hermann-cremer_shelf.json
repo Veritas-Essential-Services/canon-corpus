@@ -1,0 +1,83 @@
+{
+ "_about": "Public-domain Hermann Cremer (1834-1903, Greifswald) in English for the Word Hoard: the Biblico-Theological Lexicon of New Testament Greek, tr. D. W. Simon and William Urwick (Edinburgh, 1872), Beyond the Grave, tr. Samuel T. Lowrie (New York, 1886), and A Reply to Harnack on the Essence of Christianity, tr. Bernhard Pick (1903), from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cremer"
+ ],
+ "_surname": [
+  "cremer",
+  "hermann cremer",
+  "dr. hermann cremer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cremer-lexicon-nt-greek": [
+   "biblicotheologi00cremgoog",
+   "Biblico-Theological Lexicon of New Testament Greek, tr. D. W. Simon and William Urwick (Edinburgh: T. & T. Clark, MDCCCLXXII)"
+  ],
+  "cremer-beyond-the-grave": [
+   "beyondgrave00crem",
+   "Beyond the Grave, tr. Samuel T. Lowrie, introduction by A. A. Hodge (New York: Harper & Brothers, 1886)"
+  ],
+  "cremer-reply-to-harnack": [
+   "replytoharnackon00crem",
+   "A Reply to Harnack on the Essence of Christianity, tr. Bernhard Pick (New York and London: Funk & Wagnalls, 1903)"
+  ]
+ },
+ "_alternates": {
+  "cremer-lexicon-later": "The 1878 second edition (Urwick), 1886-1887 third and 1895 fourth English editions with supplement",
+  "cremer-copies": "Other copies of Beyond the Grave (1886) and the Reply (1903)"
+ },
+ "_excluded": {
+  "cremer-german": "The German Wörterbuch editions"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "cremer-lexicon-nt-greek": "simon",
+  "cremer-beyond-the-grave": "lowrie",
+  "cremer-reply-to-harnack": "pick"
+ },
+ "_checks": {
+  "cremer-lexicon-nt-greek": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cremer",
+   "translator_claimed": "simon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cremer-beyond-the-grave": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cremer",
+   "translator_claimed": "lowrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cremer-reply-to-harnack": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cremer",
+   "translator_claimed": "pick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

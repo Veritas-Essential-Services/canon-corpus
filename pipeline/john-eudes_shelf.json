@@ -1,0 +1,64 @@
+{
+ "_about": "Public-domain John Eudes (Jean Eudes, 1601-1680), founder of the Eudists and apostle of devotion to the Sacred Hearts, for the Word Hoard: The Reign of Jesus, the Abbé Granger's abridgment of his Life and Kingdom of Jesus translated by K. M. L. Harding (imprimatur 1911), and The Most Pure Heart of Mary, selections from Le Coeur admirable (1923), from Internet Archive scans. No complete pre-1930 English Kingdom of Jesus or Admirable Heart was found. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "eudes"
+ ],
+ "_surname": [
+  "eudes",
+  "jean eudes",
+  "john eudes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eudes-reign-of-jesus": [
+   "thereignofjesus00eudeuoft",
+   "The Reign of Jesus, being an abridgment of the work of the Blessed Jean Eudes, by the Abbé Granger, tr. K. M. L. Harding (London: R. & T. Washbourne; New York: Benziger; title page undated, imprimatur 1911)"
+  ],
+  "eudes-most-pure-heart-mary": [
+   "mostpureheartofm0000eude",
+   "The Most Pure Heart of Mary: selections from Le Coeur admirable de la très sacrée Mère de Dieu (London: Burns Oates & Washbourne, 1923)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "eudes-other": "The Love of the Sacred Heart (1920, an anthology); Lives of Eudes (1874, 1880, 1905); the 1946-48 complete translations"
+ },
+ "_rights_checked": {
+  "eudes-reign-of-jesus": "title page read: an abridgment by the Abbé Granger, translated by K. M. L. Harding; no year on the title page, imprimatur dated 6 December 1911",
+  "eudes-most-pure-heart-mary": "title page read: translator not named; the year is OCR'd 1023 (1923), imprimatur MCMXV; selections only"
+ },
+ "_pending": {},
+ "_translators": {
+  "eudes-reign-of-jesus": "harding"
+ },
+ "_checks": {
+  "eudes-reign-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eudes",
+   "translator_claimed": "harding",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: an abridgment by the Abbé Granger, translated by K. M. L. Harding; no year on the title page, imprimatur dated 6 December 1911"
+  },
+  "eudes-most-pure-heart-mary": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eudes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the year is OCR'd 1023 (1923), imprimatur MCMXV; selections only"
+  }
+ }
+}

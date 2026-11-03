@@ -1,0 +1,68 @@
+{
+ "_about": "Public-domain Meister Eckhart (c.1260-1328, Dominican) in English for the Word Hoard: Meister Eckhart's Sermons, tr. Claud Field (Allenson, about 1909) from CCEL, and C. de B. Evans's translation of Pfeiffer's edition, vol. I (John M. Watkins, 1924) from an Internet Archive scan. Evans's vol. II (1931) is out of range. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "eckhart",
+ "_name_words": [
+  "eckhart"
+ ],
+ "_surname": [
+  "meister eckhart",
+  "eckhart"
+ ],
+ "_held": {},
+ "ccel": {
+  "eckhart-sermons-field": [
+   "sermons",
+   "Meister Eckhart's Sermons, tr. Claud Field (London: H. R. Allenson; no year, catalogued 1909)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "eckhart-evans-pfeiffer-1": [
+   "bwb_S0-BSM-411",
+   "Meister Eckhart, by Franz Pfeiffer, translation by C. de B. Evans, vol. I (London: John M. Watkins, 1924)"
+  ]
+ },
+ "_alternates": {
+  "eckhart-evans-copy": "in.ernet.dli.2015.31707: Evans vol. I, no year in the OCR"
+ },
+ "_excluded": {
+  "eckhart-late": "Evans's second impression (1947) and vol. II (1931, 1952), both catalogued 1924",
+  "eckhart-wrong": "annaliuniversal126unkngoog, an Italian medical journal catalogued as Eckhart",
+  "eckhart-german": "CCEL eckhart/mystische (Landauer, Berlin 1903) and other German editions"
+ },
+ "_rights_checked": {
+  "eckhart-sermons-field": "title page read: H. R. Allenson, Racquet Court, no year; CCEL's print source gives [1909?]; Allenson's Heart and Life Booklets ran in the 1900s"
+ },
+ "_pending": {},
+ "_translators": {
+  "eckhart-evans-pfeiffer-1": "evans"
+ },
+ "_checks": {
+  "eckhart-sermons-field": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "meister eckhart",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London, H. R. Allenson [1909?]",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "eckhart-evans-pfeiffer-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "meister eckhart",
+   "translator_claimed": "evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

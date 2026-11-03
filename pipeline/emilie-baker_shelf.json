@@ -1,0 +1,46 @@
+{
+ "_about": "Emilie Kip Baker's Stories of Old Greece and Rome (copyright 1913), Greek and Roman myths retold for young readers. Gutenberg catalogue: Baker 1873-1951. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Emilie Kip Baker",
+ "_name_words": [
+  "greece"
+ ],
+ "_surname": [
+  "emilie kip baker",
+  "emilie k. baker"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ebaker-stories-of-old-greece-and-rome": [
+   45489,
+   "Stories of Old Greece and Rome",
+   {
+    "levels": [
+     {
+      "re": "(?i)(In\\ the\\ Beginning|The\\ Story\\ of\\ Pandora|The\\ Deluge|Minerva|Apollo\\ and\\ King\\ Admetus|Apollo\\ the\\ Musician|The\\ Love\\ of\\ Apollo|Diana|The\\ Story\\ of\\ Endymion|Mercury|Venus|The\\ Story\\ of\\ Cupid\\ and\\ Psyche|Famous\\ Lovers|The\\ Story\\ of\\ Orpheus\\ and\\ Eurydice|Mars\\ and\\ Vulcan|The\\ Story\\ of\\ Proserpina|Pluto\\ and\\ the\\ Underworld|Neptune\\ and\\ the\\ Sea\\-Gods|Bacchus|Pan\\ and\\ the\\ Nymphs|The\\ Vestals|Minor\\ Deities|Hercules|Perseus|Bellerophon|The\\ Story\\ of\\ Jason|The\\ Calydonian\\ Hunt|Theseus|Œdipus|The\\ Apple\\ of\\ Discord|Index|INDEX)\\.?$",
+      "max": 45,
+      "number_repeats": true
+     },
+     {
+      "re": "Part I+\\.?$|[IVX]+\\. [A-ZÆŒ][a-zæœ]+(,? (and )?[A-Z][a-z]+)*$",
+      "max": 50
+     }
+    ],
+    "start": "In the Beginning$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ebaker-stories-of-old-greece-and-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emilie kip baker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

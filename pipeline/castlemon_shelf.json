@@ -1,0 +1,777 @@
+{
+ "_about": "Harry Castlemon's (Charles Austin Fosdick's) series stories for boys: every English text under the name at Gutenberg (catalogue: 1842-1915). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Harry Castlemon",
+ "_name_words": [
+  "castlemon"
+ ],
+ "_surname": [
+  "harry castlemon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "castlemon-frank-on-the-lower-mississippi": [
+   6958,
+   "Frank on the Lower Mississippi"
+  ],
+  "castlemon-frank-the-young-naturalist": [
+   12405,
+   "Frank, the Young Naturalist"
+  ],
+  "castlemon-frank-on-a-gun-boat": [
+   12808,
+   "Frank on a Gun-Boat"
+  ],
+  "castlemon-frank-among-the-rancheros": [
+   17349,
+   "Frank among the Rancheros"
+  ],
+  "castlemon-boy-trapper": [
+   18076,
+   "The Boy Trapper",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-george-at-the-fort": [
+   21664,
+   "George at the Fort; Or, Life Among the Soldiers"
+  ],
+  "castlemon-true-to-his-colors": [
+   28391,
+   "True To His Colors",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-rodney-the-partisan": [
+   29300,
+   "Rodney, the Partisan",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-marcy-the-blockade-runner": [
+   29387,
+   "Marcy the Blockade Runner",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-elam-storm-the-wolfer": [
+   30428,
+   "Elam Storm, the Wolfer; Or, The Lost Nugget",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-marcy-the-refugee": [
+   31831,
+   "Marcy, the Refugee"
+  ],
+  "castlemon-no-moss": [
+   33226,
+   "No Moss; Or, The Career of a Rolling Stone",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-haunted-mine": [
+   37857,
+   "The Haunted Mine"
+  ],
+  "castlemon-frank-in-the-mountains": [
+   41802,
+   "Frank in the Mountains",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-frank-before-vicksburg-the-gun-boat-series": [
+   42099,
+   "Frank Before Vicksburg The Gun-Boat Series",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-frank-on-the-prairie": [
+   42101,
+   "Frank on the Prairie",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-first-capture": [
+   42113,
+   "The First Capture; or, Hauling Down the Flag of England",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-frank-in-the-woods": [
+   42307,
+   "Frank in the Woods",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-frank-at-don-carlos-rancho": [
+   42358,
+   "Frank at Don Carlos' Rancho"
+  ],
+  "castlemon-julian-mortimer": [
+   51738,
+   "Julian Mortimer: A Brave Boy's Struggle for Home and Fortune"
+  ],
+  "castlemon-a-struggle-for-a-fortune": [
+   52287,
+   "A Struggle for a Fortune"
+  ],
+  "castlemon-a-rebellion-in-dixie": [
+   53362,
+   "A Rebellion in Dixie"
+  ],
+  "castlemon-frank-nelson-in-the-forecastle": [
+   53420,
+   "Frank Nelson in the Forecastle; Or, The Sportman's Club Among the Whalers"
+  ],
+  "castlemon-don-gordons-shooting-box": [
+   53479,
+   "Don Gordon's Shooting-Box",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-george-at-the-wheel": [
+   53544,
+   "George at the Wheel; Or, Life in the Pilot-House"
+  ],
+  "castlemon-george-in-camp": [
+   53666,
+   "George in Camp; or, Life on the Plains"
+  ],
+  "castlemon-sailor-jack-the-trader": [
+   54049,
+   "Sailor Jack, the Trader",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-a-sailor-in-spite-of-himself": [
+   54741,
+   "A Sailor in Spite of Himself",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-oscar-in-africa": [
+   54954,
+   "Oscar in Africa",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-our-fellows": [
+   55402,
+   "Our Fellows; Or, Skirmishes with the Swamp Dragoons",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-go-ahead": [
+   55683,
+   "Go-Ahead; Or, The Fisher-Boy's Motto",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-joe-wayring-at-home": [
+   55730,
+   "Joe Wayring at Home; or, The Adventures of a Fly-Rod"
+  ],
+  "castlemon-snagged-and-sunk": [
+   55843,
+   "Snagged and Sunk; Or, The Adventures of a Canvas Canoe",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-carl-the-trailer": [
+   55923,
+   "Carl the Trailer"
+  ],
+  "castlemon-rodney-the-overseer": [
+   56216,
+   "Rodney, the Overseer",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-guy-harris-the-runaway": [
+   56381,
+   "Guy Harris, the Runaway"
+  ],
+  "castlemon-mail-carrier": [
+   56408,
+   "The Mail Carrier",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-snowed-up": [
+   56449,
+   "Snowed Up; or, The Sportman's Club in the Mountains",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-buried-treasure": [
+   56676,
+   "The Buried Treasure; Or, Old Jordan's \"Haunt\""
+  ],
+  "castlemon-boy-traders": [
+   56868,
+   "The Boy Traders; Or, The Sportsman's Club Among the Boers",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-camp-in-the-foot-hills": [
+   60220,
+   "The Camp in the Foot-Hills; or, Oscar on Horseback",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-missing-pocket-book": [
+   60322,
+   "The Missing Pocket-Book; Or, Tom Mason's Luck",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-mystery-of-lost-river-canyon": [
+   60407,
+   "The Mystery of Lost River Canyon",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-rod-and-gun-club": [
+   60838,
+   "The Rod and Gun Club"
+  ],
+  "castlemon-sportsmans-club-in-the-saddle": [
+   60890,
+   "The Sportsman's Club in the Saddle"
+  ],
+  "castlemon-sportsmans-club-afloat": [
+   60984,
+   "The Sportsman's Club Afloat"
+  ],
+  "castlemon-steel-horse": [
+   61486,
+   "The Steel Horse: The Rambles of a Bicycle",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-winged-arrows-medicine": [
+   61767,
+   "Winged Arrow's Medicine; Or, The Massacre at Fort Phil Kearney"
+  ],
+  "castlemon-young-game-warden": [
+   62866,
+   "The Young Game-Warden"
+  ],
+  "castlemon-tom-newcombe": [
+   64169,
+   "Tom Newcombe; Or, the Boy of Bad Habits",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-two-ways-of-becoming-a-hunter": [
+   64280,
+   "Two Ways of Becoming a Hunter",
+   {
+    "contents_only": true
+   }
+  ],
+  "castlemon-young-wild-fowlers": [
+   64366,
+   "The Young Wild-Fowlers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "castlemon-frank-on-the-lower-mississippi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-frank-the-young-naturalist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-frank-on-a-gun-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-frank-among-the-rancheros": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-boy-trapper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-george-at-the-fort": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-true-to-his-colors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-rodney-the-partisan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-marcy-the-blockade-runner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-elam-storm-the-wolfer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-marcy-the-refugee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-no-moss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-haunted-mine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-frank-in-the-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-frank-before-vicksburg-the-gun-boat-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-frank-on-the-prairie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-first-capture": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-frank-in-the-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-frank-at-don-carlos-rancho": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-julian-mortimer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-a-struggle-for-a-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-a-rebellion-in-dixie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-frank-nelson-in-the-forecastle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-don-gordons-shooting-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-george-at-the-wheel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-george-in-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-sailor-jack-the-trader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-a-sailor-in-spite-of-himself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-oscar-in-africa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-our-fellows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-go-ahead": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-joe-wayring-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-snagged-and-sunk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-carl-the-trailer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-rodney-the-overseer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-guy-harris-the-runaway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-mail-carrier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-snowed-up": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-buried-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-boy-traders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-camp-in-the-foot-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-missing-pocket-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-mystery-of-lost-river-canyon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-rod-and-gun-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-sportsmans-club-in-the-saddle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-sportsmans-club-afloat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-steel-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-winged-arrows-medicine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-young-game-warden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-tom-newcombe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-two-ways-of-becoming-a-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castlemon-young-wild-fowlers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harry castlemon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,355 @@
+{
+ "_about": "SHELF of Camões's Lusiads in English before 1931, the translations no other shelf holds: Fanshawe (1655), Musgrave (1826), Quillinan (1853, books I-V), Mitchell (1854), Aubertin (1878-84, with the Portuguese) and Duff (1880). Mickle's (1776) is on singles-medieval-epic and Burton's (1880) on burton. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 102); Adam may veto. No uids minted.",
+ "_name_words": [
+  "aubertin",
+  "edward quillinan",
+  "fanshaw",
+  "fanshawe",
+  "ffrench duff",
+  "j. j. aubertin",
+  "livingston mitchell",
+  "musgrave",
+  "quillinan",
+  "richard fanshawe",
+  "robert ffrench duff",
+  "t. livingston mitchell",
+  "thomas moore musgrave"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. 'mitchell' and 'duff' alone are left out as common surnames.",
+ "_surname": [
+  "aubertin",
+  "edward quillinan",
+  "fanshaw",
+  "fanshawe",
+  "ffrench duff",
+  "j. j. aubertin",
+  "livingston mitchell",
+  "musgrave",
+  "quillinan",
+  "richard fanshawe",
+  "robert ffrench duff",
+  "t. livingston mitchell",
+  "thomas moore musgrave"
+ ],
+ "_surname_by_slug": {
+  "lus-fanshawe-1655": [
+   "fanshawe",
+   "richard fanshawe",
+   "fanshaw"
+  ],
+  "lus-musgrave-vol-1": [
+   "musgrave",
+   "thomas moore musgrave"
+  ],
+  "lus-musgrave-vol-2": [
+   "musgrave",
+   "thomas moore musgrave"
+  ],
+  "lus-quillinan-books-1-5": [
+   "quillinan",
+   "edward quillinan"
+  ],
+  "lus-mitchell-1854": [
+   "livingston mitchell",
+   "t. livingston mitchell"
+  ],
+  "lus-aubertin-vol-1": [
+   "aubertin",
+   "j. j. aubertin"
+  ],
+  "lus-aubertin-vol-2": [
+   "aubertin",
+   "j. j. aubertin"
+  ],
+  "lus-duff-1880": [
+   "ffrench duff",
+   "robert ffrench duff"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lus-fanshawe-1655": [
+   "lusiadorportugal00came",
+   "The Lusiad, or Portugals Historicall Poem (1655)"
+  ],
+  "lus-musgrave-vol-1": [
+   "lusiadanepicpoe01musggoog",
+   "The Lusiad, an epic poem, vol. I (1826)"
+  ],
+  "lus-musgrave-vol-2": [
+   "lusiadanepicpoe02musggoog",
+   "The Lusiad, an epic poem, vol. II (1826)"
+  ],
+  "lus-quillinan-books-1-5": [
+   "lusiadluisdecam00adamgoog",
+   "The Lusiad of Luis de Camoens, Books I to V (1853)"
+  ],
+  "lus-mitchell-1854": [
+   "lusiadofluisdeca00camo",
+   "The Lusiad of Luis de Camoens, closely translated (1854)"
+  ],
+  "lus-aubertin-vol-1": [
+   "lusiadsofcamoens01cam",
+   "The Lusiads of Camoens, vol. I (1878)"
+  ],
+  "lus-aubertin-vol-2": [
+   "lusiadscamoens00camgoog",
+   "The Lusiads of Camoens, vol. II (1878)"
+  ],
+  "lus-duff-1880": [
+   "lusiadofcamoenst00camrich",
+   "The Lusiad of Camoens, translated into English Spenserian verse (1880)"
+  ]
+ },
+ "titles": {
+  "lusiads-fanshawe-1655": {
+   "source": "lus-fanshawe-1655",
+   "of": "Luís de Camões",
+   "work": "The Lusiad, or Portugals Historicall Poem",
+   "translated": "1655",
+   "translator": "Sir Richard Fanshawe",
+   "scan_edition": "Humphrey Moseley, London, 1655 (first edition); archive.org scan"
+  },
+  "lusiads-musgrave-vol-1": {
+   "source": "lus-musgrave-vol-1",
+   "of": "Luís de Camões",
+   "work": "The Lusiad, an epic poem, vol. I",
+   "translated": "1826",
+   "translator": "Thomas Moore Musgrave",
+   "scan_edition": "John Murray, London, 1826; Google scan",
+   "note": "Blank verse."
+  },
+  "lusiads-musgrave-vol-2": {
+   "source": "lus-musgrave-vol-2",
+   "of": "Luís de Camões",
+   "work": "The Lusiad, an epic poem, vol. II",
+   "translated": "1826",
+   "translator": "Thomas Moore Musgrave",
+   "scan_edition": "John Murray, London, 1826; Google scan"
+  },
+  "lusiads-quillinan-books-1-5": {
+   "source": "lus-quillinan-books-1-5",
+   "of": "Luís de Camões",
+   "work": "The Lusiad of Luis de Camoens, Books I to V",
+   "translated": "1853",
+   "translator": "Edward Quillinan",
+   "scan_edition": "Edward Moxon, London, 1853; Google scan"
+  },
+  "lusiads-mitchell-1854": {
+   "source": "lus-mitchell-1854",
+   "of": "Luís de Camões",
+   "work": "The Lusiad of Luis de Camoens, closely translated",
+   "translated": "1854",
+   "translator": "Sir Thomas Livingston Mitchell",
+   "scan_edition": "T. & W. Boone, London, 1854; archive.org scan"
+  },
+  "lusiads-aubertin-vol-1": {
+   "source": "lus-aubertin-vol-1",
+   "of": "Luís de Camões",
+   "work": "The Lusiads of Camoens, vol. I",
+   "translated": "1878",
+   "translator": "J. J. Aubertin",
+   "scan_edition": "C. Kegan Paul & Co., London, 1878 (first edition); archive.org scan",
+   "note": "Bilingual: the Portuguese 'Os Lusiadas' stands with the English."
+  },
+  "lusiads-aubertin-vol-2": {
+   "source": "lus-aubertin-vol-2",
+   "of": "Luís de Camões",
+   "work": "The Lusiads of Camoens, vol. II",
+   "translated": "1878",
+   "translator": "J. J. Aubertin",
+   "scan_edition": "Kegan Paul, Trench & Co., London, 1884 (second edition); Google scan",
+   "note": "Vol. II of the first edition (1878) was not found as a scan, so this volume is from the second edition."
+  },
+  "lusiads-duff-1880": {
+   "source": "lus-duff-1880",
+   "of": "Luís de Camões",
+   "work": "The Lusiad of Camoens, translated into English Spenserian verse",
+   "translated": "1880",
+   "translator": "Robert Ffrench Duff",
+   "scan_edition": "Matthew Lewtas, Lisbon; Chatto & Windus, London; Lippincott, Philadelphia (preface dated Lisbon, November 1879); archive.org scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "mickle": "Mickle's Lusiad (1776) is on singles-medieval-epic.",
+  "burton": "Burton's Lusiads (1880) is on the burton shelf."
+ },
+ "_checks": {
+  "lus-fanshawe-1655": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanshaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1655",
+   "ia_date": "1655",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lus-musgrave-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "musgrave",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lus-musgrave-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "musgrave",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lus-quillinan-books-1-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "quillinan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lus-mitchell-1854": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "livingston mitchell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lus-aubertin-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "aubertin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lus-aubertin-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "aubertin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lus-duff-1880": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ffrench duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "lus-fanshawe-1655": {
+   "ia": "lusiadorportugal00came",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1655
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lus-musgrave-vol-1": {
+   "ia": "lusiadanepicpoe01musggoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "lus-musgrave-vol-2": {
+   "ia": "lusiadanepicpoe02musggoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lus-quillinan-books-1-5": {
+   "ia": "lusiadluisdecam00adamgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1843,
+    1846,
+    1847,
+    1853,
+    1863,
+    1880
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lus-mitchell-1854": {
+   "ia": "lusiadofluisdeca00camo",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1517,
+    1524,
+    1550,
+    1782,
+    1853,
+    1854
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lus-aubertin-vol-1": {
+   "ia": "lusiadsofcamoens01cam",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1578,
+    1580,
+    1594,
+    1602,
+    1640,
+    1878
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lus-aubertin-vol-2": {
+   "ia": "lusiadscamoens00camgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lus-duff-1880": {
+   "ia": "lusiadofcamoenst00camrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1525,
+    1539,
+    1542,
+    1545,
+    1550,
+    1879
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

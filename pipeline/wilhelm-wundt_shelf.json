@@ -1,0 +1,79 @@
+{
+ "_about": "Wilhelm Wundt (1832-1920), raw IA OCR: Ethics, an investigation of the facts and laws of the moral life, translated from the second German edition (London: Swan Sonnenschein; New York: Macmillan, 3 vols.): vol. I The Facts of the Moral Life, tr. Julia Gulliver and E. B. Titchener (1897); vol. II Ethical Systems, tr. Margaret Floy Washburn (1897); vol. III The Principles of Morality, tr. Washburn (1901). His Introduction to Psychology and Elements of Folk Psychology are on singles-science-craft. US public domain. No uids minted.",
+ "_author": "Wilhelm Wundt",
+ "_name_words": [
+  "wilhelm",
+  "w",
+  "max",
+  "wundt"
+ ],
+ "_surname": [
+  "wundt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wundt-ethics-1897-v1": [
+   "ethicsaninvestig00wunduoft",
+   "Ethics, vol. I: the facts of the moral life (London: Swan Sonnenschein, 1897)",
+   "tr. Julia Gulliver and Edward Bradford Titchener"
+  ],
+  "wundt-ethics-1897-v2": [
+   "cu31924032316576",
+   "Ethics, vol. II: ethical systems (London: Swan Sonnenschein, 1897)",
+   "tr. Margaret Floy Washburn"
+  ],
+  "wundt-ethics-1901-v3": [
+   "ethicsaninvestig03wunduoft",
+   "Ethics, vol. III: the principles of morality and the departments of the moral life (London: Swan Sonnenschein, 1901)",
+   "tr. Margaret Floy Washburn"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "wundt-ethics-1897-v1": "Titchener",
+  "wundt-ethics-1897-v2": "Washburn",
+  "wundt-ethics-1901-v3": "Washburn"
+ },
+ "_checks": {
+  "wundt-ethics-1897-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wundt",
+   "translator_claimed": "Titchener",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1897-1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wundt-ethics-1897-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wundt",
+   "translator_claimed": "Washburn",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wundt-ethics-1901-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wundt",
+   "translator_claimed": "Washburn",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1897-1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

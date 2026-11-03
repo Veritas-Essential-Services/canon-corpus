@@ -1,0 +1,60 @@
+{
+ "_about": "Victor Cousin (1792-1867), raw IA OCR: Course of the History of Modern Philosophy, translated by O. W. Wight (New York: Appleton, 1852, 2 vols.). His Lectures on the True, the Beautiful and the Good (Wight) is on singles-ideas-2. US public domain. No uids minted.",
+ "_author": "Victor Cousin",
+ "_name_words": [
+  "victor",
+  "m",
+  "cousin"
+ ],
+ "_surname": [
+  "cousin",
+  "victor cousin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cousin-wight-history-of-modern-philosophy-1852-v1": [
+   "courseofhistoryo01cous",
+   "Course of the History of Modern Philosophy, vol. I (New York: Appleton, 1852)",
+   "tr. O. W. Wight"
+  ],
+  "cousin-wight-history-of-modern-philosophy-1852-v2": [
+   "courseofthehist02cousuoft",
+   "Course of the History of Modern Philosophy, vol. II (New York: Appleton, 1852)",
+   "tr. O. W. Wight"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "cousin-wight-history-of-modern-philosophy-1852-v1": "Wight",
+  "cousin-wight-history-of-modern-philosophy-1852-v2": "Wight"
+ },
+ "_checks": {
+  "cousin-wight-history-of-modern-philosophy-1852-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cousin",
+   "translator_claimed": "Wight",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cousin-wight-history-of-modern-philosophy-1852-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cousin",
+   "translator_claimed": "Wight",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

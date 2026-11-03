@@ -1,0 +1,402 @@
+{
+ "_about": "Algernon Blackwood's weird tales and novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Algernon Blackwood",
+ "_name_words": [
+  "blackwood"
+ ],
+ "_surname": [
+  "algernon blackwood"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ablackwood-garden-of-survival": [
+   4046,
+   "The Garden of Survival"
+  ],
+  "ablackwood-extra-day": [
+   5894,
+   "The Extra Day",
+   {
+    "contents_only": true
+   }
+  ],
+  "ablackwood-a-prisoner-in-fairyland-the-book-that-uncle-paul": [
+   6021,
+   "A Prisoner in Fairyland (The Book That 'Uncle Paul' Wrote)"
+  ],
+  "ablackwood-centaur": [
+   9964,
+   "The Centaur"
+  ],
+  "ablackwood-three-john-silence-stories": [
+   10624,
+   "Three John Silence Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "ablackwood-three-more-john-silence-stories": [
+   10659,
+   "Three More John Silence Stories"
+  ],
+  "ablackwood-wendigo": [
+   10897,
+   "The Wendigo"
+  ],
+  "ablackwood-damned": [
+   11074,
+   "The Damned",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "ablackwood-man-whom-the-trees-loved": [
+   11377,
+   "The Man Whom the Trees Loved"
+  ],
+  "ablackwood-willows": [
+   11438,
+   "The Willows"
+  ],
+  "ablackwood-human-chord": [
+   11988,
+   "The Human Chord"
+  ],
+  "ablackwood-empty-house-and-other-ghost-stories": [
+   14471,
+   "The Empty House and Other Ghost Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "ablackwood-four-weird-tales": [
+   16726,
+   "Four Weird Tales"
+  ],
+  "ablackwood-jimbo": [
+   30974,
+   "Jimbo: A Fantasy",
+   {
+    "contents_only": true
+   }
+  ],
+  "ablackwood-wave": [
+   33876,
+   "The Wave: An Egyptian Aftermath"
+  ],
+  "ablackwood-promise-of-air": [
+   35132,
+   "The Promise of Air"
+  ],
+  "ablackwood-wolves-of-god-and-other-fey-stories": [
+   38310,
+   "The Wolves of God, and Other Fey Stories (with Wilfred Wilson)"
+  ],
+  "ablackwood-bright-messenger": [
+   43594,
+   "The Bright Messenger"
+  ],
+  "ablackwood-incredible-adventures": [
+   43816,
+   "Incredible Adventures",
+   {
+    "contents_only": true
+   }
+  ],
+  "ablackwood-day-and-night-stories": [
+   45964,
+   "Day and Night Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "ablackwood-john-silence-physician-extraordinary": [
+   49222,
+   "John Silence, Physician Extraordinary"
+  ],
+  "ablackwood-julius-levallon": [
+   50107,
+   "Julius LeVallon: An Episode"
+  ],
+  "ablackwood-karma": [
+   55611,
+   "Karma: A Re-incarnation Play In Prologue, Epilogue & Three Acts (with Violet A. Pearn)"
+  ],
+  "ablackwood-education-of-uncle-paul": [
+   69668,
+   "The education of Uncle Paul"
+  ],
+  "ablackwood-ten-minute-stories": [
+   72928,
+   "Ten minute stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "ablackwood-episodes-before-thirty": [
+   76991,
+   "Episodes before thirty"
+  ],
+  "ablackwood-pans-garden": [
+   77472,
+   "Pan's garden",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ablackwood-garden-of-survival": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-extra-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-a-prisoner-in-fairyland-the-book-that-uncle-paul": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-centaur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-three-john-silence-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-three-more-john-silence-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-wendigo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-damned": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-man-whom-the-trees-loved": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-willows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-human-chord": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-empty-house-and-other-ghost-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-four-weird-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-jimbo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-wave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-promise-of-air": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-wolves-of-god-and-other-fey-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-bright-messenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-incredible-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-day-and-night-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-john-silence-physician-extraordinary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-julius-levallon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-karma": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-education-of-uncle-paul": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-ten-minute-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-episodes-before-thirty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ablackwood-pans-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon blackwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

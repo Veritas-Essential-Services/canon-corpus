@@ -1,0 +1,90 @@
+{
+ "_about": "Public-domain Thomas Turton (1780-1864), Regius Professor of Divinity at Cambridge and Bishop of Ely, for the Word Hoard: The Text of the English Bible as now Printed by the Universities, Natural Theology Considered (his reply to Brougham), The Roman Catholic Doctrine of the Eucharist Considered and his Observations on Wiseman's reply. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 136 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas turton",
+  "t. turton",
+  "turton",
+  "bishop of ely"
+ ],
+ "_surname": [
+  "turton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "turton-english-bible": [
+   "textofenglishbib00turtrich",
+   "The text of the English Bible, as now printed by the universities : considered with reference to a report by a sub-committee of dissenting ministers (Cambridge [Cambridgeshire] : J. Smith, 1833)"
+  ],
+  "turton-natural-theology": [
+   "naturaltheologyc00turt_0",
+   "Natural theology considered with reference to Lord Brougham's Discourse on that subject (London, J. W. Parker; [etc., etc.], 1836)"
+  ],
+  "turton-eucharist": [
+   "a611394600turtuoft",
+   "The Roman Catholic doctrine of the Eucharist considered : in reply to Dr. Wiseman's argument from Scripture (Cambridge : J. & J.J. Deighton, 1837)"
+  ],
+  "turton-wiseman": [
+   "a611401400turtuoft",
+   "Observations on the Rev. Dr. Wiseman's Reply to Dr. Turton's Roman Catholic doctrine of the Eucharist considered (Cambridge : J. & J.J. Deighton, 1839)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "turton-porson": "the Porson vindication and the letter to Beynon are classical controversy",
+  "turton-university": "Thoughts on the Admission of Persons to university degrees is university politics",
+  "turton-other": "the 1800 Address is Sir Thomas Turton's",
+  "turton-dups": "the shorter scan of The Text of the English Bible and the microform of Natural Theology"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "turton-english-bible": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "turton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "turton-natural-theology": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "turton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "turton-eucharist": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "turton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "turton-wiseman": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "turton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

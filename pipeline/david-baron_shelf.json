@@ -1,0 +1,143 @@
+{
+ "_about": "Public-domain David Baron (1855-1926, Hebrew Christian Testimony to Israel) for the Word Hoard: 7 books from Internet Archive scans, held to printings before 1930: The Jewish Problem (with an introduction by A. T. Pierson), Israel's Inalienable Possessions, The Present Attitude of the Jews in relation to Christianity, The Ancient Scriptures and the Modern Jew (second edition, 1901), Types, Psalms, and Prophecies (1906), The History of the Ten 'Lost' Tribes (second edition, 1915) and The Visions and Prophecies of Zechariah (1918). Raw OCR. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "baron"
+ ],
+ "_surname": [
+  "david baron",
+  "baron, david",
+  "by david baron"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "baron-jewish-problem": [
+   "jewishproblemits00baroiala",
+   "The Jewish Problem: its Solution; or, Israel's Present and Future, new edition, introduction by Arthur T. Pierson (London: Morgan and Scott, 12 Paternoster Buildings; no year on title page, catalogued 1900)"
+  ],
+  "baron-inalienable-possessions": [
+   "israelsinalienab00baroiala",
+   "Israel's Inalienable Possessions (London: Morgan and Scott, 12 Paternoster Buildings; no year on title page, catalogued 1900)"
+  ],
+  "baron-present-attitude": [
+   "presentattitudeo00baro",
+   "The Present Attitude of the Jews in relation to Christianity, reprinted from The Missionary Review of the World (London: Morgan and Scott; no year on title page, IA's 1800 date is wrong)"
+  ],
+  "baron-ancient-scriptures": [
+   "ancientscripture00baroiala",
+   "The Ancient Scriptures and the Modern Jew, second edition (London: Hodder and Stoughton, MCMI)"
+  ],
+  "baron-types-psalms-prophecies": [
+   "typespsalmsproph0000davi_o1q2",
+   "Types, Psalms, and Prophecies, first edition (London: Hodder and Stoughton, MCMVI)"
+  ],
+  "baron-ten-lost-tribes": [
+   "historyoftenlost00barouoft",
+   "The History of the Ten 'Lost' Tribes: Anglo-Israelism Examined, second edition (London: Morgan and Scott, MCMXV)"
+  ],
+  "baron-zechariah": [
+   "thevisions00barouoft",
+   "The Visions and Prophecies of Zechariah, first edition (London: Morgan and Scott, MCMXVIII)"
+  ]
+ },
+ "_alternates": {
+  "baron-ten-lost-tribes-pg": "The History of the Ten 'Lost' Tribes, fourth edition revised (Project Gutenberg 38630): undated Morgan and Scott printing (E.C.4, so 1917 or later); the dated 1915 scan is shelved instead",
+  "baron-copies": "Second copies: jewishproblem00baroiala, ancientscripture0000davi, Types, Psalms 1907 (typespsalmsandp00barogoog), Zechariah 1919 (bwb_S0-DHV-904)"
+ },
+ "_excluded": {
+  "baron-late": "The Servant of Jehovah (first edition 1922) survives only in 1954 and 1978 printings; reprints from 1943 onward",
+  "baron-periodical": "The Scattered Nation (periodical, many authors)",
+  "baron-translations": "Yiddish and German translations"
+ },
+ "_rights_checked": {
+  "baron-present-attitude": "title page read: Morgan and Scott, no year, pre-1917 imprint (no E.C.4); the text mentions 1888; author died 1926",
+  "baron-jewish-problem": "title page read: new edition, Morgan and Scott, Office of The Christian, 12 Paternoster Buildings, no year and no E.C.4 district, so before about 1917; author died 1926",
+  "baron-inalienable-possessions": "title page read: Morgan and Scott, 12 Paternoster Buildings, no year; lists The Ancient Scriptures and the Modern Jew (1900), no E.C.4 district, so 1900 to about 1917; author died 1926"
+ },
+ "_pending": {
+  "baron-history-of-israel": "The History of Israel: its Spiritual Significance (IA historyofisraeli0000davi): undated Morgan and Scott printing, E.C.4, lists the 1918 Zechariah; IA's 1900 date is wrong; date not established"
+ },
+ "_checks": {
+  "baron-jewish-problem": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david baron",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[19--?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: new edition, Morgan and Scott, Office of The Christian, 12 Paternoster Buildings, no year and no E.C.4 district, so before about 1917; author died 1926"
+  },
+  "baron-inalienable-possessions": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david baron",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[19--?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Morgan and Scott, 12 Paternoster Buildings, no year; lists The Ancient Scriptures and the Modern Jew (1900), no E.C.4 district, so 1900 to about 1917; author died 1926"
+  },
+  "baron-present-attitude": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david baron",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[18--]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Morgan and Scott, no year, pre-1917 imprint (no E.C.4); the text mentions 1888; author died 1926"
+  },
+  "baron-ancient-scriptures": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david baron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "[1901]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baron-types-psalms-prophecies": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david baron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baron-ten-lost-tribes": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david baron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baron-zechariah": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david baron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

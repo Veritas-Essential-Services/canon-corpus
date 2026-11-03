@@ -1,0 +1,51 @@
+{
+ "_about": "Heinrich Bullinger (1504-1575) in English, the works not on the heinrich-bullinger shelf (draft PR #14, which holds the Parker Society Decades, the standard translation): A Hundred Sermons upon the Apocalypse (tr. John Daus, 1573) (the Matrimonye and the 1551 Dialogue are pending: neither scan prints his name). Texts are from Internet Archive scans of the first printings. A gaps shelf, after the chesterton-gaps precedent, so as not to edit another thread's shelf. Added 2026-10-28 by lane A at Adam's request (his Reformed authors table). No uids minted.",
+ "_name_words": [
+  "heinrich bullinger",
+  "henry bullinger",
+  "bullinger",
+  "bullynger"
+ ],
+ "_surname": [
+  "bullinger",
+  "bullynger",
+  "bullinger̃"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bullinger-apocalypse-1573": [
+   "hvndredsermonsvp00bull",
+   "A hundred sermons upon the Apocalypse of Jesu Christ, tr. John Daus (London: John Day, 1573)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bullinger-fiftie-sermons": "Fiftie godlie and learned sermons (1577, 1587): the older printing of the H. I. translation that the Parker Society Decades reprints",
+  "bullinger-sacraments-1840": "Sermons on the Sacraments (Cambridge, 1840): the sacrament sermons of the fifth Decade, already in the Parker Decades",
+  "bullinger-matrimonye-other": "the 1541, 1546 and 1548 printings of the Coverdale Matrimonye",
+  "bullinger-cohabitacyon": "PG 22151, the Cohabitacyon treatise: a joint Vermigli-Bullinger work, left pending on PR #14",
+  "e-w-bullinger": "E. W. Bullinger (1837-1913) is a different author, with his own shelf"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "bullinger-matrimonye-1552": "The christen state of matrimonye (IA bim_early-english-books-1475-1640_the-christen-state-of-ma_bullinger-heinrich_1552): the title page names only Myles Coverdale, who set it forth; Bullinger's name is nowhere in the text, so the attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "bullinger-dialogue-1551": "A most necessary and frutefull dialogue between the seditious Libertin or rebel Anabaptist and the true obedient Christian, tr. John Veron (IA bim_early-english-books-1475-1640_a-most-necessary-and-fru_bullinger-heinrich_1551): Bullinger's name is nowhere in the text, so the attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "bullinger-apocalypse-1573": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1573",
+   "ia_date": "1573",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

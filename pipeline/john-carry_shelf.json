@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain John Carry (1824-1891), Anglican priest in Canada West, incumbent of the Woodbridge mission in the Diocese of Toronto, for the Word Hoard: Sermons Doctrinal, Devotional and Practical, God's Worship not Self-Seeking, Restorationism (two sermons), An Exposure of the Mischievous Perversions of Holy Scripture in the National Temperance Society's publications, and his edition of King William III's form of prayers. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 111 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john carry",
+  "j. carry"
+ ],
+ "_surname": [
+  "john carry",
+  "j. carry",
+  "carry"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "carry-sermons": [
+   "cihm_54327",
+   "Sermons doctrinal, devotional and practical (Quebec : J. Lovell, 1860)"
+  ],
+  "carry-gods-worship": [
+   "cihm_10279",
+   "God's worship not self-seeking : a sermon preached in Christ Church, Holland Landing, and St. James the Apostle, Sharon, June 1871 (Toronto : H. Rowsell, 1871)"
+  ],
+  "carry-restorationism": [
+   "cihm_88813",
+   "Restorationism : two sermons preached in St. Stephen's Church, Toronto, on the last Sunday after Trinity, 1875 (Toronto : Hart & Rawlinson, 1875)"
+  ],
+  "carry-exposure": [
+   "exposureofmischi00carr",
+   "An exposure of the mischievous perversions of Holy Scripture : in the National Temperance Society's publications, addressed to men of sense and candour (Toronto : Printed by Rowsell & Hutchison, 1885)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "carry-dup": "cihm_00493 (another scan of the Exposure)",
+  "carry-diaconate": "essayonsubjectof00nico (an essay by another hand)",
+  "carry-william-iii": "cihm_92034 (King William III's prayers, which Carry edited)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "carry-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john carry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carry-gods-worship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john carry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carry-restorationism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. carry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carry-exposure": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john carry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain John Maclaurin (1693-1754), minister of the Ramshorn Kirk, Glasgow, for the Word Hoard: his Works (Edinburgh: Maclaren, 1860, two volumes, including Glorying in the Cross of Christ) and An Essay on the Prophecies relating to the Messiah (1773), from Internet Archive scans. Not his brother Colin the mathematician. Added 2026-10-23 by lane A, round 46 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "maclaurin",
+  "m'laurin"
+ ],
+ "_surname": [
+  "john maclaurin",
+  "john m'laurin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "maclaurin-works-1": [
+   "worksofrevjohnma01macl",
+   "The works of the Rev. John Maclaurin, vol. 1 (Edinburgh : J. Maclaren, 1860)"
+  ],
+  "maclaurin-works-2": [
+   "worksofrevjohnma02macl",
+   "The works of the Rev. John Maclaurin, vol. 2 (Edinburgh : J. Maclaren, 1860)"
+  ],
+  "maclaurin-prophecies": [
+   "anessayonprophe00maclgoog",
+   "An essay on the prophecies relating to the Messiah (Edinburgh, W. Gray, 1773)"
+  ]
+ },
+ "_alternates": {
+  "maclaurin-copies": "The 1798, 1818 and 1830 Works; Sermons and Essays (1800, 1811)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "maclaurin-prophecies": "title page text: 'An Essay on the Prophecies relating to the Messiah. To which are subjoined, an Inquiry into Happiness, and three sermons. By the late Reverend Mr John Maclaurin. Published by John Gillies, D.D. one of the Ministers of Glasgow. Edinburgh ... MDCCLXXIII' (the OCR reads 'Maclaurik')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "maclaurin-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john maclaurin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maclaurin-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john maclaurin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maclaurin-prophecies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

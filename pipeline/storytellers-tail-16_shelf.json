@@ -1,0 +1,936 @@
+{
+ "_about": "Storytellers' tail, group 16: 27 authors with 2 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Steele Rudd, Gregor Samarow, Epes Sargent, Scott, H. K. Shackleford, George C. Shedd, Elizabeth Sara Sheppard, Moyle Sherer, Annie Trumbull Slosson, A. De Herries Smith, Caroline Abbot Stanley, Kay Cleaver Strahan, Esmè Stuart, Howard Overing Sturgis, Ernest R. Suffling, Arabella Jane Sullivan, Adah Louise Sutton, Sophie Swett, Godfrey Sweven, Edward William Thomson, Charles E. Van Loan, Margaret Veley, Earle Ashley Walcott, Charles Edmonds Walk, Gertrude Warden, William Ware, Catherine A. Warfield. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 16 (27 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "srudd-on-our-selection": [
+   "steele rudd"
+  ],
+  "srudd-dashwoods": [
+   "steele rudd"
+  ],
+  "gsamarow-for-sceptre-and-crown": [
+   "gregor samarow",
+   "samarow"
+  ],
+  "gsamarow-for-sceptre-and-crown-37724": [
+   "gregor samarow",
+   "samarow"
+  ],
+  "esargent-woman-who-dared": [
+   "epes sargent",
+   "sargent"
+  ],
+  "esargent-peculiar": [
+   "epes sargent",
+   "sargent"
+  ],
+  "scott-marriage-in-high-life-volume-i": [
+   "scott",
+   "caroline lucy scott"
+  ],
+  "scott-marriage-in-high-life-volume-ii": [
+   "scott",
+   "caroline lucy scott"
+  ],
+  "hkshackleford-fred-fearnot-s-new-ranch-and-how-he-and-terry": [
+   "h. k. shackleford",
+   "harvey king shackleford",
+   "shackleford"
+  ],
+  "hkshackleford-halsey-co-or-the-young-bankers-and-speculators": [
+   "h. k. shackleford",
+   "harvey king shackleford",
+   "shackleford"
+  ],
+  "gcshedd-iron-furrow": [
+   "george c. shedd",
+   "george clifford shedd",
+   "shedd"
+  ],
+  "gcshedd-in-the-shadow-of-the-hills": [
+   "george c. shedd",
+   "george clifford shedd",
+   "shedd"
+  ],
+  "essheppard-charles-auchester-volume-1-of-2": [
+   "elizabeth sara sheppard",
+   "sheppard"
+  ],
+  "essheppard-charles-auchester-volume-2-of-2": [
+   "elizabeth sara sheppard",
+   "sheppard"
+  ],
+  "msherer-broken-font": [
+   "moyle sherer",
+   "sherer"
+  ],
+  "msherer-broken-font-43262": [
+   "moyle sherer",
+   "sherer"
+  ],
+  "atslosson-fishin-jimmy": [
+   "annie trumbull slosson",
+   "slosson"
+  ],
+  "atslosson-story-tell-lib": [
+   "annie trumbull slosson",
+   "slosson"
+  ],
+  "adhsmith-arctic-angels": [
+   "a. de herries smith",
+   "augustus de herries smith"
+  ],
+  "adhsmith-arctic-legions": [
+   "a. de herries smith",
+   "augustus de herries smith"
+  ],
+  "castanley-modern-madonna": [
+   "caroline abbot stanley",
+   "stanley"
+  ],
+  "castanley-first-church-s-christmas-barrel": [
+   "caroline abbot stanley",
+   "stanley"
+  ],
+  "kcstrahan-desert-moon-mystery": [
+   "kay cleaver strahan",
+   "strahan"
+  ],
+  "kcstrahan-footprints": [
+   "kay cleaver strahan",
+   "strahan"
+  ],
+  "estuart-carried-off": [
+   "esmè stuart",
+   "stuart"
+  ],
+  "estuart-harum-scarum-s-fortune": [
+   "esmè stuart",
+   "stuart"
+  ],
+  "hosturgis-belchamber": [
+   "howard overing sturgis",
+   "sturgis"
+  ],
+  "hosturgis-tim": [
+   "howard overing sturgis",
+   "sturgis"
+  ],
+  "ersuffling-jethou": [
+   "ernest r. suffling",
+   "ernest richard suffling",
+   "suffling"
+  ],
+  "ersuffling-story-hunter": [
+   "ernest r. suffling",
+   "ernest richard suffling",
+   "suffling"
+  ],
+  "ajsullivan-tales-of-the-peerage-and-the-peasantry": [
+   "arabella jane sullivan",
+   "sullivan"
+  ],
+  "ajsullivan-recollections-of-a-chaperon": [
+   "arabella jane sullivan",
+   "sullivan"
+  ],
+  "alsutton-teddy-bears": [
+   "adah louise sutton",
+   "sutton"
+  ],
+  "alsutton-little-maid-in-toyland": [
+   "adah louise sutton",
+   "sutton"
+  ],
+  "sswett-sonny-boy": [
+   "sophie swett",
+   "swett"
+  ],
+  "sswett-young-ship-builder": [
+   "sophie swett",
+   "swett"
+  ],
+  "gsweven-riallaro": [
+   "godfrey sweven",
+   "sweven"
+  ],
+  "gsweven-limanora": [
+   "godfrey sweven",
+   "sweven"
+  ],
+  "ewthomson-old-man-savarin-and-other-stories": [
+   "edward william thomson",
+   "thomson"
+  ],
+  "ewthomson-old-man-savarin-stories": [
+   "edward william thomson",
+   "thomson"
+  ],
+  "cevanloan-old-man-curry": [
+   "charles e. van loan",
+   "charles emmett van loan"
+  ],
+  "cevanloan-fore": [
+   "charles e. van loan",
+   "charles emmett van loan"
+  ],
+  "mveley-mitchelhurst-place": [
+   "margaret veley",
+   "veley"
+  ],
+  "mveley-mitchelhurst-place-52002": [
+   "margaret veley",
+   "veley"
+  ],
+  "eawalcott-blindfolded": [
+   "earle ashley walcott",
+   "walcott"
+  ],
+  "eawalcott-apple-of-discord": [
+   "earle ashley walcott",
+   "walcott"
+  ],
+  "cewalk-paternoster-ruby": [
+   "charles edmonds walk"
+  ],
+  "cewalk-silver-blade": [
+   "charles edmonds walk"
+  ],
+  "gwarden-her-fairy-prince": [
+   "gertrude warden",
+   "warden"
+  ],
+  "gwarden-gray-wolf-s-daughter": [
+   "gertrude warden",
+   "warden"
+  ],
+  "wware-zenobia": [
+   "william ware"
+  ],
+  "wware-aurelian": [
+   "william ware"
+  ],
+  "cawarfield-miriam-monfort-a-novel": [
+   "catherine a. warfield",
+   "catherine ann warfield",
+   "warfield"
+  ],
+  "cawarfield-sea-and-shore-a-sequel-to-miriam-s-memoirs": [
+   "catherine a. warfield",
+   "catherine ann warfield",
+   "warfield"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "srudd-on-our-selection": [
+   3677,
+   "On Our Selection"
+  ],
+  "srudd-dashwoods": [
+   78216,
+   "The Dashwoods"
+  ],
+  "gsamarow-for-sceptre-and-crown": [
+   37723,
+   "For Sceptre and Crown: A Romance of the Present Time. Vol. 1 (of 2)"
+  ],
+  "gsamarow-for-sceptre-and-crown-37724": [
+   37724,
+   "For Sceptre and Crown: A Romance of the Present Time. Vol. 2 (of 2)"
+  ],
+  "esargent-woman-who-dared": [
+   27457,
+   "The Woman Who Dared"
+  ],
+  "esargent-peculiar": [
+   67872,
+   "Peculiar: A Tale of the Great Transition"
+  ],
+  "scott-marriage-in-high-life-volume-i": [
+   67669,
+   "A Marriage in High Life, Volume I"
+  ],
+  "scott-marriage-in-high-life-volume-ii": [
+   67670,
+   "A Marriage in High Life, Volume II"
+  ],
+  "hkshackleford-fred-fearnot-s-new-ranch-and-how-he-and-terry": [
+   21795,
+   "Fred Fearnot's New Ranch and How He and Terry Managed It"
+  ],
+  "hkshackleford-halsey-co-or-the-young-bankers-and-speculators": [
+   21963,
+   "Halsey & Co. or, The Young Bankers and Speculators"
+  ],
+  "gcshedd-iron-furrow": [
+   17088,
+   "The Iron Furrow"
+  ],
+  "gcshedd-in-the-shadow-of-the-hills": [
+   30037,
+   "In the Shadow of the Hills"
+  ],
+  "essheppard-charles-auchester-volume-1-of-2": [
+   38949,
+   "Charles Auchester, Volume 1 (of 2)"
+  ],
+  "essheppard-charles-auchester-volume-2-of-2": [
+   40259,
+   "Charles Auchester, Volume 2 (of 2)"
+  ],
+  "msherer-broken-font": [
+   43261,
+   "The Broken Font: A Story of the Civil War, Vol. 1 (of 2)"
+  ],
+  "msherer-broken-font-43262": [
+   43262,
+   "The Broken Font: A Story of the Civil War, Vol. 2 (of 2)"
+  ],
+  "atslosson-fishin-jimmy": [
+   12417,
+   "Fishin' Jimmy"
+  ],
+  "atslosson-story-tell-lib": [
+   19989,
+   "Story-Tell Lib"
+  ],
+  "adhsmith-arctic-angels": [
+   73460,
+   "Arctic angels"
+  ],
+  "adhsmith-arctic-legions": [
+   76834,
+   "The Arctic legions"
+  ],
+  "castanley-modern-madonna": [
+   57418,
+   "A Modern Madonna"
+  ],
+  "castanley-first-church-s-christmas-barrel": [
+   70294,
+   "The First Church's Christmas barrel"
+  ],
+  "kcstrahan-desert-moon-mystery": [
+   75436,
+   "The Desert Moon mystery"
+  ],
+  "kcstrahan-footprints": [
+   75577,
+   "Footprints"
+  ],
+  "estuart-carried-off": [
+   23892,
+   "Carried Off: A Story of Pirate Times"
+  ],
+  "estuart-harum-scarum-s-fortune": [
+   45281,
+   "Harum Scarum's Fortune"
+  ],
+  "hosturgis-belchamber": [
+   77826,
+   "Belchamber"
+  ],
+  "hosturgis-tim": [
+   77847,
+   "Tim"
+  ],
+  "ersuffling-jethou": [
+   17618,
+   "Jethou; or, Crusoe Life in the Channel Isles"
+  ],
+  "ersuffling-story-hunter": [
+   76622,
+   "The story hunter"
+  ],
+  "ajsullivan-tales-of-the-peerage-and-the-peasantry": [
+   75709,
+   "Tales of the peerage and the peasantry"
+  ],
+  "ajsullivan-recollections-of-a-chaperon": [
+   75982,
+   "Recollections of a chaperon"
+  ],
+  "alsutton-teddy-bears": [
+   51199,
+   "Teddy Bears"
+  ],
+  "alsutton-little-maid-in-toyland": [
+   52047,
+   "A Little Maid in Toyland"
+  ],
+  "sswett-sonny-boy": [
+   26255,
+   "Sonny Boy"
+  ],
+  "sswett-young-ship-builder": [
+   71346,
+   "The young ship builder"
+  ],
+  "gsweven-riallaro": [
+   67575,
+   "Riallaro: The Archipelago of Exiles"
+  ],
+  "gsweven-limanora": [
+   76533,
+   "Limanora"
+  ],
+  "ewthomson-old-man-savarin-and-other-stories": [
+   20345,
+   "Old Man Savarin, and Other Stories"
+  ],
+  "ewthomson-old-man-savarin-stories": [
+   55431,
+   "Old Man Savarin Stories: Tales of Canada and Canadians"
+  ],
+  "cevanloan-old-man-curry": [
+   29093,
+   "Old Man Curry: Race Track Stories"
+  ],
+  "cevanloan-fore": [
+   36682,
+   "Fore!"
+  ],
+  "mveley-mitchelhurst-place": [
+   39345,
+   "Mitchelhurst Place: A Novel. Vol. 1 (of 2)"
+  ],
+  "mveley-mitchelhurst-place-52002": [
+   52002,
+   "Mitchelhurst Place: A Novel. Vol. 2 (of 2)"
+  ],
+  "eawalcott-blindfolded": [
+   7788,
+   "Blindfolded"
+  ],
+  "eawalcott-apple-of-discord": [
+   52180,
+   "The Apple of Discord"
+  ],
+  "cewalk-paternoster-ruby": [
+   22212,
+   "The Paternoster Ruby"
+  ],
+  "cewalk-silver-blade": [
+   69106,
+   "The silver blade: The true chronicle of a double mystery"
+  ],
+  "gwarden-her-fairy-prince": [
+   70582,
+   "Her fairy prince"
+  ],
+  "gwarden-gray-wolf-s-daughter": [
+   73734,
+   "The gray wolf's daughter"
+  ],
+  "wware-zenobia": [
+   8938,
+   "Zenobia; or, the Fall of Palmyra"
+  ],
+  "wware-aurelian": [
+   21953,
+   "Aurelian; or, Rome in the Third Century"
+  ],
+  "cawarfield-miriam-monfort-a-novel": [
+   12453,
+   "Miriam Monfort A Novel"
+  ],
+  "cawarfield-sea-and-shore-a-sequel-to-miriam-s-memoirs": [
+   15117,
+   "Sea and Shore A Sequel to \"Miriam's Memoirs\""
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "srudd-on-our-selection": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "steele rudd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srudd-dashwoods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "steele rudd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsamarow-for-sceptre-and-crown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gregor samarow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsamarow-for-sceptre-and-crown-37724": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gregor samarow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esargent-woman-who-dared": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "epes sargent",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esargent-peculiar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "epes sargent",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scott-marriage-in-high-life-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scott-marriage-in-high-life-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hkshackleford-fred-fearnot-s-new-ranch-and-how-he-and-terry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. k. shackleford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hkshackleford-halsey-co-or-the-young-bankers-and-speculators": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. k. shackleford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcshedd-iron-furrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. shedd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcshedd-in-the-shadow-of-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. shedd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "essheppard-charles-auchester-volume-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth sara sheppard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "essheppard-charles-auchester-volume-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth sara sheppard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msherer-broken-font": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moyle sherer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msherer-broken-font-43262": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moyle sherer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atslosson-fishin-jimmy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie trumbull slosson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atslosson-story-tell-lib": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie trumbull slosson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adhsmith-arctic-angels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. de herries smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adhsmith-arctic-legions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. de herries smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castanley-modern-madonna": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline abbot stanley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castanley-first-church-s-christmas-barrel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline abbot stanley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kcstrahan-desert-moon-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kay cleaver strahan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kcstrahan-footprints": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kay cleaver strahan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "estuart-carried-off": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "esmè stuart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "estuart-harum-scarum-s-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "esmè stuart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hosturgis-belchamber": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "howard overing sturgis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hosturgis-tim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "howard overing sturgis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ersuffling-jethou": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest r. suffling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ersuffling-story-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest r. suffling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajsullivan-tales-of-the-peerage-and-the-peasantry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arabella jane sullivan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajsullivan-recollections-of-a-chaperon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arabella jane sullivan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alsutton-teddy-bears": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adah louise sutton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alsutton-little-maid-in-toyland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adah louise sutton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sswett-sonny-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophie swett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sswett-young-ship-builder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophie swett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsweven-riallaro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "godfrey sweven",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gsweven-limanora": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "godfrey sweven",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewthomson-old-man-savarin-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward william thomson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewthomson-old-man-savarin-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward william thomson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cevanloan-old-man-curry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. van loan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cevanloan-fore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. van loan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mveley-mitchelhurst-place": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret veley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mveley-mitchelhurst-place-52002": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret veley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eawalcott-blindfolded": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "earle ashley walcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eawalcott-apple-of-discord": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "earle ashley walcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cewalk-paternoster-ruby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edmonds walk",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cewalk-silver-blade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edmonds walk",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwarden-her-fairy-prince": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gertrude warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwarden-gray-wolf-s-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gertrude warden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wware-zenobia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william ware",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wware-aurelian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william ware",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cawarfield-miriam-monfort-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherine a. warfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cawarfield-sea-and-shore-a-sequel-to-miriam-s-memoirs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherine a. warfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

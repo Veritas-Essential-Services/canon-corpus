@@ -1,0 +1,77 @@
+{
+ "_about": "Diogenes Laertius, Lives and Opinions of Eminent Philosophers, in C. D. Yonge's translation (Bohn), clean Gutenberg (from a 1915 printing). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): the translations are public domain; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution and share-alike), and each file's own licence statement and a rights block (license, attribution, source_url, share_alike, redistribute_whole false) are recorded per row in _perseus_checks and in the shelf's perseus report.",
+ "_name_words": [
+  "diogenes",
+  "laertius",
+  "philosophers"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "diogenes-laertius-yonge": [
+   57342,
+   "The Lives and Opinions of Eminent Philosophers",
+   "tr. Charles Duke Yonge"
+  ]
+ },
+ "internet_archive": {},
+ "_surname": [
+  "laertius",
+  "diogenes"
+ ],
+ "_translators": {
+  "diogenes-laertius-yonge": "Charles Duke Yonge",
+  "diogenes-laertius-perseus-hicks-lives-of-eminent-philosopher": "R. D. Hicks"
+ },
+ "_checks": {
+  "diogenes-laertius-yonge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "laertius",
+   "translator_claimed": "Charles Duke Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  }
+ },
+ "perseus": {
+  "diogenes-laertius-perseus-hicks-lives-of-eminent-philosopher": [
+   "tlg0004.tlg001.perseus-eng2",
+   "Lives of Eminent Philosophers",
+   "R. D. Hicks",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Diogenes Laertius. Hicks, R. D., editor. Cambridge, MA.: Harvard University Press; London: William Heinemann Ltd., 1925."
+  ]
+ },
+ "_perseus_checks": {
+  "diogenes-laertius-perseus-hicks-lives-of-eminent-philosopher": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0004.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "R. D. Hicks",
+   "author_seen": "laertius",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ }
+}

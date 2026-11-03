@@ -1,0 +1,168 @@
+{
+ "_about": "Willa Cather's novels and stories not already on another shelf (the reading-list cather shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Willa Cather",
+ "_name_words": [
+  "cather"
+ ],
+ "_surname": [
+  "willa cather"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cather-song-of-the-lark": [
+   44,
+   "The Song of the Lark",
+   {
+    "contents_only": true
+   }
+  ],
+  "cather-alexanders-bridge": [
+   94,
+   "Alexander's Bridge",
+   {
+    "contents_only": true
+   }
+  ],
+  "cather-troll-garden-and-selected-stories": [
+   346,
+   "The Troll Garden, and Selected Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "cather-one-of-ours": [
+   2369,
+   "One of Ours"
+  ],
+  "cather-youth-and-the-bright-medusa": [
+   13555,
+   "Youth and the Bright Medusa",
+   {
+    "contents_only": true
+   }
+  ],
+  "cather-a-collection-of-stories-reviews-and-essays": [
+   25586,
+   "A Collection of Stories, Reviews and Essays",
+   {
+    "contents_only": true
+   }
+  ],
+  "cather-april-twilights-and-other-poems": [
+   64318,
+   "April twilights, and other poems",
+   {
+    "contents_only": true
+   }
+  ],
+  "cather-professors-house": [
+   65465,
+   "The Professor's House"
+  ],
+  "cather-a-lost-lady": [
+   65636,
+   "A Lost Lady"
+  ],
+  "cather-my-mortal-enemy": [
+   78501,
+   "My mortal enemy"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 24, 242, 69730: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-19810": "PG 19810 My Antonia: a second edition; the reading-list cather shelf holds the novel."
+ },
+ "_checks": {
+  "cather-song-of-the-lark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-alexanders-bridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-troll-garden-and-selected-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-one-of-ours": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-youth-and-the-bright-medusa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-a-collection-of-stories-reviews-and-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-april-twilights-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-professors-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-a-lost-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-my-mortal-enemy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

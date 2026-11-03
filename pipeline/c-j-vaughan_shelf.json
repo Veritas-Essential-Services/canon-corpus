@@ -1,0 +1,568 @@
+{
+ "_about": "Public-domain C. J. Vaughan (Charles John Vaughan, 1816-1897, Head Master of Harrow, Master of the Temple, Dean of Llandaff) for the Word Hoard: Prospects of the Church of England (1868) and The Book of Light in the Hand of Love (1872) from Project Gutenberg, and 33 books from Internet Archive scans, 1853-1893: his Greek Romans (1859), lectures on Philippians, Revelation and Acts (The Church of the First Days, three series), and sermons from Harrow, Doncaster, the Temple and the universities. Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "vaughan"
+ ],
+ "_surname": [
+  "charles john vaughan",
+  "c. j. vaughan",
+  "vaughan, charles john",
+  "vaughan, c. j.",
+  "charles john vaughan, d.d.",
+  "c. j. vaughan, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "vaughan-prospects-church": [
+   "63763",
+   "Prospects of the Church of England (London: Bell and Daldy, 1868)"
+  ],
+  "vaughan-book-of-light": [
+   "64471",
+   "The Book of Light in the Hand of Love (London: Longmans, 1872)"
+  ]
+ },
+ "internet_archive": {
+  "vaughan-romans-greek": [
+   "gyprsrwmaouspis00paulgoog",
+   "St Paul's Epistle to the Romans, the Greek text with notes, first edition (Cambridge and London: Macmillan, M.DCCC.LIX)"
+  ],
+  "vaughan-harrow-sermons-2": [
+   "sermonspreached02vauggoog",
+   "Sermons Preached in the Chapel of Harrow School, second series (London: John W. Parker; title-page year OCR'd MDCCCLTII, probably 1853)"
+  ],
+  "vaughan-harrow-sundays": [
+   "memorialsharrow00vauggoog",
+   "Memorials of Harrow Sundays (London: Macmillan, MDCCCLIX)"
+  ],
+  "vaughan-epiphany-lent-easter": [
+   "epiphanylentand00vauggoog",
+   "Epiphany, Lent, and Easter: Sermons, second edition enlarged (London: Macmillan, MDCCCLXI)"
+  ],
+  "vaughan-life-and-godliness": [
+   "lessonslifeandg00vauggoog",
+   "Lessons of Life and Godliness (London: Macmillan, MDCCCLXII)"
+  ],
+  "vaughan-philippians-lectures": [
+   "lecturesonstpau00vauggoog",
+   "Lectures on St Paul's Epistle to the Philippians (London and Cambridge: Macmillan, 1862)"
+  ],
+  "vaughan-revelation-1": [
+   "lecturesonrevel02vauggoog",
+   "Lectures on the Revelation of St John, vol. 1 (London: Macmillan, 1863)"
+  ],
+  "vaughan-revelation-2": [
+   "lecturesonrevel03vauggoog",
+   "Lectures on the Revelation of St John, vol. 2 (London: Macmillan, 1863)"
+  ],
+  "vaughan-book-and-life": [
+   "MN41574ucmf_2",
+   "The Book and the Life, and Other University Sermons, new edition (London: Macmillan, 1864)"
+  ],
+  "vaughan-first-days-1": [
+   "churchfirstdays01vauggoog",
+   "The Church of the First Days, I. The Church of Jerusalem (Cambridge and London: Macmillan, 1864)"
+  ],
+  "vaughan-first-days-2": [
+   "churchfirstdays02vauggoog",
+   "The Church of the First Days, II. The Church of the Gentiles (London: Macmillan, 1865)"
+  ],
+  "vaughan-first-days-3": [
+   "churchoffirstday0003cjva",
+   "The Church of the First Days, III. The Church of the World (Cambridge and London: Macmillan, 1865)"
+  ],
+  "vaughan-lifes-work": [
+   "lifesworkandgod01vauggoog",
+   "Life's Work and God's Discipline: Three Sermons (London: Macmillan, 1865)"
+  ],
+  "vaughan-plain-words": [
+   "plainwordsonchr00vauggoog",
+   "Plain Words on Christian Living (London: Alexander Strahan, 1865)"
+  ],
+  "vaughan-characteristics": [
+   "characteristics00vauggoog",
+   "Characteristics of Christ's Teaching drawn from the Sermon on the Mount (London and New York: Alexander Strahan, 1866)"
+  ],
+  "vaughan-light-of-world": [
+   "christlightworl00vauggoog",
+   "Christ the Light of the World (London and New York: Alexander Strahan, 1866)"
+  ],
+  "vaughan-voices-of-prophets": [
+   "voicesofprophets00vaug",
+   "Voices of the Prophets: or Faith, Prayer, and Human Life (London: Alexander Strahan, 1867)"
+  ],
+  "vaughan-twelve-discourses": [
+   "twelvediscourse01vauggoog",
+   "Twelve Discourses on Subjects connected with the Liturgy and Worship of the Church of England (London: Macmillan, M.DCCC.LXVII)"
+  ],
+  "vaughan-foes-of-faith": [
+   "foesoffaithfours00vaug",
+   "Foes of Faith: Four Sermons (London and Cambridge: Macmillan, 1868)"
+  ],
+  "vaughan-cross-and-passion": [
+   "lessonsofcrosspa00vaug",
+   "Lessons of the Cross and Passion: Six Lectures (London: Macmillan, 1869)"
+  ],
+  "vaughan-instincts-of-humanity": [
+   "christsatisfyin00vauggoog",
+   "Christ Satisfying the Instincts of Humanity (London and Cambridge: Macmillan, 1870)"
+  ],
+  "vaughan-presence-of-god": [
+   "presencegodinhi00vauggoog",
+   "The Presence of God in His Temple (London: Strahan, 1872)"
+  ],
+  "vaughan-lords-prayer": [
+   "lordsprayer00vauggoog",
+   "The Lord's Prayer (London: Strahan, 1875)"
+  ],
+  "vaughan-words-from-cross": [
+   "WordsFromTheCross",
+   "Words from the Cross; Thoughts for these Times (London: Macmillan, 1875)"
+  ],
+  "vaughan-young-clergymen": [
+   "addressestoyoung00vaug",
+   "Addresses to Young Clergymen (London: Macmillan, 1875)"
+  ],
+  "vaughan-my-son": [
+   "mysongivemethine00vaug",
+   "My Son, Give Me Thine Heart: Sermons (London: Macmillan, 1878)"
+  ],
+  "vaughan-rest-awhile": [
+   "restawhileaddres00vaug",
+   "Rest Awhile: Addresses to Toilers in the Ministry (London: Macmillan, 1880)"
+  ],
+  "vaughan-temple-sermons": [
+   "templesermons00vauggoog",
+   "Temple Sermons (London: Macmillan, 1881)"
+  ],
+  "vaughan-authorized-or-revised": [
+   "authorizedorrevi00vaugiala",
+   "Authorized or Revised? Sermons on Texts in which the Revised Version differs (London: Macmillan, 1882)"
+  ],
+  "vaughan-philippians-english": [
+   "stpaulsepistletophil00vaug",
+   "St Paul's Epistle to the Philippians, with Translation, Paraphrase, and Notes for English Readers (London: Macmillan, 1885)"
+  ],
+  "vaughan-university-sermons": [
+   "universitysermon00vaugiala",
+   "University Sermons New and Old, 1861-1887 (London and New York: Macmillan, 1888)"
+  ],
+  "vaughan-prayers-of-jesus": [
+   "prayersofjesusch00vaug",
+   "The Prayers of Jesus Christ: a Closing Series of Lent Lectures (London and New York: Macmillan, 1891)"
+  ],
+  "vaughan-restful-thoughts": [
+   "restfulthoughts00vauggoog",
+   "Restful Thoughts in Restless Times (London and New York: Macmillan, 1893)"
+  ]
+ },
+ "_alternates": {
+  "vaughan-pamphlets": "Gutenberg 63740, 63753, 63755, 63761: letters on the Post Office agitation, the Crystal Palace and the Harrow monitorial system (1849-1854), school and public policy",
+  "vaughan-editions": "Later editions of Romans (1874, 1885), Philippians lectures (1872), Church of the First Days (1873-74), Solidity of True Religion (1876), Half-Hours in the Temple Church, Last Words at Doncaster",
+  "vaughan-hebrews": "The Epistle to the Hebrews with Notes (1891; prosebraiousepis00vaug): English text OCR'd as Greek, unusable",
+  "vaughan-unconfirmed": "Epistles of St Paul for English Readers, part 1 (1864): no title page in the scan; The Personality of the Tempter (1851): unreadable OCR"
+ },
+ "_excluded": {
+  "vaughan-reprints": "modern reprints and selections (1960-2009)",
+  "vaughan-namesakes": "Charles Edwyn Vaughan, Henry Vaughan, Robert Vaughan, J. C. Vaughan and others"
+ },
+ "_identity_checked": {
+  "vaughan-harrow-sundays": {
+   "author": "Title page read: 'by Charles John Vaughan, D.D., Head Master', OCR 'CHAKLES JOHN VAUGHAN'; Macmillan, MDCCCLIX"
+  },
+  "vaughan-revelation-2": {
+   "author": "Title page read: 'by Charles John Vaughan D.D., Vicar of Doncaster', OCR 'CHAELES'"
+  },
+  "vaughan-words-from-cross": {
+   "author": "Title page read: 'by C. J. Vaughan, Master of the Temple', OCR 'C. ]? VAUGHAN'; Cambridge printed, 1875"
+  },
+  "vaughan-temple-sermons": {
+   "author": "Title page read: 'by C. J. Vaughan, D.D., Master of the Temple', OCR drops the full stop after C"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "vaughan-prospects-church": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vaughan-book-of-light": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vaughan-romans-greek": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charles john vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-harrow-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charles john vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-harrow-sundays": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-epiphany-lent-easter": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-life-and-godliness": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charles john vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-philippians-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charles john vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-revelation-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charles john vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-revelation-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-book-and-life": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charles john vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vaughan-first-days-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charles john vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-first-days-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-first-days-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vaughan-lifes-work": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-plain-words": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charles john vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-characteristics": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-light-of-world": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-voices-of-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-twelve-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-foes-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vaughan-cross-and-passion": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-instincts-of-humanity": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-presence-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-lords-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-words-from-cross": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vaughan-young-clergymen": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vaughan-my-son": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-rest-awhile": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charles john vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vaughan-temple-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-authorized-or-revised": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-philippians-english": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-university-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-prayers-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "vaughan-restful-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "c. j. vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

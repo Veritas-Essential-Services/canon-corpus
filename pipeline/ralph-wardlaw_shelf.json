@@ -1,0 +1,194 @@
+{
+ "_about": "Public-domain Ralph Wardlaw (1779-1853, Congregational minister in Glasgow and theological tutor) for the Word Hoard: Systematic Theology (3 vols, Edinburgh 1856-57), Christian Ethics (1852), Discourses on the Nature and Extent of the Atonement (1843), Discourses on the Socinian Controversy (Andover, catalogued 1815), Lectures on Romans (3 vols, 1861) and Lectures on Ecclesiastes (2 vols, 1821), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "wardlaw",
+  "ralph"
+ ],
+ "_surname": [
+  "ralph wardlaw",
+  "r. wardlaw",
+  "wardlaw, ralph",
+  "dr. wardlaw"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wardlaw-systematic-theology-1": [
+   "systematictheolo01ward",
+   "Systematic Theology, ed. James R. Campbell, vol. 1 (Edinburgh: Adam and Charles Black, 1856)"
+  ],
+  "wardlaw-systematic-theology-2": [
+   "systematictheolo02ward",
+   "Systematic Theology, ed. James R. Campbell, vol. 2 (Edinburgh: Adam and Charles Black, 1857)"
+  ],
+  "wardlaw-systematic-theology-3": [
+   "systematictheolo03ward",
+   "Systematic Theology, ed. James R. Campbell, vol. 3 (Edinburgh: Adam and Charles Black; year OCR'd unclearly, 1857 or 1858)"
+  ],
+  "wardlaw-christian-ethics-1852": [
+   "christianethicso01ward",
+   "Christian Ethics, or Moral Philosophy on the Principles of Divine Revelation (London: Jackson and Walford, 1852)"
+  ],
+  "wardlaw-atonement-1843": [
+   "discoursesonnatu00ward",
+   "Discourses on the Nature and Extent of the Atonement of Christ (Glasgow: James Maclehose, 1843)"
+  ],
+  "wardlaw-socinian-controversy": [
+   "discoursesonprin00ward",
+   "Discourses on the Principal Points of the Socinian Controversy, from the first Glasgow edition (Andover: Mark Newman; no year on the title page, catalogued 1815)"
+  ],
+  "wardlaw-romans-1": [
+   "lecturesonepistl01wardiala",
+   "Lectures on the Epistle to the Romans, ed. J. S. Wardlaw, vol. 1 (Edinburgh: A. Fullarton, 1861)"
+  ],
+  "wardlaw-romans-2": [
+   "lecturesonepistl02wardiala",
+   "Lectures on the Epistle to the Romans, ed. J. S. Wardlaw, vol. 2 (Edinburgh: A. Fullarton, 1861)"
+  ],
+  "wardlaw-romans-3": [
+   "lecturesonepistl03wardiala",
+   "Lectures on the Epistle to the Romans, ed. J. S. Wardlaw, vol. 3 (Edinburgh: A. Fullarton, 1861)"
+  ],
+  "wardlaw-ecclesiastes-1": [
+   "lecturesonbooko00ward",
+   "Lectures on the Book of Ecclesiastes, in two volumes, vol. 1 (London: Longman; Glasgow: Wardlaw and Cunninghame, 1821)"
+  ],
+  "wardlaw-ecclesiastes-2": [
+   "lecturesonbookof0000ward",
+   "Lectures on the Book of Ecclesiastes, in two volumes, vol. 2 (London: Longman; Glasgow: Wardlaw and Cunninghame, 1821)"
+  ]
+ },
+ "_alternates": {
+  "wardlaw-miracles": "On Miracles (Edinburgh: Fullarton, 1852; IA onmiracles00ward)",
+  "wardlaw-proverbs": "Lectures on Proverbs, 3 vols (Fullarton, 1869; IA lecturesonbookof01ward etc.), not checked"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "wardlaw-ecclesiastes-2": "Title page read 2026-10-03 (the IA id is in the modern '0000' style): London, Longman, Hurst, Rees, Orme, and Brown, and Wardlaw and Cunninghame, Glasgow, 1821; an original 1821 copy scanned recently, not a modern reprint."
+ },
+ "_checks": {
+  "wardlaw-systematic-theology-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wardlaw-systematic-theology-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wardlaw-systematic-theology-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wardlaw-christian-ethics-1852": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wardlaw-atonement-1843": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wardlaw-socinian-controversy": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wardlaw-romans-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wardlaw-romans-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wardlaw-romans-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wardlaw-ecclesiastes-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wardlaw-ecclesiastes-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralph wardlaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-03 (the IA id is in the modern '0000' style): London, Longman, Hurst, Rees, Orme, and Brown, and Wardlaw and Cunninghame, Glasgow, 1821; an original 1821 copy scanned recently, not a modern reprint."
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "_about": "Public-domain Jan Hus (c. 1369-1415), the Bohemian reformer burned at Constance, for the Word Hoard: his Letters written during his exile and imprisonment, with Luther's preface (Edinburgh, 1846); The Letters of John Hus, edited by Herbert B. Workman and R. Martin Pope (1904); De Ecclesia, The Church, translated by David S. Schaff (1915); and the Latin Tractatus Responsivus, edited by S. Harrison Thomson (Princeton, 1927). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 81 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john huss",
+  "john hus",
+  "jan hus",
+  "johannes hus",
+  "hus",
+  "huss"
+ ],
+ "_surname": [
+  "hus",
+  "huss"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hus-letters-1846": [
+   "lettersjohnhuss00luthgoog",
+   "Letters of John Huss written during his exile and imprisonment (Edinburgh, W. Whyte, 1846)"
+  ],
+  "hus-letters-workman-pope": [
+   "lettersofjohnhus00husjuoft",
+   "The Letters of John Hus (London : Hodder and Stoughton, 1904)"
+  ],
+  "hus-de-ecclesia-schaff": [
+   "deecclesiachurch00husjuoft",
+   "De ecclesia. The Church (New York Scribner, 1915)"
+  ],
+  "hus-tractatus-responsivus": [
+   "magjohannishustr00husj",
+   "Mag. Johannis Hus Tractatus responsivus : now first edited with a critical introduction and notes from the unique ms. cod. C. 116, Metropolitan chapter library, Prague (Princeton : Princeton university press, 1927)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hus-czech": "the Czech collected works (Sebrané spisy) and Czech correspondence, left for a lane that takes Czech",
+  "hus-german": "eighteenth-century German translations"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "hus-latin-sentences": "Super IV Sententiarum (Flajshans, 1904-1906): its IA volumes still need matching"
+ },
+ "_translators": {},
+ "_checks": {
+  "hus-letters-1846": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hus-letters-workman-pope": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hus-de-ecclesia-schaff": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hus-tractatus-responsivus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

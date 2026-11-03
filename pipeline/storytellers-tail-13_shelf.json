@@ -1,0 +1,936 @@
+{
+ "_about": "Storytellers' tail, group 13: 27 authors with 2 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Clara F. Guernsey, Rena I. Halsey, Olive Harper, S. Frances Harrison, Frances Noyes Hart, James Hay, J. W. Hayes, Headon Hill, John A. Hill, Edwin Hodder, Heinrich Hoffmann, Winifred Holtby, Pauline E. Hopkins, Faye Huntington, Stanley Portal Hyatt, Caroline Elliott Hoogs Jacobs, Will James, W. H. P. Jarvis, William Johnston, Susan Morrow Jones, Ralph S. Kendall, Arthur Lee Knight, Helen C. Knight, Elinor Macartney Lane, D. Lange, Harriet Lewis, George Lippard. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 13 (27 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "cfguernsey-eva-s-adventures-in-shadow-land": [
+   "clara f. guernsey",
+   "clara florida guernsey",
+   "guernsey"
+  ],
+  "cfguernsey-merman-and-the-figure-head": [
+   "clara f. guernsey",
+   "clara florida guernsey",
+   "guernsey"
+  ],
+  "rihalsey-blue-robin-the-girl-pioneer": [
+   "rena i. halsey",
+   "halsey"
+  ],
+  "rihalsey-liberty-girl": [
+   "rena i. halsey",
+   "halsey"
+  ],
+  "oharper-shoemaker": [
+   "olive harper",
+   "harper"
+  ],
+  "oharper-sociable-ghost": [
+   "olive harper",
+   "harper"
+  ],
+  "sfharrison-crowded-out-and-other-sketches": [
+   "s. frances harrison",
+   "susie frances harrison",
+   "harrison"
+  ],
+  "sfharrison-ringfield": [
+   "s. frances harrison",
+   "susie frances harrison",
+   "harrison"
+  ],
+  "fnhart-contact-and-other-stories": [
+   "frances noyes hart"
+  ],
+  "fnhart-bellamy-trial": [
+   "frances noyes hart"
+  ],
+  "jhay-winning-clue": [
+   "james hay"
+  ],
+  "jhay-no-clue": [
+   "james hay"
+  ],
+  "jwhayes-pleiades-clubtelegraphers-paradise-on-planet-mars": [
+   "j. w. hayes",
+   "jeff w. hayes",
+   "hayes"
+  ],
+  "jwhayes-portland-oregon-a-d-1999-and-other-sketches": [
+   "j. w. hayes",
+   "jeff w. hayes",
+   "hayes"
+  ],
+  "hhill-traitor-s-wooing": [
+   "headon hill"
+  ],
+  "hhill-duke-decides": [
+   "headon hill"
+  ],
+  "jahill-danger-signals": [
+   "john a. hill",
+   "john alexander hill"
+  ],
+  "jahill-stories-of-the-railroad": [
+   "john a. hill",
+   "john alexander hill"
+  ],
+  "ehodder-life-in-london": [
+   "edwin hodder",
+   "hodder"
+  ],
+  "ehodder-our-christmas-party": [
+   "edwin hodder",
+   "hodder"
+  ],
+  "hhoffmann-struwwelpeter": [
+   "heinrich hoffmann",
+   "hoffmann"
+  ],
+  "hhoffmann-slovenly-betsy": [
+   "heinrich hoffmann",
+   "hoffmann"
+  ],
+  "wholtby-crowded-street": [
+   "winifred holtby",
+   "holtby"
+  ],
+  "wholtby-anderby-wold": [
+   "winifred holtby",
+   "holtby"
+  ],
+  "pehopkins-of-one-blood": [
+   "pauline e. hopkins",
+   "pauline elizabeth hopkins",
+   "hopkins"
+  ],
+  "pehopkins-winona": [
+   "pauline e. hopkins",
+   "pauline elizabeth hopkins",
+   "hopkins"
+  ],
+  "fhuntington-stories-of-great-men": [
+   "faye huntington",
+   "huntington"
+  ],
+  "fhuntington-mabel-wynn": [
+   "faye huntington",
+   "huntington"
+  ],
+  "sphyatt-people-of-position": [
+   "stanley portal hyatt",
+   "hyatt"
+  ],
+  "sphyatt-law-of-the-bolo": [
+   "stanley portal hyatt",
+   "hyatt"
+  ],
+  "cehjacobs-blue-bonnet-s-ranch-party": [
+   "caroline elliott hoogs jacobs",
+   "jacobs"
+  ],
+  "cehjacobs-blue-bonnet-in-boston": [
+   "caroline elliott hoogs jacobs",
+   "jacobs"
+  ],
+  "wjames-smoky-the-cow-horse": [
+   "will james"
+  ],
+  "wjames-on-the-dodge": [
+   "will james"
+  ],
+  "whpjarvis-great-gold-rush": [
+   "w. h. p. jarvis",
+   "william henry pope jarvis",
+   "jarvis"
+  ],
+  "whpjarvis-as-others-see-us": [
+   "w. h. p. jarvis",
+   "william henry pope jarvis",
+   "jarvis"
+  ],
+  "wjohnston-apartment-next-door": [
+   "william johnston",
+   "johnston"
+  ],
+  "wjohnston-kopje-farm": [
+   "william johnston",
+   "johnston"
+  ],
+  "smjones-la-chance-mine-mystery": [
+   "susan morrow jones"
+  ],
+  "smjones-girl-of-the-north": [
+   "susan morrow jones"
+  ],
+  "rskendall-luck-of-the-mounted": [
+   "ralph s. kendall",
+   "ralph selwood kendall",
+   "kendall"
+  ],
+  "rskendall-benton-of-the-royal-mounted": [
+   "ralph s. kendall",
+   "ralph selwood kendall",
+   "kendall"
+  ],
+  "alknight-leaves-from-a-middy-s-log": [
+   "arthur lee knight",
+   "knight"
+  ],
+  "alknight-mid-of-the-maintop": [
+   "arthur lee knight",
+   "knight"
+  ],
+  "hcknight-puffing-billy-and-the-prize-rocket-or-the-story-of": [
+   "helen c. knight",
+   "helen cross knight",
+   "knight"
+  ],
+  "hcknight-rocket": [
+   "helen c. knight",
+   "helen cross knight",
+   "knight"
+  ],
+  "emlane-katrine": [
+   "elinor macartney lane"
+  ],
+  "emlane-nancy-stair": [
+   "elinor macartney lane"
+  ],
+  "dlange-lure-of-the-mississippi": [
+   "d. lange",
+   "dietrich lange",
+   "lange"
+  ],
+  "dlange-gold-rock-of-the-chippewa": [
+   "d. lange",
+   "dietrich lange",
+   "lange"
+  ],
+  "hlewis-neva-s-three-lovers": [
+   "harriet lewis"
+  ],
+  "hlewis-neva-s-choice-a-sequel-to-neva-s-three-lovers": [
+   "harriet lewis"
+  ],
+  "glippard-new-york": [
+   "george lippard",
+   "lippard"
+  ],
+  "glippard-mysteries-of-florence": [
+   "george lippard",
+   "lippard"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "cfguernsey-eva-s-adventures-in-shadow-land": [
+   53899,
+   "Eva's Adventures in Shadow-Land"
+  ],
+  "cfguernsey-merman-and-the-figure-head": [
+   53901,
+   "The Merman and the Figure-Head"
+  ],
+  "rihalsey-blue-robin-the-girl-pioneer": [
+   36846,
+   "Blue Robin, the Girl Pioneer"
+  ],
+  "rihalsey-liberty-girl": [
+   44928,
+   "The Liberty Girl"
+  ],
+  "oharper-shoemaker": [
+   69408,
+   "The shoemaker"
+  ],
+  "oharper-sociable-ghost": [
+   76737,
+   "The sociable ghost"
+  ],
+  "sfharrison-crowded-out-and-other-sketches": [
+   8652,
+   "Crowded Out! and Other Sketches"
+  ],
+  "sfharrison-ringfield": [
+   26768,
+   "Ringfield: A Novel"
+  ],
+  "fnhart-contact-and-other-stories": [
+   61138,
+   "Contact, and Other Stories"
+  ],
+  "fnhart-bellamy-trial": [
+   75325,
+   "The Bellamy trial"
+  ],
+  "jhay-winning-clue": [
+   20152,
+   "The Winning Clue"
+  ],
+  "jhay-no-clue": [
+   26396,
+   "\"No Clue!\": A Mystery Story"
+  ],
+  "jwhayes-pleiades-clubtelegraphers-paradise-on-planet-mars": [
+   56450,
+   "Pleiades Club—Telegraphers' Paradise on Planet Mars"
+  ],
+  "jwhayes-portland-oregon-a-d-1999-and-other-sketches": [
+   62495,
+   "Portland, Oregon, A.D. 1999, and other sketches"
+  ],
+  "hhill-traitor-s-wooing": [
+   33453,
+   "A Traitor's Wooing"
+  ],
+  "hhill-duke-decides": [
+   37413,
+   "The Duke Decides"
+  ],
+  "jahill-danger-signals": [
+   19007,
+   "Danger signals"
+  ],
+  "jahill-stories-of-the-railroad": [
+   37038,
+   "Stories of the Railroad"
+  ],
+  "ehodder-life-in-london": [
+   9940,
+   "Life in London"
+  ],
+  "ehodder-our-christmas-party": [
+   72621,
+   "Our Christmas party"
+  ],
+  "hhoffmann-struwwelpeter": [
+   12116,
+   "Struwwelpeter: Merry Stories and Funny Pictures"
+  ],
+  "hhoffmann-slovenly-betsy": [
+   19915,
+   "Slovenly Betsy"
+  ],
+  "wholtby-crowded-street": [
+   68629,
+   "The Crowded Street"
+  ],
+  "wholtby-anderby-wold": [
+   74443,
+   "Anderby Wold"
+  ],
+  "pehopkins-of-one-blood": [
+   69255,
+   "Of one blood: or, The hidden self"
+  ],
+  "pehopkins-winona": [
+   70087,
+   "Winona"
+  ],
+  "fhuntington-stories-of-great-men": [
+   35331,
+   "Stories of Great Men"
+  ],
+  "fhuntington-mabel-wynn": [
+   73786,
+   "Mabel Wynn"
+  ],
+  "sphyatt-people-of-position": [
+   29274,
+   "People of Position"
+  ],
+  "sphyatt-law-of-the-bolo": [
+   55526,
+   "The Law of the Bolo"
+  ],
+  "cehjacobs-blue-bonnet-s-ranch-party": [
+   21960,
+   "Blue Bonnet's Ranch Party"
+  ],
+  "cehjacobs-blue-bonnet-in-boston": [
+   23916,
+   "Blue Bonnet in Boston; or, Boarding-School Days at Miss North's"
+  ],
+  "wjames-smoky-the-cow-horse": [
+   69798,
+   "Smoky, the cow horse"
+  ],
+  "wjames-on-the-dodge": [
+   78416,
+   "On the dodge"
+  ],
+  "whpjarvis-great-gold-rush": [
+   35486,
+   "The Great Gold Rush: A Tale of the Klondike"
+  ],
+  "whpjarvis-as-others-see-us": [
+   67312,
+   "As Others See Us: Being the Diary of a Canadian Debutante"
+  ],
+  "wjohnston-apartment-next-door": [
+   11240,
+   "The Apartment Next Door"
+  ],
+  "wjohnston-kopje-farm": [
+   68999,
+   "The Kopje Farm"
+  ],
+  "smjones-la-chance-mine-mystery": [
+   27209,
+   "The La Chance Mine Mystery"
+  ],
+  "smjones-girl-of-the-north": [
+   48845,
+   "A Girl of the North: A Story of London and Canada"
+  ],
+  "rskendall-luck-of-the-mounted": [
+   15940,
+   "The Luck of the Mounted: A Tale of the Royal Northwest Mounted Police"
+  ],
+  "rskendall-benton-of-the-royal-mounted": [
+   41889,
+   "Benton of the Royal Mounted: A Tale of the Royal Northwest Mounted Police"
+  ],
+  "alknight-leaves-from-a-middy-s-log": [
+   71750,
+   "Leaves from a middy's log"
+  ],
+  "alknight-mid-of-the-maintop": [
+   77070,
+   "The mid of the maintop"
+  ],
+  "hcknight-puffing-billy-and-the-prize-rocket-or-the-story-of": [
+   39926,
+   "\"Puffing Billy\" and the Prize \"Rocket\" or, the story of the Stephensons and our Railways."
+  ],
+  "hcknight-rocket": [
+   50119,
+   "The Rocket: The Story of the Stephensons, Father and Son"
+  ],
+  "emlane-katrine": [
+   14263,
+   "Katrine: A Novel"
+  ],
+  "emlane-nancy-stair": [
+   28366,
+   "Nancy Stair: A Novel"
+  ],
+  "dlange-lure-of-the-mississippi": [
+   41877,
+   "The Lure of the Mississippi"
+  ],
+  "dlange-gold-rock-of-the-chippewa": [
+   69747,
+   "The gold rock of the Chippewa"
+  ],
+  "hlewis-neva-s-three-lovers": [
+   68274,
+   "Neva's three lovers: a novel"
+  ],
+  "hlewis-neva-s-choice-a-sequel-to-neva-s-three-lovers": [
+   68439,
+   "Neva's choice A sequel to \"Neva's three lovers\""
+  ],
+  "glippard-new-york": [
+   57785,
+   "New York: Its Upper Ten and Lower Million"
+  ],
+  "glippard-mysteries-of-florence": [
+   62760,
+   "The Mysteries of Florence"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cfguernsey-eva-s-adventures-in-shadow-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara f. guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfguernsey-merman-and-the-figure-head": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara f. guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rihalsey-blue-robin-the-girl-pioneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rena i. halsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rihalsey-liberty-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rena i. halsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oharper-shoemaker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "olive harper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oharper-sociable-ghost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "olive harper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sfharrison-crowded-out-and-other-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. frances harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sfharrison-ringfield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. frances harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnhart-contact-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances noyes hart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnhart-bellamy-trial": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances noyes hart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhay-winning-clue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james hay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhay-no-clue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james hay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jwhayes-pleiades-clubtelegraphers-paradise-on-planet-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. hayes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jwhayes-portland-oregon-a-d-1999-and-other-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. hayes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhill-traitor-s-wooing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "headon hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhill-duke-decides": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "headon hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jahill-danger-signals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john a. hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jahill-stories-of-the-railroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john a. hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehodder-life-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin hodder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehodder-our-christmas-party": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin hodder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhoffmann-struwwelpeter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heinrich hoffmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhoffmann-slovenly-betsy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heinrich hoffmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wholtby-crowded-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winifred holtby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wholtby-anderby-wold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winifred holtby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pehopkins-of-one-blood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pauline e. hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pehopkins-winona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pauline e. hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhuntington-stories-of-great-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "faye huntington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhuntington-mabel-wynn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "faye huntington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sphyatt-people-of-position": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley portal hyatt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sphyatt-law-of-the-bolo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley portal hyatt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cehjacobs-blue-bonnet-s-ranch-party": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline elliott hoogs jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cehjacobs-blue-bonnet-in-boston": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline elliott hoogs jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjames-smoky-the-cow-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjames-on-the-dodge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whpjarvis-great-gold-rush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. p. jarvis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whpjarvis-as-others-see-us": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. p. jarvis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjohnston-apartment-next-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjohnston-kopje-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smjones-la-chance-mine-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "susan morrow jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smjones-girl-of-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "susan morrow jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rskendall-luck-of-the-mounted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph s. kendall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rskendall-benton-of-the-royal-mounted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph s. kendall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alknight-leaves-from-a-middy-s-log": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur lee knight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alknight-mid-of-the-maintop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur lee knight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcknight-puffing-billy-and-the-prize-rocket-or-the-story-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen c. knight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcknight-rocket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen c. knight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emlane-katrine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor macartney lane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emlane-nancy-stair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor macartney lane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dlange-lure-of-the-mississippi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. lange",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dlange-gold-rock-of-the-chippewa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. lange",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlewis-neva-s-three-lovers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlewis-neva-s-choice-a-sequel-to-neva-s-three-lovers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glippard-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george lippard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glippard-mysteries-of-florence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george lippard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

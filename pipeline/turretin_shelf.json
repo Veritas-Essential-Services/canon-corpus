@@ -1,0 +1,41 @@
+{
+ "_about": "Francis Turretin (1623-1687) of Geneva: Turrettin on the Atonement of Christ, James R. Willson's translations from Turretin on the atonement, first printed in his Historical Sketch of Opinions on the Atonement (Philadelphia, 1817), here in a new edition, revised by collation with the last Latin edition (New York: Board of Publication of the Reformed Protestant Dutch Church, 1859). The whole Institutes had no English translation until 1992, which is not public domain. The surname check takes the edition's spelling 'Turrettin' and the usual 'Turretin'. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "turrettin",
+  "turretin"
+ ],
+ "_surname": [
+  "turrettin",
+  "turretin"
+ ],
+ "_translators": {
+  "turretin-atonement-1859": "Willson"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "turretin-atonement-1859": [
+   "turrettinonatone00turr",
+   "Turrettin on the Atonement of Christ, tr. James R. Willson (New York: Reformed Protestant Dutch Church, 1859)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "Institutes of Elenctic Theology, tr. Giger, ed. Dennison (1992-97)": "Modern translation, in copyright."
+ },
+ "_checks": {
+  "turretin-atonement-1859": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "turrettin",
+   "translator_claimed": "Willson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

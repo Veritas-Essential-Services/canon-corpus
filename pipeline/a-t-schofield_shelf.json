@@ -1,0 +1,195 @@
+{
+ "_about": "Public-domain Alfred Taylor Schofield (1846-1929), London physician and evangelical writer on mind, health and faith, for the Word Hoard: the memorials of his brother Harold Schofield of the China Inland Mission, Another World, The Knowledge of God, With Christ in Palestine, Christian Sanity, The Divine in Man, Fit for Work, Studies in the Highest Thought, A Study of Faith Healing, The Springs of Character, and Modern Spiritism. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 108 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alfred taylor schofield",
+  "a. t. schofield",
+  "schofield"
+ ],
+ "_surname": [
+  "alfred taylor schofield",
+  "a. t. schofield",
+  "schofield"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "atschofield-memorials-harold": [
+   "b24850706",
+   "Memorials of R. Harold A. Schofield, M.A., M.B. (Oxon.) (late of China Inland Mission) : first medical missionary to Shan-Si, China (London : Hodder and Stoughton, 1885)"
+  ],
+  "atschofield-another-world": [
+   "cu31924031255882",
+   "Another world : or, The fourth dimension (London : S. Sonnenschein, 1905)"
+  ],
+  "atschofield-knowledge-of-god": [
+   "knowledgeofgodit00scho",
+   "The knowledge of God; its meaning and its power (New York, Funk and Wagnalls company, 1908)"
+  ],
+  "atschofield-christ-palestine": [
+   "withchristinpale00scho",
+   "With Christ in Palestine : four addresses (N.Y. : R.F. Fenno, 1905)"
+  ],
+  "atschofield-christian-sanity": [
+   "chistiansanity0000unse",
+   "Christian sanity (London : Marshall Bros., 1908)"
+  ],
+  "atschofield-divine-in-man": [
+   "divineinmanfourl0000scho",
+   "The divine in man : four lectures given by request at the Alliance Club, London (London : Morgan & Scott, 1909)"
+  ],
+  "atschofield-fit-for-work": [
+   "b28085565",
+   "Fit for work, or, Health in Christian service (London : MArshall, 1909)"
+  ],
+  "atschofield-highest-thought": [
+   "studiesinhighest00scho",
+   "Studies in the highest thought (New York : Hodder & Stoughton, 1911)"
+  ],
+  "atschofield-faith-healing": [
+   "studyoffaithheal0000scho",
+   "A study of faith healing (New York : Fleming H. Revell, 1899)"
+  ],
+  "atschofield-springs-character": [
+   "springsofcharact00scho",
+   "The springs of character (New York : Funk & Wagnalls Co., 1901)"
+  ],
+  "atschofield-spiritism": [
+   "modernspiritism00schogoog",
+   "Modern spiritism : its science and religion (Philadelphia : P. Blakiston's Son & Co., 1920)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "atschofield-medical": "His hygiene, physiology and nerve-medicine manuals are not theology; left out"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "atschofield-faith-healing": "Title page (OCR): \"A STUDY OF FAITH HEALING BY ALPRED T. SCHOPIELD, M.D. AUTHOR OF 'HOW TO KEEP HEALTHY,' 'HEALTH AT HOME'... FLEMING H. REVELL COMPANY\"; OCR misreads Alfred T. Schofield."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "atschofield-memorials-harold": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. t. schofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atschofield-another-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. t. schofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atschofield-knowledge-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. t. schofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "atschofield-christ-palestine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. t. schofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atschofield-christian-sanity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "schofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atschofield-divine-in-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. t. schofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atschofield-fit-for-work": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. t. schofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atschofield-highest-thought": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. t. schofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atschofield-faith-healing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atschofield-springs-character": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. t. schofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "atschofield-spiritism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. t. schofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

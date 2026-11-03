@@ -1,0 +1,35 @@
+{
+ "_about": "Antoine Monastier, formerly pastor in the Canton de Vaud and a native of the Waldensian valleys: A History of the Vaudois Church from its Origin, and of the Vaudois of Piedmont to the Present Day, translated from the French, new edition (London: Religious Tract Society, undated; the catalogue gives [1846]). The translator is not named. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "monastier"
+ ],
+ "_surname": [
+  "monastier"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "monastier-vaudois-church": [
+   "historyofvaudois00monauoft",
+   "A History of the Vaudois Church, new edition (London: Religious Tract Society, [1846])"
+  ]
+ },
+ "_alternates": {
+  "historyofvaudois00mona (1859), historyofvaudois01mona (New York, 1849), historyofvaudois00antorich": "Other printings.",
+  "histoiredeleglis01/02mona, histoiredelglis00/02/03monagoog": "The French original."
+ },
+ "_excluded": {},
+ "_checks": {
+  "monastier-vaudois-church": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "monastier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "[1846]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

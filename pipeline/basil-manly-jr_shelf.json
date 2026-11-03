@@ -1,0 +1,41 @@
+{
+ "_about": "Public-domain Basil Manly Jr. (1825-1892), Southern Baptist theologian and a founder of the Southern Baptist Theological Seminary, for the Word Hoard: The Bible Doctrine of Inspiration Explained and Vindicated (1888), from an Internet Archive scan. Added 2026-10-23 by lane A, round 53 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "manly"
+ ],
+ "_surname": [
+  "basil manly, jr",
+  "basil manly",
+  "b. manly"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "manly-inspiration": [
+   "bibledoctrineofi00manl",
+   "The Bible doctrine of inspiration explained and vindicated (New York : A.C. Armstrong, 1888)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "manly-other": "His father Basil Manly Sr.'s Mercy and Judgment (1837) and sermons; the Baptist Psalmody (1850, compiled by both); Civil War tracts; Basil M. Manly's industrial-relations reports (1915-1916, another man)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "manly-inspiration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "basil manly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

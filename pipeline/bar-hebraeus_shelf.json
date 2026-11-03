@@ -1,0 +1,64 @@
+{
+ "_about": "Public-domain Gregory Bar Hebraeus (1226-1286), Syriac Orthodox maphrian and polymath, for the Word Hoard: Bar Hebraeus's Book of the Dove with chapters from his Ethikon, translated by A. J. Wensinck (Leiden, 1919), and his Commentary on the Gospels from the Horreum Mysteriorum, translated by Wilmot Eardley W. Carr (SPCK, 1925), from Internet Archive scans. His Laughable Stories are on the Budge shelf. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hebraeus"
+ ],
+ "_surname": [
+  "bar hebraeus",
+  "bar-hebraeus",
+  "abu'l faraj"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "barhebraeus-book-of-dove-1919": [
+   "barhebraeussbook00barh",
+   "Bar Hebraeus's Book of the Dove, together with some chapters from his Ethikon, tr. A. J. Wensinck (Leyden: E. J. Brill, 1919)"
+  ],
+  "barhebraeus-gospels-commentary-1925": [
+   "commentaryongosp0000barh",
+   "Commentary on the Gospels from the Horreum Mysteriorum, tr. Wilmot Eardley W. Carr (London: SPCK; New York and Toronto: Macmillan, 1925)"
+  ]
+ },
+ "_alternates": {
+  "barhebraeus-copies": "barhebraeussbook00barh_0 (1919); gregoryabulfaraj0000barh (Carr 1925); Phillips's Letter by Mar Jacob with Bar Hebraeus on Syriac Accents (1869, shared with Jacob of Edessa)"
+ },
+ "_excluded": {
+  "barhebraeus-other": "The Laughable Stories (Budge shelf); the Chronography (1932) and Scholia (1931), too late"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "barhebraeus-book-of-dove-1919": "wensinck",
+  "barhebraeus-gospels-commentary-1925": "carr"
+ },
+ "_checks": {
+  "barhebraeus-book-of-dove-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bar hebraeus",
+   "translator_claimed": "wensinck",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barhebraeus-gospels-commentary-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bar hebraeus",
+   "translator_claimed": "carr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

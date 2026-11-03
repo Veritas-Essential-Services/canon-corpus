@@ -1,0 +1,453 @@
+{
+ "_about": "Allen Chapman's series books for boys (the Radio Boys, the Darewell Chums, the Railroad series and others): every English text under the name at Gutenberg. Allen Chapman is a house name of the Stratemeyer Syndicate, whose individual ghostwriters the texts do not name. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Allen Chapman",
+ "_name_words": [
+  "chapman"
+ ],
+ "_surname": [
+  "allen chapman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "achapman-radio-boys-first-wireless": [
+   7899,
+   "The Radio Boys' First Wireless; Or, Winning the Ferberton Prize",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-frank-roscoes-secret": [
+   9854,
+   "Frank Roscoe's Secret; Or, the Darewell Chums in the Woods",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-tom-fairfields-pluck-and-luck": [
+   14083,
+   "Tom Fairfield's Pluck and Luck; Or, Working to Clear His Name",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-bart-stirlings-road-to-success": [
+   15903,
+   "Bart Stirling's Road to Success; Or, The Young Express Agent",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-fred-fenton-on-the-crew": [
+   21594,
+   "Fred Fenton on the Crew; Or, The Young Oarsmen of Riverport School"
+  ],
+  "achapman-fred-fenton-on-the-track": [
+   23763,
+   "Fred Fenton on the Track; Or, The Athletes of Riverport School",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-radio-boys-trailing-a-voice": [
+   25858,
+   "The Radio Boys Trailing a Voice; Or, Solving a Wireless Mystery",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-radio-boys-at-the-sending-station": [
+   27455,
+   "The Radio Boys at the Sending Station; Or, Making Good in the Wireless Room",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-ralph-on-the-engine": [
+   28292,
+   "Ralph on the Engine; Or, The Young Fireman of the Limited Mail",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-ralph-on-the-overland-express": [
+   28655,
+   "Ralph on the Overland Express; Or, The Trials and Triumphs of a Young Engineer",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-fred-fenton-marathon-runner": [
+   30094,
+   "Fred Fenton Marathon Runner: The Great Race at Riverport School"
+  ],
+  "achapman-radio-boys-at-ocean-point": [
+   35594,
+   "The Radio Boys at Ocean Point; Or, The Message that Saved the Ship",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-heroes-of-the-school": [
+   37291,
+   "The Heroes of the School; or, The Darewell Chums Through Thick and Thin",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-ned-wildings-disappearance": [
+   37673,
+   "Ned Wilding's Disappearance; or, The Darewell Chums in the City",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-fenn-mastersons-discovery": [
+   37929,
+   "Fenn Masterson's Discovery; or, The Darewell Chums on a Cruise",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-bart-keenes-hunting-days": [
+   38254,
+   "Bart Keene's Hunting Days; or, The Darewell Chums in a Winter Camp",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-radio-boys-at-mountain-pass": [
+   38453,
+   "The Radio Boys at Mountain Pass; Or, The Midnight Call for Assistance"
+  ],
+  "achapman-ralph-the-train-dispatcher": [
+   38969,
+   "Ralph, the Train Dispatcher; Or, The Mystery of the Pay Car"
+  ],
+  "achapman-ralph-of-the-roundhouse": [
+   39050,
+   "Ralph of the Roundhouse; Or, Bound to Become a Railroad Man",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-ralph-in-the-switch-tower": [
+   39051,
+   "Ralph in the Switch Tower; Or, Clearing the Track",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-bound-to-succeed": [
+   41741,
+   "Bound to Succeed; or, Mail Order Frank's Chances",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-tom-fairfields-schooldays": [
+   43796,
+   "Tom Fairfield's Schooldays; or, The Chums of Elmwood Hall",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-tom-fairfield-at-sea": [
+   44013,
+   "Tom Fairfield at Sea; or, The Wreck of the Silver Star",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-tom-fairfield-in-camp": [
+   44293,
+   "Tom Fairfield in Camp; or, The Secret of the Old Mill",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-tom-fairfields-hunting-trip": [
+   44457,
+   "Tom Fairfield's Hunting Trip; or, Lost in the Wilderness",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-radio-boys-with-the-forest-rangers": [
+   62769,
+   "The Radio Boys with the Forest Rangers; Or, The great fire on Spruce Mountain",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-radio-boys-with-the-iceberg-patrol": [
+   62904,
+   "The Radio Boys with the Iceberg Patrol; Or, Making safe the ocean lanes",
+   {
+    "contents_only": true
+   }
+  ],
+  "achapman-ralph-on-the-midnight-flyer": [
+   67030,
+   "Ralph on the Midnight Flyer; or, The Wreck at Shadow Valley",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "achapman-radio-boys-first-wireless": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-frank-roscoes-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-tom-fairfields-pluck-and-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-bart-stirlings-road-to-success": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-fred-fenton-on-the-crew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-fred-fenton-on-the-track": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-radio-boys-trailing-a-voice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-radio-boys-at-the-sending-station": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-ralph-on-the-engine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-ralph-on-the-overland-express": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-fred-fenton-marathon-runner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-radio-boys-at-ocean-point": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-heroes-of-the-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-ned-wildings-disappearance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-fenn-mastersons-discovery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-bart-keenes-hunting-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-radio-boys-at-mountain-pass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-ralph-the-train-dispatcher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-ralph-of-the-roundhouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-ralph-in-the-switch-tower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-bound-to-succeed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-tom-fairfields-schooldays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-tom-fairfield-at-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-tom-fairfield-in-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-tom-fairfields-hunting-trip": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-radio-boys-with-the-forest-rangers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-radio-boys-with-the-iceberg-patrol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achapman-ralph-on-the-midnight-flyer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "allen chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

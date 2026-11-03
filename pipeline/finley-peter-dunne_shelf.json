@@ -1,0 +1,86 @@
+{
+ "_about": "Finley Peter Dunne: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Finley Peter Dunne",
+ "_name_words": [
+  "dunne",
+  "finley",
+  "peter"
+ ],
+ "_surname": [
+  "finley peter dunne",
+  "dunne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fpdunne-observations-by-mr-dooley": [
+   4729,
+   "Observations By Mr. Dooley"
+  ],
+  "fpdunne-mr-dooleys-philosophy": [
+   7976,
+   "Mr. Dooley's Philosophy"
+  ],
+  "fpdunne-mr-dooley": [
+   13784,
+   "Mr. Dooley: In the Hearts of His Countrymen"
+  ],
+  "fpdunne-mr-dooley-says": [
+   14684,
+   "Mr. Dooley Says"
+  ],
+  "fpdunne-mr-dooley-in-peace-and-in-war": [
+   22537,
+   "Mr. Dooley in Peace and in War"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fpdunne-observations-by-mr-dooley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finley peter dunne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpdunne-mr-dooleys-philosophy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finley peter dunne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpdunne-mr-dooley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finley peter dunne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpdunne-mr-dooley-says": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finley peter dunne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fpdunne-mr-dooley-in-peace-and-in-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finley peter dunne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

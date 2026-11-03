@@ -1,0 +1,1144 @@
+{
+ "_about": "Storytellers' tail, group 8: 22 authors with 3 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Edward Peple, Charles Felton Pidgin, Josephine Pollard, Frederick Ponsonby, Janet Milne Rae, Allen Raine, Christian Reid, Amélie Rives, F. W. Robinson, James Malcolm Rymer, Michael Scott, Catharine Maria Sedgwick, Penn Shirley, J. H. Shorthouse, Henry A. Shute, E. Boyd Smith, Augusta de Grasse Stevens, Charles B. Stilson, Robert Smith Surtees, Van Tassel Sutphen, Ethel Talbot, Daniel P. Thompson. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 8 (22 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "epeple-night-out": [
+   "edward peple",
+   "peple"
+  ],
+  "epeple-littlest-rebel": [
+   "edward peple",
+   "peple"
+  ],
+  "epeple-semiramis": [
+   "edward peple",
+   "peple"
+  ],
+  "cfpidgin-further-adventures-of-quincy-adams-sawyer-and-mason": [
+   "charles felton pidgin",
+   "pidgin"
+  ],
+  "cfpidgin-quincy-adams-sawyer-and-mason-s-corner-folks-a-pict": [
+   "charles felton pidgin",
+   "pidgin"
+  ],
+  "cfpidgin-corsican-lovers": [
+   "charles felton pidgin",
+   "pidgin"
+  ],
+  "jpollard-life-of-george-washington-in-words-of-one-syllable": [
+   "josephine pollard",
+   "pollard"
+  ],
+  "jpollard-young-folks-bible-in-words-of-easy-reading-the-swee": [
+   "josephine pollard",
+   "pollard"
+  ],
+  "jpollard-elfin-land": [
+   "josephine pollard",
+   "pollard"
+  ],
+  "fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol": [
+   "frederick ponsonby",
+   "ponsonby"
+  ],
+  "fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol-61216": [
+   "frederick ponsonby",
+   "ponsonby"
+  ],
+  "fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol-63111": [
+   "frederick ponsonby",
+   "ponsonby"
+  ],
+  "jmrae-geordie-s-tryst": [
+   "janet milne rae"
+  ],
+  "jmrae-bottle-in-the-smoke": [
+   "janet milne rae"
+  ],
+  "jmrae-morag": [
+   "janet milne rae"
+  ],
+  "araine-by-berwen-banks": [
+   "allen raine",
+   "raine"
+  ],
+  "araine-garthowen": [
+   "allen raine",
+   "raine"
+  ],
+  "araine-torn-sails": [
+   "allen raine",
+   "raine"
+  ],
+  "creid-fairy-gold": [
+   "christian reid"
+  ],
+  "creid-comedy-of-elopement": [
+   "christian reid"
+  ],
+  "creid-the-land-of-the-sky": [
+   "christian reid"
+  ],
+  "arives-brother-to-dragons-and-other-old-time-tales": [
+   "amélie rives",
+   "rives"
+  ],
+  "arives-shadows-of-flames": [
+   "amélie rives",
+   "rives"
+  ],
+  "arives-virginia-of-virginia": [
+   "amélie rives",
+   "rives"
+  ],
+  "fwrobinson-mattie": [
+   "f. w. robinson",
+   "frederick william robinson",
+   "robinson"
+  ],
+  "fwrobinson-mattie-35290": [
+   "f. w. robinson",
+   "frederick william robinson",
+   "robinson"
+  ],
+  "fwrobinson-mattie-35291": [
+   "f. w. robinson",
+   "frederick william robinson",
+   "robinson"
+  ],
+  "jmrymer-varney-the-vampyre": [
+   "james malcolm rymer",
+   "rymer"
+  ],
+  "jmrymer-ada-the-betrayed": [
+   "james malcolm rymer",
+   "rymer"
+  ],
+  "jmrymer-string-of-pearls": [
+   "james malcolm rymer",
+   "rymer"
+  ],
+  "mscott-tom-cringle-s-log": [
+   "michael scott"
+  ],
+  "mscott-cruise-of-the-midge-vol-1-of-2": [
+   "michael scott"
+  ],
+  "mscott-cruise-of-the-midge-vol-2-of-2": [
+   "michael scott"
+  ],
+  "cmsedgwick-travellers": [
+   "catharine maria sedgwick",
+   "sedgwick"
+  ],
+  "cmsedgwick-hope-leslie": [
+   "catharine maria sedgwick",
+   "sedgwick"
+  ],
+  "cmsedgwick-hope-leslie-76028": [
+   "catharine maria sedgwick",
+   "sedgwick"
+  ],
+  "pshirley-happy-six": [
+   "penn shirley",
+   "shirley"
+  ],
+  "pshirley-merry-five": [
+   "penn shirley",
+   "shirley"
+  ],
+  "pshirley-little-miss-weezy": [
+   "penn shirley",
+   "shirley"
+  ],
+  "jhshorthouse-little-schoolmaster-mark": [
+   "j. h. shorthouse",
+   "joseph henry shorthouse",
+   "shorthouse"
+  ],
+  "jhshorthouse-john-inglesant": [
+   "j. h. shorthouse",
+   "joseph henry shorthouse",
+   "shorthouse"
+  ],
+  "jhshorthouse-john-inglesant-44588": [
+   "j. h. shorthouse",
+   "joseph henry shorthouse",
+   "shorthouse"
+  ],
+  "hashute-real-diary-of-a-real-boy": [
+   "henry a. shute",
+   "henry augustus shute",
+   "shute"
+  ],
+  "hashute-sequil": [
+   "henry a. shute",
+   "henry augustus shute",
+   "shute"
+  ],
+  "hashute-brite-and-fair": [
+   "henry a. shute",
+   "henry augustus shute",
+   "shute"
+  ],
+  "ebsmith-story-of-pocahontas-and-captain-john-smith": [
+   "e. boyd smith",
+   "elmer boyd smith"
+  ],
+  "ebsmith-seashore-book": [
+   "e. boyd smith",
+   "elmer boyd smith"
+  ],
+  "ebsmith-story-of-noah-s-ark": [
+   "e. boyd smith",
+   "elmer boyd smith"
+  ],
+  "adgstevens-miss-hildreth": [
+   "augusta de grasse stevens",
+   "stevens"
+  ],
+  "adgstevens-miss-hildreth-40432": [
+   "augusta de grasse stevens",
+   "stevens"
+  ],
+  "adgstevens-miss-hildreth-40433": [
+   "augusta de grasse stevens",
+   "stevens"
+  ],
+  "cbstilson-polaris-of-the-snows": [
+   "charles b. stilson",
+   "charles billings stilson",
+   "stilson"
+  ],
+  "cbstilson-minos-of-sardanes": [
+   "charles b. stilson",
+   "charles billings stilson",
+   "stilson"
+  ],
+  "cbstilson-polaris-and-the-goddess-glorian": [
+   "charles b. stilson",
+   "charles billings stilson",
+   "stilson"
+  ],
+  "rssurtees-jorrocks-jaunts-and-jollities": [
+   "robert smith surtees",
+   "surtees"
+  ],
+  "rssurtees-mr-sponge-s-sporting-tour": [
+   "robert smith surtees",
+   "surtees"
+  ],
+  "rssurtees-ask-mamma": [
+   "robert smith surtees",
+   "surtees"
+  ],
+  "vtsutphen-gates-of-chance": [
+   "van tassel sutphen",
+   "sutphen"
+  ],
+  "vtsutphen-doomsman": [
+   "van tassel sutphen",
+   "sutphen"
+  ],
+  "vtsutphen-in-jeopardy": [
+   "van tassel sutphen",
+   "sutphen"
+  ],
+  "etalbot-island-camp": [
+   "ethel talbot",
+   "talbot"
+  ],
+  "etalbot-bravest-girl-in-school": [
+   "ethel talbot",
+   "talbot"
+  ],
+  "etalbot-betty-at-st-benedick-s": [
+   "ethel talbot",
+   "talbot"
+  ],
+  "dpthompson-rangers": [
+   "daniel p. thompson",
+   "daniel pierce thompson",
+   "thompson"
+  ],
+  "dpthompson-gaut-gurley": [
+   "daniel p. thompson",
+   "daniel pierce thompson",
+   "thompson"
+  ],
+  "dpthompson-demon-trapper-of-umbagog": [
+   "daniel p. thompson",
+   "daniel pierce thompson",
+   "thompson"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "epeple-night-out": [
+   9295,
+   "A Night Out"
+  ],
+  "epeple-littlest-rebel": [
+   15414,
+   "The Littlest Rebel"
+  ],
+  "epeple-semiramis": [
+   42822,
+   "Semiramis: A Tale of Battle and of Love"
+  ],
+  "cfpidgin-further-adventures-of-quincy-adams-sawyer-and-mason": [
+   7497,
+   "Further Adventures of Quincy Adams Sawyer and Mason Corner Folks"
+  ],
+  "cfpidgin-quincy-adams-sawyer-and-mason-s-corner-folks-a-pict": [
+   16414,
+   "Quincy Adams Sawyer and Mason's Corner Folks A Picture of New England Home Life"
+  ],
+  "cfpidgin-corsican-lovers": [
+   67412,
+   "The Corsican Lovers"
+  ],
+  "jpollard-life-of-george-washington-in-words-of-one-syllable": [
+   36183,
+   "The Life of George Washington. In Words of One Syllable"
+  ],
+  "jpollard-young-folks-bible-in-words-of-easy-reading-the-swee": [
+   39431,
+   "Young Folks' Bible in Words of Easy Reading The Sweet Stories of God's Word in the Language of Childhood"
+  ],
+  "jpollard-elfin-land": [
+   70491,
+   "Elfin Land"
+  ],
+  "fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol": [
+   60677,
+   "The Grenadier Guards in the Great War of 1914-1918, Vol. 1 of 3"
+  ],
+  "fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol-61216": [
+   61216,
+   "The Grenadier Guards in the Great War of 1914-1918, Vol. 2 of 3"
+  ],
+  "fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol-63111": [
+   63111,
+   "The Grenadier Guards in the Great War of 1914-1918, Vol. 3 of 3"
+  ],
+  "jmrae-geordie-s-tryst": [
+   12765,
+   "Geordie's Tryst: A Tale of Scottish Life"
+  ],
+  "jmrae-bottle-in-the-smoke": [
+   40517,
+   "A Bottle in the Smoke: A Tale of Anglo-Indian Life"
+  ],
+  "jmrae-morag": [
+   42093,
+   "Morag: A Tale of the Highlands of Scotland"
+  ],
+  "araine-by-berwen-banks": [
+   18758,
+   "By Berwen Banks"
+  ],
+  "araine-garthowen": [
+   18778,
+   "Garthowen: A Story of a Welsh Homestead"
+  ],
+  "araine-torn-sails": [
+   63502,
+   "Torn Sails: A Tale of a Welsh Village"
+  ],
+  "creid-fairy-gold": [
+   54926,
+   "Fairy Gold"
+  ],
+  "creid-comedy-of-elopement": [
+   62890,
+   "A Comedy of Elopement"
+  ],
+  "creid-the-land-of-the-sky": [
+   76690,
+   "\"The land of the sky\""
+  ],
+  "arives-brother-to-dragons-and-other-old-time-tales": [
+   26356,
+   "A brother to dragons, and other old-time tales"
+  ],
+  "arives-shadows-of-flames": [
+   33234,
+   "Shadows of Flames: A Novel"
+  ],
+  "arives-virginia-of-virginia": [
+   53838,
+   "Virginia of Virginia: A Story"
+  ],
+  "fwrobinson-mattie": [
+   35278,
+   "Mattie:—A Stray (Vol 3 of 3)"
+  ],
+  "fwrobinson-mattie-35290": [
+   35290,
+   "Mattie:—A Stray (Vol 1 of 3)"
+  ],
+  "fwrobinson-mattie-35291": [
+   35291,
+   "Mattie:—A Stray (Vol 2 of 3)"
+  ],
+  "jmrymer-varney-the-vampyre": [
+   14833,
+   "Varney the vampyre; or, the feast of blood"
+  ],
+  "jmrymer-ada-the-betrayed": [
+   48938,
+   "Ada, the Betrayed; Or, The Murder at the Old Smithy. A Romance of Passion"
+  ],
+  "jmrymer-string-of-pearls": [
+   59828,
+   "The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance."
+  ],
+  "mscott-tom-cringle-s-log": [
+   7281,
+   "Tom Cringle's Log"
+  ],
+  "mscott-cruise-of-the-midge-vol-1-of-2": [
+   44875,
+   "The Cruise of the Midge (Vol. 1 of 2)"
+  ],
+  "mscott-cruise-of-the-midge-vol-2-of-2": [
+   44876,
+   "The Cruise of the Midge (Vol. 2 of 2)"
+  ],
+  "cmsedgwick-travellers": [
+   31832,
+   "The Travellers: A Tale, Designed for Young People."
+  ],
+  "cmsedgwick-hope-leslie": [
+   76018,
+   "Hope Leslie: or, early times in the Massachusetts, volume 2 (of 2)"
+  ],
+  "cmsedgwick-hope-leslie-76028": [
+   76028,
+   "Hope Leslie: or, early times in the Massachusetts, volume 1 (of 2)"
+  ],
+  "pshirley-happy-six": [
+   73914,
+   "The happy six"
+  ],
+  "pshirley-merry-five": [
+   74313,
+   "The Merry Five"
+  ],
+  "pshirley-little-miss-weezy": [
+   76122,
+   "Little Miss Weezy"
+  ],
+  "jhshorthouse-little-schoolmaster-mark": [
+   33401,
+   "The Little Schoolmaster Mark: A Spiritual Romance"
+  ],
+  "jhshorthouse-john-inglesant": [
+   44587,
+   "John Inglesant: A Romance (Volume 1 of 2)"
+  ],
+  "jhshorthouse-john-inglesant-44588": [
+   44588,
+   "John Inglesant: A Romance (Volume 2 of 2)"
+  ],
+  "hashute-real-diary-of-a-real-boy": [
+   5111,
+   "The Real Diary of a Real Boy"
+  ],
+  "hashute-sequil": [
+   20022,
+   "\"Sequil\"; Or, Things Whitch Aint Finished in the First"
+  ],
+  "hashute-brite-and-fair": [
+   26335,
+   "Brite and Fair"
+  ],
+  "ebsmith-story-of-pocahontas-and-captain-john-smith": [
+   24487,
+   "The story of Pocahontas and Captain John Smith"
+  ],
+  "ebsmith-seashore-book": [
+   44629,
+   "The Seashore Book: Bob and Betty's Summer with Captain Hawes"
+  ],
+  "ebsmith-story-of-noah-s-ark": [
+   56270,
+   "The Story of Noah's Ark"
+  ],
+  "adgstevens-miss-hildreth": [
+   40431,
+   "Miss Hildreth: A Novel, Volume 1"
+  ],
+  "adgstevens-miss-hildreth-40432": [
+   40432,
+   "Miss Hildreth: A Novel, Volume 2"
+  ],
+  "adgstevens-miss-hildreth-40433": [
+   40433,
+   "Miss Hildreth: A Novel, Volume 3"
+  ],
+  "cbstilson-polaris-of-the-snows": [
+   35426,
+   "Polaris of the Snows"
+  ],
+  "cbstilson-minos-of-sardanes": [
+   67029,
+   "Minos of Sardanes"
+  ],
+  "cbstilson-polaris-and-the-goddess-glorian": [
+   67121,
+   "Polaris and the Goddess Glorian"
+  ],
+  "rssurtees-jorrocks-jaunts-and-jollities": [
+   15387,
+   "Jorrocks' Jaunts and Jollities"
+  ],
+  "rssurtees-mr-sponge-s-sporting-tour": [
+   16957,
+   "Mr. Sponge's Sporting Tour"
+  ],
+  "rssurtees-ask-mamma": [
+   44822,
+   "\"Ask Mamma\"; or, The Richest Commoner In England"
+  ],
+  "vtsutphen-gates-of-chance": [
+   3758,
+   "The Gates of Chance"
+  ],
+  "vtsutphen-doomsman": [
+   27730,
+   "The Doomsman"
+  ],
+  "vtsutphen-in-jeopardy": [
+   38477,
+   "In Jeopardy"
+  ],
+  "etalbot-island-camp": [
+   59705,
+   "The Island Camp"
+  ],
+  "etalbot-bravest-girl-in-school": [
+   65205,
+   "The Bravest Girl in School"
+  ],
+  "etalbot-betty-at-st-benedick-s": [
+   71201,
+   "Betty at St. Benedick's"
+  ],
+  "dpthompson-rangers": [
+   6947,
+   "The Rangers; or, The Tory's Daughter A Tale Illustrative of the Revolutionary History of Vermont and the Northern Campaign of 1777"
+  ],
+  "dpthompson-gaut-gurley": [
+   7087,
+   "Gaut Gurley; Or, the Trappers of Umbagog: A Tale of Border Life"
+  ],
+  "dpthompson-demon-trapper-of-umbagog": [
+   67759,
+   "The Demon Trapper of Umbagog: A Thrilling Tale of the Maine Forests"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "epeple-night-out": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward peple",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epeple-littlest-rebel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward peple",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epeple-semiramis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward peple",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfpidgin-further-adventures-of-quincy-adams-sawyer-and-mason": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles felton pidgin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfpidgin-quincy-adams-sawyer-and-mason-s-corner-folks-a-pict": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles felton pidgin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfpidgin-corsican-lovers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles felton pidgin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpollard-life-of-george-washington-in-words-of-one-syllable": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "josephine pollard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpollard-young-folks-bible-in-words-of-easy-reading-the-swee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "josephine pollard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpollard-elfin-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "josephine pollard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol-61216": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol-63111": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmrae-geordie-s-tryst": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janet milne rae",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmrae-bottle-in-the-smoke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janet milne rae",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmrae-morag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janet milne rae",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "araine-by-berwen-banks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "araine-garthowen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "araine-torn-sails": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creid-fairy-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christian reid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creid-comedy-of-elopement": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christian reid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "creid-the-land-of-the-sky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christian reid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arives-brother-to-dragons-and-other-old-time-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amélie rives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arives-shadows-of-flames": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amélie rives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arives-virginia-of-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amélie rives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwrobinson-mattie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. robinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwrobinson-mattie-35290": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. robinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwrobinson-mattie-35291": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. robinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmrymer-varney-the-vampyre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james malcolm rymer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmrymer-ada-the-betrayed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james malcolm rymer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmrymer-string-of-pearls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james malcolm rymer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscott-tom-cringle-s-log": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscott-cruise-of-the-midge-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscott-cruise-of-the-midge-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmsedgwick-travellers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catharine maria sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmsedgwick-hope-leslie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catharine maria sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmsedgwick-hope-leslie-76028": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catharine maria sedgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pshirley-happy-six": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "penn shirley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pshirley-merry-five": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "penn shirley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pshirley-little-miss-weezy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "penn shirley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhshorthouse-little-schoolmaster-mark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. shorthouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhshorthouse-john-inglesant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. shorthouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhshorthouse-john-inglesant-44588": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. shorthouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hashute-real-diary-of-a-real-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry a. shute",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hashute-sequil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry a. shute",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hashute-brite-and-fair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry a. shute",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebsmith-story-of-pocahontas-and-captain-john-smith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. boyd smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebsmith-seashore-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. boyd smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebsmith-story-of-noah-s-ark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. boyd smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adgstevens-miss-hildreth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta de grasse stevens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adgstevens-miss-hildreth-40432": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta de grasse stevens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adgstevens-miss-hildreth-40433": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta de grasse stevens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbstilson-polaris-of-the-snows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles b. stilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbstilson-minos-of-sardanes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles b. stilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbstilson-polaris-and-the-goddess-glorian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles b. stilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rssurtees-jorrocks-jaunts-and-jollities": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert smith surtees",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rssurtees-mr-sponge-s-sporting-tour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert smith surtees",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rssurtees-ask-mamma": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert smith surtees",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vtsutphen-gates-of-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van tassel sutphen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vtsutphen-doomsman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van tassel sutphen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vtsutphen-in-jeopardy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van tassel sutphen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "etalbot-island-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel talbot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "etalbot-bravest-girl-in-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel talbot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "etalbot-betty-at-st-benedick-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel talbot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dpthompson-rangers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel p. thompson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dpthompson-gaut-gurley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel p. thompson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dpthompson-demon-trapper-of-umbagog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel p. thompson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

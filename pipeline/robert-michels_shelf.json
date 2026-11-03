@@ -1,0 +1,39 @@
+{
+ "_about": "Robert Michels (1876-1936), German-Italian sociologist of the iron law of oligarchy. Raw IA OCR: Political Parties: a sociological study of the oligarchical tendencies of modern democracy, translated by Eden and Cedar Paul (New York: Hearst's International Library, 1915), clean 0.91. US public domain. No uids minted.",
+ "_author": "Robert Michels",
+ "_name_words": [
+  "robert",
+  "michels"
+ ],
+ "_surname": [
+  "michels"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "michels-political-parties-1915": [
+   "politicalparties00michuoft",
+   "Political Parties (Hearst's International Library, 1915)",
+   "tr. Eden and Cedar Paul"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "michels-political-parties-1915": "paul"
+ },
+ "_checks": {
+  "michels-political-parties-1915": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "michels",
+   "translator_claimed": "paul",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

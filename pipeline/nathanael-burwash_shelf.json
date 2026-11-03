@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain Nathanael Burwash (1839-1918), Canadian Methodist theologian and chancellor of Victoria University, Toronto, for the Word Hoard: Wesley's Doctrinal Standards (his annotated edition of Wesley's standard sermons), The Relation of Children to the Fall, Universal Childhood Drawn to Christ, A Handbook of the Epistle to the Romans, Inductive Studies in Theology, the Manual of Christian Theology on the Inductive Method, and the Memorials of Edward and Lydia Ann Jackson with his discourses. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 136 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nathanael burwash",
+  "nathaniel burwash",
+  "n. burwash",
+  "burwash"
+ ],
+ "_surname": [
+  "burwash"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burwash-jackson-memorials": [
+   "memorialsoflifeo00burwuoft",
+   "Memorials of the life of Edward and Lydia Ann Jackson, with discourses preached in the Centenary Church, Hamilton, on the occasion of their death (Toronto, Rose, 1876)"
+  ],
+  "burwash-wesley-standards": [
+   "sermonswithintro00wesliala",
+   "The sermons with introductions analysis and notes (Toronto : W. Briggs, [188)"
+  ],
+  "burwash-children-fall": [
+   "cihm_07208",
+   "The relation of children to the fall, the atonement, and the church (Toronto : W. Briggs, 1882)"
+  ],
+  "burwash-universal-childhood": [
+   "cihm_89904",
+   "Universal childhood drawn to Christ : with an appendix containing remarks on Rev. Dr. Burwash's Moral condition of childhood (Toronto : W. Briggs, 1882)"
+  ],
+  "burwash-romans": [
+   "handbookofepistl00burwuoft",
+   "A handbook of the Epistle of St. Paul to the Romans, based on the revised version and the revisers' text (Toronto, Briggs, 1887)"
+  ],
+  "burwash-inductive-studies": [
+   "inductivestudies00burwuoft",
+   "Inductive studies in theology, including the doctrines of sin and the atonement (Toronto, Briggs, 1896)"
+  ],
+  "burwash-manual-theology": [
+   "theologyinductiv00burwuoft",
+   "Manual of Christian theology on the inductive method (London : H. Marshall, 1900)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "burwash-secular": "Voice Production, the federation and university papers, the Ryerson biography and the party-history essay are not theology; the geology and seed books are by other Burwashes",
+  "burwash-dups": "other scans of the Jackson memorials, Wesley's Doctrinal Standards and Inductive Studies",
+  "burwash-others": "Antinomianism Revived and The Old Testament Vindicated are by other authors"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "burwash-wesley-standards": "title page (OCR): 'Rev. N. Burwash, S.T.D., Professor of Theology in the University of Victoria College' (OCR reads BUEWASH), Toronto"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "burwash-jackson-memorials": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "burwash",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burwash-wesley-standards": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "[1881]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burwash-children-fall": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "burwash",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burwash-universal-childhood": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "burwash",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burwash-romans": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "burwash",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burwash-inductive-studies": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "burwash",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burwash-manual-theology": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "burwash",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

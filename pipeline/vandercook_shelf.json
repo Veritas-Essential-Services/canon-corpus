@@ -1,0 +1,485 @@
+{
+ "_about": "Margaret Vandercook's series stories for girls (the Ranch Girls, the Camp Fire Girls and others): every English text under her name at Gutenberg, all US public domain by publication (catalogue: Vandercook 1876-1958). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Margaret Vandercook",
+ "_name_words": [
+  "vandercook"
+ ],
+ "_surname": [
+  "margaret vandercook"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mvandercook-camp-fire-girls-at-sunrise-hill": [
+   8662,
+   "The Camp Fire Girls at Sunrise Hill",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-red-cross-girls-with-the-russian-army": [
+   22095,
+   "The Red Cross Girls with the Russian Army",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-in-the-outside-world": [
+   22938,
+   "The Camp Fire Girls in the Outside World",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-girl-scouts-in-beechwood-forest": [
+   25801,
+   "The Girl Scouts in Beechwood Forest",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-on-the-field-of-honor": [
+   31393,
+   "The Camp Fire Girls on the Field of Honor",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-loves-of-ambrose": [
+   33289,
+   "The Loves of Ambrose"
+  ],
+  "mvandercook-ranch-girls-at-rainbow-lodge": [
+   33409,
+   "The Ranch Girls at Rainbow Lodge",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-behind-the-lines": [
+   33532,
+   "The Camp Fire Girls Behind the Lines",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-ranch-girls-pot-of-gold": [
+   33656,
+   "The Ranch Girls' Pot of Gold",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-across-the-seas": [
+   33806,
+   "The Camp Fire Girls Across the Seas",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-red-cross-girls-with-pershing-to-victory": [
+   33990,
+   "The Red Cross Girls with Pershing to Victory",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-in-after-years": [
+   34926,
+   "The Camp Fire Girls in After Years",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-ranch-girls-and-their-great-adventure": [
+   34927,
+   "The Ranch Girls and Their Great Adventure",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-ranch-girls-at-home-again": [
+   34928,
+   "The Ranch Girls at Home Again",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-ranch-girls-in-europe": [
+   34929,
+   "The Ranch Girls in Europe",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-careers": [
+   36229,
+   "The Camp Fire Girls' Careers",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-ranch-girls-and-their-hearts-desire": [
+   37271,
+   "The Ranch Girls and Their Heart's Desire",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-at-the-end-of-the-trail": [
+   42206,
+   "The Camp Fire Girls at the End of the Trail",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-in-glorious-france": [
+   45236,
+   "The Camp Fire Girls in Glorious France"
+  ],
+  "mvandercook-camp-fire-girls-amid-the-snows": [
+   45657,
+   "The Camp Fire Girls Amid the Snows",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-by-the-blue-lagoon": [
+   53200,
+   "The Camp Fire Girls by the Blue Lagoon"
+  ],
+  "mvandercook-girl-scouts-of-the-round-table": [
+   53573,
+   "The Girl Scouts of the Round Table",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-red-cross-girls-in-belgium": [
+   53730,
+   "The Red Cross Girls in Belgium",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-ranch-girls-at-boarding-school": [
+   56097,
+   "The Ranch Girls at Boarding School",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-at-half-moon-lake": [
+   57508,
+   "The Camp Fire Girls at Half Moon Lake",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-red-cross-girls-in-the-british-trenches": [
+   60154,
+   "The Red Cross Girls in the British Trenches",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-red-cross-girls-on-the-french-firing-line": [
+   60265,
+   "The Red Cross Girls on the French Firing Line"
+  ],
+  "mvandercook-red-cross-girls-with-the-stars-and-stripes": [
+   68624,
+   "The Red Cross girls with the Stars and Stripes",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-ranch-girls-and-the-silver-arrow": [
+   69649,
+   "The Ranch Girls and the silver arrow",
+   {
+    "contents_only": true
+   }
+  ],
+  "mvandercook-camp-fire-girls-on-the-edge-of-the-desert": [
+   72632,
+   "The Camp Fire Girls on the edge of the desert",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mvandercook-camp-fire-girls-at-sunrise-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-red-cross-girls-with-the-russian-army": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-in-the-outside-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-girl-scouts-in-beechwood-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-on-the-field-of-honor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-loves-of-ambrose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-ranch-girls-at-rainbow-lodge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-behind-the-lines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-ranch-girls-pot-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-across-the-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-red-cross-girls-with-pershing-to-victory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-in-after-years": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-ranch-girls-and-their-great-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-ranch-girls-at-home-again": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-ranch-girls-in-europe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-careers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-ranch-girls-and-their-hearts-desire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-at-the-end-of-the-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-in-glorious-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-amid-the-snows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-by-the-blue-lagoon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-girl-scouts-of-the-round-table": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-red-cross-girls-in-belgium": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-ranch-girls-at-boarding-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-at-half-moon-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-red-cross-girls-in-the-british-trenches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-red-cross-girls-on-the-french-firing-line": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-red-cross-girls-with-the-stars-and-stripes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-ranch-girls-and-the-silver-arrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mvandercook-camp-fire-girls-on-the-edge-of-the-desert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "margaret vandercook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

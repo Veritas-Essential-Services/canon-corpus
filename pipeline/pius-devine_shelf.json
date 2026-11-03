@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain Pius Devine, Passionist priest, for the Word Hoard: Eutropia, or How to Find a Way out of Darkness and Doubt into Light and Certainty, and Auxilium Praedicatorum, a short gloss upon the Gospels for preachers (vols. II and III). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 119 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "pius devine",
+  "p. devine",
+  "devine"
+ ],
+ "_surname": [
+  "pius devine",
+  "devine"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pdevine-eutropia": [
+   "eutropiaorhowto00devigoog",
+   "Eutropia: or, How to find a way out of darkness and doubt into light and certainty (catalogued 1880)"
+  ],
+  "pdevine-auxilium-3": [
+   "AuxiliumPraedicatorumV3",
+   "Auxilium Praedicatorum, or a Short Gloss upon the Gospels, vol. III: St John (catalogued 1884)"
+  ],
+  "pdevine-short-gloss": [
+   "ashortclassupon00devigoog",
+   "Auxilium Praedicatorum, or a Short Gloss upon the Gospels, vol. II: St Mark and St Luke (catalogued 1884)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "pdevine-auxilium-3": "Title page (OCR): \"AUXILIUM PRAEDICATORUM [OCR: A UX ILIUM PRsEDICA TORUM]... WITH HINTS AS TO THEIR USE IN SERMONS. The Rev. PIUS DEVINE, Passionist\"",
+  "pdevine-short-gloss": "Title page (OCR): \"AUXILIUM PRAEDICATORUM [OCR: A UX ILIUM PRyEDICATORUM]; [or, a Short Gloss upon the Gospels,] WITH HINTS AS TO THEIR USE IN SERMONS. VOL. II. S. MARK & S. LUKE. The Rev. PIUS DEVINE, Passionist. Dublin: M. H. Gill and Son... 1884\""
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "pdevine-eutropia": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pius devine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pdevine-auxilium-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pius devine",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pdevine-short-gloss": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pius devine",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

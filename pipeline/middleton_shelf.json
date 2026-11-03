@@ -1,0 +1,53 @@
+{
+ "_about": "John Henry Middleton (1846-1896), Director of the Fitzwilliam Museum: The Remains of Ancient Rome, 2 vols. (London and Edinburgh: Adam and Charles Black, 1892), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "middleton"
+ ],
+ "_surname": [
+  "j. h. middleton",
+  "j. henry middleton",
+  "john henry middleton",
+  "middleton, j. h"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "middleton-remains-ancient-rome-v1-1892": [
+   "remainsofancient01midd",
+   "The Remains of Ancient Rome, vol. I (London: A. and C. Black, 1892)"
+  ],
+  "middleton-remains-ancient-rome-v2-1892": [
+   "remainsofancient02midd",
+   "The Remains of Ancient Rome, vol. II (London: A. and C. Black, 1892)"
+  ]
+ },
+ "_checks": {
+  "middleton-remains-ancient-rome-v1-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "middleton-remains-ancient-rome-v2-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. henry middleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "middleton-remains-ancient-rome-v1-1892": {
+   "author": "title page read 2026-10-10: OCR gives 'J. HENEY MIDDLETON, SLADE PROFESSOR OF FINE ART, DIRECTOR OF THE FITZWILLIAM MUSEUM', vol. I, A. and C. Black 1892; the OCR misreads HENRY"
+  }
+ }
+}

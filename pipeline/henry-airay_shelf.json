@@ -1,0 +1,35 @@
+{
+ "_about": "Henry Airay (1560?-1616), Provost of Queen's College, Oxford: Lectures upon the Whole Epistle of St Paul to the Philippians, delivered in St Peter's Church in Oxford (1864). Nichol's Series of Commentaries (Edinburgh: James Nichol; London: James Nisbet, general editor Thomas Smith), Princeton Seminary copy. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "airay"
+ ],
+ "_surname": [
+  "airay"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "airay-philippians-1864": [
+   "lecturesuponwhol00aira",
+   "Lectures upon the Whole Epistle of St Paul to the Philippians (Edinburgh: Nichol, 1864)"
+  ]
+ },
+ "_alternates": {
+  "lecturesuponwhol00airauoft": "Toronto copy of the same 1864 printing.",
+  "bim_early-english-books-1475-1640_lectures-upon-the-philip_airay-henry_1618": "First edition (1618), EEBO scan."
+ },
+ "_excluded": {},
+ "_checks": {
+  "airay-philippians-1864": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "airay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

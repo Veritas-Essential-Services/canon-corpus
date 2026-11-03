@@ -1,0 +1,127 @@
+{
+ "_about": "Public-domain Robert Sanderson (1587-1663, Regius Professor of Divinity at Oxford, Bishop of Lincoln, casuist, author of the preface to the 1662 Book of Common Prayer) for the Word Hoard: his Works, edited by William Jacobson (6 vols, Oxford 1854), raw Internet Archive OCR. Vols. 4 and 6 are mostly Latin (the Oxford lectures on oaths and on conscience; the logic compendium). Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "sanderson",
+  "robert"
+ ],
+ "_surname": [
+  "robert sanderson",
+  "r. sanderson",
+  "sanderson, robert",
+  "bishop sanderson",
+  "dr. sanderson",
+  "roberti sandersoni",
+  "rob. sanderson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sanderson-works-01": [
+   "theworksofrobert01sanduoft",
+   "The Works of Robert Sanderson, D.D., sometime Bishop of Lincoln, ed. William Jacobson, in six volumes, vol. 1 (Oxford: University Press, 1854); Sermons ad Aulam"
+  ],
+  "sanderson-works-02": [
+   "worksofrobertsan0002sand",
+   "The Works of Robert Sanderson, D.D., sometime Bishop of Lincoln, ed. William Jacobson, in six volumes, vol. 2 (Oxford: University Press, 1854)"
+  ],
+  "sanderson-works-03": [
+   "worksrobertsand03sanduoft",
+   "The Works of Robert Sanderson, D.D., sometime Bishop of Lincoln, ed. William Jacobson, in six volumes, vol. 3 (Oxford: University Press, 1854); Sermons ad Populum"
+  ],
+  "sanderson-works-04": [
+   "worksrobertsand04sanduoft",
+   "The Works of Robert Sanderson, D.D., sometime Bishop of Lincoln, ed. William Jacobson, in six volumes, vol. 4 (Oxford: University Press, 1854); Latin: De Juramenti Obligatione, De Obligatione Conscientiae"
+  ],
+  "sanderson-works-05": [
+   "worksrobertsand05sanduoft",
+   "The Works of Robert Sanderson, D.D., sometime Bishop of Lincoln, ed. William Jacobson, in six volumes, vol. 5 (Oxford: University Press, 1854); Cases of Conscience"
+  ],
+  "sanderson-works-06": [
+   "worksrobertsand06sanduoft",
+   "The Works of Robert Sanderson, D.D., sometime Bishop of Lincoln, ed. William Jacobson, in six volumes, vol. 6 (Oxford: University Press, 1854); Latin: Logicae Artis Compendium"
+  ]
+ },
+ "_alternates": {
+  "sanderson-works-02": "theworksofbpsand02sanduoft returned HTTP 500 for its text on 2026-10-03",
+  "sanderson-de-obligatione-1851": "De Obligatione Conscientiae, ed. Whewell (Cambridge, 1851; IA deobligationecon00sanduoft), Latin with English notes"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "sanderson-works-04": {
+   "author": "Title page read 2026-10-03: the OCR gives 'THE WORKS OF EGBERT SANDERSON, D. D. SOMETIME BISHOP OF LINCOLN, NOW FIRST COLLECTED BY WILLIAM JACOBSON ... VOL. IV. OXFORD ... M,DCCC.LIV' ('Egbert' is a misreading of 'Robert'), and the Latin title 'A ROBERTO SANDERSONO'; running heads read 'SANDERSON, VOL. IV.'"
+  }
+ },
+ "_rights_checked": {
+  "sanderson-works-02": "Title page read 2026-10-03 (the IA id is in the modern '0000' style): Oxford, at the University Press, M.DCCC.LIV, 'in six volumes', vol. 2 (OCR 'WO. IN'). A period printing, not a modern reprint."
+ },
+ "_checks": {
+  "sanderson-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert sanderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanderson-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert sanderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-03 (the IA id is in the modern '0000' style): Oxford, at the University Press, M.DCCC.LIV, 'in six volumes', vol. 2 (OCR 'WO. IN'). A period printing, not a modern reprint."
+  },
+  "sanderson-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert sanderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanderson-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanderson-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert sanderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sanderson-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert sanderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

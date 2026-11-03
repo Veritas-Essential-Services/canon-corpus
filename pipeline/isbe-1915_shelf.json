@@ -1,0 +1,105 @@
+{
+ "_about": "The International Standard Bible Encyclopaedia, gen. ed. James Orr (Chicago: Howard-Severance, 1915), 5 vols, complete; from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. Published 1915, so US public domain.",
+ "_name_words": [
+  "international standard bible encyclopaedia",
+  "orr"
+ ],
+ "_surname": [
+  "orr",
+  "james orr"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "isbe-1915-1": [
+   "bibleencyclopaed01unknuoft",
+   "The International Standard Bible Encyclopaedia, ed. James Orr, vol. I: A-Clemency (Chicago: Howard-Severance, 1915)"
+  ],
+  "isbe-1915-2": [
+   "bibleencyclopedi02orruoft",
+   "The International Standard Bible Encyclopaedia, ed. James Orr, vol. II: Clement-Heresh (Chicago: Howard-Severance, 1915)"
+  ],
+  "isbe-1915-3": [
+   "bibleencyclopedi03orruoft",
+   "The International Standard Bible Encyclopaedia, ed. James Orr, vol. III: Heresy-Naarah (Chicago: Howard-Severance, 1915)"
+  ],
+  "isbe-1915-4": [
+   "bibleencyclopedi04orruoft",
+   "The International Standard Bible Encyclopaedia, ed. James Orr, vol. IV: Naarah-Socho (Chicago: Howard-Severance, 1915)"
+  ],
+  "isbe-1915-5": [
+   "bibleencyclopedi05orruoft",
+   "The International Standard Bible Encyclopaedia, ed. James Orr, vol. V: Socket-Zuzim, Indexes (Chicago: Howard-Severance, 1915)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "isbe-1929": "The 1929 revised edition (ed. Orr and Melvin Grove Kyle) is also pre-1931 and US public domain, but the 1915 edition is the one Libronix carried; left for Adam if he wants the revision"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "isbe-1915-1": {
+   "author": "IA catalogues vol. I under 'unknown'; its title page names James Orr as general editor"
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "isbe-1915-1": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "orr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "isbe-1915-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "orr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "isbe-1915-3": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "orr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "isbe-1915-4": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "orr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "isbe-1915-5": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "orr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

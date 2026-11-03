@@ -1,0 +1,314 @@
+{
+ "_about": "Public-domain John Kitto (1804-1854, deaf biblical scholar) for the Word Hoard: the eight-volume Daily Bible Illustrations (New York: Carter printings, 1851-1860) and 10 more books from Internet Archive scans, 1841-1851: Palestine (two volumes, 1841), The Pictorial History of Palestine (two volumes, 1844), A Pictorial Life of Our Saviour (1847), Scripture Lands (1850), The History of Palestine (1851), The Land of Promise, The Court of Persia and The People of Persia. Raw OCR. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "kitto"
+ ],
+ "_surname": [
+  "john kitto",
+  "kitto, john",
+  "john kitto, d.d.",
+  "john kitto, d.d., f.s.a.",
+  "by john kitto"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kitto-daily-bible-01": [
+   "dailybibleillust01kitt",
+   "Daily Bible Illustrations, vol. 1, Antediluvians and Patriarchs (New York: Robert Carter and Brothers, 1854)"
+  ],
+  "kitto-daily-bible-02": [
+   "dailybibleillust02kitt",
+   "Daily Bible Illustrations, vol. 2, Moses and the Judges (New York: Robert Carter and Brothers, 1860)"
+  ],
+  "kitto-daily-bible-03": [
+   "dailybibleillust03kitt",
+   "Daily Bible Illustrations, vol. 3, Samuel, Saul, and David (New York: Robert Carter and Brothers, 1851)"
+  ],
+  "kitto-daily-bible-04": [
+   "dailybibleillust04kitt",
+   "Daily Bible Illustrations, vol. 4, Solomon and the Kings (New York: Robert Carter and Brothers, OCR'd 1869)"
+  ],
+  "kitto-daily-bible-05": [
+   "dailybibleillust05kitt",
+   "Daily Bible Illustrations, vol. 5, Job and the Poetical Books (New York: Robert Carter and Brothers, 1854)"
+  ],
+  "kitto-daily-bible-06": [
+   "dailybibleillust06kitt",
+   "Daily Bible Illustrations, vol. 6, Isaiah and the Prophets (New York: Robert Carter and Brothers, 1855)"
+  ],
+  "kitto-daily-bible-07": [
+   "dailybibleillust07kitt",
+   "Daily Bible Illustrations, vol. 7, The Life and Death of Our Lord (New York: Robert Carter and Brothers, 1853)"
+  ],
+  "kitto-daily-bible-08": [
+   "dailybibleillust08kitt",
+   "Daily Bible Illustrations, vol. 8, The Apostles and Early Church (New York: Robert Carter and Brothers, 1855)"
+  ],
+  "kitto-palestine-geography": [
+   "palestinephysica02kitt",
+   "Palestine: The Physical Geography and Natural History of the Holy Land (London: Charles Knight, 1841)"
+  ],
+  "kitto-palestine-bible-history": [
+   "palestinebiblehi01kitt",
+   "Palestine: The Bible History of the Holy Land (London: Charles Knight, 1841)"
+  ],
+  "kitto-pictorial-history-1": [
+   "pictorialhistory01kitt",
+   "The Pictorial History of Palestine and the Holy Land, vol. 1, Biblical History (London: Charles Knight, MDCCCXLIV)"
+  ],
+  "kitto-pictorial-history-2": [
+   "pictorialhistory02kitt",
+   "The Pictorial History of Palestine and the Holy Land, vol. 2 (London: Charles Knight, MDCCCXLIV)"
+  ],
+  "kitto-pictorial-life-saviour": [
+   "apictoriallifeo00chrigoog",
+   "A Pictorial Life of Our Saviour (London: Charles Cox, MDCCCXLVII)"
+  ],
+  "kitto-scripture-lands": [
+   "scripturelandsd00kittgoog",
+   "Scripture Lands, with a Complete Biblical Atlas (London: Henry G. Bohn, 1850)"
+  ],
+  "kitto-history-of-palestine": [
+   "historyofpalesti00kitt_0",
+   "The History of Palestine from the Patriarchal Age to the Present Time (Edinburgh: Adam and Charles Black, MDCCCLI)"
+  ],
+  "kitto-land-of-promise": [
+   "landofpromiseort00kitt",
+   "The Land of Promise: a Topographical Description of the Principal Places in Palestine (London: Religious Tract Society; no year on title page, catalogued 1851)"
+  ],
+  "kitto-court-of-persia": [
+   "courtofpersiavie00kittuoft",
+   "The Court of Persia, viewed in connexion with Scriptural Usages (London: Religious Tract Society; no year on title page, IA's 1800 date is wrong)"
+  ],
+  "kitto-people-of-persia": [
+   "peoplepersia00kittgoog",
+   "The People of Persia (London: Religious Tract Society; no year on title page, IA's 1799 date is wrong)"
+  ]
+ },
+ "_alternates": {
+  "kitto-pictorial-bible": "The Pictorial Bible (Knight 1836 vol. 1, anonymous; Chambers 1855-56 vols. 1-3): the Bible text with his notes",
+  "kitto-cyclopaedia": "A Cyclopaedia of Biblical Literature, vols. 1-2 (Black, 1845): multi-author, Kitto as editor; later editions revised by W. L. Alexander",
+  "kitto-dbi-other": "Daily Bible Illustrations: Edinburgh Oliphant printings (1856, 1864), Carter 1856 Evening Series copies, and J. L. Porter's revised edition (1866-67)",
+  "kitto-lost-senses": "The Lost Senses: Deafness and Blindness (Knight, 1845): autobiographical, not divinity",
+  "kitto-gallery": "The Gallery of Scripture Engravings, vols. 1-3: plates with his descriptions",
+  "kitto-edited": "Works he edited: Sunday Reading for Christian Families (1853), Pictorial Sunday Book, The Journal of Sacred Literature (1848-); Uncle Oliver's Travels (anonymous)",
+  "kitto-copies": "Second copies of Palestine (1841), The Lost Senses, The People of Persia, and the Routledge Bible History of the Holy Land"
+ },
+ "_excluded": {
+  "kitto-life": "John Eadie's Life of John Kitto (1861): by another hand",
+  "kitto-misattributed": "Judah and Israel; Randall's Handwriting of God; Kimpton's Illustrated History",
+  "kitto-namesakes": "F. H. Kitto and others"
+ },
+ "_identity_checked": {
+  "kitto-daily-bible-08": {
+   "author": "title page read: 'By John Kitto, D.D. F.S.A.' (OCR 'K1TT0'), New York: Robert Carter, 1855"
+  }
+ },
+ "_rights_checked": {
+  "kitto-court-of-persia": "title page read: Religious Tract Society, 56 Paternoster Row, Monthly Volume series, no year; author died 1854"
+ },
+ "_pending": {},
+ "_checks": {
+  "kitto-daily-bible-01": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-daily-bible-02": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-daily-bible-03": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-daily-bible-04": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-daily-bible-05": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-daily-bible-06": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-daily-bible-07": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-daily-bible-08": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-palestine-geography": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-palestine-bible-history": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-pictorial-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-pictorial-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-pictorial-life-saviour": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-scripture-lands": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kitto-history-of-palestine": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "kitto-land-of-promise": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kitto-court-of-persia": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[18--]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Religious Tract Society, 56 Paternoster Row, Monthly Volume series, no year; author died 1854"
+  },
+  "kitto-people-of-persia": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kitto",
+   "identity": "ok",
+   "ia_rights": "ok: published 1799",
+   "ia_date": "1799",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

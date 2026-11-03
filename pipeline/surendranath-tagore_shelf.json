@@ -1,0 +1,77 @@
+{
+ "_about": "TRANSLATOR SHELF: Surendranath Tagore (1872-1940): Rabindranath Tagore's The Home and the World (1919) and My Reminiscences (1917). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "surendranath tagore"
+ ],
+ "_surname": [
+  "surendranath tagore"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "sut-22217": [
+   22217,
+   "My Reminiscences"
+  ],
+  "sut-7166": [
+   7166,
+   "The Home and the World"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "surendranath-tagore-tagore-my-reminiscences": {
+   "source": "sut-22217",
+   "of": "Rabindranath Tagore",
+   "work": "My Reminiscences",
+   "translated": "1917-1919 (see the Gutenberg header)",
+   "translator": "Surendranath Tagore",
+   "scan_edition": "Project Gutenberg 22217 (clean text)"
+  },
+  "surendranath-tagore-tagore-the-home-and-the-world": {
+   "source": "sut-7166",
+   "of": "Rabindranath Tagore",
+   "work": "The Home and the World",
+   "translated": "1917-1919 (see the Gutenberg header)",
+   "translator": "Surendranath Tagore",
+   "scan_edition": "Project Gutenberg 7166 (clean text)",
+   "note": "Tagore's dates '[1861-1941]' on the title page were added by the transcriber. The text is the 1919 Macmillan translation."
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sut-22217": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "surendranath tagore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Surendranath Tagore"
+  },
+  "sut-7166": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "surendranath tagore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Surendranath Tagore"
+  }
+ },
+ "_verified": {
+  "sut-22217": {
+   "pg": 22217,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Surendranath Tagore"
+  },
+  "sut-7166": {
+   "pg": 7166,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Surendranath Tagore"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

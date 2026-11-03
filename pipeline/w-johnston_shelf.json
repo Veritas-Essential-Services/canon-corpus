@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: William Johnston: Beckmann's A History of Inventions, Discoveries, and Origins, 2 vols (1797, Bohn revision 1846), and Paulinus a S. Bartholomaeo's Voyage to the East Indies (1800). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "william johnston"
+ ],
+ "_surname": [
+  "william johnston"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wjo-48151": [
+   48151,
+   "A History of Inventions, Discoveries, and Origins, Volume 1 (of 2)"
+  ],
+  "wjo-48152": [
+   48152,
+   "A History of Inventions, Discoveries, and Origins, Volume 2 (of 2)"
+  ],
+  "wjo-76461": [
+   76461,
+   "Voyage to the East Indies"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "w-johnston-beckmann-a-history-of-inventions-discoveries-and-vol-1": {
+   "source": "wjo-48151",
+   "of": "Johann Beckmann",
+   "work": "A History of Inventions, Discoveries, and Origins, Volume 1 (of 2)",
+   "translated": "1797-1846 (see the Gutenberg header)",
+   "translator": "William Johnston",
+   "scan_edition": "Project Gutenberg 48151 (clean text)"
+  },
+  "w-johnston-beckmann-a-history-of-inventions-discoveries-and-vol-2": {
+   "source": "wjo-48152",
+   "of": "Johann Beckmann",
+   "work": "A History of Inventions, Discoveries, and Origins, Volume 2 (of 2)",
+   "translated": "1797-1846 (see the Gutenberg header)",
+   "translator": "William Johnston",
+   "scan_edition": "Project Gutenberg 48152 (clean text)"
+  },
+  "w-johnston-paulinus-voyage-to-the-east-indies": {
+   "source": "wjo-76461",
+   "of": "Paulinus a S. Bartholomaeo",
+   "work": "Voyage to the East Indies",
+   "translated": "1797-1846 (see the Gutenberg header)",
+   "translator": "William Johnston",
+   "scan_edition": "Project Gutenberg 76461 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wjo-48151": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Johnston"
+  },
+  "wjo-48152": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Johnston"
+  },
+  "wjo-76461": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Johnston"
+  }
+ },
+ "_verified": {
+  "wjo-48151": {
+   "pg": 48151,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Johnston"
+  },
+  "wjo-48152": {
+   "pg": 48152,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Johnston"
+  },
+  "wjo-76461": {
+   "pg": 76461,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Johnston"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

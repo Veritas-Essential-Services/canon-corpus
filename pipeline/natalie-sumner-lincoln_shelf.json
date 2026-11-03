@@ -1,0 +1,188 @@
+{
+ "_about": "Natalie Sumner Lincoln's Washington mystery novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Natalie Sumner Lincoln",
+ "_name_words": [
+  "lincoln",
+  "sumner"
+ ],
+ "_surname": [
+  "sumner lincoln"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nslincoln-red-seal": [
+   1747,
+   "The Red Seal"
+  ],
+  "nslincoln-i-spy": [
+   9812,
+   "I Spy"
+  ],
+  "nslincoln-lost-despatch": [
+   24204,
+   "The Lost Despatch"
+  ],
+  "nslincoln-meredith-mystery": [
+   58597,
+   "The Meredith Mystery"
+  ],
+  "nslincoln-man-inside": [
+   63223,
+   "The Man Inside"
+  ],
+  "nslincoln-cats-paw": [
+   66627,
+   "The Cat's Paw"
+  ],
+  "nslincoln-thirteenth-letter": [
+   67890,
+   "The Thirteenth Letter"
+  ],
+  "nslincoln-unseen-ear": [
+   68679,
+   "The unseen ear"
+  ],
+  "nslincoln-nameless-man": [
+   68810,
+   "The nameless man"
+  ],
+  "nslincoln-trevor-case": [
+   69004,
+   "The Trevor case"
+  ],
+  "nslincoln-official-chaperon": [
+   69388,
+   "The official chaperon"
+  ],
+  "nslincoln-three-strings": [
+   73597,
+   "The three strings"
+  ],
+  "nslincoln-moving-finger": [
+   74210,
+   "The moving finger"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "nslincoln-red-seal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-i-spy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-lost-despatch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-meredith-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-man-inside": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-cats-paw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-thirteenth-letter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-unseen-ear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-nameless-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-trevor-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-official-chaperon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-three-strings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nslincoln-moving-finger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "supplied": [
+  {
+   "find": "*Da[⟨•⟩]{.gap}e ",
+   "replace": "*Da[t]{.supplied}e ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " c[⟨•⟩]{.gap}ted ",
+   "replace": " c[i]{.supplied}ted ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " po[⟨•⟩]{.gap}tion,",
+   "replace": " po[r]{.supplied}tion,",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ully ",
+   "replace": " [f]{.supplied}ully ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  }
+ ]
+}

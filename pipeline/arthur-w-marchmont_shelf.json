@@ -1,0 +1,174 @@
+{
+ "_about": "Arthur W. Marchmont's writing at Gutenberg: adventure romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Arthur W. Marchmont",
+ "_name_words": [
+  "marchmont"
+ ],
+ "_surname": [
+  "marchmont"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "awmarchmont-man-without-a-memory": [
+   35516,
+   "The Man Without a Memory"
+  ],
+  "awmarchmont-by-wit-of-woman": [
+   35828,
+   "By Wit of Woman"
+  ],
+  "awmarchmont-by-right-of-sword": [
+   38357,
+   "By Right of Sword"
+  ],
+  "awmarchmont-imperial-marriage": [
+   40800,
+   "An Imperial Marriage"
+  ],
+  "awmarchmont-dash-for-a-throne": [
+   40907,
+   "A Dash for a Throne"
+  ],
+  "awmarchmont-sarita-the-carlist": [
+   53551,
+   "Sarita, the Carlist"
+  ],
+  "awmarchmont-when-i-was-czar": [
+   63320,
+   "When I Was Czar"
+  ],
+  "awmarchmont-in-the-name-of-a-woman": [
+   67546,
+   "In the Name of a Woman: A Romance"
+  ],
+  "awmarchmont-courier-of-fortune": [
+   67731,
+   "A Courier of Fortune"
+  ],
+  "awmarchmont-in-the-cause-of-freedom": [
+   67751,
+   "In the Cause of Freedom"
+  ],
+  "awmarchmont-queens-advocate": [
+   67789,
+   "The Queen's Advocate"
+  ],
+  "awmarchmont-in-the-name-of-the-people": [
+   67801,
+   "In the Name of the People"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "awmarchmont-man-without-a-memory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-by-wit-of-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-by-right-of-sword": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-imperial-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-dash-for-a-throne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-sarita-the-carlist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-when-i-was-czar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-in-the-name-of-a-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-courier-of-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-in-the-cause-of-freedom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-queens-advocate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awmarchmont-in-the-name-of-the-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marchmont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
