@@ -1,0 +1,49 @@
+{
+ "_about": "Robert Browning. Bloom's Western Canon (1994) lists: The Ring and the Book. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Robert Browning",
+ "_name_words": [
+  "robert",
+  "browning"
+ ],
+ "_surname": [
+  "browning",
+  "robert browning"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "browning-complete-poetic-dramatic-works": [
+   50954,
+   "The Complete Poetic and Dramatic Works of Robert Browning (Cambridge Edition)",
+   "tr. ed. Horace E. Scudder"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "browning-complete-poetic-dramatic-works": "Scudder"
+ },
+ "_bloom": {
+  "browning-complete-poetic-dramatic-works": {
+   "bloom_n": [
+    452
+   ],
+   "bloom_title": "The Ring and the Book",
+   "year": "unread",
+   "evidence": "Read PG header ('The Cambridge Edition of the Poets') and grep: 'THE RING AND THE BOOK' appears as a section heading.",
+   "case": "Bloom lists The Ring and the Book; not held. The one-volume Cambridge Browning on PG contains it complete, and also gives the complete poems.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "browning-complete-poetic-dramatic-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "browning",
+   "translator_claimed": "Scudder",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
