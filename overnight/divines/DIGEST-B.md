@@ -357,9 +357,9 @@ PR #7 is merged to main and its `PERSEUS` manifest fetches the same texts. So th
 
 ## 2026-11-03 evening: unrenewed Loebs (Adam: "I want everything that was not renewed")
 
-The non-renewal sweep thread flagged three Lane B exclusions. I checked each one offline with `renewal_check.py` (author+title, `--title-only` and `--surname`) and found no renewal for any of them. All three are now shelved, and their evidence is under `_nonrenewal` and `_rights_checked`:
+The non-renewal sweep thread flagged three Lane B exclusions. I checked each one offline with `renewal_check.py` (author+title, `--title-only` and `--surname`) and found no renewal for any of them. I shelved all three first, with the evidence under `_nonrenewal` and `_rights_checked`:
 
 - **Shorey, Republic vol. II (1935):** plato-shorey-republic-v2, IA republicshorey02platuoft. The scan is the 1942 printing, with no revision notice.
 - **Nixon, Plautus vol. IV (1932) and vol. V (1938):** plautus-nixon-v4 and -v5 on roman-comedy. Both are first printings from Digital Library of India. The Nixon Plautus is now complete.
 
-Both translators were American, and the title pages carry a US imprint (Putnam New York, Harvard Cambridge) beside the London one. One thing is recorded for you: both Plautus volumes say "Printed in Great Britain".
+**Then held back the same evening, on a URAA question (coordinator's check).** These Loebs were printed in Great Britain by Heinemann, with a US co-publisher on the title page. I read the Catalog of Copyright Entries, Books, for 1932, 1935 and 1938 (IA catalogofcopyrig291libr, catalogofcopyri321libr, catalogofcopyrig351lib) and searched the OCR. None of these volumes is registered there, and no Loeb is either. So nothing shows that the US issue came out first or within 30 days of London. A book first published in the UK can have been restored by the URAA (1996) whether or not it was renewed. Both translators were American, but the URAA test also counts the rightholder, and who held the Loeb copyright then is unknown. All three now sit in `_pending` on their shelves, with the full evidence. They come back if a US publication date within 30 days of London turns up (Publishers' Weekly or the English Catalogue for those years would show it).
