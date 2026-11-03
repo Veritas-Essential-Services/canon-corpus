@@ -1,0 +1,45 @@
+{
+ "_about": "Maurice Morgann. Bloom's Western Canon (1994) lists: An Essay on the Dramatic Character of Sir John Falstaff. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Maurice Morgann",
+ "_name_words": [
+  "maurice",
+  "morgann"
+ ],
+ "_surname": [
+  "morgann",
+  "maurice morgann"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "morgann-essay-on-dramatic-character": [
+   "essayondramaticc00morguoft",
+   "Morgann's Essay on the Dramatic Character of Sir John Falstaff, ed. William Arthur Gill"
+  ]
+ },
+ "_bloom": {
+  "morgann-essay-on-dramatic-character": {
+   "bloom_n": [
+    221
+   ],
+   "bloom_title": "An Essay on the Dramatic Character of Sir John Falstaff",
+   "year": "1912 (title page: 'London, Henry Frowde 1912')",
+   "evidence": "Read title page and introduction opening.",
+   "case": "Gill's 1912 reprint is a clean text of the 1777 essay.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "morgann-essay-on-dramatic-character": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "morgann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
