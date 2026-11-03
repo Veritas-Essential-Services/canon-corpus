@@ -1,0 +1,43 @@
+{
+ "_about": "Sinclair Lewis. Bloom's Western Canon (1994) lists: Babbitt. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Sinclair Lewis",
+ "_name_words": [
+  "sinclair",
+  "lewis"
+ ],
+ "_surname": [
+  "lewis",
+  "sinclair lewis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lewis-babbitt": [
+   1156,
+   "Babbitt"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "lewis-babbitt": {
+   "bloom_n": [
+    1264
+   ],
+   "bloom_title": "Babbitt",
+   "year": "1922 (PG title page 'COPYRIGHT, 1922, BY HARCOURT, BRACE AND COMPANY')",
+   "evidence": "PG header + title page read",
+   "case": "Bloom lists Babbitt (1922). PG has a renovated proofed text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "lewis-babbitt": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
