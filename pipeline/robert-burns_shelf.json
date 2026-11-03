@@ -1,0 +1,42 @@
+{
+ "_about": "Robert Burns. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Robert Burns",
+ "_name_words": [
+  "burns"
+ ],
+ "_surname": [
+  "robert burns",
+  "burns"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "burns-poems-songs": [
+   1279,
+   "Poems and Songs of Robert Burns"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "burns-poems-songs": {
+   "bloom_n": [
+    411
+   ],
+   "bloom_title": "Poems",
+   "year": "unread",
+   "evidence": "Read PG header; text arranged chronologically from 1771-1779 onward.",
+   "case": "Bloom lists Burns's poems; no Burns poetry shelf was found (only Carlyle's essay on Burns). PG 1279 is the clean chronological poems-and-songs text.",
+   "note": "PG 18500 adds the letters if a fuller set is wanted."
+  }
+ },
+ "_checks": {
+  "burns-poems-songs": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "robert burns",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
