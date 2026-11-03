@@ -15,6 +15,26 @@
    8861,
    "The Works of Lord Byron, Vol. 1. Poetry",
    "tr. ed. Ernest Hartley Coleridge"
+  ],
+  "byron-works-2": [
+   25340,
+   "The Works of Lord Byron, Vol. 2. Poetry"
+  ],
+  "byron-works-3": [
+   21811,
+   "The Works of Lord Byron, Vol. 3. Poetry"
+  ],
+  "byron-works-5": [
+   23475,
+   "The Works of Lord Byron, Vol. 5. Poetry"
+  ],
+  "byron-works-6": [
+   18762,
+   "The Works of Lord Byron, Vol. 6. Poetry"
+  ],
+  "byron-works-7": [
+   27577,
+   "The Works of Lord Byron, Vol. 7. Poetry"
   ]
  },
  "internet_archive": {},
@@ -30,7 +50,57 @@
    "year": "unread (shelf row gives vol. 4 as London: John Murray, 1901)",
    "evidence": "PG catalogue: Coleridge's Poetry vols 1-7 are PG 8861, 25340, 21811, 20158 (held), 23475, 18762, 27577.",
    "case": "Bloom lists Byron's poems; we hold one volume of Coleridge's seven-volume Poetry plus Childe Harold and Don Juan. Completing the Coleridge set on PG gives the standard complete poems.",
-   "note": "Add vols 1-3 and 5-7; vol. 4 is already held."
+   "note": "Vols. 1-3 and 5-7 are on this shelf; vol. 4 is held on mason-poetry (PG 20158)."
+  },
+  "byron-works-2": {
+   "bloom_n": [
+    427
+   ],
+   "bloom_title": "Poems",
+   "year": "1898-1904 (E. H. Coleridge's edition, London: John Murray)",
+   "evidence": "PG catalogue read: Byron; Coleridge, Ernest Hartley (editor)",
+   "case": "The rest of Coleridge's seven poetry volumes; vol. 4 is held on mason-poetry (PG 20158), vols. 1-3 and 5-7 here.",
+   "note": "Completes the set (2026-11-03 follow-up)."
+  },
+  "byron-works-3": {
+   "bloom_n": [
+    427
+   ],
+   "bloom_title": "Poems",
+   "year": "1898-1904 (E. H. Coleridge's edition, London: John Murray)",
+   "evidence": "PG catalogue read: Byron; Coleridge, Ernest Hartley (editor)",
+   "case": "The rest of Coleridge's seven poetry volumes; vol. 4 is held on mason-poetry (PG 20158), vols. 1-3 and 5-7 here.",
+   "note": "Completes the set (2026-11-03 follow-up)."
+  },
+  "byron-works-5": {
+   "bloom_n": [
+    427
+   ],
+   "bloom_title": "Poems",
+   "year": "1898-1904 (E. H. Coleridge's edition, London: John Murray)",
+   "evidence": "PG catalogue read: Byron; Coleridge, Ernest Hartley (editor)",
+   "case": "The rest of Coleridge's seven poetry volumes; vol. 4 is held on mason-poetry (PG 20158), vols. 1-3 and 5-7 here.",
+   "note": "Completes the set (2026-11-03 follow-up)."
+  },
+  "byron-works-6": {
+   "bloom_n": [
+    427
+   ],
+   "bloom_title": "Poems",
+   "year": "1898-1904 (E. H. Coleridge's edition, London: John Murray)",
+   "evidence": "PG catalogue read: Byron; Coleridge, Ernest Hartley (editor)",
+   "case": "The rest of Coleridge's seven poetry volumes; vol. 4 is held on mason-poetry (PG 20158), vols. 1-3 and 5-7 here.",
+   "note": "Completes the set (2026-11-03 follow-up)."
+  },
+  "byron-works-7": {
+   "bloom_n": [
+    427
+   ],
+   "bloom_title": "Poems",
+   "year": "1898-1904 (E. H. Coleridge's edition, London: John Murray)",
+   "evidence": "PG catalogue read: Byron; Coleridge, Ernest Hartley (editor)",
+   "case": "The rest of Coleridge's seven poetry volumes; vol. 4 is held on mason-poetry (PG 20158), vols. 1-3 and 5-7 here.",
+   "note": "Completes the set (2026-11-03 follow-up)."
   }
  },
  "_checks": {
@@ -41,6 +111,51 @@
    "author_seen": "byron",
    "translator_claimed": "Coleridge",
    "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "byron-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "byron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "byron-works-3": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "byron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "byron-works-5": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "byron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "byron-works-6": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "byron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "byron-works-7": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "byron",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
