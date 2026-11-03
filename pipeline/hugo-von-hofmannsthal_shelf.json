@@ -1,0 +1,139 @@
+{
+ "_about": "Hugo von Hofmannsthal. Bloom's Western Canon (1994) lists: Poems and Verse Plays; Selected Plays and Libretti. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Hugo von Hofmannsthal",
+ "_name_words": [
+  "hugo",
+  "von",
+  "hofmannsthal"
+ ],
+ "_surname": [
+  "hofmannsthal",
+  "hugo von hofmannsthal"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hofmannsthal-lyrical-poems": [
+   "lyricalpoemshug00unkngoog",
+   "The Lyrical Poems of Hugo von Hofmannsthal"
+  ],
+  "hofmannsthal-electra": [
+   "cu31924026245435",
+   "Electra: a tragedy in one act"
+  ],
+  "hofmannsthal-ariadne-on-naxos": [
+   "ariadneonnaxosop00strauoft",
+   "Ariadne on Naxos: opera in one act"
+  ],
+  "hofmannsthal-der-rosenkavalier": [
+   "derrosenkavalie01kaligoog",
+   "Der Rosenkavalier (The Rose-Bearer): comedy for music in three acts"
+  ]
+ },
+ "_translators": {
+  "hofmannsthal-lyrical-poems": "Stork",
+  "hofmannsthal-electra": "Symons",
+  "hofmannsthal-ariadne-on-naxos": "Kalisch",
+  "hofmannsthal-der-rosenkavalier": "Kalisch"
+ },
+ "_bloom": {
+  "hofmannsthal-lyrical-poems": {
+   "bloom_n": [
+    999
+   ],
+   "bloom_title": "Poems and Verse Plays",
+   "year": "MDCCCCXVIII = 1918 (title page)",
+   "evidence": "djvu title page read: \"translated from the German with an Introduction by Charles Wharton Stork. New Haven: Yale University Press; London: Humphrey Milford, Oxford University Press, MDCCCCXVIII\". Google scan, americana, no lending flag.",
+   "case": "Bloom lists the poems and verse plays. We already hold the principal lyric dramas in Francke's German Classics (vols. XVII, XX); Stork's 1918 Lyrical Poems adds the poems as a book and completes the PD portion.",
+   "note": "The Stork volume is short (about 80 KB of OCR). An alternate copy: lyricalpoemshug00storgoog."
+  },
+  "hofmannsthal-electra": {
+   "bloom_n": [
+    1001
+   ],
+   "bloom_title": "Selected Plays and Libretti",
+   "year": "1908 (title page)",
+   "evidence": "djvu title page read: \"Electra, a tragedy in one act, by Hugo von Hofmannsthal, translated by Arthur Symons. New York, Brentano's, 1908\"; Cornell, \"no known copyright restrictions\".",
+   "case": "Bloom lists the plays and libretti; Symons's Electra (1908) and Kalisch's Rose-Bearer (1912) and Ariadne (1913) are the classic pre-1931 English versions.",
+   "note": "The Rosenkavalier scan is a later Fürstner Ltd printing (imprint, not text, is post-1930); it is a bilingual libretto. Alternate Electra copies: electratragedyin00hofmiala, electraatragedy00symogoog."
+  },
+  "hofmannsthal-ariadne-on-naxos": {
+   "bloom_n": [
+    1001
+   ],
+   "bloom_title": "Selected Plays and Libretti",
+   "year": "\"Copyright ... 1913 by Adolph Fürstner\" (title page)",
+   "evidence": "djvu head read: English translation by Alfred Kalisch, Berlin/Paris Adolph Fürstner, copyright 1913; translator's note says it is not a singing version. Toronto, no lending flag.",
+   "case": "Bloom lists the plays and libretti; Symons's Electra (1908) and Kalisch's Rose-Bearer (1912) and Ariadne (1913) are the classic pre-1931 English versions.",
+   "note": "The Rosenkavalier scan is a later Fürstner Ltd printing (imprint, not text, is post-1930); it is a bilingual libretto. Alternate Electra copies: electratragedyin00hofmiala, electraatragedy00symogoog."
+  },
+  "hofmannsthal-der-rosenkavalier": {
+   "bloom_n": [
+    1001
+   ],
+   "bloom_title": "Selected Plays and Libretti",
+   "year": "\"Copyright 1911 and 1912 by Adolph Fürstner\" (title page); this printing later, unread",
+   "evidence": "djvu title page read: English version by Alfred Kalisch; imprint Fürstner Limited, London, Galaxy Music sole agents (a later printing of the 1911-12 text).",
+   "case": "Bloom lists the plays and libretti; Symons's Electra (1908) and Kalisch's Rose-Bearer (1912) and Ariadne (1913) are the classic pre-1931 English versions.",
+   "note": "The Rosenkavalier scan is a later Fürstner Ltd printing (imprint, not text, is post-1930); it is a bilingual libretto. Alternate Electra copies: electratragedyin00hofmiala, electraatragedy00symogoog."
+  }
+ },
+ "_rights_checked": {
+  "hofmannsthal-der-rosenkavalier": "Bloom addition 2026-11-03: \"Copyright 1911 and 1912 by Adolph Fürstner\" (title page); this printing later, unread. djvu title page read: English version by Alfred Kalisch; imprint Fürstner Limited, London, Galaxy Music sole agents (a later printing of the 1911-12 text)."
+ },
+ "_checks": {
+  "hofmannsthal-lyrical-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hofmannsthal",
+   "translator_claimed": "Stork",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hofmannsthal-electra": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hofmannsthal",
+   "translator_claimed": "Symons",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hofmannsthal-ariadne-on-naxos": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hofmannsthal",
+   "translator_claimed": "Kalisch",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "c1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hofmannsthal-der-rosenkavalier": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hofmannsthal",
+   "translator_claimed": "Kalisch",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: \"Copyright 1911 and 1912 by Adolph Fürstner\" (title page); this printing later, unread. djvu title page read: English version by Alfred Kalisch; imprint Fürstner Limited, London, Galaxy Music sole agents (a later printing of the 1911-12 text)."
+  }
+ }
+}
