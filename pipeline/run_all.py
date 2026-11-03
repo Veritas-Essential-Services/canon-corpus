@@ -19,7 +19,7 @@ def background_for(slug):
     exactly like a finding about Stevenson. Any slug whose name matches a
     background file is dropped from its own comparison set."""
     return [f"{C}/{x}" for x in BG_ALL if os.path.splitext(x)[0] != slug]
-SKIP = {"manifest","lsj-greek","tbesg-greek","thayer","kjv"}   # lexicons; kjv.complete replaces kjv
+SKIP = {"manifest","lsj-greek","tbesg-greek","thayer","thayer-entries","kjv"}   # lexicons; kjv.complete replaces kjv
 
 works = []
 for f in sorted(glob.glob(f"{B}/*.json")):
