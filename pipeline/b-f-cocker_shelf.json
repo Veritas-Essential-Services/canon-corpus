@@ -1,0 +1,35 @@
+{
+ "_about": "B. F. Cocker (1821-1883), Michigan professor of philosophy: Christianity and Greek Philosophy (1870). Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Benjamin Franklin Cocker (1821-1883)",
+ "_name_words": [
+  "cocker",
+  "christianity",
+  "greek",
+  "philosophy"
+ ],
+ "_surname": [
+  "cocker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cocker-christianity-greek-philosophy-1870": [
+   "christianitygree00cockrich",
+   "Christianity and Greek Philosophy, or the Relation between Spontaneous and Reflective Thought in Greece (1870)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "cocker-christianity-greek-philosophy-1870": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cocker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

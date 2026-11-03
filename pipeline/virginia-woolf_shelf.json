@@ -1,0 +1,98 @@
+{
+ "_about": "Virginia Woolf. Bloom's Western Canon (1994) lists: Mrs. Dalloway; Orlando: A Biography; To the Lighthouse. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Virginia Woolf",
+ "_name_words": [
+  "virginia",
+  "woolf"
+ ],
+ "_surname": [
+  "woolf",
+  "virginia woolf"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "woolf-mrs-dalloway": [
+   71865,
+   "Mrs. Dalloway"
+  ]
+ },
+ "internet_archive": {
+  "woolf-to-lighthouse": [
+   "bwb_S0-AMN-737",
+   "To the Lighthouse, by Virginia Woolf"
+  ],
+  "woolf-orlando": [
+   "orlandobiography0000virg_a1r7",
+   "Orlando: a biography"
+  ]
+ },
+ "_bloom": {
+  "woolf-mrs-dalloway": {
+   "bloom_n": [
+    913
+   ],
+   "bloom_title": "Mrs. Dalloway",
+   "year": "1925 (PG header: 'Original publication: New York: Harcourt, Brace & World, Inc., 1925'; scanned printing is a later 'twenty-third printing', copyright 1925)",
+   "evidence": "PG header read",
+   "case": "Bloom lists Mrs. Dalloway (1925). PG 71865 is the novel; the candidate the machine found (PG 63107) is only the short story 'Mrs Dalloway in Bond Street'.",
+   "note": "The source is a later printing of the unrevised 1925 Harcourt text."
+  },
+  "woolf-to-lighthouse": {
+   "bloom_n": [
+    914
+   ],
+   "bloom_title": "To the Lighthouse",
+   "year": "1927 (front matter read: 'COPYRIGHT, 1927'; a later Harcourt printing)",
+   "evidence": "Read title page, copyright and the opening of 'The Window'; collection internetarchivebooks, not lending.",
+   "case": "Bloom lists To the Lighthouse (1927). It is US-PD; this IA scan is a later Harcourt printing of the 1927 text.",
+   "note": "No first-printing scan outside the lending library turned up. Also seen: woolf_virginia_1882_1941_to_the_lighthouse, a modern e-text from the Harvest edition. Not on PG."
+  },
+  "woolf-orlando": {
+   "bloom_n": [
+    915
+   ],
+   "bloom_title": "Orlando: A Biography",
+   "year": "1928 (title page: New York, Harcourt, Brace and Company; 'Copyright, 1928, by Virginia Woolf. First Regular Edition')",
+   "evidence": "Read title page, copyright and preface; collection internetarchivebooks, not lending.",
+   "case": "Bloom lists Orlando (1928). This is the 1928 first US trade edition.",
+   "note": ""
+  }
+ },
+ "_rights_checked": {
+  "woolf-to-lighthouse": "Bloom addition 2026-11-03: unread (New York, Harcourt, Brace & Company; 'Copyright, 1927'; a later printing, since its list of the author's works runs to Between the Acts). Read title page, copyright and the opening of 'The Window'; collection internetarchivebooks, not lending."
+ },
+ "_checks": {
+  "woolf-mrs-dalloway": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "woolf",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "woolf-to-lighthouse": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "woolf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: unread (New York, Harcourt, Brace & Company; 'Copyright, 1927'; a later printing, since its list of the author's works runs to Between the Acts). Read title page, copyright and the opening of 'The Window'; collection internetarchivebooks, not lending."
+  },
+  "woolf-orlando": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "woolf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "_about": "A. H. Beesly (1839-1909): The Gracchi, Marius, and Sulla (Epochs of Ancient History, 1877; this printing 1889). Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Augustus Henry Beesly (1839-1909)",
+ "_name_words": [
+  "beesly",
+  "gracchi",
+  "marius",
+  "sulla"
+ ],
+ "_surname": [
+  "beesly"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "beesly-gracchi-marius-sulla": [
+   "gracchimariussul00beesuoft",
+   "The Gracchi, Marius, and Sulla (Epochs of Ancient History, 1877; this printing 1889)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "beesly-gracchi-marius-sulla": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beesly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

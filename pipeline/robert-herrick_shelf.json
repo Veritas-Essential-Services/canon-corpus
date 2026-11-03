@@ -1,0 +1,43 @@
+{
+ "_about": "Robert Herrick. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Robert Herrick",
+ "_name_words": [
+  "robert",
+  "herrick"
+ ],
+ "_surname": [
+  "herrick",
+  "robert herrick"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "herrick-hesperides-noble-numbers": [
+   22421,
+   "The Hesperides & Noble Numbers: Vol. 1 and 2"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "herrick-hesperides-noble-numbers": {
+   "bloom_n": [
+    175
+   ],
+   "bloom_title": "Poems",
+   "year": "1898 (PG text: '1898'; editor Alfred W. Pollard, Muses' Library)",
+   "evidence": "PG front matter read.",
+   "case": "Complete Hesperides and Noble Numbers in Pollard's Muses' Library edition.",
+   "note": "PG 1211 is only Palgrave's selection."
+  }
+ },
+ "_checks": {
+  "herrick-hesperides-noble-numbers": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "herrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

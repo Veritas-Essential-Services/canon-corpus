@@ -1,0 +1,50 @@
+{
+ "_about": "T. A. B. Spratt (1811-1888), Royal Navy hydrographer: Travels and Researches in Crete (2 vols., 1865). His Lycia volume (with Forbes) is not taken here. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Thomas Abel Brimage Spratt (1811-1888)",
+ "_name_words": [
+  "spratt",
+  "crete",
+  "travels",
+  "researches"
+ ],
+ "_surname": [
+  "spratt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "spratt-travels-crete-vol-1": [
+   "travelsresearche01spra",
+   "Travels and Researches in Crete, vol. I (1865)"
+  ],
+  "spratt-travels-crete-vol-2": [
+   "travelsandresea02spragoog",
+   "Travels and Researches in Crete, vol. II (1865)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "spratt-travels-crete-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spratt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spratt-travels-crete-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spratt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "_about": "Thomas Middleton and William Rowley. Bloom's Western Canon (1994) lists: The Changeling. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Thomas Middleton and William Rowley",
+ "_name_words": [
+  "thomas",
+  "middleton"
+ ],
+ "_surname": [
+  "middleton",
+  "thomas middleton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rowley-works": [
+   75606,
+   "The works of Thomas Middleton, Volume 4 (of 5)"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "rowley-works": {
+   "bloom_n": [
+    190
+   ],
+   "bloom_title": "The Changeling",
+   "year": "1840 (PG header: 'Original publication: Edward Lumley, 1840'; editor Dyce)",
+   "evidence": "PG text: 'THE CHANGELING.' found in vol. 4.",
+   "case": "Dyce's Middleton vol. 4 contains The Changeling.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "rowley-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "middleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

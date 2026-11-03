@@ -1,0 +1,36 @@
+{
+ "_about": "Matteo Della Corte (1875-1962), inspector of the Pompeii excavations: Pompeii, the New Excavations (Houses and Inhabitants) (Valle di Pompei: F. Sicignano, 1925), English edition. Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Matteo Della Corte (1875-1962)",
+ "_name_words": [
+  "corte",
+  "della",
+  "matteo",
+  "pompeii",
+  "excavations"
+ ],
+ "_surname": [
+  "della corte"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "della-corte-pompeii-new-excavations-1925": [
+   "pompeiinewexcava00dell",
+   "Pompeii: the New Excavations (Houses and Inhabitants) (Valle di Pompei, 1925)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "della-corte-pompeii-new-excavations-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "della corte",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

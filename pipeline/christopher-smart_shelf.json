@@ -1,0 +1,45 @@
+{
+ "_about": "Christopher Smart. Bloom's Western Canon (1994) lists: A Song to David. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Christopher Smart",
+ "_name_words": [
+  "christopher",
+  "smart"
+ ],
+ "_surname": [
+  "smart",
+  "christopher smart"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "smart-song-to-david": [
+   "songtodavidedite00smar",
+   "A Song to David, by Christopher Smart, edited, with notes"
+  ]
+ },
+ "_bloom": {
+  "smart-song-to-david": {
+   "bloom_n": [
+    228
+   ],
+   "bloom_title": "A Song to David",
+   "year": "1898 (title page: 'London: William Andrews & Co. ... 1898')",
+   "evidence": "Read title page and contents.",
+   "case": "A clean annotated reprint of the 1763 poem.",
+   "note": "IA also has 1904 and 1924 printings."
+  }
+ },
+ "_checks": {
+  "smart-song-to-david": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "smart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

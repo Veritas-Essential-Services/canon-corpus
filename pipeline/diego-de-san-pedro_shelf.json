@@ -1,0 +1,60 @@
+{
+ "_about": "Diego de San Pedro. Bloom's Western Canon (1994) lists: Prison of Love (Cárcel de amor). Bloom addition 2026-11-03 under Adam's Bloom-only ruling. The text is the EEBO-TCP transcription of Lord Berners's Castell of Love (c.1548), keyed by hand from the page images (the scan's own OCR was black-letter garble). Spelling is the printing's; TCP marks every unread letter as a <gap>, never a guess.",
+ "_author": "Diego de San Pedro",
+ "_name_words": [
+  "diego",
+  "pedro"
+ ],
+ "_surname": [
+  "bowrchier",
+  "castell of loue"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {},
+ "tcp": {
+  "pedro-castell-love": [
+   "A11488",
+   "The Castell of Loue"
+  ]
+ },
+ "_translators": {
+  "pedro-castell-love": "Bowrchier"
+ },
+ "_bloom": {
+  "pedro-castell-love": {
+   "bloom_n": [
+    97
+   ],
+   "bloom_title": "Prison of Love",
+   "year": "c.1548 (TCP record: STC 21739.5; dated 1548 in the catalogue; IA dates the same printing 1560)",
+   "evidence": "TCP catalogue A11488 read (San Pedro, Diego de; Berners, John Bourchier, Lord; 217 pp.); file's <availability> states CC0 1.0; title page in the text: 'translated out of Spanishe in to Englyshe, by Iohan Bowrchier knyght, lorde Bernis'.",
+   "case": "Bloom lists Cárcel de amor. Berners's Castell of Love is the classic and only pre-1931 English version; the TCP transcription is a clean, hand-keyed witness of it.",
+   "note": "The body spells the translator Bowrchier, so the checks use that form (Berners is also claimed by french-classics). 167 illegible gaps marked by the keyers. Replaces the IA attempt (bim_early-english-books-1475-1640_the-castell-of-love-_san-pedro-diego-de_1560), whose OCR failed the gate."
+  }
+ },
+ "_checks": {
+  "pedro-castell-love": {
+   "kind": "tcp",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bowrchier",
+   "translator_claimed": "Bowrchier",
+   "translator_in_text": true,
+   "identity": "ok",
+   "tcp_rights": "ok: CC0 1.0 (TCP availability statement)",
+   "tcp_author": [
+    "San Pedro, Diego de, fl. 1500.",
+    "San Pedro, Diego de, fl. 1500.",
+    "Berners, John Bourchier, Lord, 1466 or 7-1533."
+   ],
+   "tcp_dates": [
+    "1548",
+    "[1548?]]",
+    "2000-00"
+   ],
+   "tcp_gaps": 169,
+   "tcp_gaps_illegible": 167
+  }
+ }
+}

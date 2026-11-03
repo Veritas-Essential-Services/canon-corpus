@@ -1,5 +1,5 @@
 {
- "_about": "Francis Macdonald Cornford (1874-1943), Cambridge ritualist and historian of Greek thought. Raw IA OCR: Thucydides Mythistoricus (London: Edward Arnold, 1907; a 1965 microfilm-xerography reprint scan was rejected for this one); From Religion to Philosophy, a study in the origins of Western speculation (Arnold, 1912); The Origin of Attic Comedy (Arnold, 1914). Published before 1930. US public domain. No uids minted.",
+ "_about": "Francis Macdonald Cornford (1874-1943), Cambridge ritualist and historian of Greek thought. Raw IA OCR: Thucydides Mythistoricus (London: Edward Arnold, 1907; a 1965 microfilm-xerography reprint scan was rejected for this one); From Religion to Philosophy, a study in the origins of Western speculation (Arnold, 1912); The Origin of Attic Comedy (Arnold, 1914). Published before 1930. US public domain. No uids minted. Round dw (2026-10-23) added Greek Religious Thought from Homer to the Age of Alexander (Dent, 1923), raw IA OCR.",
  "_author": "F. M. Cornford",
  "_name_words": [
   "francis",
@@ -14,22 +14,28 @@
  "internet_archive": {
   "cornford-thucydides-mythistoricus-1907": [
    "in.ernet.dli.2015.45448",
-   "Thucydides Mythistoricus (Arnold, 1907)"
+   "Thucydides Mythistoricus (Arnold, 1907)",
+   "2015.45448.Thucydides-Mythistoricus_djvu.txt"
   ],
   "cornford-from-religion-to-philosophy-1912": [
    "india.history.resource.117546",
-   "From Religion to Philosophy (Arnold, 1912)"
+   "From Religion to Philosophy (Arnold, 1912)",
+   "117546_djvu.txt"
   ],
   "cornford-origin-of-attic-comedy-1914": [
    "cu31924022693117",
    "The Origin of Attic Comedy (Arnold, 1914)"
+  ],
+  "cornford-greek-religious-thought-1923": [
+   "greekreligiousth00cornuoft",
+   "Greek Religious Thought from Homer to the Age of Alexander, by F. M. Cornford (London and Toronto: J. M. Dent, MCMXXIII [1923])"
   ]
  },
  "_excluded": {},
  "_checks": {
   "cornford-thucydides-mythistoricus-1907": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "cornford",
    "identity": "ok",
@@ -40,7 +46,7 @@
   },
   "cornford-from-religion-to-philosophy-1912": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "cornford",
    "identity": "ok",
@@ -51,12 +57,23 @@
   },
   "cornford-origin-of-attic-comedy-1914": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "cornford",
    "identity": "ok",
    "ia_rights": "ok: published 1914",
    "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cornford-greek-religious-thought-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cornford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

@@ -1,0 +1,36 @@
+{
+ "_about": "W. R. Lethaby (1857-1931), architect and historian: Greek Buildings Represented by Fragments in the British Museum (1908). His other architecture books are outside lane B. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "William Richard Lethaby (1857-1931)",
+ "_name_words": [
+  "lethaby",
+  "greek",
+  "buildings",
+  "british",
+  "museum"
+ ],
+ "_surname": [
+  "lethaby"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lethaby-greek-buildings-1908": [
+   "cu31924008732806",
+   "Greek Buildings Represented by Fragments in the British Museum (1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lethaby-greek-buildings-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lethaby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

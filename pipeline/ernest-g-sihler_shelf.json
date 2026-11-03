@@ -1,0 +1,84 @@
+{
+ "_about": "Ernest G. Sihler (1853-1942), New York University Latinist: books 1908-1923 (US public domain by date). His Lexicon of Caesar's Gallic War (1891) is a Latin word-list and is not taken.",
+ "_author": "Ernest Gottlieb Sihler (1853-1942)",
+ "_name_words": [
+  "sihler",
+  "caesar",
+  "cicero",
+  "arpinum",
+  "augustus",
+  "augustine",
+  "testimonium"
+ ],
+ "_surname": [
+  "sihler"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sihler-testimonium-animae-1908": [
+   "cu31924028238115",
+   "Testimonium Animae, or Greek and Roman before Jesus Christ (1908)"
+  ],
+  "sihler-annals-of-caesar-1911": [
+   "annalscsaracrit00sihlgoog",
+   "Annals of Caesar: a Critical Biography with a Survey of the Sources (1911)"
+  ],
+  "sihler-cicero-of-arpinum-1914": [
+   "ciceroarpinumap00sihlgoog",
+   "Cicero of Arpinum: a Political and Literary Biography (1914)"
+  ],
+  "sihler-augustus-to-augustine-1923": [
+   "fromaugustustoau0000erne_j4p1",
+   "From Augustus to Augustine: Essays and Studies dealing with the Contact and Conflict of Classic Paganism and Christianity (1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sihler-testimonium-animae-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sihler",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sihler-annals-of-caesar-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sihler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sihler-cicero-of-arpinum-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sihler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sihler-augustus-to-augustine-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sihler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "_about": "Henry Osborn Taylor (1856-1941), American historian of ideas: Ancient Ideals (2nd ed., 2 vols., 1913), The Classical Heritage of the Middle Ages (1901), The Mediaeval Mind (2 vols., Gutenberg), Deliverance: the Freeing of the Spirit in the Ancient World (1915), Thought and Expression in the Sixteenth Century (2 vols., 1920), Greek Biology and Medicine (1922), and Freedom of the Mind in History (1923). Classical scholarship (lane B, round db). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Henry Osborn Taylor (1856-1941)",
+ "_name_words": [
+  "taylor",
+  "ancient",
+  "ideals",
+  "classical",
+  "heritage",
+  "mediaeval",
+  "mind",
+  "deliverance"
+ ],
+ "_surname": [
+  "henry osborn taylor",
+  "h. o. taylor",
+  "henry o. taylor"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "taylor-mediaeval-mind-vol-1-pg": [
+   43880,
+   "The Mediaeval Mind, vol. 1 of 2"
+  ],
+  "taylor-mediaeval-mind-vol-2-pg": [
+   43881,
+   "The Mediaeval Mind, vol. 2 of 2"
+  ]
+ },
+ "internet_archive": {
+  "taylor-ancient-ideals-vol-1-1913": [
+   "ancientidealsstu01tayluoft",
+   "Ancient Ideals: a Study of Intellectual and Spiritual Growth from Early Times to the Establishment of Christianity, 2nd ed., vol. I (1913)"
+  ],
+  "taylor-ancient-ideals-vol-2-1913": [
+   "ancientidealsstu02tayl",
+   "Ancient Ideals, 2nd ed., vol. II (1913)"
+  ],
+  "taylor-classical-heritage-middle-ages-1901": [
+   "classicalage00tayl",
+   "The Classical Heritage of the Middle Ages (1901)"
+  ],
+  "taylor-deliverance-1915": [
+   "deliverancefreei00taylrich",
+   "Deliverance: the Freeing of the Spirit in the Ancient World (1915)"
+  ],
+  "taylor-thought-expression-16th-century-vol-1": [
+   "thoughtexpressio01tayl_0",
+   "Thought and Expression in the Sixteenth Century, vol. I (1920)"
+  ],
+  "taylor-thought-expression-16th-century-vol-2": [
+   "thoughtexpressio0002tayl",
+   "Thought and Expression in the Sixteenth Century, vol. II (1920)"
+  ],
+  "taylor-greek-biology-medicine-1922": [
+   "greekbiologymedi00tayl",
+   "Greek Biology and Medicine (1922)"
+  ],
+  "taylor-freedom-of-the-mind-1923": [
+   "freedomofmindinh0000tayl_p1k2",
+   "Freedom of the Mind in History (1923)"
+  ]
+ },
+ "_excluded": {
+  "Prophets, Poets, and Philosophers of the Ancient World (1919)": "reissue of Deliverance (1915) under a new title",
+  "Ancient Ideals, 1st ed. (1896)": "superseded by the 1913 second edition"
+ },
+ "_checks": {
+  "taylor-mediaeval-mind-vol-1-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry osborn taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "taylor-mediaeval-mind-vol-2-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry osborn taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "taylor-ancient-ideals-vol-1-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry osborn taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "c1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "taylor-ancient-ideals-vol-2-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry osborn taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "taylor-classical-heritage-middle-ages-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry osborn taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "taylor-deliverance-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry osborn taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "taylor-thought-expression-16th-century-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry osborn taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "taylor-thought-expression-16th-century-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry osborn taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "taylor-greek-biology-medicine-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry osborn taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "taylor-freedom-of-the-mind-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry osborn taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "['1923', '1923']",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

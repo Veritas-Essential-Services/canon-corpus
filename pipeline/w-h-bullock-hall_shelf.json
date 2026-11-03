@@ -1,0 +1,33 @@
+{
+ "_about": "W. H. (Bullock) Hall, raw IA OCR of The Romans on the Riviera and the Rhone: a sketch of the conquest of Liguria and the Roman Province (1898). Roman history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "W. H. Bullock Hall",
+ "_name_words": [
+  "hall"
+ ],
+ "_surname": [
+  "w. h. (bullock) hall",
+  "bullock) hall"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-h-bullock-hall-romans-on-the-riviera-1898": [
+   "romansonrivier00hall",
+   "The Romans on the Riviera and the Rhone, a sketch of the conquest of Liguria and the Roman Province, by W. H. (Bullock) Hall (London: Macmillan and Co.; New York: The Macmillan Company, 1898)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-h-bullock-hall-romans-on-the-riviera-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. (bullock) hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

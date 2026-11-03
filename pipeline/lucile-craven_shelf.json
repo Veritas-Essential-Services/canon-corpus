@@ -1,0 +1,32 @@
+{
+ "_about": "Lucile Craven, raw IA OCR of her dissertation Antony's Oriental Policy until the Defeat of the Parthian Expedition (1920). Roman history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Lucile Craven",
+ "_name_words": [
+  "craven"
+ ],
+ "_surname": [
+  "lucile craven"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lucile-craven-antonys-oriental-policy-1920": [
+   "antonysorientalp00cravrich",
+   "Antony's Oriental Policy until the Defeat of the Parthian Expedition, by Lucile Craven (University of Missouri Studies, Social Science Series, vol. III no. 2; Columbia, Missouri: University of Missouri, 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lucile-craven-antonys-oriental-policy-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucile craven",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

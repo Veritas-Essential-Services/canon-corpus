@@ -1,0 +1,57 @@
+{
+ "_about": "Pasquale Villari (1827-1917), Florentine historian, raw IA OCR of The Barbarian Invasions of Italy, tr. Linda Villari (2 vols, 1902). Roman history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Pasquale Villari",
+ "_name_words": [
+  "villari"
+ ],
+ "_surname": [
+  "pasquale villari"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pasquale-villari-barbarian-invasions-1-1902": [
+   "barbarianinvasio01vill",
+   "The Barbarian Invasions of Italy, by Pasquale Villari, translated by Linda Villari, vol. I (New York: Charles Scribner's Sons, 1902)",
+   "tr. Linda Villari"
+  ],
+  "pasquale-villari-barbarian-invasions-2-1902": [
+   "barbarianinvasio02vill",
+   "The Barbarian Invasions of Italy, by Pasquale Villari, translated by Linda Villari, vol. II (New York: Charles Scribner's Sons, 1902)",
+   "tr. Linda Villari"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "pasquale-villari-barbarian-invasions-1-1902": "Linda Villari",
+  "pasquale-villari-barbarian-invasions-2-1902": "Linda Villari"
+ },
+ "_checks": {
+  "pasquale-villari-barbarian-invasions-1-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pasquale villari",
+   "translator_claimed": "Linda Villari",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pasquale-villari-barbarian-invasions-2-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pasquale villari",
+   "translator_claimed": "Linda Villari",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

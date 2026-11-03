@@ -1,0 +1,33 @@
+{
+ "_about": "Edward Poste (1821-1902), Fellow of Oriel, raw IA OCR of his Gai Institutiones, or Elements of Roman Law by Gaius, with a translation and commentary, second edition (1875). Latin text with English; kept under the Latin counterpart of Adam's Greek ruling. Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Edward Poste",
+ "_name_words": [
+  "poste"
+ ],
+ "_surname": [
+  "edward poste",
+  "poste"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "edward-poste-gaius-1875": [
+   "gaiiinstitution00postgoog",
+   "Gaii Institutionum Iuris Civilis Commentarii Quatuor, or Elements of Roman Law by Gaius, with a translation and commentary by Edward Poste, second edition, revised and enlarged (Oxford: at the Clarendon Press, 1875)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "edward-poste-gaius-1875": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward poste",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

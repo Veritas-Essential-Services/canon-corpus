@@ -1,0 +1,50 @@
+{
+ "_about": "Eugene O'Neill. Bloom's Western Canon (1994) lists: Lazarus Laughed. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Eugene O'Neill",
+ "_name_words": [
+  "eugene",
+  "neill"
+ ],
+ "_surname": [
+  "o'neill",
+  "eugene o'neill",
+  "oneill"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "oneill-lazarus-laughed": [
+   "lazaruslaughed190000euge",
+   "Lazarus Laughed (1925-26): A Play for an Imaginative Theatre"
+  ]
+ },
+ "_bloom": {
+  "oneill-lazarus-laughed": {
+   "bloom_n": [
+    1283
+   ],
+   "bloom_title": "Lazarus Laughed",
+   "year": "1927 (verso 'Copyright, 1927, by Boni & Liveright')",
+   "evidence": "djvu title page read; Yeshiva Univ. copy, internetarchivebooks",
+   "case": "Bloom lists Lazarus Laughed (1927). IA has the Boni & Liveright first edition.",
+   "note": "Swapped to IA lazaruslaughed190000euge (third printing, Feb 1928), whose OCR names O'Neill; the first scan's OCR garbled the name. Alt copy lazaruslaughed190000euge has a printing list (first printing Nov 1927, third Feb 1928)."
+  }
+ },
+ "_checks": {
+  "oneill-lazarus-laughed": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "o'neill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: title page read: 'Copyright, 1927, by Boni & Liveright', 'First printing, November, 1927 ... Third printing, February, 1928'. A 1928 printing of the 1927 first edition; IA internetarchivebooks, not lending."
+  }
+ },
+ "_rights_checked": {
+  "oneill-lazarus-laughed": "Bloom addition 2026-11-03: title page read: 'Copyright, 1927, by Boni & Liveright', 'First printing, November, 1927 ... Third printing, February, 1928'. A 1928 printing of the 1927 first edition; IA internetarchivebooks, not lending."
+ }
+}

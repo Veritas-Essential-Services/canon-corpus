@@ -1,0 +1,33 @@
+{
+ "_about": "Mary Lovett Cameron, raw IA OCR of Old Etruria and Modern Tuscany (1909). Classical topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Mary Lovett Cameron",
+ "_name_words": [
+  "cameron"
+ ],
+ "_surname": [
+  "mary lovett cameron",
+  "cameron"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mary-lovett-cameron-old-etruria-modern-tuscany-1909": [
+   "oldetruriamodern00cameuoft",
+   "Old Etruria and Modern Tuscany, by Mary Lovett Cameron (London: Methuen, first published 1909)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mary-lovett-cameron-old-etruria-modern-tuscany-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary lovett cameron",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

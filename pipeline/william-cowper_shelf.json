@@ -1,0 +1,45 @@
+{
+ "_about": "William Cowper. Bloom's Western Canon (1994) lists: Poetical Works. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Cowper",
+ "_name_words": [
+  "william",
+  "cowper"
+ ],
+ "_surname": [
+  "cowper",
+  "william cowper"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cowper-complete-poetical-works": [
+   "completepoetica00cowp",
+   "The Complete Poetical Works of William Cowper, ed. H. S. Milford (Oxford Edition)"
+  ]
+ },
+ "_bloom": {
+  "cowper-complete-poetical-works": {
+   "bloom_n": [
+    235
+   ],
+   "bloom_title": "Poetical Works",
+   "year": "1913 (title page: 'Humphrey Milford, Oxford University Press ... 1913')",
+   "evidence": "Read title page and preface; Toronto copy.",
+   "case": "Milford's Oxford Cowper is the standard complete text; we hold only The Task.",
+   "note": "PG 47790 (Grimshawe's one-volume Works with letters) is an alternative."
+  }
+ },
+ "_checks": {
+  "cowper-complete-poetical-works": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "cowper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

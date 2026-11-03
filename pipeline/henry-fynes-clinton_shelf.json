@@ -1,0 +1,93 @@
+{
+ "_about": "Henry Fynes Clinton (1781-1852), chronologer, raw IA OCR of Fasti Hellenici (3 vols, 1824-1834) and Fasti Romani (2 vols, 1845-1850). Dense with Greek and Latin quotation; kept under Adam's 2026-10-23 Greek ruling. A Burt Franklin reprint of Fasti Hellenici vol. I was passed over for the 1834 printing. Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Henry Fynes Clinton",
+ "_name_words": [
+  "clinton"
+ ],
+ "_surname": [
+  "henry fynes clinton",
+  "fynes clinton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henry-fynes-clinton-fasti-hellenici-1-1834": [
+   "b22007854_0001",
+   "Fasti Hellenici: the civil and literary chronology of Greece from the earliest accounts to the LVth Olympiad, by Henry Fynes Clinton, vol. I (Oxford: at the University Press, 1834)"
+  ],
+  "henry-fynes-clinton-fasti-hellenici-2": [
+   "fastihellenicici02clinuoft",
+   "Fasti Hellenici: the civil and literary chronology of Greece from the LVth to the CXXIVth Olympiad, by Henry Fynes Clinton, vol. II (Oxford: at the Clarendon Press; the volume's title-page year is damaged in the OCR, the set title page reads 1834)"
+  ],
+  "henry-fynes-clinton-fasti-hellenici-3-1830": [
+   "fastihellenic03clin",
+   "Fasti Hellenici: the civil and literary chronology of Greece and Rome from the CXXIVth Olympiad to the death of Augustus, by Henry Fynes Clinton, vol. III (Oxford: at the University Press, 1830)"
+  ],
+  "henry-fynes-clinton-fasti-romani-1-1845": [
+   "fastiromanicivil01clinuoft",
+   "Fasti Romani: the civil and literary chronology of Rome and Constantinople from the death of Augustus to the death of Justin II, by Henry Fynes Clinton, vol. I: Tables (Oxford: at the University Press, 1845)"
+  ],
+  "henry-fynes-clinton-fasti-romani-2-1850": [
+   "fastiromanicivil02clinuoft",
+   "Fasti Romani, vol. II: Appendix, from the death of Augustus to the death of Heraclius, by Henry Fynes Clinton (Oxford: at the University Press, 1850)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "henry-fynes-clinton-fasti-hellenici-1-1834": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry fynes clinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henry-fynes-clinton-fasti-hellenici-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry fynes clinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henry-fynes-clinton-fasti-hellenici-3-1830": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry fynes clinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henry-fynes-clinton-fasti-romani-1-1845": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry fynes clinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845-50",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henry-fynes-clinton-fasti-romani-2-1850": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry fynes clinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845-50",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

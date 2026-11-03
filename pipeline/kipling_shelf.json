@@ -1,5 +1,5 @@
 {
- "_about": "Rudyard Kipling's (1865-1936) books for children that the relay named: the two Jungle Books, the Just So Stories, and the two Puck books (Puck of Pook's Hill and its sequel Rewards and Fairies). Clean Gutenberg text; all published before 1930: US public domain. Kipling died in 1936, so these are still in copyright in life+70 and life+80 countries; this shelf records US status only. His other books are listed below as pending, for Adam to decide.",
+ "_about": "Rudyard Kipling's (1865-1936) books for children that the relay named: the two Jungle Books, the Just So Stories, and the two Puck books (Puck of Pook's Hill and its sequel Rewards and Fairies). Clean Gutenberg text; all published before 1930: US public domain. Kipling died in 1936, so these are still in copyright in life+70 and life+80 countries; this shelf records US status only. His other books are listed below as pending, for Adam to decide. Bloom addition 2026-11-03 (Bloom's Western Canon): kipling-plain-tales-hills, kipling-life-handicap, kipling-day-work, kipling-traffics-discoveries, kipling-actions-reactions, kipling-diversity-creatures, kipling-verse.",
  "_author": "Rudyard Kipling",
  "_name_words": [
   "rudyard",
@@ -43,9 +43,38 @@
    {
     "contents_only": true
    }
+  ],
+  "kipling-plain-tales-hills": [
+   1858,
+   "Plain Tales from the Hills"
+  ],
+  "kipling-life-handicap": [
+   5777,
+   "Life's Handicap: Being Stories of Mine Own People"
+  ],
+  "kipling-day-work": [
+   2569,
+   "The Day's Work"
+  ],
+  "kipling-traffics-discoveries": [
+   9790,
+   "Traffics and Discoveries"
+  ],
+  "kipling-actions-reactions": [
+   2381,
+   "Actions and Reactions"
+  ],
+  "kipling-diversity-creatures": [
+   13085,
+   "A Diversity of Creatures"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "kipling-verse": [
+   "rudyardkiplingsv0000rudy_h1r8",
+   "Rudyard Kipling's Verse: Inclusive Edition, 1885-1926"
+  ]
+ },
  "_excluded": {
   "kipling-duplicates": "other Gutenberg transcriptions of the same books: Jungle Book (PG 236), Second Jungle Book (1937), Just So Stories (2781), Puck of Pook's Hill (557, 26027), Rewards and Fairies (556): texts held",
   "kipling-not-this-shelf": "PENDING, outside the relay's list unless Adam widens it: Kim (PG 35555/2226), Captains Courageous (2186/2225), Stalky & Co. (3006), Land and Sea Tales (63619), The Day's Work (2569), Plain Tales from the Hills (1858), Soldiers Three (6120), Life's Handicap (5777), Many Inventions (78240), Traffics and Discoveries (9790), Actions and Reactions (2381), A Diversity of Creatures (13085), Debits and Credits (71002), The Light That Failed (2876), the verse (Departmental Ditties and Barrack-Room Ballads 7846, The Seven Seas 27870, The Five Nations 60260-60261, The Years Between 21777, Songs from Books 15529), travel and war writing (American Notes, From Sea to Sea, Letters of Travel, Sea Warfare, The Irish Guards in the Great War, and others)",
@@ -55,7 +84,7 @@
  "_checks": {
   "kipling-jungle-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rudyard kipling",
    "identity": "ok",
@@ -64,7 +93,7 @@
   },
   "kipling-second-jungle-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rudyard kipling",
    "identity": "ok",
@@ -73,7 +102,7 @@
   },
   "kipling-just-so-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rudyard kipling",
    "identity": "ok",
@@ -82,7 +111,7 @@
   },
   "kipling-puck-of-pooks-hill": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rudyard kipling",
    "identity": "ok",
@@ -91,12 +120,149 @@
   },
   "kipling-rewards-and-fairies": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "rudyard kipling",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "kipling-plain-tales-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-life-handicap": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-day-work": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-traffics-discoveries": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-actions-reactions": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-diversity-creatures": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-verse": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "kipling-plain-tales-hills": {
+   "bloom_n": [
+    871
+   ],
+   "bloom_title": "Collected Stories",
+   "year": "unread",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+   "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+  },
+  "kipling-life-handicap": {
+   "bloom_n": [
+    871
+   ],
+   "bloom_title": "Collected Stories",
+   "year": "1891 (front matter read: 'Copyright, 1891, by MACMILLAN & CO.')",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+   "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+  },
+  "kipling-day-work": {
+   "bloom_n": [
+    871
+   ],
+   "bloom_title": "Collected Stories",
+   "year": "unread",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+   "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+  },
+  "kipling-traffics-discoveries": {
+   "bloom_n": [
+    871
+   ],
+   "bloom_title": "Collected Stories",
+   "year": "unread",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+   "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+  },
+  "kipling-actions-reactions": {
+   "bloom_n": [
+    871
+   ],
+   "bloom_title": "Collected Stories",
+   "year": "unread",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+   "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+  },
+  "kipling-diversity-creatures": {
+   "bloom_n": [
+    871
+   ],
+   "bloom_title": "Collected Stories",
+   "year": "unread",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+   "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+  },
+  "kipling-verse": {
+   "bloom_n": [
+    873
+   ],
+   "bloom_title": "Complete Verse",
+   "year": "1927 (title page: Garden City NY, Doubleday, Page 1927; 'First Edition')",
+   "evidence": "Read title page, copyright line (1891-1927) and start of contents; collection internetarchivebooks, not lending.",
+   "case": "Bloom lists Complete Verse. The 1927 Inclusive Edition is the fullest pre-1931 collected verse and is US-PD.",
+   "note": "The Definitive Edition (1940) adds post-1927 poems, which are NOT PD. Held already: several separate verse volumes in mason-poetry; this one volume replaces them. Earlier alternative: rudyardkiplingsv0000rudy (Inclusive 1885-1918, 1919)."
   }
  }
 }

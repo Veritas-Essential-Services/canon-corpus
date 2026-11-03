@@ -1,0 +1,43 @@
+{
+ "_about": "Robert Burton. Bloom's Western Canon (1994) lists: The Anatomy of Melancholy. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Robert Burton",
+ "_name_words": [
+  "robert",
+  "burton"
+ ],
+ "_surname": [
+  "burton",
+  "robert burton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "burton-anatomy-melancholy": [
+   10800,
+   "The Anatomy of Melancholy"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "burton-anatomy-melancholy": {
+   "bloom_n": [
+    170
+   ],
+   "bloom_title": "The Anatomy of Melancholy",
+   "year": "unread (PG intro: based on a 19th-c. modernized edition corrected against the 1638 edition)",
+   "evidence": "PG introduction read.",
+   "case": "Bloom lists Burton's Anatomy; PG 10800 is a complete, corrected text.",
+   "note": "The 'burton' shelf is Richard Burton (Arabian Nights); Robert Burton is not held."
+  }
+ },
+ "_checks": {
+  "burton-anatomy-melancholy": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

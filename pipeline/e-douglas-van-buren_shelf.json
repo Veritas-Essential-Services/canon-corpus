@@ -1,0 +1,34 @@
+{
+ "_about": "Elizabeth Douglas Van Buren (1881-1961), archaeologist, raw IA OCR of Figurative Terra-Cotta Revetments in Etruria and Latium in the VI. and V. Centuries B.C. (1921). Classical archaeology (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "E. Douglas Van Buren",
+ "_name_words": [
+  "buren"
+ ],
+ "_surname": [
+  "e. douglas van buren",
+  "van buren",
+  "buren"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-douglas-van-buren-terra-cotta-revetments-1921": [
+   "figurativeterrac00vanbuoft",
+   "Figurative Terra-Cotta Revetments in Etruria and Latium in the VI. and V. Centuries B.C., by E. Douglas Van Buren (London: John Murray, 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-douglas-van-buren-terra-cotta-revetments-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. douglas van buren",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

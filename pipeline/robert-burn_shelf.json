@@ -1,0 +1,78 @@
+{
+ "_about": "Robert Burn (1829-1904), Fellow of Trinity College, Cambridge, author of Rome and the Campagna, raw IA OCR of Roman Literature in Relation to Roman Art (London and New York: Macmillan, 1888). Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted. Round dz (2026-10-23), raw IA: his topography of ancient Rome, Rome and the Campagna (1871), and its two handbook epitomes, Old Rome (1880) and Ancient Rome and its Neighbourhood (1895).",
+ "_author": "Robert Burn (1829-1904)",
+ "_name_words": [
+  "burn"
+ ],
+ "_surname": [
+  "robert burn",
+  "rev. robert burn"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "robert-burn-roman-literature-roman-art-1888": [
+   "romanliteraturei00burnuoft",
+   "Roman Literature in Relation to Roman Art, by the Rev. Robert Burn, with illustrations (London and New York: Macmillan, 1888)"
+  ],
+  "robert-burn-rome-and-the-campagna-1871": [
+   "romecampagnahist00burn",
+   "Rome and the Campagna: an historical and topographical description of the site, buildings, and neighbourhood of ancient Rome, with 85 illustrations by Jewitt and 25 maps and plans, by Robert Burn (Cambridge: Deighton, Bell; London: Bell and Daldy, 1871)"
+  ],
+  "robert-burn-old-rome-1880": [
+   "oldromehandbookt00burn",
+   "Old Rome: a Handbook to the Ruins of the City and the Campagna, by Robert Burn, being an epitome of his larger work (London: George Bell; Cambridge: Deighton, Bell, 1880)"
+  ],
+  "robert-burn-ancient-rome-neighbourhood-1895": [
+   "ancientromeitsn00burn",
+   "Ancient Rome and its Neighbourhood: an Illustrated Handbook to the Ruins in the City and Campagna, by Robert Burn (London: George Bell, 1895)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "robert-burn-roman-literature-roman-art-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert burn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "robert-burn-rome-and-the-campagna-1871": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert burn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "robert-burn-old-rome-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert burn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "robert-burn-ancient-rome-neighbourhood-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert burn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "_about": "Langston Hughes. Bloom's Western Canon (1994) lists: Selected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Langston Hughes",
+ "_name_words": [
+  "langston",
+  "hughes"
+ ],
+ "_surname": [
+  "hughes",
+  "langston hughes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hughes-weary-blues": [
+   74745,
+   "The weary blues"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "hughes-weary-blues": {
+   "bloom_n": [
+    1319
+   ],
+   "bloom_title": "Selected Poems",
+   "year": "1926 (PG title page 'Alfred A. Knopf 1926'; 'COPYRIGHT, 1926')",
+   "evidence": "PG header + title page read",
+   "case": "Bloom lists Hughes's Selected Poems (1959, not PD). The Weary Blues (1926) is PD and on PG.",
+   "note": "PARTIAL. Fine Clothes to the Jew (1927) is also PD; not searched."
+  }
+ },
+ "_checks": {
+  "hughes-weary-blues": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hughes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

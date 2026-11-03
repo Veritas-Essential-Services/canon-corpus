@@ -1,0 +1,41 @@
+{
+ "_about": "Raphael Kühner (1802-1878), Hanover grammarian, raw IA OCR of his Grammar of the Greek Language, tr. B. B. Edwards and S. H. Taylor (1853). Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Raphael Kühner",
+ "_name_words": [
+  "kuhner",
+  "kühner"
+ ],
+ "_surname": [
+  "raphael kuhner",
+  "kuhner",
+  "kühner"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "raphael-kuhner-greek-grammar-1853": [
+   "grammarofgreekla00khuoft",
+   "Grammar of the Greek Language, for the use of high schools and colleges, by Dr. Raphael Kühner, translated from the German by B. B. Edwards and S. H. Taylor (New York: D. Appleton and Company, 1853)",
+   "tr. B. B. Edwards"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "raphael-kuhner-greek-grammar-1853": "B. B. Edwards"
+ },
+ "_checks": {
+  "raphael-kuhner-greek-grammar-1853": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "raphael kuhner",
+   "translator_claimed": "B. B. Edwards",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

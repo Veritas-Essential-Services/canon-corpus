@@ -1,5 +1,5 @@
 {
- "_about": "Jane Ellen Harrison (1850-1928), Newnham College. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Prolegomena to the Study of Greek Religion, Primitive Athens as Described by Thucydides, Ancient Art and Ritual, clean Gutenberg. Her commentary with Verrall's Attica is on the pausanias shelf. No uids minted.",
+ "_about": "Jane Ellen Harrison (1850-1928), Newnham College. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Prolegomena to the Study of Greek Religion, Primitive Athens as Described by Thucydides, Ancient Art and Ritual, clean Gutenberg. Her commentary with Verrall's Attica is on the pausanias shelf. No uids minted. Round dx (2026-10-23) added, raw IA OCR with title pages read: Myths of the Odyssey in Art and Literature (Rivingtons, 1882); Introductory Studies in Greek Art (T. Fisher Unwin; no year in the OCR, IA dates it 1885); Pierre Paris's Manual of Ancient Sculpture, edited and augmented by her (Grevel; Lippincott, 1890); Themis (Cambridge, 1912); Aspects, Aorists and the Classical Tripos (Cambridge, 1919); Epilegomena to the Study of Greek Religion (Cambridge, 1921); Mythology (Boston: Marshall Jones, 1924).",
  "_name_words": [
   "harrison"
  ],
@@ -23,14 +23,43 @@
    "Ancient Art and Ritual"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "jane-harrison-myths-of-the-odyssey-1882": [
+   "cu31924026672265",
+   "Myths of the Odyssey in Art and Literature, by J. E. Harrison (London: Rivingtons, MDCCCLXXXII [1882])"
+  ],
+  "jane-harrison-introductory-studies-greek-art-1885": [
+   "introductorystud00harr_0",
+   "Introductory Studies in Greek Art, by Jane E. Harrison (London: T. Fisher Unwin; no year in the OCR title page, IA dates it 1885)"
+  ],
+  "jane-harrison-paris-manual-ancient-sculpture-1890": [
+   "manualofancients00pari",
+   "Manual of Ancient Sculpture, by Pierre Paris, edited and augmented by Jane E. Harrison (London: H. Grevel; Philadelphia: J. B. Lippincott, 1890)"
+  ],
+  "jane-harrison-themis-1912": [
+   "themisstudyofsoc00harr",
+   "Themis, a study of the social origins of Greek religion, by Jane Ellen Harrison, with an excursus on the ritual forms preserved in Greek tragedy by Gilbert Murray and a chapter on the origin of the Olympic games by F. M. Cornford (Cambridge: University Press, 1912; the OCR reads the year as '[912')"
+  ],
+  "jane-harrison-aspects-aorists-1919": [
+   "aspectsaoristscl00harrrich",
+   "Aspects, Aorists and the Classical Tripos, by Jane Ellen Harrison (Cambridge: University Press, 1919)"
+  ],
+  "jane-harrison-epilegomena-1921": [
+   "epilegomenatostu00harruoft",
+   "Epilegomena to the Study of Greek Religion, by Jane Ellen Harrison (Cambridge: University Press, 1921)"
+  ],
+  "jane-harrison-mythology-1924": [
+   "mythology0000harr_f3d2",
+   "Mythology, by Jane Ellen Harrison (Boston: Marshall Jones, copyright 1924, printed November 1924)"
+  ]
+ },
  "_excluded": {
   "PG 75986 (Reminiscences of a Student's Life)": "memoir, outside the brief"
  },
  "_checks": {
   "jane-harrison-prolegomena-greek-religion": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jane ellen harrison",
    "identity": "ok",
@@ -39,7 +68,7 @@
   },
   "jane-harrison-primitive-athens": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jane ellen harrison",
    "identity": "ok",
@@ -48,12 +77,94 @@
   },
   "jane-harrison-ancient-art-ritual": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jane ellen harrison",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "jane-harrison-myths-of-the-odyssey-1882": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jane-harrison-introductory-studies-greek-art-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane e. harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jane-harrison-paris-manual-ancient-sculpture-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane e. harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jane-harrison-themis-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane ellen harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jane-harrison-aspects-aorists-1919": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane ellen harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jane-harrison-epilegomena-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane ellen harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jane-harrison-mythology-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane ellen harrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "['1924', '1924']",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "jane-harrison-myths-of-the-odyssey-1882": {
+   "author": "title page OCRs the author as 'J. E. HARRISpN' (London: Rivingtons, MDCCCLXXXII)"
   }
  }
 }

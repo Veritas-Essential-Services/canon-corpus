@@ -1,0 +1,852 @@
+[
+ {
+  "author": "John Davidson",
+  "shelf": "john-davidson",
+  "new": true,
+  "surname": [
+   "davidson",
+   "john davidson"
+  ],
+  "rows": [
+   {
+    "n": [
+     526
+    ],
+    "bloom_title": "Ballads and Songs",
+    "kind": "ia",
+    "id": "balladssongs00davi",
+    "title": "Ballads and Songs",
+    "translator": "",
+    "year": "1894 (title page)",
+    "djvu": "",
+    "evidence": "djvu title page: 'BALLADS AND SONGS 1894 LONDON. JOHN LANE THE BODLEY HEAD BOSTON: COPELAND & DAY'; contents list Thirty Bob a Week, A Ballad of a Nun; collection cdl/americana",
+    "slug": "davidson-ballads-songs",
+    "case": "Bloom lists Davidson's Ballads and Songs; not on PG. The 1894 Lane/Copeland & Day first edition is on IA with an OCR layer.",
+    "note": "Alternates: balladssongs00daviuoft (dated 1898 in IA metadata, unread). Only Fleet Street Eclogues is held (mason-poetry)."
+   }
+  ]
+ },
+ {
+  "author": "Ernest Dowson",
+  "shelf": "dowson",
+  "new": false,
+  "surname": [
+   "dowson",
+   "ernest dowson"
+  ],
+  "rows": [
+   {
+    "n": [
+     527
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "pg",
+    "id": "8497",
+    "title": "The Poems and Prose of Ernest Dowson, With a Memoir by Arthur Symons",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read: no copyright notice; contains all verse collections (Verses, Decorations, The Pierrot of the Minute) plus prose",
+    "slug": "dowson-poems-prose",
+    "case": "Bloom lists Dowson's Complete Poems; PG 8497 is the standard Symons collected Poems and Prose.",
+    "note": "Our 'dowson' shelf holds only his translations. PG header gives no source imprint year; Symons memoir dates from 1905 Lane edition (not read)."
+   }
+  ]
+ },
+ {
+  "author": "Ivan Turgenev",
+  "shelf": "ivan-turgenev",
+  "new": true,
+  "surname": [
+   "turgenev",
+   "ivan turgenev"
+  ],
+  "rows": [
+   {
+    "n": [
+     588
+    ],
+    "bloom_title": "A Month in the Country",
+    "kind": "ia",
+    "id": "playsofivansturg0000tran",
+    "title": "The Plays of Ivan S. Turgenev, translated from the Russian by M. S. Mandell",
+    "translator": "M. S. Mandell",
+    "year": "1924 (title page: London, William Heinemann, 'FIRST PUBLISHED 1924')",
+    "djvu": "",
+    "evidence": "djvu title page read; 'A MONTH IN THE COUNTRY' appears at line 16481 of the djvu text; collection internetarchivebooks",
+    "slug": "turgenev-plays",
+    "case": "Mandell's 1924 Plays of Turgenev was the first English version of the plays and has A Month in the Country complete.",
+    "note": "Macmillan NY issue (IA playsofivansturg0001msma, 'Copyright 1924') is only vol. I of the two-volume printing. Garnett's 1934 Three Plays version isn't PD. A Garnett text at IA 'AMonthInTheCountry' has no imprint, so rejected."
+   }
+  ]
+ },
+ {
+  "author": "William Cullen Bryant",
+  "shelf": "william-cullen-bryant",
+  "new": true,
+  "surname": [
+   "bryant",
+   "william cullen bryant"
+  ],
+  "rows": [
+   {
+    "n": [
+     611
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "29700",
+    "title": "Poetical Works of William Cullen Bryant, Household Edition",
+    "translator": "",
+    "year": "1880 (title page in PG text; copyright entries 1854, 1871)",
+    "djvu": "",
+    "evidence": "PG title page read",
+    "slug": "bryant-poetical-works",
+    "case": "Bryant's collected Household Edition, revised in his lifetime, is on PG and isn't held.",
+    "note": "Alternative: PG 16341 'Poems by William Cullen Bryant' (imprint unread)."
+   }
+  ]
+ },
+ {
+  "author": "John Greenleaf Whittier",
+  "shelf": "john-greenleaf-whittier",
+  "new": true,
+  "surname": [
+   "whittier",
+   "john greenleaf whittier"
+  ],
+  "rows": [
+   {
+    "n": [
+     613
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "9600",
+    "title": "The Works of John Greenleaf Whittier, Complete",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG text opens with the Standard Library Edition publishers' advertisement (Riverside, revised by Whittier); vols I-IV are the poems (also PG 9567, 9574, 9580, 9586 one volume each)",
+    "slug": "whittier-works",
+    "case": "The Riverside/Standard Library Edition is Whittier's own final arrangement of his poems; not held.",
+    "note": "If only the verse is wanted, take PG 9567, 9574, 9580 and 9586 (vols I-IV) instead of the complete 9600."
+   }
+  ]
+ },
+ {
+  "author": "Ralph Waldo Emerson",
+  "shelf": "rwemerson",
+  "new": false,
+  "surname": [
+   "emerson",
+   "ralph waldo emerson"
+  ],
+  "rows": [
+   {
+    "n": [
+     614
+    ],
+    "bloom_title": "Nature",
+    "kind": "pg",
+    "id": "29433",
+    "title": "Nature",
+    "translator": "",
+    "year": "1849 (copyright entry on PG title page: 'Entered ... in the year 1849'; 'New Edition', Boston & Cambridge)",
+    "djvu": "",
+    "evidence": "PG title page read",
+    "slug": "emerson-nature",
+    "case": "Nature is on PG; the rwemerson shelf holds only the two Essays series.",
+    "note": "1849 'new edition' (Nature, Addresses, and Lectures) includes Nature itself."
+   },
+   {
+    "n": [
+     616
+    ],
+    "bloom_title": "Representative Men",
+    "kind": "pg",
+    "id": "6312",
+    "title": "Representative Men: Seven Lectures",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read; no imprint in front matter",
+    "slug": "emerson-representative-men",
+    "case": "Representative Men is on PG; not held.",
+    "note": ""
+   },
+   {
+    "n": [
+     617
+    ],
+    "bloom_title": "The Conduct of Life",
+    "kind": "pg",
+    "id": "39827",
+    "title": "The Conduct of Life",
+    "translator": "",
+    "year": "1871 (PG title page: Boston 1871; 'Entered ... in the year 1860')",
+    "djvu": "",
+    "evidence": "PG title page read",
+    "slug": "emerson-conduct-life",
+    "case": "The Conduct of Life is on PG; not held.",
+    "note": "The machine's held hit (Wisdom of the East, Confucius) is a false match."
+   },
+   {
+    "n": [
+     618
+    ],
+    "bloom_title": "Journals",
+    "kind": "ia",
+    "id": "journalsofralphw01emeruoft",
+    "title": "Journals of Ralph Waldo Emerson, with annotations, ed. Edward Waldo Emerson and Waldo Emerson Forbes, vol. I, 1820-1824",
+    "translator": "",
+    "year": "1909 (title page: Boston and New York, Houghton Mifflin, 1909; 'Copyright, 1909')",
+    "djvu": "",
+    "evidence": "djvu title page read; collection toronto",
+    "slug": "emerson-journals",
+    "case": "The ten-volume Emerson/Forbes Journals (1909-14) was the standard edition until the Harvard JMN. All volumes are pre-1931 and on IA.",
+    "note": "Ten volumes. Only vol. I's title page was read; the other nine need picking from IA (e.g. the cu31924021990* Cornell series, 1909-14 per IA metadata)."
+   },
+   {
+    "n": [
+     619
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "12843",
+    "title": "Poems, Household Edition",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG front matter lists copyright years 1867, 1876, 1883, 1895, 1904 and 1911, so this is the 1904/1911 Centenary-text Household Edition",
+    "slug": "emerson-poems",
+    "case": "Emerson's poems collected (Centenary text, with appendix); not held.",
+    "note": "Also PG 15963 May-Day, and Other Pieces (1867)."
+   }
+  ]
+ },
+ {
+  "author": "Emily Dickinson",
+  "shelf": "emily-dickinson",
+  "new": true,
+  "surname": [
+   "dickinson",
+   "emily dickinson"
+  ],
+  "rows": [
+   {
+    "n": [
+     620
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "ia",
+    "id": "completepoemsofe0000emil",
+    "title": "The Complete Poems of Emily Dickinson, with an introduction by her niece Martha Dickinson Bianchi",
+    "translator": "",
+    "year": "1924 (title page: Boston, Little, Brown, 1924; 'Published July, 1924')",
+    "djvu": "",
+    "evidence": "djvu title page and copyright page read; collection internetarchivebooks",
+    "slug": "dickinson-complete-poems",
+    "case": "Bianchi's 1924 Complete Poems was the fullest pre-1931 edition. The PG Three Series is the clean-text fallback.",
+    "note": "Both are edited (regularised) texts, not the Johnson 1955 manuscript text (not PD). Nothing by Dickinson is held. Another 1924 scan: completepoemsofe00dick_1 (LoC), which has a garbled OCR front."
+   },
+   {
+    "n": [
+     620
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "pg",
+    "id": "12242",
+    "title": "Poems by Emily Dickinson, Three Series, Complete",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read; the 1890-96 Todd/Higginson selection",
+    "slug": "dickinson-poems",
+    "case": "Bianchi's 1924 Complete Poems was the fullest pre-1931 edition. The PG Three Series is the clean-text fallback.",
+    "note": "Both are edited (regularised) texts, not the Johnson 1955 manuscript text (not PD). Nothing by Dickinson is held. Another 1924 scan: completepoemsofe00dick_1 (LoC), which has a garbled OCR front."
+   }
+  ]
+ },
+ {
+  "author": "Walt Whitman",
+  "shelf": "whitman",
+  "new": false,
+  "surname": [
+   "whitman",
+   "walt whitman"
+  ],
+  "rows": [
+   {
+    "n": [
+     624
+    ],
+    "bloom_title": "Specimen Days",
+    "kind": "pg",
+    "id": "8813",
+    "title": "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "whitman-complete-prose-works",
+    "case": "Specimen Days leads off Whitman's Complete Prose Works on PG; not held.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Herman Melville",
+  "shelf": "melville",
+  "new": false,
+  "surname": [
+   "melville",
+   "herman melville"
+  ],
+  "rows": [
+   {
+    "n": [
+     633
+    ],
+    "bloom_title": "Clarel",
+    "kind": "ia",
+    "id": "clarelpoempilgri0001herm",
+    "title": "Clarel: a poem and pilgrimage in the Holy Land, vol. I (Works of Herman Melville, Standard Edition, vol. XIV)",
+    "translator": "",
+    "year": "1924 (title page: London, Constable, 1924)",
+    "djvu": "",
+    "evidence": "djvu title page read; notes 'CLAREL was first published in 1876 (New York: G. P. Putnam's Sons)'; collection internetarchivebooks",
+    "slug": "melville-clarel",
+    "case": "Clarel isn't on PG. The 1924 Constable Standard Edition reprints the 1876 text in two volumes on IA.",
+    "note": "No scan of the 1876 Putnam first was found."
+   }
+  ]
+ },
+ {
+  "author": "Edgar Allan Poe",
+  "shelf": "poe-works",
+  "new": false,
+  "surname": [
+   "poe",
+   "edgar allan poe"
+  ],
+  "rows": [
+   {
+    "n": [
+     635
+    ],
+    "bloom_title": "Essays and Reviews",
+    "kind": "ia",
+    "id": "completeworksofe08poee",
+    "title": "The Complete Works of Edgar Allan Poe, ed. James A. Harrison (Virginia Edition), vol. VIII: Literary Criticism, vol. I",
+    "translator": "",
+    "year": "1902 (title page: New York, Thomas Y. Crowell; 'Copyright, 1902')",
+    "djvu": "",
+    "evidence": "djvu title page and contents read (reviews of Bryant, Horse-Shoe Robinson, I Promessi Sposi...); collection BYU/americana",
+    "slug": "poe-complete-works",
+    "case": "The Virginia Edition's five Literary Criticism volumes (VIII-XII) plus Marginalia (XVI) are the fullest pre-1931 Poe criticism. The held Raven Edition carries only a few essays.",
+    "note": "Vols IX-XII still to pick; IA has completeworksed00harrgoog (vol. IX) and completeworksed05poegoog (vol. XII) per IA metadata, unread. The machine's held hit (Hodge, Princeton Review) is a false match."
+   },
+   {
+    "n": [
+     635
+    ],
+    "bloom_title": "Essays and Reviews",
+    "kind": "ia",
+    "id": "completeworksofe00poee",
+    "title": "Virginia Edition vol. XVI: Marginalia; Eureka",
+    "translator": "",
+    "year": "1902 (title page: Crowell, 'Copyright, 1902')",
+    "djvu": "",
+    "evidence": "djvu title page read",
+    "slug": "poe-virginia-edition-vol-xvi",
+    "case": "The Virginia Edition's five Literary Criticism volumes (VIII-XII) plus Marginalia (XVI) are the fullest pre-1931 Poe criticism. The held Raven Edition carries only a few essays.",
+    "note": "Vols IX-XII still to pick; IA has completeworksed00harrgoog (vol. IX) and completeworksed05poegoog (vol. XII) per IA metadata, unread. The machine's held hit (Hodge, Princeton Review) is a false match."
+   }
+  ]
+ },
+ {
+  "author": "Jones Very",
+  "shelf": "jones-very",
+  "new": true,
+  "surname": [
+   "very",
+   "jones very"
+  ],
+  "rows": [
+   {
+    "n": [
+     638
+    ],
+    "bloom_title": "Essays and Poems",
+    "kind": "ia",
+    "id": "essaysandpoems00veryrich",
+    "title": "Essays and Poems, by Jones Very",
+    "translator": "",
+    "year": "1839 (title page: Boston, Charles C. Little and James Brown, MDCCCXXXIX)",
+    "djvu": "",
+    "evidence": "djvu title page and contents read (Epic Poetry, Shakspeare, Hamlet; poems); collection cdl/americana",
+    "slug": "very-essays-poems",
+    "case": "This is Bloom's exact title, the 1839 first edition edited by Emerson; not on PG.",
+    "note": "The fuller 1886 Poems and Essays (Clarke) exists (IA poemsessays00very), but that scan's front OCR is garbled."
+   }
+  ]
+ },
+ {
+  "author": "Frederick Goddard Tuckerman",
+  "shelf": "frederick-goddard-tuckerman",
+  "new": true,
+  "surname": [
+   "tuckerman",
+   "frederick goddard tuckerman"
+  ],
+  "rows": [
+   {
+    "n": [
+     639
+    ],
+    "bloom_title": "The Cricket and Other Poems",
+    "kind": "ia",
+    "id": "poems00tuck",
+    "title": "Poems, by Frederick Goddard Tuckerman",
+    "translator": "",
+    "year": "1864 (title page: Boston, Ticknor and Fields, 1864; note 'first collected and printed in 1860')",
+    "djvu": "",
+    "evidence": "djvu title page and contents read; collection library_of_congress/americana",
+    "slug": "tuckerman-poems",
+    "case": "Tuckerman's only lifetime book, the Poems (1860/1864), holds the sonnet sequences that make up most of Bloom's 'other poems'.",
+    "note": "'The Cricket' itself was first printed in 1950 (from knowledge), so it isn't PD and isn't in this volume. Flag that the title is only partly covered."
+   }
+  ]
+ },
+ {
+  "author": "Henry David Thoreau",
+  "shelf": "thoreau",
+  "new": false,
+  "surname": [
+   "thoreau",
+   "henry david thoreau"
+  ],
+  "rows": [
+   {
+    "n": [
+     641
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "59988",
+    "title": "Poems of Nature, ed. Henry S. Salt and Frank B. Sanborn",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG title page shows Boston and New York / London: John Lane; year not on the lines read",
+    "slug": "thoreau-poems-nature",
+    "case": "Salt and Sanborn's Poems of Nature (1895, from knowledge) was the first collection of Thoreau's verse; not held.",
+    "note": "Alternative: PG 42553 Excursions, and Poems (Writings vol. 5, 1906)."
+   },
+   {
+    "n": [
+     642
+    ],
+    "bloom_title": "Essays",
+    "kind": "pg",
+    "id": "9846",
+    "title": "Excursions",
+    "translator": "",
+    "year": "1863 (date in PG front matter)",
+    "djvu": "",
+    "evidence": "PG text read: Emerson's biographical sketch; Walking, Wild Apples, etc.",
+    "slug": "thoreau-excursions",
+    "case": "Thoreau's two posthumous essay collections; only Walden and Civil Disobedience are held.",
+    "note": "The machine's PG candidate (Oxford Book of American Essays) is an anthology; not used."
+   },
+   {
+    "n": [
+     642
+    ],
+    "bloom_title": "Essays",
+    "kind": "pg",
+    "id": "70123",
+    "title": "A Yankee in Canada, with Anti-slavery and Reform Papers",
+    "translator": "",
+    "year": "1866 (PG title page: Boston, Ticknor and Fields, 1866)",
+    "djvu": "",
+    "evidence": "PG title page read",
+    "slug": "thoreau-yankee-canada",
+    "case": "Thoreau's two posthumous essay collections; only Walden and Civil Disobedience are held.",
+    "note": "The machine's PG candidate (Oxford Book of American Essays) is an anthology; not used."
+   }
+  ]
+ },
+ {
+  "author": "Sidney Lanier",
+  "shelf": "sidney-lanier",
+  "new": true,
+  "surname": [
+   "lanier",
+   "sidney lanier"
+  ],
+  "rows": [
+   {
+    "n": [
+     646
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "579",
+    "title": "The Poems of Sidney Lanier, edited by his wife",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read; poems carry first-publication notes (1879, 1882)",
+    "slug": "lanier-poems",
+    "case": "The standard posthumous collection edited by Mary Day Lanier; not held.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Francis Parkman",
+  "shelf": "francis-parkman",
+  "new": true,
+  "surname": [
+   "parkman",
+   "francis parkman"
+  ],
+  "rows": [
+   {
+    "n": [
+     647
+    ],
+    "bloom_title": "France and England in North America",
+    "kind": "pg",
+    "id": "3721",
+    "title": "Part I: Pioneers of France in the New World",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "parkman-part-i",
+    "case": "Parkman's seven-part history is all on PG; none of it is held.",
+    "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+   },
+   {
+    "n": [
+     647
+    ],
+    "bloom_title": "France and England in North America",
+    "kind": "pg",
+    "id": "6933",
+    "title": "Part II: The Jesuits in North America",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "catalogue",
+    "slug": "parkman-part-ii",
+    "case": "Parkman's seven-part history is all on PG; none of it is held.",
+    "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+   },
+   {
+    "n": [
+     647
+    ],
+    "bloom_title": "France and England in North America",
+    "kind": "pg",
+    "id": "40143",
+    "title": "Part III: La Salle and the Discovery of the Great West",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "catalogue (also 9997)",
+    "slug": "parkman-part-iii",
+    "case": "Parkman's seven-part history is all on PG; none of it is held.",
+    "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+   },
+   {
+    "n": [
+     647
+    ],
+    "bloom_title": "France and England in North America",
+    "kind": "pg",
+    "id": "53000",
+    "title": "Part IV: The Old Régime in Canada",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "catalogue",
+    "slug": "parkman-part-iv",
+    "case": "Parkman's seven-part history is all on PG; none of it is held.",
+    "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+   },
+   {
+    "n": [
+     647
+    ],
+    "bloom_title": "France and England in North America",
+    "kind": "pg",
+    "id": "6875",
+    "title": "Part V: Count Frontenac and New France under Louis XIV",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "catalogue",
+    "slug": "parkman-part-v",
+    "case": "Parkman's seven-part history is all on PG; none of it is held.",
+    "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+   },
+   {
+    "n": [
+     647
+    ],
+    "bloom_title": "France and England in North America",
+    "kind": "pg",
+    "id": "24457",
+    "title": "Part VII vol 1: A Half-Century of Conflict",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "catalogue (vol 2 = PG 48758)",
+    "slug": "parkman-part-vii-vol-1",
+    "case": "Parkman's seven-part history is all on PG; none of it is held.",
+    "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+   },
+   {
+    "n": [
+     647
+    ],
+    "bloom_title": "France and England in North America",
+    "kind": "pg",
+    "id": "14517",
+    "title": "Part VI: Montcalm and Wolfe",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "catalogue",
+    "slug": "parkman-part-vi",
+    "case": "Parkman's seven-part history is all on PG; none of it is held.",
+    "note": "Nine PG texts. Part III has two PG versions (9997 is the 1870 text; 40143 is the revised La Salle). Pontiac (PG 39253) is a prequel, not listed by Bloom."
+   },
+   {
+    "n": [
+     648
+    ],
+    "bloom_title": "The California and Oregon Trail",
+    "kind": "pg",
+    "id": "1015",
+    "title": "The Oregon Trail: Sketches of Prairie and Rocky-Mountain Life",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "parkman-oregon-trail",
+    "case": "The Oregon Trail (first issued as The California and Oregon Trail) is on PG; not held.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Trumbull Stickney",
+  "shelf": "trumbull-stickney",
+  "new": true,
+  "surname": [
+   "stickney",
+   "trumbull stickney"
+  ],
+  "rows": [
+   {
+    "n": [
+     678
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "poemsoftrumbulls00sticuoft",
+    "title": "The Poems of Trumbull Stickney, ed. G. C. Lodge, W. V. Moody, J. E. Lodge",
+    "translator": "",
+    "year": "1905 (title page: Boston and New York, Houghton, Mifflin, MDCCCCV; 'Copyright 1905')",
+    "djvu": "",
+    "evidence": "djvu title page and prefatory note read; collection toronto",
+    "slug": "stickney-poems",
+    "case": "The 1905 posthumous Poems is the collected Stickney; not on PG.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Luigi Pirandello",
+  "shelf": "luigi-pirandello",
+  "new": true,
+  "surname": [
+   "pirandello",
+   "luigi pirandello"
+  ],
+  "rows": [
+   {
+    "n": [
+     679
+    ],
+    "bloom_title": "Naked Masks: Five Plays",
+    "kind": "ia",
+    "id": "eachinhisownwayt0000pira",
+    "title": "Each in His Own Way and Two Other Plays",
+    "translator": "Arthur Livingston",
+    "year": "1923 (title page: New York, E. P. Dutton; 'Copyright, 1923')",
+    "djvu": "",
+    "evidence": "djvu title page read; collection trent_university/internetarchivebooks",
+    "slug": "pirandello-each-his-own-way",
+    "case": "Four of Naked Masks' five plays came out in English in 1922-23: Six Characters, Henry IV, It Is So (Right You Are) and Each in His Own Way.",
+    "note": "Liolà, the fifth, was first Englished in Bentley's 1952 Naked Masks (from knowledge), so it isn't PD. Already held: livingston: One-Act Plays and The Late Mattia Pascal."
+   }
+  ]
+ },
+ {
+  "author": "Italo Svevo",
+  "shelf": "italo-svevo",
+  "new": true,
+  "surname": [
+   "svevo",
+   "italo svevo"
+  ],
+  "rows": [
+   {
+    "n": [
+     703
+    ],
+    "bloom_title": "The Confession of Zeno",
+    "kind": "pg",
+    "id": "79453",
+    "title": "Confessions of Zeno",
+    "translator": "Beryl de Zoete",
+    "year": "1930 (PG front matter: 'Copyright 1930 by Alfred A. Knopf, Inc.'; PG header 'Original publication: New York: New Directions/Alfred A. Knopf, 1930')",
+    "djvu": "",
+    "evidence": "PG header and copyright line read",
+    "slug": "svevo-confessions-zeno",
+    "case": "De Zoete's 1930 Knopf translation predates the 1931 line; PG has it.",
+    "note": "PG lists Renato Poggioli as commentator, so the source copy may be a later New Directions printing with Poggioli's note (that note is post-1931). Ship the translation and drop or check the Poggioli matter."
+   }
+  ]
+ },
+ {
+  "author": "Miguel de Unamuno",
+  "shelf": "miguel-de-unamuno",
+  "new": true,
+  "surname": [
+   "unamuno",
+   "miguel de unamuno"
+  ],
+  "rows": [
+   {
+    "n": [
+     716
+    ],
+    "bloom_title": "Our Lord Don Quixote",
+    "kind": "ia",
+    "id": "lifeofdonquixote0000unse_1927",
+    "title": "The Life of Don Quixote and Sancho according to Miguel de Cervantes Saavedra, expounded with comment by Miguel de Unamuno",
+    "translator": "Homer P. Earle",
+    "year": "1927 (title page: New York & London, Alfred A. Knopf, 1927; 'Copyright 1927')",
+    "djvu": "",
+    "evidence": "djvu title page and contents read; collection marygrovecollege/internetarchivebooks/americana",
+    "slug": "unamuno-life-don-quixote-sancho",
+    "case": "Bloom's 'Our Lord Don Quixote' is the Bollingen volume built round Vida de Don Quijote y Sancho. Earle's 1927 Knopf translation of that book is PD and on IA.",
+    "note": "The Bollingen volume adds essays not in Earle; those aren't covered. Second copy: lifeofdonquixote0000migu_o2k7."
+   }
+  ]
+ },
+ {
+  "author": "Anatole France",
+  "shelf": "anatole-france",
+  "new": true,
+  "surname": [
+   "france",
+   "anatole france"
+  ],
+  "rows": [
+   {
+    "n": [
+     746
+    ],
+    "bloom_title": "Penguin Island",
+    "kind": "pg",
+    "id": "1930",
+    "title": "Penguin Island",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read; it names no translator",
+    "slug": "france-penguin-island",
+    "case": "Penguin Island (1908) is on PG; not held.",
+    "note": "PG header gives no translator. The English Penguin Island of 1909 (Lane) is by A. W. Evans (from knowledge, not read). Confirm before shelving."
+   }
+  ]
+ },
+ {
+  "author": "Alain-Fournier",
+  "shelf": "alain-fournier",
+  "new": true,
+  "surname": [
+   "alainfournier",
+   "alainfournier"
+  ],
+  "rows": [
+   {
+    "n": [
+     748
+    ],
+    "bloom_title": "Le Grand Meaulnes",
+    "kind": "pg",
+    "id": "79827",
+    "title": "The Wanderer",
+    "translator": "Françoise Roussel Delisle",
+    "year": "1928 (PG title page: Houghton Mifflin, 1928; 'COPYRIGHT, 1928')",
+    "djvu": "",
+    "evidence": "PG header and title page read; intro by Havelock Ellis",
+    "slug": "alainfournier-wanderer",
+    "case": "Delisle's 1928 The Wanderer is the first English Grand Meaulnes and is on PG.",
+    "note": "Havelock Ellis's introduction is part of the 1928 edition, so it's PD too."
+   }
+  ]
+ },
+ {
+  "author": "Marcel Proust",
+  "shelf": "scott-moncrieff",
+  "new": false,
+  "surname": [
+   "proust",
+   "marcel proust"
+  ],
+  "rows": [
+   {
+    "n": [
+     749
+    ],
+    "bloom_title": "Remembrance of Things Past (In Search of Lost Time)",
+    "kind": "ia",
+    "id": "citiesofplaintra0000marc",
+    "title": "Cities of the Plain (Modern Library)",
+    "translator": "C. K. Scott Moncrieff",
+    "year": "unread (copyright line 'COPYRIGHT, 1927, BY RANDOM HOUSE'; Modern Library printing, date unread)",
+    "djvu": "",
+    "evidence": "djvu front matter read; one-volume complete text",
+    "slug": "proust-cities-plain",
+    "case": "Four of Scott Moncrieff's volumes are held. Cities of the Plain (1927) and The Sweet Cheat Gone (1930) are also PD and complete the run through vol. 6.",
+    "note": "Time Regained (Stephen Hudson, 1931) is NOT PD, so the run can only stop at The Sweet Cheat Gone. Scans are of later printings that copyright the text 1927/1930 and look unrevised; no 1930 first-edition scan was found for Sweet Cheat Gone (sweetcheatgone0000marc is a 1970 Vintage). Rule 6 call: these are Modern Library reprints."
+   },
+   {
+    "n": [
+     749
+    ],
+    "bloom_title": "Remembrance of Things Past (In Search of Lost Time)",
+    "kind": "ia",
+    "id": "sweetcheatgone0000marc_t2h0",
+    "title": "The Sweet Cheat Gone (Modern Library)",
+    "translator": "C. K. Scott Moncrieff",
+    "year": "1930 for the text ('COPYRIGHT, 1930, BY RANDOM HOUSE'); this printing 'FIRST Modern Library EDITION, 1948'",
+    "djvu": "",
+    "evidence": "djvu front matter read",
+    "slug": "proust-sweet-cheat-gone",
+    "case": "Four of Scott Moncrieff's volumes are held. Cities of the Plain (1927) and The Sweet Cheat Gone (1930) are also PD and complete the run through vol. 6.",
+    "note": "Time Regained (Stephen Hudson, 1931) is NOT PD, so the run can only stop at The Sweet Cheat Gone. Scans are of later printings that copyright the text 1927/1930 and look unrevised; no 1930 first-edition scan was found for Sweet Cheat Gone (sweetcheatgone0000marc is a 1970 Vintage). Rule 6 call: these are Modern Library reprints."
+   }
+  ]
+ }
+]

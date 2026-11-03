@@ -1,0 +1,65 @@
+{
+ "_about": "Richard Bentley (1662-1742), Master of Trinity College, Cambridge, the founder of modern classical criticism, raw IA OCR of The Works of Richard Bentley, D.D., collected and edited by the Rev. Alexander Dyce (London: Francis Macpherson, 1836-1838), 3 vols: I-II the Dissertation upon the Epistles of Phalaris (with the Epistola ad Millium, Latin, in vol. II), III his theological writings (the Boyle Lectures, Remarks upon a Discourse of Free-thinking, Proposals for an edition of the Greek Testament). The Epistles of Phalaris themselves are on the phalaris shelf; Jebb's life of Bentley (English Men of Letters) is on the jebb shelf. Not taken: The Correspondence of Richard Bentley (1842), mostly Latin letters, one volume of two on IA, OCR 0.74; his Latin editions of Horace, Terence and Manilius. Classical scholarship (lane B, round dy). No uids minted.",
+ "_author": "Richard Bentley (1662-1742)",
+ "_name_words": [
+  "bentley"
+ ],
+ "_surname": [
+  "richard bentley",
+  "bentley, richard"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "richard-bentley-works-v1-1836": [
+   "worksrichardben00newtgoog",
+   "The Works of Richard Bentley, D.D., collected and edited by the Rev. Alexander Dyce, vol. I: Dissertation upon the Epistles of Phalaris (London: Francis Macpherson, 1836)"
+  ],
+  "richard-bentley-works-v2-1836": [
+   "worksbentley02bentuoft",
+   "The Works of Richard Bentley, D.D., collected and edited by the Rev. Alexander Dyce, vol. II: Dissertations upon the Epistles of Phalaris, &c., and Epistola ad Millium (London: Francis Macpherson, 1836)"
+  ],
+  "richard-bentley-works-v3-1838": [
+   "worksrichardben04newtgoog",
+   "The Works of Richard Bentley, D.D., collected and edited by the Rev. Alexander Dyce, vol. III: Theological Writings (London: Francis Macpherson, 1838)"
+  ]
+ },
+ "_excluded": {
+  "The Correspondence of Richard Bentley (1842; IA correspondencer00bentgoog)": "mostly Latin letters, only one of two volumes on IA, OCR 0.74"
+ },
+ "_checks": {
+  "richard-bentley-works-v1-1836": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard bentley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "richard-bentley-works-v2-1836": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard bentley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "richard-bentley-works-v3-1838": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard bentley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "_about": "Sidney Lanier. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Sidney Lanier",
+ "_name_words": [
+  "sidney",
+  "lanier"
+ ],
+ "_surname": [
+  "lanier",
+  "sidney lanier"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lanier-poems": [
+   579,
+   "The Poems of Sidney Lanier, edited by his wife"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "lanier-poems": {
+   "bloom_n": [
+    646
+   ],
+   "bloom_title": "Poems",
+   "year": "unread",
+   "evidence": "PG header read; poems carry first-publication notes (1879, 1882)",
+   "case": "The standard posthumous collection edited by Mary Day Lanier; not held.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "lanier-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lanier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

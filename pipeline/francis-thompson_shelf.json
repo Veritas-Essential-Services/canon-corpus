@@ -1,0 +1,66 @@
+{
+ "_about": "Francis Thompson. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Francis Thompson",
+ "_name_words": [
+  "francis",
+  "thompson"
+ ],
+ "_surname": [
+  "thompson",
+  "francis thompson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "thompson-poems": [
+   1469,
+   "Poems"
+  ],
+  "thompson-new-poems": [
+   1471,
+   "New Poems"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "thompson-poems": {
+   "bloom_n": [
+    508
+   ],
+   "bloom_title": "Poems",
+   "year": "1909 printing (PG credit 'Transcribed from the September 1909 Burns and Oates edition')",
+   "evidence": "Read PG header.",
+   "case": "Bloom lists Thompson's poems; nothing is held. Poems (1893, here the 1909 printing, with The Hound of Heaven) plus New Poems covers his verse.",
+   "note": "PG 1731 Sister Songs completes the three original books."
+  },
+  "thompson-new-poems": {
+   "bloom_n": [
+    508
+   ],
+   "bloom_title": "Poems",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Bloom lists Thompson's poems; nothing is held. Poems (1893, here the 1909 printing, with The Hound of Heaven) plus New Poems covers his verse.",
+   "note": "PG 1731 Sister Songs completes the three original books."
+  }
+ },
+ "_checks": {
+  "thompson-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "thompson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thompson-new-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "thompson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

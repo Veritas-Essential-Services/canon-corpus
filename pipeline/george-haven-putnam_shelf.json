@@ -1,0 +1,34 @@
+{
+ "_about": "George Haven Putnam (1844-1930), New York publisher and historian of the book trade, raw IA OCR: Authors and their Public in Ancient Times (New York and London: G. P. Putnam's Sons, 1894), the history of authorship and publishing in Greece and Rome. Taken for its classical subject (lane B, round dy); his Books and their Makers during the Middle Ages (1896-97) and his copyright and Civil War writings are outside lane B's brief. No uids minted.",
+ "_author": "George Haven Putnam (1844-1930)",
+ "_name_words": [
+  "putnam"
+ ],
+ "_surname": [
+  "geo. haven putnam",
+  "george haven putnam",
+  "g. h. putnam"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "george-haven-putnam-authors-and-their-public-1894": [
+   "authorsandtheir00putngoog",
+   "Authors and their Public in Ancient Times: a sketch of literary conditions and of the relations with the public of literary producers, by Geo. Haven Putnam (New York and London: G. P. Putnam's Sons, 1894)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "george-haven-putnam-authors-and-their-public-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geo. haven putnam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "_about": "John Turtle Wood (1821-1890), excavator of the Artemision at Ephesus, raw IA OCR of Discoveries at Ephesus (1877).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "J. T. Wood",
+ "_name_words": [
+  "wood"
+ ],
+ "_surname": [
+  "j. t. wood",
+  "john turtle wood"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-t-wood-discoveries-at-ephesus-1877": [
+   "discoveriesateph00wood",
+   "Discoveries at Ephesus, including the site and remains of the Great Temple of Diana, by J. T. Wood, Fellow of the Royal Institute of British Architects (London: Longmans, Green, and Co., 1877)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "j-t-wood-discoveries-at-ephesus-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "j-t-wood-discoveries-at-ephesus-1877": {
+   "author": "BY ja WOOD, ΠΞ αὶ FELLOW OF THE ROYAL INSTITUTE OF BRITISH ARCHITECTS"
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "_about": "George Farquhar. Bloom's Western Canon (1994) lists: The Beaux' Strategem; The Recruiting Officer. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "George Farquhar",
+ "_name_words": [
+  "george",
+  "farquhar"
+ ],
+ "_surname": [
+  "farquhar",
+  "george farquhar"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "farquhar-beaux-stratagem": [
+   21334,
+   "The Beaux-Stratagem"
+  ],
+  "farquhar-recruiting-officer": [
+   37012,
+   "The Recruiting Officer (Inchbald's British Theatre)"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "farquhar-beaux-stratagem": {
+   "bloom_n": [
+    223
+   ],
+   "bloom_title": "The Beaux' Strategem",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Standard PG text.",
+   "note": ""
+  },
+  "farquhar-recruiting-officer": {
+   "bloom_n": [
+    224
+   ],
+   "bloom_title": "The Recruiting Officer",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Standard PG text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "farquhar-beaux-stratagem": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "farquhar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "farquhar-recruiting-officer": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "farquhar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

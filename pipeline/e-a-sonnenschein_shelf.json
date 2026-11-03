@@ -1,0 +1,85 @@
+{
+ "_about": "E. A. Sonnenschein (1851-1929), Professor of Classics at Mason College, Birmingham, raw IA OCR: his Plautus editions, Captivi with Bentley's notes, new edition (Swan Sonnenschein and Allen, 1880), Mostellaria (Deighton, Bell, 1884), Rudens (Clarendon Press, 1891); and Bentley's Plautine Emendations from his copy of Gronovius (Anecdota Oxoniensia, Clarendon Press, 1883). Latin-dense volumes kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dv). No uids minted.",
+ "_author": "Edward Adolf Sonnenschein (1851-1929)",
+ "_name_words": [
+  "sonnenschein"
+ ],
+ "_surname": [
+  "e. a. sonnenschein",
+  "edward a. sonnenschein",
+  "sonnenschein, e. a."
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-a-sonnenschein-plautus-captivi-1880": [
+   "captivip00plauuoft",
+   "T. Macci Plauti Captivi, with an introduction, critical apparatus, explanatory notes and an appendix of Bentley's notes, edited by Edward A. Sonnenschein, new edition (London: W. Swan Sonnenschein and Allen, 1880)"
+  ],
+  "e-a-sonnenschein-bentley-plautine-emendations-1883": [
+   "bentleysplautine00bentrich",
+   "Bentley's Plautine Emendations from his copy of Gronovius, by E. A. Sonnenschein, Anecdota Oxoniensia, Classical Series vol. I part IV (Oxford: Clarendon Press, 1883)"
+  ],
+  "e-a-sonnenschein-plautus-mostellaria-1884": [
+   "mostellari00plau",
+   "T. Macci Plauti Mostellaria, with notes critical and exegetical and an introduction by E. A. Sonnenschein (Cambridge: Deighton, Bell; London: George Bell, 1884)"
+  ],
+  "e-a-sonnenschein-plautus-rudens-1891": [
+   "rudenspl00plau",
+   "T. Macci Plauti Rudens, edited with critical and explanatory notes by Edward A. Sonnenschein (Oxford: Clarendon Press, 1891)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-a-sonnenschein-plautus-captivi-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "e-a-sonnenschein-bentley-plautine-emendations-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. a. sonnenschein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "e-a-sonnenschein-plautus-mostellaria-1884": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. a. sonnenschein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "e-a-sonnenschein-plautus-rudens-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. a. sonnenschein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "e-a-sonnenschein-plautus-captivi-1880": {
+   "author": "title page OCRs the editor as 'EDWAED A. SONNENSCHEIN, M.A. Late Scholar of University College, Oxford' (London: W. Swan Sonnenschein and Allen, 1880)"
+  }
+ }
+}

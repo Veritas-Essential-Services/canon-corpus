@@ -1,0 +1,35 @@
+{
+ "_about": "W. Rennie (1878-1951), Fellow of Trinity College, Cambridge, Lecturer in Greek and later Professor of Greek at Glasgow: The Acharnians of Aristophanes, with introduction, critical notes and commentary (London: Edward Arnold, 1909), raw IA (UCLA copy; the Toronto scan acharnianswithin00arisuoft OCRs the same, 0.942). Greek text with English commentary, kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dt). No uids minted.",
+ "_author": "William Rennie (1878-1951)",
+ "_name_words": [
+  "rennie",
+  "acharnians",
+  "aristophanes"
+ ],
+ "_surname": [
+  "w. rennie",
+  "rennie, w"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-rennie-acharnians-1909": [
+   "acharniansofaris00renn",
+   "The Acharnians of Aristophanes, with introduction, critical notes and commentary, by W. Rennie (London: Edward Arnold, 1909); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-rennie-acharnians-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. rennie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

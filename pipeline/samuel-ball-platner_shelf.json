@@ -1,0 +1,52 @@
+{
+ "_about": "Samuel Ball Platner (1863-1921), Western Reserve classicist: The Topography and Monuments of Ancient Rome (2nd ed., 1911) and A Topographical Dictionary of Ancient Rome, completed and revised by Thomas Ashby (1929). Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Samuel Ball Platner (1863-1921)",
+ "_name_words": [
+  "platner",
+  "topography",
+  "monuments",
+  "rome",
+  "dictionary"
+ ],
+ "_surname": [
+  "platner"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "platner-topography-monuments-rome-1911": [
+   "topographymonume00platiala",
+   "The Topography and Monuments of Ancient Rome, 2nd ed. (1911)"
+  ],
+  "platner-topographical-dictionary-1929": [
+   "topographical-dictionary-of-ancient-rome-a-samuel-ball-platner-and-thomas-ashby",
+   "A Topographical Dictionary of Ancient Rome (1929), completed and revised by Thomas Ashby",
+   "Topographical Dictionary of Ancient Rome, A (Samuel Ball Platner and Thomas Ashby)_djvu.txt"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "platner-topography-monuments-rome-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "platner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "platner-topographical-dictionary-1929": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "platner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

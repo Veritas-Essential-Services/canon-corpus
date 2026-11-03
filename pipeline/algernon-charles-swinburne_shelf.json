@@ -1,0 +1,75 @@
+{
+ "_about": "Algernon Charles Swinburne. Bloom's Western Canon (1994) lists: Poems and Letters. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Algernon Charles Swinburne",
+ "_name_words": [
+  "algernon",
+  "charles",
+  "swinburne"
+ ],
+ "_surname": [
+  "swinburne",
+  "algernon charles swinburne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "swinburne-poems-ballads": [
+   35402,
+   "Poems & Ballads (First Series) -- The Collected Poetical Works, vol. I"
+  ]
+ },
+ "internet_archive": {
+  "swinburne-letters": [
+   "lettersofalg01swinuoft",
+   "The Letters of Algernon Charles Swinburne, vol. 1"
+  ]
+ },
+ "_bloom": {
+  "swinburne-poems-ballads": {
+   "bloom_n": [
+    499
+   ],
+   "bloom_title": "Poems and Letters",
+   "year": "1917 (title page 'London: William Heinemann 1917')",
+   "evidence": "Read PG front matter. PG holds the other Collected Poetical Works volumes as separate files (27401 Poems & Ballads II; 18726 III; 4072 Songs before Sunrise; 15378 Atalanta, etc.).",
+   "case": "Bloom lists Swinburne's poems and letters; nothing by him is held. The Heinemann Collected Poetical Works is on PG volume by volume; Gosse and Wise's 1918 Letters is the PD edition of the letters.",
+   "note": "Vol. 2 of the Letters needs finding (IA lettersofalgern01swinuoft / lettersofalgerno01swiniala are other copies). The Gosse-Wise text is incomplete and Wise is a known forger; Lang's 1959-62 Letters are not PD."
+  },
+  "swinburne-letters": {
+   "bloom_n": [
+    499
+   ],
+   "bloom_title": "Poems and Letters",
+   "year": "1918 (IA metadata; London: W. Heinemann; title page not reached)",
+   "evidence": "Read the opening of the djvu (publisher's list of the Heinemann Swinburne). Collection university_of_toronto.",
+   "case": "Bloom lists Swinburne's poems and letters; nothing by him is held. The Heinemann Collected Poetical Works is on PG volume by volume; Gosse and Wise's 1918 Letters is the PD edition of the letters.",
+   "note": "Vol. 2 of the Letters needs finding (IA lettersofalgern01swinuoft / lettersofalgerno01swiniala are other copies). The Gosse-Wise text is incomplete and Wise is a known forger; Lang's 1959-62 Letters are not PD."
+  }
+ },
+ "_translators": {
+  "swinburne-letters": "Gosse"
+ },
+ "_checks": {
+  "swinburne-poems-ballads": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "swinburne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swinburne-letters": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "swinburne",
+   "translator_claimed": "Gosse",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: John Dryden (1631-1700) as translator. Each TITLE is its own work with its own slug (dryden-aeneid, dryden-georgics ...); author sections (Virgil, Ovid, Juvenal ...) cross-reference these slugs, never a second copy. SOURCES are the files fetched (fetch_shelf.py); TITLES are cut from them by heading marker (split_shelf_titles.py). Clean text: Project Gutenberg's transcription of Scott's edition, The Works of John Dryden (18 vols, 1808; PG's volumes are the 1821 2nd ed. reprint), plus PG 228 (Aeneid). Raw OCR (Internet Archive): the Garth composite Metamorphoses and the 1684 History of the League, neither on Gutenberg. All PD (Dryden d. 1700; Scott d. 1832). No uids minted in the relay burst: every title awaits Adam's single-writer minting pass.",
+ "_about": "TRANSLATOR SHELF: John Dryden (1631-1700) as translator. Each TITLE is its own work with its own slug (dryden-aeneid, dryden-georgics ...); author sections (Virgil, Ovid, Juvenal ...) cross-reference these slugs, never a second copy. SOURCES are the files fetched (fetch_shelf.py); TITLES are cut from them by heading marker (split_shelf_titles.py). Clean text: Project Gutenberg's transcription of Scott's edition, The Works of John Dryden (18 vols, 1808; PG's volumes are the 1821 2nd ed. reprint), plus PG 228 (Aeneid). Raw OCR (Internet Archive): the Garth composite Metamorphoses and the 1684 History of the League, neither on Gutenberg. All PD (Dryden d. 1700; Scott d. 1832). No uids minted in the relay burst: every title awaits Adam's single-writer minting pass. Bloom addition 2026-11-03 (Bloom's Western Canon): dryden-poetical-works, dryden-poetical-works-2, dryden-essays, dryden-essays-2.",
  "_name_words": [
   "dryden"
  ],
@@ -32,6 +32,14 @@
   "dryden-scott-17": [
    76952,
    "Works of John Dryden (Scott), vol. 17: Du Fresnoy, Art of Painting"
+  ],
+  "dryden-poetical-works": [
+   11488,
+   "The Poetical Works of John Dryden, Volume 1 (Gilfillan)"
+  ],
+  "dryden-poetical-works-2": [
+   11578,
+   "The Poetical Works of John Dryden, Volume 2 (Gilfillan)"
   ]
  },
  "internet_archive": {
@@ -42,6 +50,15 @@
   "dryden-league-1684": [
    "historyofleague00maim",
    "Maimbourg, The History of the League, tr. Dryden (1684)"
+  ],
+  "dryden-essays": [
+   "in.ernet.dli.2015.93279",
+   "Essays of John Dryden, selected and edited by W. P. Ker, vol. I",
+   "2015.93279.Essays-Of-John-Dryden--Vol-1_djvu.txt"
+  ],
+  "dryden-essays-2": [
+   "essaysofjohndryd0000unse_n8d5",
+   "Essays of John Dryden, vol. 2, ed. W. P. Ker"
   ]
  },
  "titles": {
@@ -428,7 +445,7 @@
  "_checks": {
   "dryden-scott-11": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -437,7 +454,7 @@
   },
   "dryden-scott-12": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -446,7 +463,7 @@
   },
   "dryden-scott-13": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -455,7 +472,7 @@
   },
   "dryden-scott-14": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "title_weak": true,
@@ -465,7 +482,7 @@
   },
   "dryden-scott-15": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "title_weak": true,
@@ -475,7 +492,7 @@
   },
   "dryden-scott-16": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -484,7 +501,25 @@
   },
   "dryden-scott-17": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dryden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dryden-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dryden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dryden-poetical-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -493,7 +528,7 @@
   },
   "dryden-garth-metamorphoses-1826": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -504,7 +539,7 @@
   },
   "dryden-league-1684": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -512,6 +547,70 @@
    "ia_date": "1684",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "dryden-essays": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dryden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dryden-essays-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dryden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "dryden-poetical-works": {
+   "bloom_n": [
+    203
+   ],
+   "bloom_title": "Poetry and Plays",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "We hold Scott's Works vols 11-17 but none of the original poems or plays; the simplest completion is to add Scott vols 2-10 from PG (12166, 37645, 15349, 16208, 16456, 16402, 47679, 49221, 51652) which hold the plays and poems, or Gilfillan's Poetical Works for the poems alone.",
+   "note": "Recommend completing the Scott set we already started (same edition = consistent citation); vol 1 (Life) and 18 also on PG/IA."
+  },
+  "dryden-poetical-works-2": {
+   "bloom_n": [
+    203
+   ],
+   "bloom_title": "Poetry and Plays",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "We hold Scott's Works vols 11-17 but none of the original poems or plays; the simplest completion is to add Scott vols 2-10 from PG (12166, 37645, 15349, 16208, 16456, 16402, 47679, 49221, 51652) which hold the plays and poems, or Gilfillan's Poetical Works for the poems alone.",
+   "note": "Recommend completing the Scott set we already started (same edition = consistent citation); vol 1 (Life) and 18 also on PG/IA."
+  },
+  "dryden-essays": {
+   "bloom_n": [
+    204
+   ],
+   "bloom_title": "Critical Essays",
+   "year": "1900 (title page: 'Oxford at the Clarendon Press 1900')",
+   "evidence": "Read title page and preface (Digital Library of India scan, not lending).",
+   "case": "Ker's 2-vol Essays is the standard collection of Dryden's criticism.",
+   "note": "PG 2615 (Discourses on Satire and Epic Poetry) is a partial alternative."
+  },
+  "dryden-essays-2": {
+   "bloom_n": [
+    204
+   ],
+   "bloom_title": "Critical Essays",
+   "year": "1900 (IA metadata)",
+   "evidence": "Found in search; not opened.",
+   "case": "Ker's 2-vol Essays is the standard collection of Dryden's criticism.",
+   "note": "PG 2615 (Discourses on Satire and Epic Poetry) is a partial alternative."
   }
  }
 }

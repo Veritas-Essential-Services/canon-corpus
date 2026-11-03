@@ -1,0 +1,32 @@
+{
+ "_about": "Charles Heald Weller (1870-1927), University of Iowa, raw IA OCR of Athens and its Monuments (1913).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Charles Heald Weller",
+ "_name_words": [
+  "weller"
+ ],
+ "_surname": [
+  "charles heald weller"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "charles-heald-weller-athens-and-its-monuments-1913": [
+   "athensitsmonumen00welluoft",
+   "Athens and its Monuments, by Charles Heald Weller, University of Iowa (New York: The Macmillan Company, 1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "charles-heald-weller-athens-and-its-monuments-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles heald weller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

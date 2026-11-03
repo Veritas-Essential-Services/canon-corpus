@@ -1,5 +1,5 @@
 {
- "_about": "Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Niebuhr's Lectures on Roman History, vol. 1, Niebuhr's Lectures on Roman History, vol. 2, Niebuhr's Lectures on Roman History, vol. 3, Lectures on Ancient Ethnography and Geography, vol. 1, Lectures on Ancient Ethnography and Geography, vol. 2, clean Gutenberg. No uids minted. Also The History of Rome, 3 vols., the 'new edition' of Taylor, Walton, and Maberly: vols. I-II tr. Julius Charles Hare and Connop Thirlwall (1851, 1855), vol. III tr. William Smith and Leonhard Schmitz (its imprint year is illegible in the OCR, 'MDCCCM'; the slug therefore carries no year), raw IA OCR.",
+ "_about": "Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Niebuhr's Lectures on Roman History, vol. 1, Niebuhr's Lectures on Roman History, vol. 2, Niebuhr's Lectures on Roman History, vol. 3, Lectures on Ancient Ethnography and Geography, vol. 1, Lectures on Ancient Ethnography and Geography, vol. 2, clean Gutenberg. No uids minted. Also The History of Rome, 3 vols., the 'new edition' of Taylor, Walton, and Maberly: vols. I-II tr. Julius Charles Hare and Connop Thirlwall (1851, 1855), vol. III tr. William Smith and Leonhard Schmitz (its imprint year is illegible in the OCR, 'MDCCCM'; the slug therefore carries no year), raw IA OCR. Lectures",
  "_name_words": [
   "niebuhr"
  ],
@@ -51,6 +51,18 @@
    "historyrome02schmgoog",
    "The History of Rome, tr. William Smith and Leonhard Schmitz, vol. III, a new edition (London: Taylor, Walton, and Maberly)",
    "tr. William Smith and Leonhard Schmitz"
+  ],
+  "niebuhr-lectures-ancient-history-v1": [
+   "cu31924088051515",
+   "Lectures on Ancient History, from the Earliest Times to the Taking of Alexandria by Octavianus, tr. Leonhard Schmitz, vol. I (London: Taylor, Walton, and Maberly, 1852)"
+  ],
+  "niebuhr-lectures-ancient-history-v2": [
+   "cu31924088051523",
+   "Lectures on Ancient History, from the Earliest Times to the Taking of Alexandria by Octavianus, tr. Leonhard Schmitz, vol. II (London: Taylor, Walton, and Maberly, 1852)"
+  ],
+  "niebuhr-lectures-ancient-history-v3": [
+   "cu31924088051531",
+   "Lectures on Ancient History, from the Earliest Times to the Taking of Alexandria by Octavianus, tr. Leonhard Schmitz, vol. III (London: Taylor, Walton, and Maberly, 1852)"
   ]
  },
  "_translators": {
@@ -61,12 +73,15 @@
   "niebuhr-lectures-ethnography-geography-v2": "Leonhard Schmitz",
   "niebuhr-history-rome-v1-1851": "Hare",
   "niebuhr-history-rome-v2-1855": "Hare",
-  "niebuhr-history-rome-v3-new-ed": "Schmitz"
+  "niebuhr-history-rome-v3-new-ed": "Schmitz",
+  "niebuhr-lectures-ancient-history-v1": "Schmitz",
+  "niebuhr-lectures-ancient-history-v2": "Schmitz",
+  "niebuhr-lectures-ancient-history-v3": "Schmitz"
  },
  "_checks": {
   "niebuhr-lectures-roman-history-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "barthold georg niebuhr",
    "translator_claimed": "Chepmell",
@@ -78,7 +93,7 @@
   },
   "niebuhr-lectures-roman-history-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "b. g. niebuhr",
    "translator_claimed": "Chepmell",
@@ -90,7 +105,7 @@
   },
   "niebuhr-lectures-roman-history-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "barthold georg niebuhr",
    "translator_claimed": "Chepmell",
@@ -102,7 +117,7 @@
   },
   "niebuhr-lectures-ethnography-geography-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "b. g. niebuhr",
    "translator_claimed": "Leonhard Schmitz",
@@ -114,7 +129,7 @@
   },
   "niebuhr-lectures-ethnography-geography-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "b. g. niebuhr",
    "translator_claimed": "Leonhard Schmitz",
@@ -126,7 +141,7 @@
   },
   "niebuhr-history-rome-v1-1851": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "b. g. niebuhr",
    "translator_claimed": "Hare",
@@ -139,7 +154,7 @@
   },
   "niebuhr-history-rome-v2-1855": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "b. g. niebuhr",
    "translator_claimed": "Hare",
@@ -152,7 +167,7 @@
   },
   "niebuhr-history-rome-v3-new-ed": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "b. g. niebuhr",
    "translator_claimed": "Schmitz",
@@ -161,6 +176,45 @@
    "ia_rights": "ok: published 1828",
    "ia_date": "1828",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "niebuhr-lectures-ancient-history-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. g. niebuhr",
+   "translator_claimed": "Schmitz",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "niebuhr-lectures-ancient-history-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. g. niebuhr",
+   "translator_claimed": "Schmitz",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "niebuhr-lectures-ancient-history-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. g. niebuhr",
+   "translator_claimed": "Schmitz",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

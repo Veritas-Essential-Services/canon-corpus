@@ -1,5 +1,5 @@
 {
- "_about": "John William Donaldson (1811-1861): The Theatre of the Greeks, a treatise on the history and exhibition of the Greek drama, seventh edition, revised, enlarged and in part remodelled (London: Longman and others, 1860), raw IA OCR at 0.781, just over the bar. IA also holds earlier forms of the book (1830, catalogued with P. W. Buckham; 1836); the 1860 seventh edition is taken as Donaldson's own revised treatise. He continued K. O. Müller's literary history (k-o-muller shelf). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "John William Donaldson (1811-1861): The Theatre of the Greeks, a treatise on the history and exhibition of the Greek drama, seventh edition, revised, enlarged and in part remodelled (London: Longman and others, 1860), raw IA OCR at 0.781, just over the bar. IA also holds earlier forms of the book (1830, catalogued with P. W. Buckham; 1836); the 1860 seventh edition is taken as Donaldson's own revised treatise. He continued K. O. Müller's literary history (k-o-muller shelf). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round eb (lane B) adds The New Cratylus (1850), Varronianus (1852) and A Complete Greek Grammar (1861).",
  "_name_words": [
   "donaldson"
  ],
@@ -14,18 +14,63 @@
   "donaldson-theatre-greeks-1860": [
    "theatreofgreekst00dona",
    "The Theatre of the Greeks, seventh edition (London: Longman and others, 1860)"
+  ],
+  "donaldson-new-cratylus-1850": [
+   "newcratylusorcon00donauoft",
+   "The New Cratylus; or, contributions towards a more accurate knowledge of the Greek language, by John William Donaldson, second edition, revised and considerably enlarged (London: John W. Parker, 1850)"
+  ],
+  "donaldson-varronianus-1852": [
+   "varronianuscriti00donarich",
+   "Varronianus: a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language, by John William Donaldson, second edition (London: John W. Parker and Son; Cambridge: John Deighton, 1852)"
+  ],
+  "donaldson-complete-greek-grammar-1861": [
+   "completegreekgra00donauoft",
+   "A Complete Greek Grammar for the use of students, by John William Donaldson, third edition, considerably enlarged (Cambridge: Deighton, Bell, and Co.; London: Bell and Daldy, 1861)"
   ]
  },
  "_checks": {
   "donaldson-theatre-greeks-1860": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john william donaldson",
    "identity": "ok",
    "ia_rights": "ok: published 1860",
    "ia_date": "1860",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "donaldson-new-cratylus-1850": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john william donaldson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "donaldson-varronianus-1852": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john william donaldson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "donaldson-complete-greek-grammar-1861": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john william donaldson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

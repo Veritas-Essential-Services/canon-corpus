@@ -1,5 +1,5 @@
 {
- "_about": "Harry Thurston Peck (1856-1914), editor: Harper's Dictionary of Classical Literature and Antiquities (New York: Harper, 1898 printing; copyright 1896), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Harry Thurston Peck (1856-1914), editor: Harper's Dictionary of Classical Literature and Antiquities (New York: Harper, 1898 printing; copyright 1896), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round eb (lane B) adds his History of Classical Philology (1911).",
  "_name_words": [
   "peck"
  ],
@@ -14,12 +14,16 @@
   "peck-harpers-dictionary-classical-1898": [
    "cu31924027019482",
    "Harper's Dictionary of Classical Literature and Antiquities, ed. Harry Thurston Peck (New York: Harper, 1898)"
+  ],
+  "peck-history-of-classical-philology-1911": [
+   "ahistoryclassic00peckgoog",
+   "A History of Classical Philology from the seventh century B.C. to the twentieth century A.D., by Harry Thurston Peck (New York: The Macmillan Company, 1911)"
   ]
  },
  "_checks": {
   "peck-harpers-dictionary-classical-1898": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "harry thurston peck",
    "identity": "ok",
@@ -27,6 +31,22 @@
    "ia_date": "1896",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "peck-history-of-classical-philology-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "peck-history-of-classical-philology-1911": {
+   "author": "HAKRT THURSTON PECK"
   }
  }
 }

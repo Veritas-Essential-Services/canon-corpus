@@ -1,0 +1,32 @@
+{
+ "_about": "Edward Lee Hicks (1843-1919), later Bishop of Lincoln, raw IA OCR of the Hicks-Hill Manual of Greek Historical Inscriptions (1901; Greek-dense, kept under the Greek-facing ruling). Not R. D. Hicks, whose shelf is r-d-hicks.  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "E. L. Hicks",
+ "_name_words": [
+  "hicks"
+ ],
+ "_surname": [
+  "e. l. hicks"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-l-hicks-hill-manual-greek-historical-inscriptions-1901": [
+   "manualofgreekhis00hickuoft",
+   "A Manual of Greek Historical Inscriptions, by E. L. Hicks and G. F. Hill, new and revised edition (Oxford: Clarendon Press; IA catalogues 1901)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-l-hicks-hill-manual-greek-historical-inscriptions-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. l. hicks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

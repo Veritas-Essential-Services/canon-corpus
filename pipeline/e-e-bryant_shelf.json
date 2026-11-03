@@ -1,0 +1,37 @@
+{
+ "_about": "E. E. Bryant, Fellow of Emmanuel College Cambridge, raw IA OCR of The Reign of Antoninus Pius (Thirlwall Dissertation 1894; Cambridge Historical Essays VIII, 1895). Roman history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "E. E. Bryant",
+ "_name_words": [
+  "bryant"
+ ],
+ "_surname": [
+  "e. e. bryant"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-e-bryant-reign-of-antoninus-pius-1895": [
+   "reignofantoninus00brya_0",
+   "The Reign of Antoninus Pius, by E. E. Bryant (Thirlwall Dissertation, 1894; Cambridge: at the University Press, 1895)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-e-bryant-reign-of-antoninus-pius-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "e-e-bryant-reign-of-antoninus-pius-1895": {
+   "author": "EK. E. BRYANT"
+  }
+ }
+}

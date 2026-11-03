@@ -1,0 +1,32 @@
+{
+ "_about": "William Alexander Hunter (1844-1898), jurist, raw IA OCR of A Systematic and Historical Exposition of Roman Law in the order of a code, revised and enlarged edition, with the Institutes of Gaius and Justinian tr. J. Ashton Cross. Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "W. A. Hunter",
+ "_name_words": [
+  "hunter"
+ ],
+ "_surname": [
+  "hunter"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-a-hunter-systematic-exposition-roman-law": [
+   "resystematichist00hunt",
+   "A Systematic and Historical Exposition of Roman Law in the order of a code, by W. A. Hunter, embodying the Institutes of Gaius and of Justinian translated into English by J. Ashton Cross, revised and enlarged (London: William Maxwell & Son; IA catalogues 1885)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-a-hunter-systematic-exposition-roman-law": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

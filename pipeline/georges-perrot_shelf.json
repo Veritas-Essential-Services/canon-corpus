@@ -1,0 +1,54 @@
+{
+ "_about": "Georges Perrot (1832-1914) and Charles Chipiez (1835-1901), raw IA OCR of the English translation of their Mycenaean volumes (1894).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Georges Perrot",
+ "_name_words": [
+  "perrot"
+ ],
+ "_surname": [
+  "georges perrot",
+  "perrot"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "georges-perrot-chipiez-primitive-greece-mycenian-art-1": [
+   "historyartinpri01chipgoog",
+   "History of Art in Primitive Greece: Mycenian art, volume I, by Georges Perrot and Charles Chipiez, from the French (translator signs I. Gonino; the imprint is not legible in the OCR; vol. II is London: Chapman and Hall, 1894)",
+   "tr. I. Gonino"
+  ],
+  "georges-perrot-chipiez-primitive-greece-mycenian-art-2-1894": [
+   "historyofartinpr02perr_1",
+   "History of Art in Primitive Greece: Mycenian art, volume II, by Georges Perrot and Charles Chipiez, from the French (the translator is named only in vol. I; London: Chapman and Hall, 1894)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "georges-perrot-chipiez-primitive-greece-mycenian-art-1": "I. Gonino"
+ },
+ "_checks": {
+  "georges-perrot-chipiez-primitive-greece-mycenian-art-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georges perrot",
+   "translator_claimed": "I. Gonino",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "georges-perrot-chipiez-primitive-greece-mycenian-art-2-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georges perrot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

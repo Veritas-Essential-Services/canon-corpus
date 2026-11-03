@@ -1,0 +1,38 @@
+{
+ "_about": "Henry William Pullen (1836-1903), clergyman, raw IA OCR of Handbook of Ancient Roman Marbles (1894). Roman topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "H. W. Pullen",
+ "_name_words": [
+  "pullen"
+ ],
+ "_surname": [
+  "h. w. pullen",
+  "pullen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "h-w-pullen-ancient-roman-marbles-1894": [
+   "handbookofancien00pulliala",
+   "Handbook of Ancient Roman Marbles, or a history and description of all ancient columns and surface marbles still existing in Rome, by H. W. Pullen (London: John Murray, 1894)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "h-w-pullen-ancient-roman-marbles-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "h-w-pullen-ancient-roman-marbles-1894": {
+   "author": "H. W. P U L L E N"
+  }
+ }
+}

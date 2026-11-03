@@ -1,5 +1,5 @@
 {
- "_about": "Robert Frost, New Hampshire (1923), which holds Stopping by Woods on a Snowy Evening. US public domain; Frost died 1963, so UK copyright runs to 2033. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_about": "Robert Frost, New Hampshire (1923), which holds Stopping by Woods on a Snowy Evening. US public domain; Frost died 1963, so UK copyright runs to 2033. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv. Bloom addition 2026-11-03 (Bloom's Western Canon): frost-collected-poems.",
  "_author": "Robert Frost",
  "_name_words": [
   "robert",
@@ -13,6 +13,10 @@
   "frost-new-hampshire": [
    58611,
    "New Hampshire: A Poem with Notes and Grace Notes (1923)"
+  ],
+  "frost-collected-poems": [
+   78327,
+   "Collected poems of Robert Frost"
   ]
  },
  "internet_archive": {},
@@ -20,12 +24,33 @@
  "_checks": {
   "frost-new-hampshire": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "robert frost",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "frost-collected-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "robert frost",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ },
+ "_bloom": {
+  "frost-collected-poems": {
+   "bloom_n": [
+    1241
+   ],
+   "bloom_title": "The Poetry",
+   "year": "1930 (PG title page: 'Copyright 1930 by Henry Holt and Company'; Fourth Printing)",
+   "evidence": "PG header 'Original publication: New York: Henry Holt and Company, 1930'",
+   "case": "Bloom lists Frost's Poetry (generic). PG 78327 is the 1930 Holt Collected Poems -- everything through West-Running Brook.",
+   "note": "Scan is the 'Fourth Printing'; the copyright line reads 1930, so first edition is 1930 and PD. Already held: New Hampshire (robert-frost shelf, relay)."
   }
  }
 }

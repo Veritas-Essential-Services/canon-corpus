@@ -1,0 +1,53 @@
+{
+ "_about": "H. J. Rose (1883-1961), St Andrews: Primitive Culture in Italy (1926) and A Handbook of Greek Mythology (New York: Dutton, 1929; copyright 1929, so US public domain from 2025). Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted.",
+ "_author": "Herbert Jennings Rose (1883-1961)",
+ "_name_words": [
+  "rose",
+  "herbert",
+  "jennings",
+  "mythology",
+  "primitive"
+ ],
+ "_surname": [
+  "h. j. rose",
+  "herbert jennings rose"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rose-primitive-culture-italy-1926": [
+   "in.ernet.dli.2015.79665",
+   "Primitive Culture in Italy (London: Methuen, 1926)",
+   "2015.79665.Primitive-Culture-In-Italy_djvu.txt"
+  ],
+  "rose-handbook-greek-mythology-1929": [
+   "handbookofgreekm0000rose_d4r2",
+   "A Handbook of Greek Mythology, including its Extension to Rome (New York: Dutton, 1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "rose-primitive-culture-italy-1926": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. j. rose",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rose-handbook-greek-mythology-1929": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. j. rose",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

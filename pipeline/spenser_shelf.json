@@ -1,5 +1,5 @@
 {
- "_about": "Spenser's (c.1552-1599) The Faerie Queene, J. C. Smith's Oxford text (1909), two volumes on Gutenberg. PG 6930 (another FQ edition) carries the COPYRIGHTED marker and is excluded; PG 15272 is Book I only. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_about": "Spenser's (c.1552-1599) The Faerie Queene, J. C. Smith's Oxford text (1909), two volumes on Gutenberg. PG 6930 (another FQ edition) carries the COPYRIGHTED marker and is excluded; PG 15272 is Book I only. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv. Bloom addition 2026-11-03 (Bloom's Western Canon): spenser-minor-poems.",
  "_author": "Edmund Spenser",
  "_name_words": [
   "edmund",
@@ -26,7 +26,12 @@
    }
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "spenser-minor-poems": [
+   "spensersminorpoe00spenuoft",
+   "Spenser's Minor Poems, ed. Ernest de Selincourt"
+  ]
+ },
  "_excluded": {
   "spenser-faerie-queene-6930": "COPYRIGHTED Project Gutenberg eBook (rights gate)",
   "spenser-faerie-queene-book1-15272": "Book I only (Wauchope school ed.); covered by the Smith text"
@@ -34,7 +39,7 @@
  "_checks": {
   "spenser-faerie-queene-smith-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edmund spenser",
    "identity": "ok",
@@ -43,12 +48,35 @@
   },
   "spenser-faerie-queene-smith-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edmund spenser",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "spenser-minor-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edmund spenser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "spenser-minor-poems": {
+   "bloom_n": [
+    156
+   ],
+   "bloom_title": "The Minor Poems",
+   "year": "1910 (title page: 'Oxford at the Clarendon Press MCMX')",
+   "evidence": "Read title page and introduction opening.",
+   "case": "Bloom's title matches de Selincourt's Oxford volume exactly; we hold only the Faerie Queene.",
+   "note": "PG 10602 (Child vol. 5) is apparatus only, not the minor poems."
   }
  }
 }

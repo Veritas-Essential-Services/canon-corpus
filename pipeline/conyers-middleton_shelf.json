@@ -1,0 +1,50 @@
+{
+ "_about": "Conyers Middleton (1683-1750), Principal Librarian to the University of Cambridge: The History of the Life of Marcus Tullius Cicero (first published 1741), the standard English life of Cicero for a century. Two-volume London edition of 1819 (J. Cuthell and others), raw IA. Middleton's theological works (the Free Inquiry) are lane A's if wanted; this shelf is the classical biography only.",
+ "_author": "Conyers Middleton (1683-1750)",
+ "_name_words": [
+  "middleton",
+  "cicero",
+  "tullius"
+ ],
+ "_surname": [
+  "conyers middleton",
+  "middleton, conyers"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "conyers-middleton-life-of-cicero-1819-v1": [
+   "lifeofmarcustull01midduoft",
+   "The Life of M. Tullius Cicero, in two volumes, vol. I (London: J. Cuthell and others, 1819)"
+  ],
+  "conyers-middleton-life-of-cicero-1819-v2": [
+   "lifeofmarcustull02midduoft",
+   "The Life of M. Tullius Cicero, in two volumes, vol. II, with index (London, 1819)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "conyers-middleton-life-of-cicero-1819-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "conyers middleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1819",
+   "ia_date": "1819",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "conyers-middleton-life-of-cicero-1819-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "conyers middleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1819",
+   "ia_date": "1819",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

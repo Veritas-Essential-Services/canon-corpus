@@ -1,0 +1,36 @@
+{
+ "_about": "James H. Hyslop (1854-1920), Columbia professor of logic and ethics: The Ethics of the Greek Philosophers, Socrates, Plato and Aristotle (Brooklyn Ethical Association, Evolution of Ethics vol. I, 1903), with C. M. Higgins's extracts and notes. Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "James Hervey Hyslop (1854-1920)",
+ "_name_words": [
+  "hyslop",
+  "james",
+  "hervey",
+  "ethics",
+  "greek"
+ ],
+ "_surname": [
+  "hyslop"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hyslop-ethics-greek-philosophers-1903": [
+   "ethicsgreekphil00hysluoft",
+   "The Ethics of the Greek Philosophers, Socrates, Plato and Aristotle (New York: Higgins, 1903)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hyslop-ethics-greek-philosophers-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hyslop",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

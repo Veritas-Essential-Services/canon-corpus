@@ -1,0 +1,66 @@
+{
+ "_about": "Richard Crashaw. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Richard Crashaw",
+ "_name_words": [
+  "richard",
+  "crashaw"
+ ],
+ "_surname": [
+  "crashaw",
+  "richard crashaw"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "crashaw-complete-works": [
+   38549,
+   "The Complete Works of Richard Crashaw, Volume I"
+  ],
+  "crashaw-complete-works-2": [
+   38550,
+   "The Complete Works of Richard Crashaw, Volume II"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "crashaw-complete-works": {
+   "bloom_n": [
+    183
+   ],
+   "bloom_title": "Poems",
+   "year": "1872 (front matter read: Grosart's edition, a lone date line '1872' in the front matter)",
+   "evidence": "PG catalogue: editor Grosart.",
+   "case": "Grosart's Complete Works of Crashaw.",
+   "note": ""
+  },
+  "crashaw-complete-works-2": {
+   "bloom_n": [
+    183
+   ],
+   "bloom_title": "Poems",
+   "year": "1873 (front matter read: Grosart's edition, a lone date line '1873' in the front matter)",
+   "evidence": "PG catalogue.",
+   "case": "Grosart's Complete Works of Crashaw.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "crashaw-complete-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "crashaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crashaw-complete-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "crashaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

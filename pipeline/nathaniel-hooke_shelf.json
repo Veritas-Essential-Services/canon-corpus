@@ -1,0 +1,115 @@
+{
+ "_about": "Nathaniel Hooke (d. 1763): The Roman History, from the Building of Rome to the Ruin of the Commonwealth, the standard eighteenth-century English history of the Republic, in the six-volume London edition of 1821 (Bavarian State Library scans). Classical scholarship (lane B, round dh). Raw IA OCR. No uids minted.",
+ "_author": "Nathaniel Hooke (d. 1763)",
+ "_name_words": [
+  "hooke",
+  "nathaniel",
+  "nath",
+  "roman",
+  "history"
+ ],
+ "_surname": [
+  "hooke",
+  "nath. hooke",
+  "nathaniel hooke"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hooke-roman-history-v1": [
+   "10433218bsb",
+   "The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. I (London, 1821)"
+  ],
+  "hooke-roman-history-v2": [
+   "10433219bsb",
+   "The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. II (London, 1821)"
+  ],
+  "hooke-roman-history-v3": [
+   "10433220bsb",
+   "The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. III (London, 1821)"
+  ],
+  "hooke-roman-history-v4": [
+   "10433221bsb",
+   "The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. IV (London, 1821)"
+  ],
+  "hooke-roman-history-v5": [
+   "10433222bsb",
+   "The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. V (London, 1821)"
+  ],
+  "hooke-roman-history-v6": [
+   "10433223bsb",
+   "The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. VI (London, 1821)"
+  ]
+ },
+ "_excluded": {
+  "romanhistoryfro00unkngoog": "1830 Rivington six-volume edition: Vol. I has no scan on IA, so the complete 1821 set was taken instead"
+ },
+ "_checks": {
+  "hooke-roman-history-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hooke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hooke-roman-history-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hooke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hooke-roman-history-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hooke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hooke-roman-history-v4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hooke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hooke-roman-history-v5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hooke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hooke-roman-history-v6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hooke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

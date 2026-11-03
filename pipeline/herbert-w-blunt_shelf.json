@@ -1,0 +1,33 @@
+{
+ "_about": "Herbert William Blunt (1864-1940), raw IA OCR of The Causes of the Decline of the Roman Commonwealth (Arnold Prize Essay, 1887). Roman history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Herbert W. Blunt",
+ "_name_words": [
+  "blunt"
+ ],
+ "_surname": [
+  "herbert w. blunt",
+  "blunt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "herbert-w-blunt-decline-roman-commonwealth-1887": [
+   "causesofdeclineo00blun",
+   "The Causes of the Decline of the Roman Commonwealth, the Arnold Prize Essay for 1887, by Herbert W. Blunt (Oxford: B. H. Blackwell; London: Simpkin, Marshall, & Co., 1887)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "herbert-w-blunt-decline-roman-commonwealth-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert w. blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

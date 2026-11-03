@@ -1,0 +1,33 @@
+{
+ "_about": "Lord Mackenzie (Thomas Mackenzie, 1807-1869), judge of the Court of Session, raw IA OCR of Studies in Roman Law, with comparative views of the laws of France, England, and Scotland, second edition (1865). Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Lord Mackenzie",
+ "_name_words": [
+  "mackenzie"
+ ],
+ "_surname": [
+  "lord mackenzie",
+  "mackenzie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lord-mackenzie-studies-in-roman-law-1865": [
+   "studiesinromanl02mackgoog",
+   "Studies in Roman Law, with comparative views of the laws of France, England, and Scotland, by Lord Mackenzie, second edition (Edinburgh and London: William Blackwood and Sons, 1865)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lord-mackenzie-studies-in-roman-law-1865": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lord mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

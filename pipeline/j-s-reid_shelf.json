@@ -1,0 +1,112 @@
+{
+ "_about": "James S. Reid (1846-1926), Professor of Ancient History at Cambridge: The Municipalities of the Roman Empire (Cambridge, 1913), and his Cicero editions, raw IA: M. Tulli Ciceronis Academica, the text revised and explained (London: Macmillan, 1885), and the speeches Pro Sulla (1882; 1886 issue), Pro Archia (new edition, 1889), Pro Balbo (1890) and Pro Milone (1894; stereotyped 1897), edited for schools and colleges (Cambridge University Press); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions. His translation of the Academics (1880) is on the cicero shelf (cicero-reid-academics-1880).",
+ "_author": "James Smith Reid (1846-1926)",
+ "_name_words": [
+  "reid",
+  "cicero",
+  "ciceronis",
+  "roman"
+ ],
+ "_surname": [
+  "james s. reid",
+  "j. s. reid",
+  "reid, james s"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-s-reid-municipalities-1913": [
+   "municipalitesofr00reidrich",
+   "The Municipalities of the Roman Empire (Cambridge: University Press, 1913)"
+  ],
+  "j-s-reid-academica-1885": [
+   "mtulliciceronisa00cice",
+   "M. Tulli Ciceronis Academica, the text revised and explained (London: Macmillan, 1885); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "j-s-reid-pro-sulla-1886": [
+   "mtulliciceronis02reidgoog",
+   "M. Tulli Ciceronis Pro P. Cornelio Sulla Oratio ad Iudices, edited for schools and colleges (Cambridge: University Press, 1886 issue); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "j-s-reid-pro-archia-1889": [
+   "proalicinioarchi00ciceuoft",
+   "M. Tulli Ciceronis Pro A. Licinio Archia Poeta Oratio ad Iudices, edited for schools and colleges, new edition with corrections and additions (Cambridge: University Press, 1889); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "j-s-reid-pro-balbo-1890": [
+   "prolcorneliobalb00ciceuoft",
+   "M. Tulli Ciceronis Pro L. Cornelio Balbo Oratio ad Iudices, edited for schools and colleges (Cambridge: University Press, 1890); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "j-s-reid-pro-milone-1897": [
+   "protanniomilonea00cice",
+   "M. Tulli Ciceronis Pro T. Annio Milone ad Iudices Oratio, edited for schools and colleges, stereotyped edition (Cambridge: University Press, 1897); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "j-s-reid-municipalities-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james s. reid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "j-s-reid-academica-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james s. reid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-s-reid-pro-sulla-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james s. reid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "j-s-reid-pro-archia-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james s. reid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "j-s-reid-pro-balbo-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james s. reid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "j-s-reid-pro-milone-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james s. reid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

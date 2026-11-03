@@ -1,0 +1,272 @@
+<title>Armarium Admissions</title>
+<style>
+:root{--bg:#f7f5f0;--card:#fffdf8;--ink:#1f1d1a;--mute:#6b665d;--line:#e2ddd2;--acc:#7a4b1e;
+--keep:#2f6b3a;--keepbg:#e3f0e4;--cut:#9a2f25;--cutbg:#f6e1de;--later:#7a6420;--laterbg:#f3ecd6;--chip:#efe9dd}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17161a;--card:#201f24;--ink:#ece8e1;--mute:#a19b90;--line:#36343b;--acc:#d9a46a;
+--keep:#8fd19b;--keepbg:#21352a;--cut:#f0948a;--cutbg:#3a2321;--later:#e3cb7c;--laterbg:#36301c;--chip:#2c2a31}}
+:root[data-theme="dark"]{--bg:#17161a;--card:#201f24;--ink:#ece8e1;--mute:#a19b90;--line:#36343b;--acc:#d9a46a;
+--keep:#8fd19b;--keepbg:#21352a;--cut:#f0948a;--cutbg:#3a2321;--later:#e3cb7c;--laterbg:#36301c;--chip:#2c2a31}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Georgia,"Iowan Old Style",serif}
+.wrap{max-width:900px;margin:0 auto;padding:20px 16px 80px}
+h1{font-size:26px;margin:0 0 4px}
+.sub{color:var(--mute);margin:0 0 16px}
+.sys{font-family:system-ui,-apple-system,sans-serif}
+.stats{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 12px;font-size:13px}
+.stat b{font-size:17px;display:block}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+select,input[type=search]{font:14px system-ui,sans-serif;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink)}
+input[type=search]{flex:1;min-width:160px}
+details.key{margin:10px 0;font-size:14px}
+details.key summary{cursor:pointer;color:var(--acc)}
+.key dl{display:grid;grid-template-columns:auto 1fr;gap:2px 12px;margin:8px 0}
+.key dt{font-weight:bold}
+.card{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--line);border-radius:8px;padding:12px 14px;margin:10px 0}
+.card.v-keep{border-left-color:var(--keep)}.card.v-cut{border-left-color:var(--cut)}.card.v-later{border-left-color:var(--later)}
+.hd{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:baseline}
+.nm{font-weight:bold;font-size:16px}
+.au{color:var(--mute)}
+.chip{font:12px system-ui,sans-serif;background:var(--chip);border-radius:10px;padding:1px 8px;white-space:nowrap}
+.chip.b{background:var(--acc);color:var(--card)}
+.lean{font:12px system-ui,sans-serif;padding:1px 8px;border-radius:10px}
+.lean.K{background:var(--keepbg);color:var(--keep)}.lean.C{background:var(--cutbg);color:var(--cut)}.lean.J{background:var(--laterbg);color:var(--later)}
+.case{margin:8px 0}
+.titles{font-size:13px;color:var(--mute)}
+.titles summary{cursor:pointer}
+.titles ol{margin:6px 0;padding-left:22px}
+.act{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:8px}
+button{font:13px system-ui,sans-serif;padding:6px 14px;border-radius:6px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}
+button.on.keep{background:var(--keepbg);color:var(--keep);border-color:var(--keep)}
+button.on.cut{background:var(--cutbg);color:var(--cut);border-color:var(--cut)}
+button.on.later{background:var(--laterbg);color:var(--later);border-color:var(--later)}
+.note{flex:1;min-width:180px;font:13px system-ui,sans-serif;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+.msg{font:13px system-ui,sans-serif;color:var(--mute);margin:6px 0}
+.warn{background:var(--laterbg);color:var(--later);padding:8px 12px;border-radius:6px}
+.more{display:block;margin:16px auto}
+.confirm{background:var(--card);border:1px solid var(--acc);border-radius:8px;padding:10px 12px;margin:8px 0}
+.tabs{display:flex;gap:6px;margin:8px 0 4px}
+.tabs button.cur{background:var(--acc);color:var(--card);border-color:var(--acc)}
+.brow{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--line);border-radius:8px;padding:8px 12px;margin:6px 0}
+.brow.s-held{border-left-color:var(--keep)}.brow.s-none{border-left-color:var(--cut)}.brow.s-author{border-left-color:var(--later)}
+.brow .meta{font:12px system-ui,sans-serif;color:var(--mute);margin-top:2px}
+.brow .act{margin-top:6px}
+.grp{font:600 13px system-ui,sans-serif;color:var(--acc);margin:18px 0 4px;text-transform:uppercase;letter-spacing:.04em}
+</style>
+<div class="wrap">
+<h1>Armarium Admissions</h1>
+<div class="tabs sys"><button id="tabA" class="cur">PR #38 shelves (582)</button><button id="tabB">Bloom checklist (1,518)</button><button id="tabC">Bloom additions (__NADD__)</button></div>
+<div id="secA">
+<p class="sub">Tab 1. Every shelf the Classical lane added or extended in the holding area (PR #38), with the case for it. Mark each one keep, cut or later; your marks save as you go. New work from here on is Bloom's canon only.</p>
+<div class="stats sys" id="stats"></div>
+<details class="key sys"><summary>How to read a card</summary>
+<dl>
+<dt>Tier</dt><dd>What kind of book it is (see the filter list).</dd>
+<dt>My lean</dt><dd>Keep, Cut, or Your call. A lean is only a suggestion; nothing changes until you mark it.</dd>
+<dt>Bloom chips</dt><dd>Ancient authors from Bloom's Western Canon list whose names appear in the shelf's titles. A chip means the books are about or are by that author, not that Bloom named the book.</dd>
+<dt>New / Extends</dt><dd>New = a shelf that did not exist before PR #38. Extends = volumes added to a shelf that was already in the Armarium.</dd>
+</dl></details>
+<div class="bar sys">
+<input type="search" id="q" placeholder="Search name, author, title, case">
+<select id="ft"><option value="">All tiers</option></select>
+<select id="fl"><option value="">Any lean</option><option value="K">Lean: keep</option><option value="J">Lean: your call</option><option value="C">Lean: cut</option></select>
+<select id="fv"><option value="">Any mark</option><option value="none">Unmarked</option><option value="keep">Marked keep</option><option value="cut">Marked cut</option><option value="later">Marked later</option></select>
+<select id="fb"><option value="">Bloom tie or not</option><option value="y">Has a Bloom chip</option><option value="n">No Bloom chip</option></select>
+<button id="bulk">Accept my lean for these…</button>
+</div>
+<div id="status" class="msg sys"></div>
+<div id="confirm"></div>
+<div id="list"></div>
+<button id="more" class="more sys" hidden>Show more</button>
+</div>
+<div id="secB" hidden>
+<p class="sub">Every entry in the appendix of Harold Bloom's <i>The Western Canon</i> (1994), checked against every shelf on every branch, and against Project Gutenberg's English catalogue for the gaps. Every entry now has a verdict from a hand check on 2026-11-03.</p>
+<div class="stats sys" id="bstats"></div>
+<details class="key sys"><summary>What the statuses mean</summary>
+<dl>
+<dt>Held</dt><dd>Already on a shelf (by title, inside a collected volume, or under the translator\'s shelf; checked by hand on 2026-11-03).</dd>
+<dt>Added</dt><dd>Added on 2026-11-03 under the Bloom-only ruling; see the Bloom additions tab to keep or cut it.</dd>
+<dt>Lane C / pending</dt><dd>A public-domain English text exists, but it was handed to Lane C (foreign works, Renaissance to 19th century) or still needs a better scan.</dd>
+<dt>In copyright</dt><dd>First published, or first translated into English, too late to be US public domain.</dd>
+<dt>No text</dt><dd>Public domain in principle, but no usable English text found on Gutenberg or the Internet Archive.</dd>
+<dt>Unmerged</dt><dd>Held only on a branch that is not merged yet.</dd>
+<dt>On Gutenberg</dt><dd>An English edition is on Project Gutenberg, which only hosts US public-domain books, so this one is easy to add. A gap with no Gutenberg match from the 20th century is most likely still in copyright in the US (the line is publication before 1931).</dd>
+</dl></details>
+<div class="bar sys">
+<input type="search" id="bq" placeholder="Search author or title">
+<select id="bg"><option value="">All four ages</option><option value="A">Theocratic Age (to Dante)</option><option value="B">Aristocratic Age (Dante to Goethe)</option><option value="C">Democratic Age (19th century)</option><option value="D">Chaotic Age (20th century)</option></select>
+<select id="bs"><option value="">Any status</option><option value="held">Held</option><option value="added">Added 2026-11-03</option><option value="deferred">Lane C / pending</option><option value="notpd">In copyright</option><option value="nosource">No text</option><option value="unmerged">Unmerged</option></select>
+
+</div>
+<div id="blist"></div>
+<button id="bmore" class="more sys" hidden>Show more</button>
+</div>
+<div id="secC" hidden>
+<p class="sub">Every book added on 2026-11-03 under the Bloom-only ruling, plus the 16 candidates Lane C staged. Each is on Bloom's list and US public domain; the case says which edition and why. Mark keep, cut or later; your marks save as you go.</p>
+<div class="stats sys" id="cstats"></div>
+<div class="bar sys">
+<input type="search" id="cq" placeholder="Search author, title, case">
+<select id="cs"><option value="">Shelved and staged</option><option value="b">Shelved by Lane B</option><option value="c">Staged by Lane C</option></select>
+<select id="cm"><option value="">Any mark</option><option value="none">Unmarked</option><option value="keep">Marked keep</option><option value="cut">Marked cut</option><option value="later">Marked later</option></select>
+</div>
+<div id="clist"></div>
+<button id="cmore" class="more sys" hidden>Show more</button>
+</div>
+</div>
+<script>
+const D=__DATA__;
+const BL=__BLOOM__;
+const AD=__ADDS__;
+const TIERS={P:"Primary canon text",U:"Clean text / missing volumes of a held work",C:"Commentary or edition of a canon work",L:"Landmark scholarship",R:"Reading tool (grammar, lexicon, reference)",S:"Survey or history",A:"Archaeology, art, topography",X:"Specialist or minor",O:"Outside classics"};
+const LEAN={K:"Lean: keep",J:"Lean: your call",C:"Lean: cut"};
+const LEAN2V={K:"keep",C:"cut",J:"later"};
+const V={};let db=null,canWrite=false,shown=60;
+const $=id=>document.getElementById(id);
+for(const[k,v]of Object.entries(TIERS)){const n=D.filter(d=>d.tier===k).length;const o=document.createElement('option');o.value=k;o.textContent=v+" ("+n+")";$('ft').append(o)}
+function filtered(){
+  const q=$('q').value.trim().toLowerCase(),t=$('ft').value,l=$('fl').value,v=$('fv').value,b=$('fb').value;
+  return D.filter(d=>{
+    if(t&&d.tier!==t)return false;if(l&&d.lean!==l)return false;
+    const m=V[d.s]?.verdict;if(v==='none'&&m)return false;if(v&&v!=='none'&&m!==v)return false;
+    if(b==='y'&&!d.ties.length)return false;if(b==='n'&&d.ties.length)return false;
+    if(q){const h=(d.s+" "+d.a+" "+d.c+" "+d.t.join(" ")).toLowerCase();if(!h.includes(q))return false}
+    return true});
+}
+function stats(){
+  const c={keep:0,cut:0,later:0};for(const d of D){const m=V[d.s]?.verdict;if(m)c[m]++}
+  const done=c.keep+c.cut+c.later;
+  $('stats').innerHTML="";
+  [["Shelves",D.length],["Volumes",D.reduce((a,d)=>a+d.v,0)],["Marked",done+" / "+D.length],["Keep",c.keep],["Cut",c.cut],["Later",c.later]].forEach(([k,v])=>{
+    const e=document.createElement('div');e.className='stat';const b=document.createElement('b');b.textContent=v;e.append(b,k);$('stats').append(e)});
+}
+function el(tag,cls,txt){const e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e}
+function card(d){
+  const m=V[d.s]||{};const c=el('div','card'+(m.verdict?' v-'+m.verdict:''));
+  const hd=el('div','hd');hd.append(el('span','nm',d.s));if(d.a)hd.append(el('span','au',d.a));
+  hd.append(el('span','chip',d.n?"New":"Extends"),el('span','chip',d.v+(d.v===1?" vol":" vols")),el('span','chip',TIERS[d.tier]),el('span','lean '+d.lean,LEAN[d.lean]));
+  d.ties.forEach(t=>hd.append(el('span','chip b',t)));
+  c.append(hd,el('div','case',d.c));
+  const ti=el('details','titles sys');ti.append(el('summary',null,"Titles ("+d.t.length+")"));const ol=el('ol');d.t.forEach(t=>ol.append(el('li',null,t)));ti.append(ol);c.append(ti);
+  const act=el('div','act');
+  ["keep","cut","later"].forEach(k=>{const b=el('button',k+(m.verdict===k?' on':''),k[0].toUpperCase()+k.slice(1));b.disabled=!canWrite;b.onclick=()=>save(d.s,m.verdict===k?null:k,m.note||"");act.append(b)});
+  const n=el('input','note');n.placeholder="Note (optional)";n.value=m.note||"";n.disabled=!canWrite;
+  n.onblur=()=>{if((m.note||"")!==n.value)save(d.s,m.verdict||null,n.value)};act.append(n);c.append(act);
+  return c;
+}
+function render(){
+  stats();const f=filtered();$('list').innerHTML="";
+  f.slice(0,shown).forEach(d=>$('list').append(card(d)));
+  $('more').hidden=f.length<=shown;$('more').textContent="Show more ("+(f.length-shown)+" left)";
+  $('bulk').textContent="Accept my lean for these "+f.filter(d=>!V[d.s]?.verdict).length+" unmarked…";$('bulk').disabled=!canWrite;
+}
+async function save(s,verdict,note){
+  if(!db)return;
+  const prev=V[s];V[s]={verdict,note,at:new Date().toISOString()};render();
+  try{
+    if(!verdict&&!note)await db.collection("verdicts").doc(s).delete();
+    else await db.collection("verdicts").doc(s).set({verdict:verdict||null,note:note||"",at:V[s].at});
+  }catch(e){V[s]=prev;render();$('status').textContent="Could not save "+s+": "+(e.message||e.code||e)}
+}
+let rt;["q","ft","fl","fv","fb"].forEach(i=>$(i).addEventListener('input',()=>{shown=60;clearTimeout(rt);rt=setTimeout(render,120)}));
+$('more').onclick=()=>{shown+=60;render()};
+$('bulk').onclick=()=>{
+  const f=filtered().filter(d=>!V[d.s]?.verdict);if(!f.length)return;
+  const box=$('confirm');box.innerHTML="";const w=el('div','confirm sys');
+  w.append(el('div',null,"Mark "+f.length+" unmarked shelves with my lean (keep, cut, or later for 'your call')? You can change any of them after."));
+  const y=el('button','keep on',"Yes, mark them"),n=el('button',null,"Cancel");
+  y.onclick=async()=>{box.innerHTML="";for(const d of f){await save(d.s,LEAN2V[d.lean],V[d.s]?.note||"")}};
+  n.onclick=()=>{box.innerHTML=""};w.append(y,n);box.append(w);
+};
+const AGES={A:"The Theocratic Age",B:"The Aristocratic Age",C:"The Democratic Age",D:"The Chaotic Age"};
+const SL={held:"Held",added:"Added",deferred:"Lane C / pending",notpd:"In copyright",nosource:"No text",branch:"Unmerged",pr38:"Unmerged (PR #38)",author:"Check",none:"Not held"};
+const BV={};let bshown=80;
+function bfil(){
+  const q=$('bq').value.trim().toLowerCase(),g=$('bg').value,s=$('bs').value;
+  return BL.filter(x=>{
+    if(g&&x.g!==g)return false;
+    if(s==='unmerged'&&!(x.s==='branch'||x.s==='pr38'))return false;
+    if(s&&s!=='unmerged'&&x.s!==s)return false;
+        if(q&&!(x.a+" "+x.t+" "+x.r).toLowerCase().includes(q))return false;return true});
+}
+function bstats(){
+  const c={};BL.forEach(x=>{c[x.s]=(c[x.s]||0)+1});
+
+  const m={get:0,skip:0,later:0};Object.values(BV).forEach(v=>{if(m[v.mark]!=null)m[v.mark]++});
+  $('bstats').innerHTML="";
+  [["Entries",BL.length],["Held",c.held||0],["Added",c.added||0],["Lane C / pending",c.deferred||0],["In copyright",c.notpd||0],["No text",c.nosource||0]].forEach(([k,v])=>{
+    const e=document.createElement('div');e.className='stat';const b=document.createElement('b');b.textContent=v;e.append(b,k);$('bstats').append(e)});
+}
+function brow(x){
+  const id="b"+x.i,mk=BV[id]||{};const r=el('div','brow s-'+(x.s==='pr38'?'branch':x.s));
+  const hd=el('div','hd');hd.append(el('span','nm',x.a));if(x.t)hd.append(el('span',null,x.t));
+  hd.append(el('span','lean '+(x.s==='held'||x.s==='added'?'K':x.s==='notpd'||x.s==='nosource'?'C':'J'),SL[x.s]));
+  r.append(hd);
+  const meta=[x.r];if(x.h&&x.h.length)meta.push("Shelves: "+x.h.join(", "));if(x.why)meta.push(x.why);
+  r.append(el('div','meta',meta.join(" — ")));
+  if(false){
+    const act=el('div','act');
+    ["get","skip","later"].forEach(k=>{const cls={get:'keep',skip:'cut',later:'later'}[k];const b=el('button',cls+(mk.mark===k?' on':''),k[0].toUpperCase()+k.slice(1));b.disabled=!canWrite;b.onclick=()=>bsave(id,mk.mark===k?null:k,mk.note||"");act.append(b)});
+    const n=el('input','note');n.placeholder="Note (optional)";n.value=mk.note||"";n.disabled=!canWrite;n.onblur=()=>{if((mk.note||"")!==n.value)bsave(id,mk.mark||null,n.value)};act.append(n);r.append(act);
+  }
+  return r;
+}
+function brender(){
+  bstats();const f=bfil();$('blist').innerHTML="";let last="";
+  f.slice(0,bshown).forEach(x=>{const g=AGES[x.g]+" · "+x.r;if(g!==last){$('blist').append(el('div','grp',g));last=g}$('blist').append(brow(x))});
+  $('bmore').hidden=f.length<=bshown;$('bmore').textContent="Show more ("+(f.length-bshown)+" left)";
+}
+async function bsave(id,mark,note){
+  if(!db)return;const prev=BV[id];BV[id]={mark,note,at:new Date().toISOString()};brender();
+  try{if(!mark&&!note)await db.collection("bloom").doc(id).delete();else{const x=BL[+id.slice(1)];await db.collection("bloom").doc(id).set({mark:mark||null,note:note||"",author:x.a,title:x.t,at:BV[id].at})}}
+  catch(e){BV[id]=prev;brender();$('status').textContent="Could not save: "+(e.message||e.code||e)}
+}
+let brt;["bq","bg","bs"].forEach(i=>$(i).addEventListener('input',()=>{bshown=80;clearTimeout(brt);brt=setTimeout(brender,120)}));
+$('bmore').onclick=()=>{bshown+=80;brender()};
+
+const CV={};let cshown=60;const cid=x=>x.id.replace(/\//g,":");
+function cfil(){const q=$('cq').value.trim().toLowerCase(),s=$('cs').value,m=$('cm').value;
+  return AD.filter(x=>{if(s==='b'&&x.lc)return false;if(s==='c'&&!x.lc)return false;const mk=CV[cid(x)]?.verdict;if(m==='none'&&mk)return false;if(m&&m!=='none'&&mk!==m)return false;
+  if(q&&!(x.author+" "+x.title+" "+x.case+" "+x.bt).toLowerCase().includes(q))return false;return true})}
+function cstats(){const m={keep:0,cut:0,later:0};Object.values(CV).forEach(v=>{if(m[v.verdict]!=null)m[v.verdict]++});$('cstats').innerHTML="";
+  [["Books",AD.length],["Shelved (Lane B)",AD.filter(x=>!x.lc).length],["Staged (Lane C)",AD.filter(x=>x.lc).length],["Keep",m.keep],["Cut",m.cut],["Later",m.later]].forEach(([k,v])=>{const e=document.createElement('div');e.className='stat';const b=document.createElement('b');b.textContent=v;e.append(b,k);$('cstats').append(e)})}
+function ccard(x){const id=cid(x),mk=CV[id]||{};const c=el('div','card'+(mk.verdict?' v-'+mk.verdict:''));const hd=el('div','hd');
+  hd.append(el('span','nm',x.title.length>90?x.title.slice(0,90)+"…":x.title),el('span','au',x.author));
+  hd.append(el('span','chip',x.src),el('span','chip',x.lc?"Lane C staged":(x.new?"New shelf: ":"On shelf: ")+x.shelf));if(x.lc)hd.append(el('span','lean J',"Lane C lean: "+x.lc));
+  c.append(hd);if(x.bt)c.append(el('div','meta',"Bloom lists: "+x.bt));c.append(el('div','case',x.case||"(no case written)"));
+  const meta=[];if(x.tr)meta.push("Translator: "+x.tr);if(x.year)meta.push(x.year);if(x.note)meta.push(x.note);if(meta.length)c.append(el('div','meta',meta.join(" — ")));
+  const act=el('div','act');["keep","cut","later"].forEach(k=>{const b=el('button',k+(mk.verdict===k?' on':''),k[0].toUpperCase()+k.slice(1));b.disabled=!canWrite;b.onclick=()=>csave(id,mk.verdict===k?null:k,mk.note||"",x);act.append(b)});
+  const n=el('input','note');n.placeholder="Note (optional)";n.value=mk.note||"";n.disabled=!canWrite;n.onblur=()=>{if((mk.note||"")!==n.value)csave(id,mk.verdict||null,n.value,x)};act.append(n);c.append(act);return c}
+function crender(){cstats();const f=cfil();$('clist').innerHTML="";let last="";f.slice(0,cshown).forEach(x=>{if(x.author!==last){$('clist').append(el('div','grp',x.author));last=x.author}$('clist').append(ccard(x))});
+  $('cmore').hidden=f.length<=cshown;$('cmore').textContent="Show more ("+(f.length-cshown)+" left)"}
+async function csave(id,verdict,note,x){if(!db)return;const prev=CV[id];CV[id]={verdict,note,at:new Date().toISOString()};crender();
+  try{if(!verdict&&!note)await db.collection("adds").doc(id).delete();else await db.collection("adds").doc(id).set({verdict:verdict||null,note:note||"",shelf:x.shelf,slug:x.slug,title:x.title,at:CV[id].at})}
+  catch(e){CV[id]=prev;crender();$('status').textContent="Could not save: "+(e.message||e.code||e)}}
+let crt;["cq","cs","cm"].forEach(i=>$(i).addEventListener('input',()=>{cshown=60;clearTimeout(crt);crt=setTimeout(crender,120)}));
+$('cmore').onclick=()=>{cshown+=60;crender()};
+function tab(w){["A","B","C"].forEach(k=>{$('sec'+k).hidden=(k!==w);$('tab'+k).classList.toggle('cur',k===w)});try{localStorage.setItem('tab',w)}catch(e){}if(w==='B')brender();if(w==='C')crender()}
+$('tabA').onclick=()=>tab('A');$('tabB').onclick=()=>tab('B');$('tabC').onclick=()=>tab('C');
+try{const s=localStorage.getItem('tab');if(s==='B'||s==='C')tab(s)}catch(e){}
+render();
+(async()=>{
+  try{db=await claude.use("db")}catch(e){db=null}
+  if(!db){$('status').innerHTML="";$('status').append(el('div','warn',"Marks can't be saved in this view (signed out, or the page is open outside claude.ai). You can still read every case."));return}
+  try{const u=await claude.use("user");const w=u?await u.can("data.write"):null;canWrite=w!==false}catch(e){canWrite=true}
+  if(!canWrite)$('status').append(el('div','warn',"You can read these cases but not mark them."));
+  db.collection("verdicts").onSnapshot(snap=>{
+    for(const k in V)delete V[k];
+    (snap.docs||[]).forEach(doc=>{const x=doc.data?doc.data():doc.data;if(x)V[doc.id]=x});
+    render();
+  },err=>{$('status').textContent="Lost the connection to saved marks: "+(err.message||err.code||err)});
+  db.collection("bloom").onSnapshot(snap=>{
+    for(const k in BV)delete BV[k];
+    (snap.docs||[]).forEach(doc=>{const x=doc.data();if(x)BV[doc.id]=x});
+    if(!$('secB').hidden)brender();
+  },err=>{$('status').textContent="Lost the connection to saved marks: "+(err.message||err.code||err)});
+  db.collection("adds").onSnapshot(snap=>{
+    for(const k in CV)delete CV[k];
+    (snap.docs||[]).forEach(doc=>{const x=doc.data();if(x)CV[doc.id]=x});
+    if(!$('secC').hidden)crender();
+  },err=>{$('status').textContent="Lost the connection to saved marks: "+(err.message||err.code||err)});
+  render();if(!$('secB').hidden)brender();if(!$('secC').hidden)crender();
+})();
+</script>

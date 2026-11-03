@@ -1,0 +1,60 @@
+{
+ "_about": "Joseph B. Mayor (1828-1916), Professor of Classics and of Moral Philosophy at King's College London: A Sketch of Ancient Philosophy from Thales to Cicero (1881) and A Guide to the Choice of Classical Books (1874). His Greek commentaries on James, Jude and 2 Peter are left for lane A. Classical scholarship (lane B, round db). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Joseph Bickersteth Mayor (1828-1916)",
+ "_name_words": [
+  "mayor",
+  "ancient",
+  "philosophy",
+  "thales",
+  "cicero",
+  "classical",
+  "books"
+ ],
+ "_surname": [
+  "joseph b. mayor",
+  "j. b. mayor",
+  "joseph bickersteth mayor"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mayor-sketch-ancient-philosophy-1881": [
+   "sketchofancientp00mayouoft",
+   "A Sketch of Ancient Philosophy from Thales to Cicero (Pitt Press, 1st ed. 1881; IA dates this copy 1885)"
+  ],
+  "mayor-guide-choice-classical-books-1874": [
+   "guidetochoicecl00mayogoog",
+   "A Guide to the Choice of Classical Books (1874)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mayor-sketch-ancient-philosophy-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph b. mayor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayor-guide-choice-classical-books-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "mayor-guide-choice-classical-books-1874": {
+   "author": "title page read 2026-10-23: OCR gives 'BY JOSEPH BICKEBSTETH MATOB, M.A., PROFESSOR OF CLASSICAL LITERATURE AT KING'S COLLEGE' (George Bell, 1874), i.e. Joseph Bickersteth Mayor"
+  }
+ }
+}

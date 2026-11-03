@@ -1,0 +1,33 @@
+{
+ "_about": "Timothy Corcoran, S.J. (1872-1943), Professor of Education at University College Dublin, raw IA OCR of Studies in the History of Classical Teaching, Irish and Continental, 1500-1700 (1911). Latin and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "T. Corcoran",
+ "_name_words": [
+  "corcoran"
+ ],
+ "_surname": [
+  "t. corcoran",
+  "corcoran"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "timothy-corcoran-history-of-classical-teaching-1911": [
+   "studiesinhistory00corcrich",
+   "Studies in the History of Classical Teaching, Irish and Continental, 1500-1700, by the Rev. T. Corcoran, S.J. (London, Bombay and Calcutta: Longmans, Green and Co., 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "timothy-corcoran-history-of-classical-teaching-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. corcoran",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

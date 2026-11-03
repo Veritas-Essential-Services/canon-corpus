@@ -1,0 +1,35 @@
+{
+ "_about": "Edward Foord: The Byzantine Empire, the Rearguard of European Civilization (London: Black, 1911). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Edward A. Foord",
+ "_name_words": [
+  "foord",
+  "edward",
+  "byzantine",
+  "empire"
+ ],
+ "_surname": [
+  "foord"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "foord-byzantine-empire-1911": [
+   "cu31924085212151",
+   "The Byzantine Empire: the Rearguard of European Civilization (1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "foord-byzantine-empire-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "foord",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

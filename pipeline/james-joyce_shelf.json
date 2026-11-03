@@ -1,0 +1,66 @@
+{
+ "_about": "James Joyce. Bloom's Western Canon (1994) lists: Dubliners; Ulysses. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "James Joyce",
+ "_name_words": [
+  "james",
+  "joyce"
+ ],
+ "_surname": [
+  "joyce",
+  "james joyce"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "joyce-dubliners": [
+   2814,
+   "Dubliners"
+  ],
+  "joyce-ulysses": [
+   4300,
+   "Ulysses"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "joyce-dubliners": {
+   "bloom_n": [
+    918
+   ],
+   "bloom_title": "Dubliners",
+   "year": "unread",
+   "evidence": "PG catalogue/header",
+   "case": "Bloom lists Dubliners (1914). PG text.",
+   "note": ""
+  },
+  "joyce-ulysses": {
+   "bloom_n": [
+    920
+   ],
+   "bloom_title": "Ulysses",
+   "year": "unread",
+   "evidence": "PG catalogue/header",
+   "case": "Bloom lists Ulysses (1922). PG text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "joyce-dubliners": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "joyce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joyce-ulysses": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "joyce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

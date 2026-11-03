@@ -1,0 +1,32 @@
+{
+ "_about": "Clarence Hoffman Young (1866-1925), Columbia, raw IA OCR of his dissertation on the Attic deme Erchia (1891).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Clarence H. Young",
+ "_name_words": [
+  "young"
+ ],
+ "_surname": [
+  "clarence h. young"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "clarence-h-young-erchia-a-deme-of-attica-1891": [
+   "erchiademeofatti00youn",
+   "Erchia, a Deme of Attica: a dissertation (Columbia College), by Clarence H. Young (New York: E. and J. B. Young and Co.; IA catalogues 1891)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "clarence-h-young-erchia-a-deme-of-attica-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clarence h. young",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

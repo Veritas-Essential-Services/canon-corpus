@@ -1,5 +1,5 @@
 {
- "_about": "Edward Augustus Freeman (1823-1892), Regius Professor of Modern History at Oxford: History of Federal Government in Greece and Italy, second edition edited by J. B. Bury (London: Macmillan), raw IA OCR, and Studies of Travel: Greece, clean Gutenberg. The federal-government title page year reads '1883' in the OCR; Bury's second edition is catalogued by IA as 1893, so the OCR likely misreads it (an inference). Also The History of Sicily from the Earliest Times, 4 vols. (Clarendon Press, 1891-1894), raw IA OCR; vol. IV was edited from his posthumous papers by Arthur J. Evans (died 1941). His English medieval histories are outside the classical brief. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Edward Augustus Freeman (1823-1892), Regius Professor of Modern History at Oxford: History of Federal Government in Greece and Italy, second edition edited by J. B. Bury (London: Macmillan), raw IA OCR, and Studies of Travel: Greece, clean Gutenberg. The federal-government title page year reads '1883' in the OCR; Bury's second edition is catalogued by IA as 1893, so the OCR likely misreads it (an inference). Also The History of Sicily from the Earliest Times, 4 vols. (Clarendon Press, 1891-1894), raw IA OCR; vol. IV was edited from his posthumous papers by Arthur J. Evans (died 1941). His English medieval histories are outside the classical brief. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round dx (2026-10-23) added, raw IA OCR with title pages read: Historical Essays, second series (Macmillan, 1873), his essays on Greek and Roman history; Greater Greece and Greater Britain, and George Washington the Expander of England (Macmillan, 1886). His English and medieval histories are outside lane B's brief.",
  "_name_words": [
   "freeman"
  ],
@@ -36,12 +36,20 @@
   "e-a-freeman-sicily-v4-1894": [
    "historyofsicilyf04free",
    "The History of Sicily from the Earliest Times, vol. IV, edited from posthumous MSS. by Arthur J. Evans (Oxford: Clarendon Press, 1894)"
+  ],
+  "e-a-freeman-historical-essays-2-1873": [
+   "historicalessay01freegoog",
+   "Historical Essays, second series, by Edward A. Freeman (London: Macmillan, 1873); essays on Greek and Roman history, including The Historians of Athens and Alexander the Great"
+  ],
+  "e-a-freeman-greater-greece-1886": [
+   "greatergreecegre00freeuoft",
+   "Greater Greece and Greater Britain, and George Washington the Expander of England, by Edward A. Freeman (London: Macmillan, 1886)"
   ]
  },
  "_checks": {
   "e-a-freeman-studies-travel-greece": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edward a. freeman",
    "identity": "ok",
@@ -50,7 +58,7 @@
   },
   "e-a-freeman-federal-government-1893": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edward a. freeman",
    "identity": "ok",
@@ -61,7 +69,7 @@
   },
   "e-a-freeman-sicily-v1-1891": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -72,7 +80,7 @@
   },
   "e-a-freeman-sicily-v2-1891": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edward a. freeman",
    "identity": "ok",
@@ -83,7 +91,7 @@
   },
   "e-a-freeman-sicily-v3-1892": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -94,13 +102,35 @@
   },
   "e-a-freeman-sicily-v4-1894": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edward a. freeman",
    "identity": "ok",
    "ia_rights": "ok: published 1891",
    "ia_date": "1891",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "e-a-freeman-historical-essays-2-1873": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward a. freeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "e-a-freeman-greater-greece-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward a. freeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

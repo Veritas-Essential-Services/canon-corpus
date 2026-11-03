@@ -1,0 +1,32 @@
+{
+ "_about": "Philip Schuyler Allen, Professor of German at Chicago, raw IA OCR of The Romanesque Lyric (1928), with English verse renderings by Howard Mumford Jones; published before 1930, so US public domain. Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Philip Schuyler Allen",
+ "_name_words": [
+  "allen"
+ ],
+ "_surname": [
+  "philip schuyler allen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "philip-schuyler-allen-romanesque-lyric-1928": [
+   "romanesquelyrics00alle",
+   "The Romanesque Lyric: studies in its background and development from Petronius to the Cambridge Songs, 50-1050, by Philip Schuyler Allen, with renderings into English verse by Howard Mumford Jones (Chapel Hill: University of North Carolina Press, 1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "philip-schuyler-allen-romanesque-lyric-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip schuyler allen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

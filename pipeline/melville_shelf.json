@@ -1,5 +1,5 @@
 {
- "_about": "Herman Melville's novels, tales and poems: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_about": "Herman Melville's novels, tales and poems: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated. Bloom addition 2026-11-03 (Bloom's Western Canon): melville-clarel.",
  "_author": "Herman Melville",
  "_name_words": [
   "melville"
@@ -96,7 +96,12 @@
    "Billy Budd"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "melville-clarel": [
+   "clarelpoempilgri0001herm",
+   "Clarel: a poem and pilgrimage in the Holy Land, vol. I (Works of Herman Melville, Standard Edition, vol. XIV)"
+  ]
+ },
  "_excluded": {
   "pg-58477": "PG 58477: Gutenberg's index of the author's works, not a book.",
   "repeat-editions": "PG 2489: second Gutenberg editions of titles already on the shelf.",
@@ -106,7 +111,7 @@
  "_checks": {
   "melville-i-and-my-chimney": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -115,7 +120,7 @@
   },
   "melville-omoo": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -124,7 +129,7 @@
   },
   "melville-redburn-his-first-voyage-being-the-sailor-boy-confe": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -133,7 +138,7 @@
   },
   "melville-white-jacket": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -142,7 +147,7 @@
   },
   "melville-bartleby-the-scrivener": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -151,7 +156,7 @@
   },
   "melville-battle-pieces-and-aspects-of-the-war": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -160,7 +165,7 @@
   },
   "melville-john-marr-and-other-poems": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -169,7 +174,7 @@
   },
   "melville-mardi-and-a-voyage-thither-vol-1-of-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -178,7 +183,7 @@
   },
   "melville-mardi-and-a-voyage-thither-vol-2-of-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -187,7 +192,7 @@
   },
   "melville-israel-potter": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -196,7 +201,7 @@
   },
   "melville-piazza-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -205,7 +210,7 @@
   },
   "melville-confidence-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -214,7 +219,7 @@
   },
   "melville-typee": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -223,7 +228,7 @@
   },
   "melville-pierre": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -232,7 +237,7 @@
   },
   "melville-apple-tree-table-and-other-sketches": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
@@ -241,12 +246,35 @@
   },
   "melville-billy-budd": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "herman melville",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "melville-clarel": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "melville-clarel": {
+   "bloom_n": [
+    633
+   ],
+   "bloom_title": "Clarel",
+   "year": "1924 (title page: London, Constable, 1924)",
+   "evidence": "djvu title page read; notes 'CLAREL was first published in 1876 (New York: G. P. Putnam's Sons)'; collection internetarchivebooks",
+   "case": "Clarel isn't on PG. The 1924 Constable Standard Edition reprints the 1876 text in two volumes on IA.",
+   "note": "No scan of the 1876 Putnam first was found."
   }
  }
 }

@@ -1,0 +1,49 @@
+{
+ "_about": "Henry Jackson (1839-1921), Fellow of Trinity and Regius Professor of Greek at Cambridge, raw IA OCR: The Fifth Book of the Nicomachean Ethics of Aristotle, edited with translation and notes (Cambridge: University Press, 1879); Texts to illustrate a course of elementary lectures on the history of Greek philosophy from Thales to Aristotle (Macmillan, 1901; the OCR reads the year as 'IQOI', dedication dated 31 July 1901), a Greek source-book with little English, kept per Adam's 2026-10-23 Greek ruling for the later Greek re-OCR. Classical scholarship (lane B, round dv). No uids minted.",
+ "_author": "Henry Jackson (1839-1921)",
+ "_name_words": [
+  "jackson"
+ ],
+ "_surname": [
+  "henry jackson",
+  "h. jackson",
+  "jackson, henry"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henry-jackson-nicomachean-ethics-v-1879": [
+   "thefifthbookofth00arisuoft",
+   "The Fifth Book of the Nicomachean Ethics of Aristotle, edited for the Syndics of the University Press by Henry Jackson (Cambridge: University Press; London: Cambridge Warehouse; Cambridge: Deighton, Bell, 1879)"
+  ],
+  "henry-jackson-texts-greek-philosophy-1901": [
+   "textstoillustra00jackgoog",
+   "Texts to illustrate a course of elementary lectures on the history of Greek philosophy from Thales to Aristotle, by Henry Jackson (London: Macmillan; New York: Macmillan, 1901; the OCR reads the year as 'IQOI'); Greek-dense, kept for the later Greek re-OCR"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "henry-jackson-nicomachean-ethics-v-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry jackson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henry-jackson-texts-greek-philosophy-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry jackson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

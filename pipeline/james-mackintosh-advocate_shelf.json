@@ -1,0 +1,38 @@
+{
+ "_about": "James Mackintosh, Edinburgh advocate, raw IA OCR of The Roman Law of Sale (Digest XVIII.1 and XIX.1, translated with notes, 1892); not Sir James Mackintosh, whose shelf is james-mackintosh. Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "James Mackintosh (advocate)",
+ "_name_words": [
+  "mackintosh"
+ ],
+ "_surname": [
+  "james mackintosh"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "james-mackintosh-advocate-roman-law-of-sale-1892": [
+   "romanlawofsalewi00justuoft",
+   "The Roman Law of Sale, with modern illustrations: Digest XVIII. 1 and XIX. 1, translated with notes and references to cases by James Mackintosh (Edinburgh: T. & T. Clark, 1892)",
+   "tr. James Mackintosh"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "james-mackintosh-advocate-roman-law-of-sale-1892": "James Mackintosh"
+ },
+ "_checks": {
+  "james-mackintosh-advocate-roman-law-of-sale-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james mackintosh",
+   "translator_claimed": "James Mackintosh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

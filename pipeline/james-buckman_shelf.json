@@ -1,0 +1,33 @@
+{
+ "_about": "James Buckman (1814-1884), geologist and antiquary, raw IA OCR of the Buckman-Newmarch Remains of Roman Art in Cirencester (1850).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "James Buckman",
+ "_name_words": [
+  "buckman"
+ ],
+ "_surname": [
+  "professor buckman",
+  "buckman"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "james-buckman-newmarch-remains-of-roman-art-cirencester-1850": [
+   "illustrationsofr00buck",
+   "Illustrations of the Remains of Roman Art in Cirencester, the site of antient Corinium, by Professor Buckman and C. H. Newmarch (London: George Bell; Cirencester: Baily and Jones, 1850)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "james-buckman-newmarch-remains-of-roman-art-cirencester-1850": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "professor buckman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

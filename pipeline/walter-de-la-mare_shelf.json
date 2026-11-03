@@ -1,0 +1,68 @@
+{
+ "_about": "Walter De la Mare. Bloom's Western Canon (1994) lists: Collected Poems; Memoirs of a Midget. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Walter De la Mare",
+ "_name_words": [
+  "walter",
+  "de",
+  "la",
+  "mare"
+ ],
+ "_surname": [
+  "mare",
+  "walter de la mare"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mare-collected-poems-1901-1918": [
+   12031,
+   "Collected Poems 1901-1918 in Two Volumes. Volume I."
+  ],
+  "mare-memoirs-midget": [
+   39122,
+   "Memoirs of a Midget"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "mare-collected-poems-1901-1918": {
+   "bloom_n": [
+    893
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1920 (PG text)",
+   "evidence": "PG header read",
+   "case": "Bloom lists de la Mare's Collected Poems. The 1920 Collected Poems 1901-1918 is US-PD and on PG.",
+   "note": "The Veil (1921, PG 52366) postdates the collection and is also PD; anything after 1930 is not."
+  },
+  "mare-memoirs-midget": {
+   "bloom_n": [
+    894
+   ],
+   "bloom_title": "Memoirs of a Midget",
+   "year": "1922 (PG text: 'Copyright, 1922 ... Published, January, 1922')",
+   "evidence": "PG header read; full novel (870 KB); PG's '[Adapter]' role tag is a cataloguing slip.",
+   "case": "Bloom lists Memoirs of a Midget (1921). PG text of the 1922 Knopf edition.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "mare-collected-poems-1901-1918": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "mare",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mare-memoirs-midget": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "mare",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

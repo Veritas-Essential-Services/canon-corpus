@@ -1,0 +1,66 @@
+{
+ "_about": "William Hazlitt. Bloom's Western Canon (1994) lists: Essays and Criticism. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Hazlitt",
+ "_name_words": [
+  "william",
+  "hazlitt"
+ ],
+ "_surname": [
+  "hazlitt",
+  "william hazlitt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hazlitt-table-talk": [
+   3020,
+   "Table Talk: Essays on Men and Manners"
+  ],
+  "hazlitt-spirit-age": [
+   11068,
+   "The Spirit of the Age; Or, Contemporary Portraits"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "hazlitt-table-talk": {
+   "bloom_n": [
+    425
+   ],
+   "bloom_title": "Essays and Criticism",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Bloom lists Hazlitt's essays and criticism generically; no Hazlitt shelf exists (only his translations of Luther's Table-Talk and Montaigne). The Waller-Glover Collected Works (12 vols) on PG is the complete edition; Table Talk and The Spirit of the Age are the core if one volume is wanted.",
+   "note": "Pick one: the full 12-volume set, or Table Talk + Spirit of the Age + Characters of Shakespeare's Plays (PG 5085) + Lectures on the English Poets (PG 16209)."
+  },
+  "hazlitt-spirit-age": {
+   "bloom_n": [
+    425
+   ],
+   "bloom_title": "Essays and Criticism",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "Bloom lists Hazlitt's essays and criticism generically; no Hazlitt shelf exists (only his translations of Luther's Table-Talk and Montaigne). The Waller-Glover Collected Works (12 vols) on PG is the complete edition; Table Talk and The Spirit of the Age are the core if one volume is wanted.",
+   "note": "Pick one: the full 12-volume set, or Table Talk + Spirit of the Age + Characters of Shakespeare's Plays (PG 5085) + Lectures on the English Poets (PG 16209)."
+  }
+ },
+ "_checks": {
+  "hazlitt-table-talk": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hazlitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hazlitt-spirit-age": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hazlitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

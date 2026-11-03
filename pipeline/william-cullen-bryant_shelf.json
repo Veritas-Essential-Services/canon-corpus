@@ -1,0 +1,44 @@
+{
+ "_about": "William Cullen Bryant. Bloom's Western Canon (1994) lists: Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Cullen Bryant",
+ "_name_words": [
+  "william",
+  "cullen",
+  "bryant"
+ ],
+ "_surname": [
+  "bryant",
+  "william cullen bryant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bryant-poetical-works": [
+   29700,
+   "Poetical Works of William Cullen Bryant, Household Edition"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "bryant-poetical-works": {
+   "bloom_n": [
+    611
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1880 (title page in PG text; copyright entries 1854, 1871)",
+   "evidence": "PG title page read",
+   "case": "Bryant's collected Household Edition, revised in his lifetime, is on PG and isn't held.",
+   "note": "Alternative: PG 16341 'Poems by William Cullen Bryant' (imprint unread)."
+  }
+ },
+ "_checks": {
+  "bryant-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bryant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

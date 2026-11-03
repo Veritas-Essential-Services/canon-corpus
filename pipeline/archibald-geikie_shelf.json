@@ -1,0 +1,33 @@
+{
+ "_about": "Sir Archibald Geikie (1835-1924), the geologist, raw IA OCR of The Love of Nature among the Romans during the Later Decades of the Republic and the First Century of the Empire (London: John Murray, 1912). Taken for its classical subject; his geological works are outside lane B's brief. Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_author": "Archibald Geikie (1835-1924)",
+ "_name_words": [
+  "geikie"
+ ],
+ "_surname": [
+  "archibald geikie",
+  "sir archibald geikie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "archibald-geikie-love-of-nature-among-the-romans-1912": [
+   "loveofnatureamon00geikuoft",
+   "The Love of Nature among the Romans during the Later Decades of the Republic and the First Century of the Empire, by Sir Archibald Geikie (London: John Murray, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "archibald-geikie-love-of-nature-among-the-romans-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

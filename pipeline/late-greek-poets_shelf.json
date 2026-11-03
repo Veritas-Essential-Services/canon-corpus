@@ -50,6 +50,14 @@
    "cassandra00lyco",
    "Cassandra, translated from the original Greek of Lycophron, with notes (Cambridge, 1806)",
    "tr. Philip Yorke, Viscount Royston"
+  ],
+  "callimachus-lycophron-aratus-mair-1921": [
+   "callimachuslycop00calluoft",
+   "Callimachus and Lycophron, tr. A. W. Mair; Aratus, tr. G. R. Mair (Loeb, 1921); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "oppian-colluthus-tryphiodorus-mair-1928": [
+   "oppiancolluthust00oppiuoft",
+   "Oppian, Colluthus, Tryphiodorus, tr. A. W. Mair (Loeb, 1928); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_surname": [
@@ -69,7 +77,9 @@
   "tryphiodorus-merrick-destruction-of-troy": "merrick",
   "musaeus-arnold-hero-leander": "Edwin Arnold",
   "oppian-diaper-jones-halieuticks": "mr. diaper",
-  "lycophron-royston-1806": "Royston"
+  "lycophron-royston-1806": "Royston",
+  "callimachus-lycophron-aratus-mair-1921": "A. W. Mair",
+  "oppian-colluthus-tryphiodorus-mair-1928": "A. W. Mair"
  },
  "_identity_checked": {
   "musaeus-arnold-hero-leander": "Title page reads 'Hero and Leander. From the Greek of [Musaeus, garbled by OCR]. Edwin Arnold'; the poem is Musaeus's Hero and Leander; checked by eye 2026-10-02."
@@ -77,7 +87,7 @@
  "_checks": {
   "callimachus-dodd-hymns": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "callimachus",
    "translator_claimed": "William Dodd",
@@ -91,7 +101,7 @@
   },
   "aratus-lamb-phenomena": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aratus",
    "translator_claimed": "John Lamb",
@@ -104,7 +114,7 @@
   },
   "aratus-poste-skies": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aratus",
    "translator_claimed": "E. Poste",
@@ -117,7 +127,7 @@
   },
   "aratus-brown-phainomena": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aratus",
    "translator_claimed": "brown, robt.",
@@ -130,7 +140,7 @@
   },
   "tryphiodorus-merrick-destruction-of-troy": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tryphiodorus",
    "translator_claimed": "merrick",
@@ -143,7 +153,7 @@
   },
   "musaeus-arnold-hero-leander": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Edwin Arnold",
@@ -157,7 +167,7 @@
   },
   "oppian-diaper-jones-halieuticks": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "oppian",
    "translator_claimed": "mr. diaper",
@@ -170,7 +180,7 @@
   },
   "lycophron-royston-1806": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lycophron",
    "translator_claimed": "Royston",
@@ -179,6 +189,32 @@
    "ia_rights": "ok: published 1806",
    "ia_date": "1806",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "callimachus-lycophron-aratus-mair-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "callimachus",
+   "translator_claimed": "A. W. Mair",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oppian-colluthus-tryphiodorus-mair-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "callimachus",
+   "translator_claimed": "A. W. Mair",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
    "ia_lending": null
   }
  },

@@ -1,0 +1,214 @@
+{
+ "_about": "William Wordsworth. Bloom's Western Canon (1994) lists: Poems; The Prelude. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Wordsworth",
+ "_name_words": [
+  "william",
+  "wordsworth"
+ ],
+ "_surname": [
+  "wordsworth",
+  "william wordsworth"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wordsworth-poetical-works": [
+   10219,
+   "The Poetical Works of William Wordsworth, Volume 1 (of 8)",
+   "tr. ed. William Knight"
+  ],
+  "wordsworth-poetical-works-2": [
+   12383,
+   "The Poetical Works of William Wordsworth, Volume 3 (of 8)",
+   "tr. ed. William Knight"
+  ],
+  "wordsworth-poetical-works-v2": [
+   12145,
+   "The Poetical Works of William Wordsworth, Volume 2 (of 8)"
+  ],
+  "wordsworth-poetical-works-v4": [
+   32459,
+   "The Poetical Works of William Wordsworth, Volume 4 (of 8)"
+  ],
+  "wordsworth-poetical-works-v5": [
+   56361,
+   "The Poetical Works of William Wordsworth, Volume 5 (of 8)"
+  ],
+  "wordsworth-poetical-works-v6": [
+   47651,
+   "The Poetical Works of William Wordsworth, Volume 6 (of 8)"
+  ],
+  "wordsworth-poetical-works-v7": [
+   47143,
+   "The Poetical Works of William Wordsworth, Volume 7 (of 8)"
+  ],
+  "wordsworth-poetical-works-v8": [
+   52836,
+   "The Poetical Works of William Wordsworth, Volume 8 (of 8)"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "wordsworth-poetical-works": "Knight",
+  "wordsworth-poetical-works-2": "Knight"
+ },
+ "_bloom": {
+  "wordsworth-poetical-works": {
+   "bloom_n": [
+    413
+   ],
+   "bloom_title": "Poems",
+   "year": "1896 (front matter read: Knight's edition, a lone date line '1896' in the front matter)",
+   "evidence": "PG catalogue; PG has all eight volumes: 10219, 12145, 12383, 32459, 56361, 47651, 47143, 52836.",
+   "case": "Bloom lists Wordsworth's poems. We hold only two early volumes; Knight's eight-volume Poetical Works is the complete chronological edition on PG.",
+   "note": "All eight Knight volumes are on this shelf; volume 3 contains The Prelude (entry 414)."
+  },
+  "wordsworth-poetical-works-2": {
+   "bloom_n": [
+    414
+   ],
+   "bloom_title": "The Prelude",
+   "year": "1896 (front matter read: Knight's edition, a lone date line '1896' in the front matter)",
+   "evidence": "Read the PG 12383 contents: 'The Prelude; or, Growth of a Poet's Mind'.",
+   "case": "Bloom lists The Prelude; not held. It is in Knight's vol. 3 (the 1850 text).",
+   "note": "All eight Knight volumes are on this shelf."
+  },
+  "wordsworth-poetical-works-v2": {
+   "bloom_n": [
+    413
+   ],
+   "bloom_title": "Poems",
+   "year": "1896 (William Knight's edition, London: Macmillan)",
+   "evidence": "PG catalogue read: Wordsworth; Knight, William Angus (editor)",
+   "case": "The rest of Knight's eight volumes, so the Bloom entry is the whole poetical works, not two volumes of it.",
+   "note": "Completes the set (2026-11-03 follow-up)."
+  },
+  "wordsworth-poetical-works-v4": {
+   "bloom_n": [
+    413
+   ],
+   "bloom_title": "Poems",
+   "year": "1896 (William Knight's edition, London: Macmillan)",
+   "evidence": "PG catalogue read: Wordsworth; Knight, William Angus (editor)",
+   "case": "The rest of Knight's eight volumes, so the Bloom entry is the whole poetical works, not two volumes of it.",
+   "note": "Completes the set (2026-11-03 follow-up)."
+  },
+  "wordsworth-poetical-works-v5": {
+   "bloom_n": [
+    413
+   ],
+   "bloom_title": "Poems",
+   "year": "1896 (William Knight's edition, London: Macmillan)",
+   "evidence": "PG catalogue read: Wordsworth; Knight, William Angus (editor)",
+   "case": "The rest of Knight's eight volumes, so the Bloom entry is the whole poetical works, not two volumes of it.",
+   "note": "Completes the set (2026-11-03 follow-up)."
+  },
+  "wordsworth-poetical-works-v6": {
+   "bloom_n": [
+    413
+   ],
+   "bloom_title": "Poems",
+   "year": "1896 (William Knight's edition, London: Macmillan)",
+   "evidence": "PG catalogue read: Wordsworth; Knight, William Angus (editor)",
+   "case": "The rest of Knight's eight volumes, so the Bloom entry is the whole poetical works, not two volumes of it.",
+   "note": "Completes the set (2026-11-03 follow-up)."
+  },
+  "wordsworth-poetical-works-v7": {
+   "bloom_n": [
+    413
+   ],
+   "bloom_title": "Poems",
+   "year": "1896 (William Knight's edition, London: Macmillan)",
+   "evidence": "PG catalogue read: Wordsworth; Knight, William Angus (editor)",
+   "case": "The rest of Knight's eight volumes, so the Bloom entry is the whole poetical works, not two volumes of it.",
+   "note": "Completes the set (2026-11-03 follow-up)."
+  },
+  "wordsworth-poetical-works-v8": {
+   "bloom_n": [
+    413
+   ],
+   "bloom_title": "Poems",
+   "year": "1896 (William Knight's edition, London: Macmillan)",
+   "evidence": "PG catalogue read: Wordsworth; Knight, William Angus (editor)",
+   "case": "The rest of Knight's eight volumes, so the Bloom entry is the whole poetical works, not two volumes of it.",
+   "note": "Completes the set (2026-11-03 follow-up)."
+  }
+ },
+ "_checks": {
+  "wordsworth-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "translator_claimed": "Knight",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wordsworth-poetical-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "translator_claimed": "Knight",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wordsworth-poetical-works-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wordsworth-poetical-works-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wordsworth-poetical-works-v5": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wordsworth-poetical-works-v6": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wordsworth-poetical-works-v7": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wordsworth-poetical-works-v8": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

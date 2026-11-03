@@ -1,0 +1,36 @@
+{
+ "_about": "John Peile (1838-1910), Master of Christ's College, Cambridge: An Introduction to Greek and Latin Etymology (3rd ed., 1875). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "John Peile (1838-1910)",
+ "_name_words": [
+  "peile",
+  "john",
+  "greek",
+  "latin",
+  "etymology"
+ ],
+ "_surname": [
+  "peile"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "peile-greek-latin-etymology-1875": [
+   "cu31924021600022",
+   "An Introduction to Greek and Latin Etymology (London: Macmillan, 1875)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "peile-greek-latin-etymology-1875": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peile",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "_about": "Cecil Torr (1857-1928), antiquary of Wreyland, raw IA OCR of Rhodes in Ancient Times (1885). Classical topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Cecil Torr",
+ "_name_words": [
+  "torr"
+ ],
+ "_surname": [
+  "cecil torr",
+  "torr"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cecil-torr-rhodes-in-ancient-times-1885": [
+   "rhodesinancient01torrgoog",
+   "Rhodes in Ancient Times, by Cecil Torr (Cambridge: University Press, 1885)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "cecil-torr-rhodes-in-ancient-times-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cecil torr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

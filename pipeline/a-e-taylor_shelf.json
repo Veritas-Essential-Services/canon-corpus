@@ -1,5 +1,5 @@
 {
- "_about": "A. E. Taylor (1869-1945), idealist and Platonist. Raw IA OCR: The Problem of Conduct, a study in the phenomenology of ethics (London: Macmillan, 1901), clean 0.95; Elements of Metaphysics (London: Methuen; first published 1903, this copy the fourth edition, 1915), clean 0.91; Thomas Hobbes, in Philosophies Ancient and Modern (London: Constable, 1908), clean 0.93; Aristotle, revised edition, The People's Books (London: Jack; Nelson, 1919), clean 0.92. His translation of Metaphysics A (1907) stands on the aristotle shelf. Held: his Plato in the same Constable series (plato00taylrich), whose copy shows no printed year. US public domain. No uids minted.",
+ "_about": "A. E. Taylor (1869-1945), idealist and Platonist. Raw IA OCR: The Problem of Conduct, a study in the phenomenology of ethics (London: Macmillan, 1901), clean 0.95; Elements of Metaphysics (London: Methuen; first published 1903, this copy the fourth edition, 1915), clean 0.91; Thomas Hobbes, in Philosophies Ancient and Modern (London: Constable, 1908), clean 0.93; Aristotle, revised edition, The People's Books (London: Jack; Nelson, 1919), clean 0.92. His translation of Metaphysics A (1907) stands on the aristotle shelf. Held: his Plato in the same Constable series (plato00taylrich), whose copy shows no printed year. US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works. Round dw (2026-10-23) added, raw IA OCR with title pages read: Plato (Constable, 1908); Epicurus (preface St Andrews, July 1910); Varia Socratica, first series (Oxford, 1911); Platonism and its Influence (Boston: Marshall Jones, 1924); Plato, the Man and his Work, third edition revised and enlarged (Methuen, 1929). His Aristotle on his Predecessors is on the aristotle shelf.",
  "_author": "A. E. Taylor",
  "_name_words": [
   "alfred",
@@ -12,7 +12,12 @@
   "alfred edward taylor"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "taylor-elements-of-metaphysics-pg": [
+   71885,
+   "Elements of Metaphysics"
+  ]
+ },
  "internet_archive": {
   "taylor-problem-of-conduct-1901": [
    "theproblemofcond00tayluoft",
@@ -29,13 +34,42 @@
   "taylor-aristotle-1919": [
    "aristotle00tayluoft",
    "Aristotle, revised edition (The People's Books, 1919)"
+  ],
+  "taylor-plato-1908": [
+   "plato00tayl",
+   "Plato, by A. E. Taylor, Philosophies Ancient and Modern (London: Archibald Constable, 1908)"
+  ],
+  "taylor-epicurus-1910": [
+   "epicurus00tayl_0",
+   "Epicurus, by A. E. Taylor (no imprint in the OCR; preface dated St Andrews, July 1910)"
+  ],
+  "taylor-varia-socratica-1911": [
+   "cu31924008300612",
+   "Varia Socratica, first series, by A. E. Taylor (Oxford, 1911)"
+  ],
+  "taylor-platonism-and-its-influence-1924": [
+   "platonismitsinfl0000tayl",
+   "Platonism and its Influence, by Alfred Edward Taylor (Boston: Marshall Jones, copyright 1924, printed December 1924)"
+  ],
+  "taylor-plato-man-and-work-1929": [
+   "platomanhiswork0000aeta",
+   "Plato, the Man and his Work, by A. E. Taylor, third edition revised and enlarged (London: Methuen, 1929; first published 28 October 1926)"
   ]
  },
  "_excluded": {},
  "_checks": {
+  "taylor-elements-of-metaphysics-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. e. taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "taylor-problem-of-conduct-1901": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alfred edward taylor",
    "identity": "ok",
@@ -46,7 +80,7 @@
   },
   "taylor-elements-of-metaphysics-1903": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. e. taylor",
    "identity": "ok",
@@ -57,7 +91,7 @@
   },
   "taylor-thomas-hobbes-1908": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. e. taylor",
    "identity": "ok",
@@ -68,13 +102,68 @@
   },
   "taylor-aristotle-1919": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. e. taylor",
    "identity": "ok",
    "ia_rights": "ok: published 1919",
    "ia_date": "1919",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "taylor-plato-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. e. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "taylor-epicurus-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. e. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "taylor-varia-socratica-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. e. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "taylor-platonism-and-its-influence-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred edward taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "taylor-plato-man-and-work-1929": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. e. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

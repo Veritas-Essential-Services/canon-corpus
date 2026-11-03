@@ -1,0 +1,33 @@
+{
+ "_about": "Solomon Charles Kaines Smith (1876-1958), university extension lecturer on art and archaeology, raw IA OCR of The Elements of Greek Worship (1906).  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "S. C. Kaines Smith",
+ "_name_words": [
+  "smith"
+ ],
+ "_surname": [
+  "s. c. kaines smith",
+  "kaines smith"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "s-c-kaines-smith-elements-of-greek-worship-1906": [
+   "elementsofgreekw00smitrich",
+   "The Elements of Greek Worship, by S. C. Kaines Smith (London: Francis Griffiths, 1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "s-c-kaines-smith-elements-of-greek-worship-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. c. kaines smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

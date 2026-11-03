@@ -1,0 +1,36 @@
+{
+ "_about": "Thomas Ashby (1874-1931), Director of the British School at Rome: The Roman Campagna in Classical Times (1927). His completion of Platner's Topographical Dictionary is on the samuel-ball-platner shelf. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Thomas Ashby (1874-1931)",
+ "_name_words": [
+  "ashby",
+  "roman",
+  "campagna",
+  "classical"
+ ],
+ "_surname": [
+  "thomas ashby",
+  "ashby"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ashby-roman-campagna-1927": [
+   "romancampagnainc0000ashb_c4u5",
+   "The Roman Campagna in Classical Times (1927)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ashby-roman-campagna-1927": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas ashby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

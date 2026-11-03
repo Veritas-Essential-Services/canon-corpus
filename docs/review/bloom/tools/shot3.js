@@ -1,0 +1,10 @@
+const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:390,height:1000}});
+const errs=[];p.on('pageerror',e=>errs.push(e.message));
+await p.addInitScript(()=>{window.claude={use:async()=>null}});
+await p.goto('file://'+process.argv[2]);await p.waitForTimeout(300);
+await p.click('#tabC');await p.waitForTimeout(400);
+console.log('C text',(await p.locator('#secC').innerText()).slice(0,600));
+await p.screenshot({path:process.argv[3]});
+await p.click('#tabB');await p.waitForTimeout(300);await p.selectOption('#bs','added');await p.waitForTimeout(400);
+console.log('B stats',(await p.locator('#secB').innerText()).slice(0,300));
+console.log('errs',errs,'sw',await p.evaluate(()=>document.documentElement.scrollWidth));await b.close()})();

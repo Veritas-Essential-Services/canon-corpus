@@ -1,0 +1,37 @@
+{
+ "_about": "Friedrich Blass (1843-1907), German philologist, raw IA OCR of Pronunciation of Ancient Greek, tr. W. J. Purton from the third German edition (1890). Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Friedrich Blass",
+ "_name_words": [
+  "blass"
+ ],
+ "_surname": [
+  "blass"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "friedrich-blass-pronunciation-of-ancient-greek-1890": [
+   "cu31924021601962",
+   "Pronunciation of Ancient Greek, translated from the third German edition of Dr Blass by W. J. Purton (Cambridge: at the University Press, 1890)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "friedrich-blass-pronunciation-of-ancient-greek-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blass",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "friedrich-blass-pronunciation-of-ancient-greek-1890": {
+   "translator": "eo We Je PURTON (the OCR's reading of the title page's W. J. PURTON; no translator claim made)"
+  }
+ }
+}

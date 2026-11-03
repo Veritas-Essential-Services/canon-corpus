@@ -1,0 +1,43 @@
+{
+ "_about": "James Thomson. Bloom's Western Canon (1994) lists: The City of the Dreadful Night. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "James Thomson",
+ "_name_words": [
+  "thomson"
+ ],
+ "_surname": [
+  "james thomson",
+  "thomson",
+  "b. v."
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "thomson-city-dreadful-night": [
+   1238,
+   "The City of Dreadful Night"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "thomson-city-dreadful-night": {
+   "bloom_n": [
+    521
+   ],
+   "bloom_title": "The City of the Dreadful Night",
+   "year": "unread",
+   "evidence": "Read PG header and epigraph (Leopardi).",
+   "case": "Bloom lists it; not held.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "thomson-city-dreadful-night": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "james thomson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

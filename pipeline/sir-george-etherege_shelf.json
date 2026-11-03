@@ -1,0 +1,46 @@
+{
+ "_about": "Sir George Etherege. Bloom's Western Canon (1994) lists: The Man of Mode. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Sir George Etherege",
+ "_name_words": [
+  "sir",
+  "george",
+  "etherege"
+ ],
+ "_surname": [
+  "etherege",
+  "sir george etherege"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "etherege-works-etheredge": [
+   "cu31924012961482",
+   "The Works of Sir George Etheredge: Plays and Poems, ed. A. Wilson Verity"
+  ]
+ },
+ "_bloom": {
+  "etherege-works-etheredge": {
+   "bloom_n": [
+    212
+   ],
+   "bloom_title": "The Man of Mode",
+   "year": "1888 (title page: 'London, John C. Nimmo ... MDCCCLXXXVIII')",
+   "evidence": "Read title page; Cornell copy.",
+   "case": "Verity's Works contains The Man of Mode and the other two comedies.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "etherege-works-etheredge": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "etherege",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

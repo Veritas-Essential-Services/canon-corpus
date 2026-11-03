@@ -1,0 +1,65 @@
+{
+ "_about": "Heinrich Ritter (1791-1869), Göttingen historian of philosophy, in English: The History of Ancient Philosophy, translated from the German by Alexander J. W. Morrison (Oxford: D. A. Talboys, 4 vols, 1838-1846), raw IA OCR. Vols II and IV taken; vol. I was not found and vol. III's only scan has no title page. Classical scholarship and the philosophy canon (lane B, round dv). No uids minted.",
+ "_author": "Heinrich Ritter (1791-1869)",
+ "_name_words": [
+  "ritter",
+  "philosophy"
+ ],
+ "_surname": [
+  "heinrich ritter",
+  "dr. heinrich ritter",
+  "ritter, heinrich"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ritter-ancient-philosophy-v2-1838": [
+   "in.ernet.dli.2015.155878",
+   "The History of Ancient Philosophy, translated by Alexander J. W. Morrison, vol. II (Oxford: D. A. Talboys, M DCCC XXXVIII; the OCR title page reads 'VOL. I.' under the half-title 'VOLUME THE SECOND', and the contents are those of the second volume)",
+   "2015.155878.The-History-Of-Ancient-Philosophy-Volume-Ii_djvu.txt"
+  ],
+  "ritter-ancient-philosophy-v4-1846": [
+   "historyancientp00morrgoog",
+   "The History of Ancient Philosophy, translated by Alexander J. W. Morrison, vol. IV (London, M.DCCC.XLVI)"
+  ]
+ },
+ "_excluded": {
+  "The History of Ancient Philosophy, vol. III (tr. Morrison)": "the only scan found (historyancientp01morrgoog) has no title page and never names Ritter or Morrison in its OCR, so the name gate cannot pass; vol. I was not found at all"
+ },
+ "_translators": {
+  "ritter-ancient-philosophy-v2-1838": "Alexander J. W. Morrison",
+  "ritter-ancient-philosophy-v4-1846": "Alexander J. W. Morrison"
+ },
+ "_checks": {
+  "ritter-ancient-philosophy-v2-1838": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heinrich ritter",
+   "translator_claimed": "Alexander J. W. Morrison",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-23 (IA record has no date): 'THE HISTORY OF ANCIENT PHILOSOPHY. By DR. HEINRICH RITTER, TRANSLATED FROM THE GERMAN BY ALEXANDER J. W. MORRISON, B.A. ... OXFORD: D. A. TALBOYS; AND 113, FLEET STREET, LONDON. ΜΟΟΟ ΧΧΧΥΠΙ' (M DCCC XXXVIII, 1838). A period printing."
+  },
+  "ritter-ancient-philosophy-v4-1846": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heinrich ritter",
+   "translator_claimed": "Alexander J. W. Morrison",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_rights_checked": {
+  "ritter-ancient-philosophy-v2-1838": "Title page read 2026-10-23 (IA record has no date): 'THE HISTORY OF ANCIENT PHILOSOPHY. By DR. HEINRICH RITTER, TRANSLATED FROM THE GERMAN BY ALEXANDER J. W. MORRISON, B.A. ... OXFORD: D. A. TALBOYS; AND 113, FLEET STREET, LONDON. ΜΟΟΟ ΧΧΧΥΠΙ' (M DCCC XXXVIII, 1838). A period printing."
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "Sir John Edwin Sandys (1844-1922), Public Orator at Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A History of Classical Scholarship (Cambridge, 3 vols., 1903-1908) and A Short History of Classical Scholarship (1915), raw IA OCR. No uids minted.",
+ "_about": "Sir John Edwin Sandys (1844-1922), Public Orator at Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A History of Classical Scholarship (Cambridge, 3 vols., 1903-1908) and A Short History of Classical Scholarship (1915), raw IA OCR. No uids minted. Round du (2026-10-23), raw IA: Demosthenes against Leptines (1890), Select Private Orations part II (with Paley, 1886; part I is on the f-a-paley shelf), Aristotle's Constitution of Athens (1893), An Easter Vacation in Greece (1887), Harvard Lectures on the Revival of Learning (1905). Not taken: his Bacchae (the open scans OCR its English as Greek letters) and Isocrates Ad Demonicum (same). Round dy (2026-10-23), raw IA: Latin Epigraphy (1919), his school-and-college Orator of Cicero (1885, Latin text with English essays and notes; kept under lane B's extension of Adam's Greek ruling to Latin-dense commentaries), the First Philippic and Olynthiacs (1898 reprint of 1897), his 1909 new edition of Jebb's Theophrastus (the 1870 first edition is on the jebb shelf) and his British Academy lecture on Roger Bacon (1914). Refused: Isocrates Ad Demonicum et Panegyricus (1872; the one scan OCRs its English as Greek letters) and Orationes et Epistolae Cantabrigienses (Latin only).",
  "_name_words": [
   "sandys"
  ],
@@ -26,6 +26,46 @@
   "sandys-short-history-classical-scholarship-1915": [
    "shorthistoryofcl00sanduoft",
    "A Short History of Classical Scholarship from the Sixth Century B.C. to the Present Day (Cambridge: University Press, 1915)"
+  ],
+  "sandys-leptines-1890": [
+   "demosthenouspros00demo",
+   "The Speech of Demosthenes against the Law of Leptines, a revised text with an introduction, critical and explanatory notes, by John Edwin Sandys (Cambridge: University Press, 1890); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sandys-easter-vacation-in-greece-1887": [
+   "eastervacationin00sand",
+   "An Easter Vacation in Greece, with lists of books on Greek travel and topography (London and New York: Macmillan, 1887)"
+  ],
+  "sandys-constitution-of-athens-1893": [
+   "cu31924011162892",
+   "Aristotle's Constitution of Athens, a revised text with an introduction, critical and explanatory notes, testimonia and indices, by John Edwin Sandys (London and New York: Macmillan, 1893); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sandys-harvard-lectures-1905": [
+   "harvardlectureso00sanduoft",
+   "Harvard Lectures on the Revival of Learning (Cambridge: University Press; no year in the OCR title page, IA dates it 1905)"
+  ],
+  "sandys-paley-demosthenes-private-orations-ii-1886": [
+   "p2selectprivateo00demouoft",
+   "Select Private Orations of Demosthenes, part II (Pro Phormione, Contra Stephanum I-II, Nicostratum, Cononem, Calliclem), with introduction and English commentary by J. E. Sandys, with supplementary notes by F. A. Paley, second edition revised (Cambridge: University Press, 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sandys-latin-epigraphy-1919": [
+   "cu31924029785759",
+   "Latin Epigraphy: an Introduction to the Study of Latin Inscriptions, with fifty illustrations (Cambridge: at the University Press, 1919)"
+  ],
+  "sandys-cicero-orator-1885": [
+   "admarcumbrutumo00sandgoog",
+   "M. Tulli Ciceronis ad M. Brutum Orator, a revised text with introductory essays and critical and explanatory notes (Cambridge: at the University Press, 1885); Latin text with English essays and notes"
+  ],
+  "sandys-first-philippic-olynthiacs-1898": [
+   "firstphillippico0000john",
+   "The First Philippic and the Olynthiacs of Demosthenes, with introduction and critical and explanatory notes (Classical Series; London and New York: Macmillan, 1898 reprint of the 1897 first edition); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sandys-jebb-theophrastus-characters-1909": [
+   "cu31924026602171",
+   "The Characters of Theophrastus, an English translation from a revised text with introduction and notes by R. C. Jebb (1870), a new edition edited by J. E. Sandys (London: Macmillan, 1909)"
+  ],
+  "sandys-roger-bacon-1914": [
+   "rogerbacon00sanduoft",
+   "Roger Bacon, read 27 May 1914 (Proceedings of the British Academy; London: Humphrey Milford, Oxford University Press)"
   ]
  },
  "_excluded": {
@@ -34,7 +74,7 @@
  "_checks": {
   "sandys-history-classical-scholarship-v1-1903": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john edwin sandys",
    "identity": "ok",
@@ -45,7 +85,7 @@
   },
   "sandys-history-classical-scholarship-v2-1908": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john edwin sandys",
    "identity": "ok",
@@ -56,7 +96,7 @@
   },
   "sandys-history-classical-scholarship-v3-1908": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john edwin sandys",
    "identity": "ok",
@@ -67,7 +107,7 @@
   },
   "sandys-short-history-classical-scholarship-1915": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john edwin sandys",
    "identity": "ok",
@@ -75,6 +115,121 @@
    "ia_date": "1915",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "sandys-leptines-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sandys-easter-vacation-in-greece-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sandys-constitution-of-athens-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sandys-harvard-lectures-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sandys-paley-demosthenes-private-orations-ii-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. e. sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sandys-latin-epigraphy-1919": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sandys-cicero-orator-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sandys-first-philippic-olynthiacs-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sandys-jebb-theophrastus-characters-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. e. sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sandys-roger-bacon-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "sandys-cicero-orator-1885": {
+   "author": "JOHN EDWIN S^ANDYS, M.A., FELLOW AND TUTOR OF 8T JOIIN's COLLEGK (title page OCR, Cambridge 1885)"
   }
  }
 }

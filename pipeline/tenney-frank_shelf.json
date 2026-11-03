@@ -1,0 +1,113 @@
+{
+ "_about": "Tenney Frank (1876-1939), Johns Hopkins historian of Rome. Books published 1914-1930 (US public domain by date); two from clean Gutenberg.",
+ "_author": "Tenney Frank (1876-1939)",
+ "_name_words": [
+  "tenney",
+  "frank",
+  "rome",
+  "roman",
+  "vergil",
+  "catullus",
+  "horace",
+  "imperialism",
+  "economic"
+ ],
+ "_surname": [
+  "frank"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "frank-vergil-pg": [
+   10960,
+   "Vergil: a Biography (1922)"
+  ],
+  "frank-life-literature-roman-republic-pg": [
+   69272,
+   "Life and Literature in the Roman Republic (Sather Lectures, 1930)"
+  ]
+ },
+ "internet_archive": {
+  "frank-roman-imperialism-1914": [
+   "romanimperialism00franuoft",
+   "Roman Imperialism (1914)"
+  ],
+  "frank-economic-history-rome-1920": [
+   "economichistoryo00franuoft",
+   "An Economic History of Rome to the End of the Republic (1920)"
+  ],
+  "frank-history-of-rome-1923": [
+   "in.ernet.dli.2015.169106",
+   "A History of Rome (1923)",
+   "2015.169106.A-History-Of-Rome_djvu.txt"
+  ],
+  "frank-catullus-horace-1928": [
+   "catullushorace0000unse",
+   "Catullus and Horace: Two Poets in their Environment (1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "frank-vergil-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frank-life-literature-roman-republic-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frank-roman-imperialism-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frank-economic-history-rome-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frank-history-of-rome-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frank-catullus-horace-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

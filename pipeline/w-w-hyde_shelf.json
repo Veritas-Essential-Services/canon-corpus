@@ -1,0 +1,53 @@
+{
+ "_about": "Walter Woodburn Hyde (1871-1966), University of Pennsylvania classicist: Olympic Victor Monuments and Greek Athletic Art (1921, Gutenberg) and Greek Religion and its Survivals (1923). Later books (1935 onward) are not PD in the US. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Walter Woodburn Hyde (1871-1966)",
+ "_name_words": [
+  "hyde",
+  "olympic",
+  "greek",
+  "religion",
+  "athletic",
+  "survivals"
+ ],
+ "_surname": [
+  "walter woodburn hyde",
+  "w. w. hyde",
+  "walter w. hyde"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hyde-olympic-victor-monuments-pg": [
+   61792,
+   "Olympic Victor Monuments and Greek Athletic Art (1921)"
+  ]
+ },
+ "internet_archive": {
+  "hyde-greek-religion-survivals-1923": [
+   "greekreligionits0000hyde_n0k8",
+   "Greek Religion and its Survivals (1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hyde-olympic-victor-monuments-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter woodburn hyde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hyde-greek-religion-survivals-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter woodburn hyde",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

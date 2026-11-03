@@ -1,0 +1,38 @@
+{
+ "_about": "Franz Wickhoff (1853-1909), Viennese art historian, raw IA OCR of Roman Art in Eugenie Strong's English translation (1900); her own books are on eugenie-strong.  Roman antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Franz Wickhoff",
+ "_name_words": [
+  "wickhoff"
+ ],
+ "_surname": [
+  "franz wickhoff"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "franz-wickhoff-roman-art-1900": [
+   "romanartsomeofit00wickrich",
+   "Roman Art: some of its principles and their application to early Christian painting, by Franz Wickhoff, translated and edited by Mrs. S. Arthur Strong (London: William Heinemann; New York: The Macmillan Company, 1900)",
+   "tr. Eugenie Strong"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "franz-wickhoff-roman-art-1900": "Eugenie Strong"
+ },
+ "_checks": {
+  "franz-wickhoff-roman-art-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz wickhoff",
+   "translator_claimed": "Eugenie Strong",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

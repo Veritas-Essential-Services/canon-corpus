@@ -1,0 +1,54 @@
+{
+ "_about": "Saint-John Perse. Bloom's Western Canon (1994) lists: Anabasis. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Saint-John Perse",
+ "_name_words": [
+  "saintjohn",
+  "perse"
+ ],
+ "_surname": [
+  "perse",
+  "saintjohn perse"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "perse-anabasis": [
+   "anabasispoembyst0000sain",
+   "Anabasis: a poem by St.-J. Perse with a translation into English by T. S. Eliot"
+  ]
+ },
+ "_rights_checked": {
+  "perse-anabasis": "Bloom addition 2026-11-03: 1930 (IA metadata; title page reads London: Faber & Faber, 24 Russell Square, no year printed). Read title page and preface; text is bilingual French/English, 75 pp; Eliot's preface speaks of 'the late Hugo von Hofmannsthal' (d. 1929), consistent with the 1930 first edition; no mention of the 1938/1949 revisions; Warwick University Library copy stamped REVIEW COPY; collection warwickdigitalcol"
+ },
+ "_translators": {
+  "perse-anabasis": "Eliot"
+ },
+ "_bloom": {
+  "perse-anabasis": {
+   "bloom_n": [
+    789
+   ],
+   "bloom_title": "Anabasis",
+   "year": "1930 (IA metadata; title page reads London: Faber & Faber, 24 Russell Square, no year printed)",
+   "evidence": "Read title page and preface; text is bilingual French/English, 75 pp; Eliot's preface speaks of 'the late Hugo von Hofmannsthal' (d. 1929), consistent with the 1930 first edition; no mention of the 1938/1949 revisions; Warwick University Library copy stamped REVIEW COPY; collection warwickdigitalcollections (not lending).",
+   "case": "Bloom lists Anabasis; Anabase (1924) was translated by T. S. Eliot and published by Faber in 1930, so the first English edition is US-PD. This IA scan is the Faber bilingual edition.",
+   "note": "Eliot revised the translation in 1938 and 1949/1959; those revisions are NOT PD. The year here comes from IA metadata plus internal evidence, not a printed date -- Adam may want to eyeball the scan's verso. OCR of the first pages is noisy (cover scan)."
+  }
+ },
+ "_checks": {
+  "perse-anabasis": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "perse",
+   "translator_claimed": "Eliot",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1930 (IA metadata; title page reads London: Faber & Faber, 24 Russell Square, no year printed). Read title page and preface; text is bilingual French/English, 75 pp; Eliot's preface speaks of 'the late Hugo von Hofmannsthal' (d. 1929), consistent with the 1930 first edition; no mention of the 1938/1949 revisions; Warwick University Library copy stamped REVIEW COPY; collection warwickdigitalcol"
+  }
+ }
+}

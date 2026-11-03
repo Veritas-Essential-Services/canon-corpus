@@ -1,0 +1,32 @@
+{
+ "_about": "Thomas Shearer Duncan, raw IA OCR of his Johns Hopkins dissertation on art and description in Statius (1914). Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Thomas Shearer Duncan",
+ "_name_words": [
+  "duncan"
+ ],
+ "_surname": [
+  "thomas shearer duncan"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thomas-shearer-duncan-influence-of-art-statius-1914": [
+   "influenceofarton00duncrich",
+   "The Influence of Art on Description in the Poetry of P. Papinius Statius: a dissertation, by Thomas Shearer Duncan (J. H. Furst Company, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "thomas-shearer-duncan-influence-of-art-statius-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas shearer duncan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

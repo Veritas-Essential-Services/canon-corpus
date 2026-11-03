@@ -1,0 +1,51 @@
+{
+ "_about": "J. U. Powell (1865-1932), Fellow of St John's College, Oxford, raw IA OCR: New Chapters in the History of Greek Literature, recent discoveries in Greek poetry and prose of the fourth and following centuries B.C., edited with E. A. Barber (Clarendon Press, 1921), and its second series (Clarendon Press, 1929). Not taken: his Phoenissae of Euripides (1911), whose only scan OCRs the English as Greek letters. Classical scholarship (lane B, round dx). No uids minted.",
+ "_author": "John Undershell Powell (1865-1932)",
+ "_name_words": [
+  "powell"
+ ],
+ "_surname": [
+  "j. u. powell",
+  "john undershell powell",
+  "powell, j. u."
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-u-powell-barber-new-chapters-1921": [
+   "cu31924022691343",
+   "New Chapters in the History of Greek Literature, recent discoveries in Greek poetry and prose of the fourth and following centuries B.C., edited by J. U. Powell and E. A. Barber (Oxford: Clarendon Press, 1921)"
+  ],
+  "j-u-powell-barber-new-chapters-2-1929": [
+   "newchaptersinhis0000powe_h1p0",
+   "New Chapters in the History of Greek Literature, second series, some recent discoveries in Greek poetry and prose, chiefly of the fourth century B.C. and later times, edited by J. U. Powell and E. A. Barber (Oxford: Clarendon Press, 1929)"
+  ]
+ },
+ "_excluded": {
+  "Euripides, Phoenissae (1911, IA euripidouphoini00euriuoft)": "the scan OCRs the English as Greek letters (clean 0.000); revisit after the Greek re-OCR"
+ },
+ "_checks": {
+  "j-u-powell-barber-new-chapters-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. u. powell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-u-powell-barber-new-chapters-2-1929": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. u. powell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

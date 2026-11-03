@@ -1,5 +1,5 @@
 {
- "_about": "Herbert Spencer (1820-1903), raw IA OCR: First Principles, in the final revised (6th) edition (New York: D. Appleton, 1900; copyright 1864, 1899), the opening volume of his Synthetic Philosophy; and from Project Gutenberg The Data of Ethics (Burt reprint, undated, preface 1879) and the three-volume library edition of the Essays (Williams and Norgate, 1891). Added in round ad: The Principles of Psychology, vol. I (New York: D. Appleton, 1905); The Principles of Psychology, vol. II (New York: D. Appleton, 1905); The Principles of Biology, revised and enlarged edition, vol. I (New York: D. Appleton, 1898 edition, 1904 printing); The Principles of Biology, revised and enlarged edition, vol. II (New York: D. Appleton, 1899 edition, 1901 printing); The Principles of Ethics, vol. I (New York: D. Appleton, copyright 1892-1902; 1904 printing); The Principles of Ethics, vol. II (New York: D. Appleton; 1906 printing). Added in round ae: The Principles of Sociology, vol. I (New York: D. Appleton; 1906 printing); The Principles of Sociology, vol. II (New York: D. Appleton, 1897); The Principles of Sociology, vol. III (New York: D. Appleton, 1897). US public domain. Not taken: firstprinciple00spen (no title page in the scan). Added in round 2026-10-18bx: from Gutenberg, First Principles in its first edition (London: Williams and Norgate, 1863; a separate witness from the sixth edition above), The Philosophy of Style, Essays on Education, The Right to Ignore the State, Illustrations of Universal Progress (1864) and The Factors of Organic Evolution (1887). Not taken: Gutenberg's Principles of Biology (54612, 67282), the same revised Appleton edition already held from IA. No uids minted.",
+ "_about": "Herbert Spencer (1820-1903), raw IA OCR: First Principles, in the final revised (6th) edition (New York: D. Appleton, 1900; copyright 1864, 1899), the opening volume of his Synthetic Philosophy; and from Project Gutenberg The Data of Ethics (Burt reprint, undated, preface 1879) and the three-volume library edition of the Essays (Williams and Norgate, 1891). Added in round ad: The Principles of Psychology, vol. I (New York: D. Appleton, 1905); The Principles of Psychology, vol. II (New York: D. Appleton, 1905); The Principles of Biology, revised and enlarged edition, vol. I (New York: D. Appleton, 1898 edition, 1904 printing); The Principles of Biology, revised and enlarged edition, vol. II (New York: D. Appleton, 1899 edition, 1901 printing); The Principles of Ethics, vol. I (New York: D. Appleton, copyright 1892-1902; 1904 printing); The Principles of Ethics, vol. II (New York: D. Appleton; 1906 printing). Added in round ae: The Principles of Sociology, vol. I (New York: D. Appleton; 1906 printing); The Principles of Sociology, vol. II (New York: D. Appleton, 1897); The Principles of Sociology, vol. III (New York: D. Appleton, 1897). US public domain. Not taken: firstprinciple00spen (no title page in the scan). Added in round 2026-10-18bx: from Gutenberg, First Principles in its first edition (London: Williams and Norgate, 1863; a separate witness from the sixth edition above), The Philosophy of Style, Essays on Education, The Right to Ignore the State, Illustrations of Universal Progress (1864) and The Factors of Organic Evolution (1887). Not taken: Gutenberg's Principles of Biology (54612, 67282), the same revised Appleton edition already held from IA. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "Herbert Spencer",
  "_name_words": [
   "herbert",
@@ -49,6 +49,14 @@
   "spencer-factors-of-organic-evolution": [
    52801,
    "The Factors of Organic Evolution (1887)"
+  ],
+  "spencer-principles-of-biology-1-pg": [
+   54612,
+   "The Principles of Biology, vol. 1"
+  ],
+  "spencer-principles-of-biology-2-pg": [
+   67282,
+   "The Principles of Biology, vol. 2"
   ]
  },
  "internet_archive": {
@@ -97,7 +105,7 @@
  "_checks": {
   "spencer-data-of-ethics": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -106,7 +114,7 @@
   },
   "spencer-essays-1891-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -115,7 +123,7 @@
   },
   "spencer-essays-1891-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -124,7 +132,7 @@
   },
   "spencer-essays-1891-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -133,7 +141,7 @@
   },
   "spencer-first-principles-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -142,7 +150,7 @@
   },
   "spencer-philosophy-of-style": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -151,7 +159,7 @@
   },
   "spencer-essays-on-education": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -160,7 +168,7 @@
   },
   "spencer-right-to-ignore-the-state": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -169,7 +177,7 @@
   },
   "spencer-illustrations-universal-progress": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -178,7 +186,25 @@
   },
   "spencer-factors-of-organic-evolution": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spencer-principles-of-biology-1-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spencer-principles-of-biology-2-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -187,7 +213,7 @@
   },
   "spencer-first-principles-1900": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -198,7 +224,7 @@
   },
   "spencer-principles-of-psychology-1905-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -209,7 +235,7 @@
   },
   "spencer-principles-of-psychology-1905-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -220,7 +246,7 @@
   },
   "spencer-principles-of-biology-rev-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -231,7 +257,7 @@
   },
   "spencer-principles-of-biology-rev-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -242,7 +268,7 @@
   },
   "spencer-principles-of-ethics-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -253,7 +279,7 @@
   },
   "spencer-principles-of-ethics-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -264,7 +290,7 @@
   },
   "spencer-principles-of-sociology-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -275,7 +301,7 @@
   },
   "spencer-principles-of-sociology-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",
@@ -286,7 +312,7 @@
   },
   "spencer-principles-of-sociology-v3": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "spencer",
    "identity": "ok",

@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain Christina Rossetti (1830-1894) for the Word Hoard: her devotional prose only, all published by the SPCK: Seek and Find, studies of the Benedicite (1879), Called to be Saints (1881), Letter and Spirit, notes on the Commandments (1883), Time Flies, a reading diary (1885) and The Face of the Deep, her commentary on the Apocalypse (second edition, 1893), from Internet Archive scans. Her poems are not shelved here. Not Dante Gabriel Rossetti, whose shelf is rossetti. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_about": "Public-domain Christina Rossetti (1830-1894) for the Word Hoard: her devotional prose only, all published by the SPCK: Seek and Find, studies of the Benedicite (1879), Called to be Saints (1881), Letter and Spirit, notes on the Commandments (1883), Time Flies, a reading diary (1885) and The Face of the Deep, her commentary on the Apocalypse (second edition, 1893), from Internet Archive scans. Her poems are not shelved here. Not Dante Gabriel Rossetti, whose shelf is rossetti. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. Bloom addition 2026-11-03 (Bloom's Western Canon): rossetti-poems.",
  "_name_words": [
   "rossetti"
  ],
@@ -10,7 +10,12 @@
  ],
  "_held": {},
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "rossetti-poems": [
+   19188,
+   "Poems"
+  ]
+ },
  "internet_archive": {
   "crossetti-seek-and-find": [
    "seekfinddoublese00rossrich",
@@ -52,9 +57,18 @@
  },
  "_translators": {},
  "_checks": {
+  "rossetti-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "christina g. rossetti",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "crossetti-seek-and-find": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "christina g. rossetti",
    "identity": "ok",
@@ -65,7 +79,7 @@
   },
   "crossetti-called-to-be-saints": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "christina g. rossetti",
    "identity": "ok",
@@ -77,7 +91,7 @@
   },
   "crossetti-letter-and-spirit": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "christina g. rossetti",
    "identity": "ok",
@@ -88,7 +102,7 @@
   },
   "crossetti-time-flies": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "christina g. rossetti",
    "identity": "ok",
@@ -99,7 +113,7 @@
   },
   "crossetti-face-of-the-deep": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "christina g. rossetti",
    "identity": "ok",
@@ -107,6 +121,18 @@
    "ia_date": "1893",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "rossetti-poems": {
+   "bloom_n": [
+    472
+   ],
+   "bloom_title": "Poems",
+   "year": "1906 printing ('1906.' in front matter; 'Author's edition, revised and enlarged, 1876')",
+   "evidence": "Read PG front matter.",
+   "case": "Bloom lists Christina Rossetti's poems; the held christina-rossetti shelf has only her devotional prose. The Macmillan collected Poems is on PG.",
+   "note": "PG 16950 (Goblin Market, The Prince's Progress) is an alternative."
   }
  }
 }

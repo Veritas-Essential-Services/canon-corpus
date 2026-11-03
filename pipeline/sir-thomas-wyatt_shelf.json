@@ -1,0 +1,46 @@
+{
+ "_about": "Sir Thomas Wyatt. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Sir Thomas Wyatt",
+ "_name_words": [
+  "sir",
+  "thomas",
+  "wyatt"
+ ],
+ "_surname": [
+  "wyatt",
+  "sir thomas wyatt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wyatt-poems-wiat": [
+   "poemsofsirthomas01wyatuoft",
+   "The Poems of Sir Thomas Wiat, edited from the MSS. and early editions by A. K. Foxwell, vol. I"
+  ]
+ },
+ "_bloom": {
+  "wyatt-poems-wiat": {
+   "bloom_n": [
+    149
+   ],
+   "bloom_title": "Poems",
+   "year": "1913 (title page: '...University of London Press... Hodder and Stoughton ... 1913', OCR ragged)",
+   "evidence": "Read title page.",
+   "case": "Bloom lists Wyatt's poems; Foxwell (2 vols, 1913) is the first edition from the manuscripts, the Aldine is a handy one-volume text.",
+   "note": "Vol. II of Foxwell: poemsofsirthomas02wyatuoft."
+  }
+ },
+ "_checks": {
+  "wyatt-poems-wiat": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wyatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

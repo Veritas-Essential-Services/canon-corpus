@@ -1,0 +1,36 @@
+{
+ "_about": "Oskar Weise (1851-1933), German philologist: Language and Character of the Roman People, tr. H. A. Strong and A. Y. Campbell (1909). The translators' names are garbled in the OCR, so none is claimed. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Oskar Weise (1851-1933)",
+ "_name_words": [
+  "weise",
+  "language",
+  "character",
+  "roman",
+  "people"
+ ],
+ "_surname": [
+  "weise"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "weise-language-character-roman-people-1909": [
+   "gpl_1795586",
+   "Language and Character of the Roman People (1909), tr. H. A. Strong and A. Y. Campbell"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "weise-language-character-roman-people-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weise",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

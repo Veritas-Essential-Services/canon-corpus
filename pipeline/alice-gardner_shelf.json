@@ -1,0 +1,54 @@
+{
+ "_about": "Alice Gardner (1854-1927), Newnham College historian: Julian, Philosopher and Emperor (Heroes of the Nations, 1895) and The Lascarids of Nicaea (1912; the only scan is the 1964 Hakkert photographic reprint). Theodore of Studium (1905) is left for lane A; her essays and Erigena study are outside lane B. Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted.",
+ "_author": "Alice Gardner (1854-1927)",
+ "_name_words": [
+  "gardner",
+  "alice",
+  "julian",
+  "lascarids"
+ ],
+ "_surname": [
+  "alice gardner"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gardner-julian-philosopher-emperor-1895": [
+   "julianphilosophe00gard",
+   "Julian, Philosopher and Emperor, and the Last Struggle of Paganism against Christianity (New York: Putnam, 1895)"
+  ],
+  "gardner-lascarids-of-nicaea-1912": [
+   "lascaridsofnicae0000alic",
+   "The Lascarids of Nicaea: The Story of an Empire in Exile (London: Methuen, 1912; 1964 Hakkert reprint)"
+  ]
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "gardner-lascarids-of-nicaea-1912": "The title page (OCR, read 2026-10-23) is Amsterdam: Adolf M. Hakkert, 1964, a photographic reprint of the 1912 Methuen edition with no new matter; no 1912 scan is on IA. The text is US public domain."
+ },
+ "_checks": {
+  "gardner-julian-philosopher-emperor-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice gardner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gardner-lascarids-of-nicaea-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice gardner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "The title page (OCR, read 2026-10-23) is Amsterdam: Adolf M. Hakkert, 1964, a photographic reprint of the 1912 Methuen edition with no new matter; no 1912 scan is on IA. The text is US public domain."
+  }
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "_about": "Wilhelm Sigmund Teuffel (1820-1878): A History of Roman Literature, tr. Wilhelm Wagner (London, 1873), 2 vols. Round dy (2026-10-23), raw IA: the Schwabe revision in G. C. W. Warr's translation from the fifth German edition (1891-92, 2 vols), a different translation from Wagner's 1873 one already held. Warr's name is garbled on both title pages ('GEOEGE C. W. WAEE'), so the translator is recorded under _identity_checked rather than as a gate claim.",
+ "_author": "W. S. Teuffel (1820-1878)",
+ "_name_words": [
+  "teuffel",
+  "roman",
+  "literature"
+ ],
+ "_surname": [
+  "teuffel"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "teuffel-roman-literature-v1-1873": [
+   "india.history.resource.78413",
+   "A History of Roman Literature, vol. I: The Republican Period (1873), tr. Wilhelm Wagner",
+   "78413_djvu.txt"
+  ],
+  "teuffel-roman-literature-v2-1873": [
+   "india.history.resource.78412",
+   "A History of Roman Literature, vol. II: The Imperial Period (1873), tr. Wilhelm Wagner",
+   "78412_djvu.txt"
+  ],
+  "teuffel-schwabe-roman-literature-v1-1891": [
+   "teuffelshistoryo01teufuoft",
+   "Teuffel's History of Roman Literature, revised and enlarged by Ludwig Schwabe, authorised translation from the fifth German edition by George C. W. Warr, vol. I: The Republican Period (London: George Bell; Cambridge: Deighton, Bell, 1891)"
+  ],
+  "teuffel-schwabe-roman-literature-v2-1892": [
+   "cu31924059161095",
+   "Teuffel's History of Roman Literature, revised and enlarged by Ludwig Schwabe, authorised translation from the fifth German edition by George C. W. Warr, vol. II: The Imperial Period (London: George Bell; Cambridge: Deighton, Bell, 1892)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "teuffel-roman-literature-v1-1873": "Wilhelm Wagner",
+  "teuffel-roman-literature-v2-1873": "Wilhelm Wagner"
+ },
+ "_checks": {
+  "teuffel-roman-literature-v1-1873": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teuffel",
+   "translator_claimed": "Wilhelm Wagner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "teuffel-roman-literature-v2-1873": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teuffel",
+   "translator_claimed": "Wilhelm Wagner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "teuffel-schwabe-roman-literature-v1-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teuffel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891-92",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "teuffel-schwabe-roman-literature-v2-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teuffel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "teuffel-schwabe-roman-literature-v1-1891": {
+   "translator": "title page OCR 'AUTHORISED TRANSLATION FROM THE FIFTH GERMAN EDITION, GEOEGE C. W. WAEE, M.A.' (George C. W. Warr)"
+  },
+  "teuffel-schwabe-roman-literature-v2-1892": {
+   "translator": "title page OCR 'AUTHORISED TRANSLATION FROM THE FIFTH GERMAN EDITION, GEOEGE C. W. WAEE, M.A.' (George C. W. Warr)"
+  }
+ }
+}

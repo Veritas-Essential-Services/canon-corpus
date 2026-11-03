@@ -1,0 +1,38 @@
+{
+ "_about": "J. R. Darley (1799-1884), Principal of the Royal School of Dungannon, later Bishop of Kilmore, raw IA OCR of The Grecian Drama: a Treatise on the Dramatic Literature of the Greeks (Dublin: Hardy and Walker; London: Richard Groombridge, 1840). Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "John Richard Darley (1799-1884)",
+ "_name_words": [
+  "darley"
+ ],
+ "_surname": [
+  "j. r. darley",
+  "john richard darley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-r-darley-grecian-drama-1840": [
+   "greciandramatrea00darluoft",
+   "The Grecian Drama: a Treatise on the Dramatic Literature of the Greeks, by the Rev. J. R. Darley (Dublin: Hardy and Walker; London: Richard Groombridge, 1840)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "j-r-darley-grecian-drama-1840": {
+   "author": "title page OCR 'BY THE VV BEY. J. K. DABLEY, M.A. FRIXCIPAL OF THE ROYAL SCHOOL OF DUNGANXON'"
+  }
+ },
+ "_checks": {
+  "j-r-darley-grecian-drama-1840": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

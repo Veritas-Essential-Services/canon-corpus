@@ -1,0 +1,92 @@
+{
+ "_about": "Gertrude Stein. Bloom's Western Canon (1994) lists: Tender Buttons; The Making of Americans; Three Lives. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Gertrude Stein",
+ "_name_words": [
+  "gertrude",
+  "stein"
+ ],
+ "_surname": [
+  "stein",
+  "gertrude stein"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stein-three-lives": [
+   15408,
+   "Three Lives: Stories of The Good Anna, Melanctha and The Gentle Lena"
+  ],
+  "stein-tender-buttons": [
+   15396,
+   "Tender Buttons: Objects, Food, Rooms"
+  ]
+ },
+ "internet_archive": {
+  "stein-making-americans": [
+   "makingofamerican0000unse_j2t9",
+   "The Making of Americans, Being a History of a Family's Progress"
+  ]
+ },
+ "_bloom": {
+  "stein-three-lives": {
+   "bloom_n": [
+    1250
+   ],
+   "bloom_title": "Three Lives",
+   "year": "unread",
+   "evidence": "PG header read; no copyright notice",
+   "case": "Bloom lists Three Lives (1909). PG has a proofed text.",
+   "note": "Year not printed in the PG header; first publication 1909 (Grafton Press) is well known, but I did not read it on a title page."
+  },
+  "stein-making-americans": {
+   "bloom_n": [
+    1252
+   ],
+   "bloom_title": "The Making of Americans",
+   "year": "1925 (IA metadata; title page names Contact Editions, Three Mountains Press, Paris, no year seen)",
+   "evidence": "djvu first 1500 chars read; collection internetarchivebooks, not lending",
+   "case": "Bloom lists The Making of Americans; the complete 1925 Contact Editions (Paris) text is on IA.",
+   "note": "Paris-printed (Three Mountains Press); 'COPYRIGHTED BY THE AUTHOR' with no year in the part I read -- the 1925 date is from IA metadata. A 1925 publication is PD in the US either way. It is enormous (900+ pp); OCR quality at the start is poor around the title page but the body reads clean. The 1934 Harcourt abridgment is NOT PD."
+  },
+  "stein-tender-buttons": {
+   "bloom_n": [
+    1253
+   ],
+   "bloom_title": "Tender Buttons",
+   "year": "1914 (PG text heading)",
+   "evidence": "PG header + heading 'Gertrude Stein 1914'",
+   "case": "Bloom lists Tender Buttons (1914). PG has it.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "stein-three-lives": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stein-tender-buttons": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stein-making-americans": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

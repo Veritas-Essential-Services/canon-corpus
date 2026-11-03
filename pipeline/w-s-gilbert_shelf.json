@@ -1,0 +1,65 @@
+{
+ "_about": "W. S. Gilbert. Bloom's Western Canon (1994) lists: Bab Ballads; Complete Plays of Gilbert and Sullivan. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "W. S. Gilbert",
+ "_name_words": [
+  "gilbert"
+ ],
+ "_surname": [
+  "w. s. gilbert",
+  "gilbert"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gilbert-complete-plays-sullivan": [
+   808,
+   "The Complete Plays of Gilbert and Sullivan"
+  ],
+  "gilbert-fifty-bab-ballads": [
+   757,
+   "Fifty \"Bab\" Ballads: Much Sound and Little Sense"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "gilbert-complete-plays-sullivan": {
+   "bloom_n": [
+    515
+   ],
+   "bloom_title": "Complete Plays of Gilbert and Sullivan",
+   "year": "unread",
+   "evidence": "Read PG header: 'collaborated on 14 operas in the period from 1871 to 1896'.",
+   "case": "Bloom lists the Savoy operas; nothing by Gilbert is held. PG 808 has all the libretti.",
+   "note": ""
+  },
+  "gilbert-fifty-bab-ballads": {
+   "bloom_n": [
+    516
+   ],
+   "bloom_title": "Bab Ballads",
+   "year": "1884 (PG credit 'Transcribed from the 1884 George Routledge and Sons edition')",
+   "evidence": "Read PG header.",
+   "case": "Bloom lists the Bab Ballads; not held.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "gilbert-complete-plays-sullivan": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "w. s. gilbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gilbert-fifty-bab-ballads": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "w. s. gilbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

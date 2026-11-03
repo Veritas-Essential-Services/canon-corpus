@@ -1,0 +1,188 @@
+{
+ "_about": "Robinson Ellis (1834-1913), Corpus Professor of Latin at Oxford. Works with English commentary or prose; his verse Catullus is held on the catullus shelf (PG 18867). Latin-only editions (Noctes Manilianae, Appendix Vergiliana, Ibis) not taken. Round dx (2026-10-23) added, raw IA OCR with title pages read: The Fables of Avianus (Clarendon Press, 1887) and his Oxford lectures and papers: The New Fragments of Juvenal (1901), A New Edition of Manilius Book I (Hermathena, 1904), The Correspondence of Fronto and M. Aurelius (1904), On the Historia Augusta (Hermathena, 1905), The Elegiae in Maecenatem (1907), The Annalist Licinianus (1908). Not taken: his Latin-only recensions (Catullus, Ibis, Velleius, Appendix Vergiliana, Noctes Manilianae).",
+ "_author": "Robinson Ellis (1834-1913)",
+ "_name_words": [
+  "ellis",
+  "catullus",
+  "commentary",
+  "aetna",
+  "copa",
+  "century"
+ ],
+ "_surname": [
+  "ellis"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ellis-commentary-catullus-1889": [
+   "commentaryoncatu00elliuoft",
+   "A Commentary on Catullus (2nd ed., Oxford, 1889)"
+  ],
+  "ellis-aetna-1901": [
+   "cu31924026475602",
+   "Aetna: a critical recension of the text, with prolegomena, translation, commentary (Oxford, 1901)"
+  ],
+  "ellis-catullus-xivth-century-1905": [
+   "catullusinxivthc00elli",
+   "Catullus in the XIVth Century (1905)"
+  ],
+  "ellis-bodleian-copa-1906": [
+   "bodleianmsofcopa00elli",
+   "A Bodleian MS. of Copa, Moretum, and other poems of the Appendix Vergiliana (1906)"
+  ],
+  "robinson-ellis-avianus-1887": [
+   "fablesofavianuse00aviauoft",
+   "The Fables of Avianus, edited with prolegomena, critical apparatus and commentary by Robinson Ellis (Oxford: Clarendon Press, 1887); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "robinson-ellis-new-fragments-juvenal-1901": [
+   "cu31924026482475",
+   "The New Fragments of Juvenal, a lecture delivered at Corpus Christi College on Tuesday, February 5, 1901, by Robinson Ellis (London: Henry Frowde, Oxford University Press Warehouse)"
+  ],
+  "robinson-ellis-manilius-book-i-1904": [
+   "neweditionofmani00ellirich",
+   "A New Edition of Manilius, Book I, by Robinson Ellis, reprinted from Hermathena vol. XIII no. XXX (1904)"
+  ],
+  "robinson-ellis-fronto-aurelius-1904": [
+   "cu31924026487508",
+   "The Correspondence of Fronto and M. Aurelius, a lecture by Robinson Ellis (London: Oxford University Press Warehouse, 1904)"
+  ],
+  "robinson-ellis-historia-augusta-1905": [
+   "onhistoriaaugust00elli",
+   "On the Historia Augusta, by Robinson Ellis, reprinted from Hermathena vol. XIII no. XXXI (1905)"
+  ],
+  "robinson-ellis-elegiae-in-maecenatem-1907": [
+   "elegiaeinmaecena00elli",
+   "The Elegiae in Maecenatem, a lecture delivered in the hall of Corpus Christi College, Oxford, by Robinson Ellis (London: Oxford University Press, 1907)"
+  ],
+  "robinson-ellis-annalist-licinianus-1908": [
+   "cu31924026482715",
+   "The Annalist Licinianus, a lecture delivered in the hall of Corpus Christi College, Oxford, May 29, 1908, with an appendix of emendations of the text, by Robinson Ellis (London: Henry Frowde, Oxford University Press Warehouse)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ellis-commentary-catullus-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ellis-aetna-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ellis-catullus-xivth-century-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ellis-bodleian-copa-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "robinson-ellis-avianus-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "robinson-ellis-new-fragments-juvenal-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "robinson-ellis-manilius-book-i-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "robinson-ellis-fronto-aurelius-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "robinson-ellis-historia-augusta-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "robinson-ellis-elegiae-in-maecenatem-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "[1907]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "robinson-ellis-annalist-licinianus-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

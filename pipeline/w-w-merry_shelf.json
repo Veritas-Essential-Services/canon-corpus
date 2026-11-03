@@ -1,0 +1,116 @@
+{
+ "_about": "W. W. Merry (1835-1918), Rector of Lincoln College, Oxford: Homer's Odyssey, Books I-XII, edited with English notes, appendices etc., with James Riddell (1823-1866), second edition revised (Oxford: Clarendon Press, 1886), raw IA; Greek text with English commentary, kept per Adam's 2026-10-23 ruling. Its companion volume, Books XIII-XXIV by D. B. Monro (1901), is on the monro shelf. Round dx (2026-10-23) added, raw IA OCR with title pages read: Selections from Herodotus (1892 printing); Homer's Odyssey Books XIII-XXIV, school edition (1882); Aristophanes, The Clouds (new edition, 1889) and The Birds (1889). Not taken: his Specimens of Greek Dialects and his Knights, Frogs and Wasps, whose scans OCR the English as Greek letters, and an Acharnians known only from a partial microfilm.  Round dz adds his Selected Fragments of Roman Poetry (1891).",
+ "_author": "William Walter Merry (1835-1918)",
+ "_name_words": [
+  "merry",
+  "odyssey",
+  "homer"
+ ],
+ "_surname": [
+  "w. walter merry",
+  "w. w. merry",
+  "merry, w. w"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-w-merry-odyssey-i-xii-1886": [
+   "odysseyho01home",
+   "Homer's Odyssey, Books I-XII, edited with English notes, appendices etc., by W. Walter Merry and James Riddell, second edition revised (Oxford: Clarendon Press, 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-w-merry-selections-herodotus-1892": [
+   "selectionsfromhe00herorich",
+   "Selections from Herodotus, edited by W. Walter Merry (Oxford: Clarendon Press, M DCCC XCII [1892]); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-w-merry-odyssey-xiii-xxiv-1882": [
+   "odysseybooksxiii00home",
+   "Homer, Odyssey Books XIII-XXIV, school edition, by W. W. Merry, Clarendon Press Series (Oxford: Clarendon Press, M DCCC LXXXII [1882]); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-w-merry-clouds-1889": [
+   "cloudswithintrod00arisuoft",
+   "Aristophanes, The Clouds, with introduction and notes by W. W. Merry, new edition, Clarendon Press Series (Oxford: Clarendon Press, M DCCC LXXXIX [1889]); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-w-merry-birds-1889": [
+   "birdswithintrodn00arisuoft",
+   "Aristophanes, The Birds, with introduction and notes by W. W. Merry, part I, introduction and text, Clarendon Press Series (Oxford: Clarendon Press; London: Henry Frowde, M DCCC LXXXIX [1889]); Greek-dense, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-w-merry-selected-fragments-of-roman-poetry-1891": [
+   "selectedfragmen00merr",
+   "Selected Fragments of Roman Poetry from the earliest times of the Republic to the Augustan age, with introduction and notes by W. W. Merry (Oxford: Clarendon Press, 1891)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-w-merry-odyssey-i-xii-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. walter merry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "w-w-merry-selections-herodotus-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. walter merry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892 [pref. 1880]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-w-merry-odyssey-xiii-xxiv-1882": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. merry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "w-w-merry-clouds-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. merry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-w-merry-birds-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-w-merry-selected-fragments-of-roman-poetry-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. merry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "w-w-merry-birds-1889": {
+   "author": "title page OCRs the editor as 'Ἀν ER ty, DD. Rector af Lincoln College, Oxford' (Clarendon Press, M DCCC LXXXIX); W. W. Merry was Rector of Lincoln College"
+  }
+ }
+}

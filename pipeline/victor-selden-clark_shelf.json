@@ -1,0 +1,32 @@
+{
+ "_about": "Victor Selden Clark (1868-1946), raw IA OCR of his Columbia doctoral dissertation, Studies in the Latin of the Middle Ages and the Renaissance (Lancaster, Pa.: New Era Printing Company, 1900; copyright 1900, US public domain by date). Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_author": "Victor Selden Clark (1868-1946)",
+ "_name_words": [
+  "clark"
+ ],
+ "_surname": [
+  "victor selden clark"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "victor-selden-clark-latin-middle-ages-renaissance-1900": [
+   "studiesinlatinof00clarrich",
+   "Studies in the Latin of the Middle Ages and the Renaissance, by Victor Selden Clark (Columbia dissertation; Lancaster, Pa.: Press of the New Era Printing Company, 1900)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "victor-selden-clark-latin-middle-ages-renaissance-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "victor selden clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "[1900]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

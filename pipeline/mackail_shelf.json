@@ -1,5 +1,5 @@
 {
- "_about": "John William Mackail (1859-1945). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Latin Literature, clean Gutenberg; Lectures on Greek Poetry (Longmans, 1910), raw IA OCR. His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. No uids minted.",
+ "_about": "John William Mackail (1859-1945). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Latin Literature, clean Gutenberg; Lectures on Greek Poetry (Longmans, 1910), raw IA OCR. His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. No uids minted. Round dw (2026-10-23) added, raw IA OCR with title pages read: The Springs of Helicon (1909); Virgil and his Meaning to the World of To-day (Boston: Marshall Jones, 1922); Classical Studies (John Murray, first edition; IA dates it 1925). His Select Epigrams is on greek-lyric and his Virgil and Odyssey translations on the virgil and homer shelves.",
  "_name_words": [
   "mackail"
  ],
@@ -19,12 +19,24 @@
   "mackail-lectures-greek-poetry-1910": [
    "lecturesongreekp00mackuoft",
    "Lectures on Greek Poetry (London: Longmans, Green, 1910)"
+  ],
+  "mackail-springs-of-helicon-1909": [
+   "bwb_S0-EJT-149",
+   "The Springs of Helicon, a study in the progress of English poetry from Chaucer to Milton, by J. W. Mackail (New York, London, Bombay and Calcutta: Longmans, Green; copyright 1909, the OCR reads the imprint year as '7929')"
+  ],
+  "mackail-virgil-and-his-meaning-1922": [
+   "virgilandhismea00mackgoog",
+   "Virgil and his Meaning to the World of To-day, by J. W. Mackail (Boston: Marshall Jones, copyright 1922)"
+  ],
+  "mackail-classical-studies-1925": [
+   "classicalstudies0000unse_i2j2",
+   "Classical Studies, by J. W. Mackail (London: John Murray, first edition; no year in the OCR title page, IA dates it 1925)"
   ]
  },
  "_checks": {
   "mackail-latin-literature": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. w. mackail",
    "identity": "ok",
@@ -33,13 +45,46 @@
   },
   "mackail-lectures-greek-poetry-1910": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. w. mackail",
    "identity": "ok",
    "ia_rights": "ok: published 1910",
    "ia_date": "1910",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackail-springs-of-helicon-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. mackail",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mackail-virgil-and-his-meaning-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. mackail",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackail-classical-studies-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. w. mackail",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

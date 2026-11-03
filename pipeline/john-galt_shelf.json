@@ -1,0 +1,43 @@
+{
+ "_about": "John Galt. Bloom's Western Canon (1994) lists: The Entail. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Galt",
+ "_name_words": [
+  "john",
+  "galt"
+ ],
+ "_surname": [
+  "galt",
+  "john galt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "galt-entail": [
+   44573,
+   "The Entail; or, The Lairds of Grippy"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "galt-entail": {
+   "bloom_n": [
+    434
+   ],
+   "bloom_title": "The Entail",
+   "year": "1822; this text the World's Classics edition (front matter read: 'In The World's Classics it was first published in 1913')",
+   "evidence": "Read PG header: produced from IA scan 'entailorlairdsof1913galt'; front matter shows London/Edinburgh/Glasgow/New York/Toronto/Melbourne/Bombay imprint (Oxford World's Classics style).",
+   "case": "Bloom lists The Entail; nothing by Galt held. PG 44573 is a complete text from a 1913 reprint of the 1822 novel.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "galt-entail": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "galt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

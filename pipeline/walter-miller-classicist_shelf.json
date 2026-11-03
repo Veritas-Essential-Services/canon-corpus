@@ -1,0 +1,32 @@
+{
+ "_about": "Walter Miller (1864-1949), University of Missouri, Loeb translator of Xenophon's Cyropaedia and Cicero's De Officiis (on those shelves), raw IA OCR of Daedalus and Thespis vol. I (1929); published before 1930, so US public domain.  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Walter Miller",
+ "_name_words": [
+  "miller"
+ ],
+ "_surname": [
+  "walter miller"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "walter-miller-daedalus-and-thespis-1-1929": [
+   "daedalusthespisc0001mill",
+   "Daedalus and Thespis: the contributions of the ancient dramatic poets to our knowledge of the arts and crafts of Greece, volume I: Architecture and Topography, by Walter Miller (New York: The Macmillan Company, 1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "walter-miller-daedalus-and-thespis-1-1929": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

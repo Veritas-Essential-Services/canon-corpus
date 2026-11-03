@@ -1,0 +1,34 @@
+{
+ "_about": "Edwin Wallace (1848-1884), Fellow and Tutor of Worcester College, Oxford: Outlines of the Philosophy of Aristotle (Pitt Press Series; Cambridge: University Press, stereotyped edition, first edition 1883, this printing after the 1898 reprint), raw IA OCR. Not taken: his Aristotle's Psychology in Greek and English (1882), whose open scan OCRs the English as Greek letters. Classical scholarship and the philosophy canon (lane B, round dv). No uids minted.",
+ "_author": "Edwin Wallace (1848-1884)",
+ "_name_words": [
+  "wallace",
+  "aristotle"
+ ],
+ "_surname": [
+  "edwin wallace",
+  "wallace, edwin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "edwin-wallace-outlines-aristotle": [
+   "outlinesofphilos00wall",
+   "Outlines of the Philosophy of Aristotle, compiled by Edwin Wallace (Pitt Press Series; Cambridge: University Press, stereotyped edition; first edition 1883, reprinted 1887, 1890, 1894, 1898; the OCR reads the title-page year as 1808)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "edwin-wallace-outlines-aristotle": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "Thomas George Tucker (1859-1946), Professor of Classical Philology at Melbourne. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Life in the Roman World of Nero and St. Paul, Sappho, clean Gutenberg. No uids minted.",
+ "_about": "Thomas George Tucker (1859-1946), Professor of Classical Philology at Melbourne. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Life in the Roman World of Nero and St. Paul, Sappho, clean Gutenberg. No uids minted. Round dw (2026-10-23) added, raw IA OCR with title pages read: the Proem to Plato's Republic (1900); The Frogs of Aristophanes (1906); Life in Ancient Athens (1906, this printing 1916); The Foreign Debt of English Literature (1907). His Aeschylus editions are on the aeschylus shelf. Not taken: Thucydides VIII (1892), whose only scan OCRs the English as Greek letters.",
  "_name_words": [
   "tucker"
  ],
@@ -19,11 +19,28 @@
    "Sappho"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "t-g-tucker-proem-ideal-commonwealth-1900": [
+   "bwb_KU-426-623",
+   "The Proem to the Ideal Commonwealth of Plato (Politeias Prooimion), an introduction to the language and method of the 'Socratic' dialogues, Republic Book I and Book II cc. 1-10, with introduction and critical and explanatory notes by T. G. Tucker (London: George Bell, 1900); Greek-dense, kept per Adam's 2026-10-23 ruling"
+  ],
+  "t-g-tucker-frogs-1906": [
+   "frogsofaristopha00arisrich",
+   "The Frogs of Aristophanes, edited by T. G. Tucker (London: Macmillan; New York: The Macmillan Company, 1906)"
+  ],
+  "t-g-tucker-life-ancient-athens-1906": [
+   "cu31924028305005",
+   "Life in Ancient Athens, the social and public life of a classical Athenian from day to day, by T. G. Tucker (New York: The Macmillan Company; London: Macmillan, 1916; first published December 1906, this a reprint)"
+  ],
+  "t-g-tucker-foreign-debt-english-literature-1907": [
+   "foreigndebtofen00tuck",
+   "The Foreign Debt of English Literature, by T. G. Tucker (London: George Bell; the OCR reads the year as '190;', IA dates it 1907)"
+  ]
+ },
  "_checks": {
   "tucker-life-roman-world-nero-paul": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "t. g. tucker",
    "identity": "ok",
@@ -32,12 +49,56 @@
   },
   "tucker-sappho": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "t. g. tucker",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "t-g-tucker-proem-ideal-commonwealth-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. g. tucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "t-g-tucker-frogs-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. g. tucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "t-g-tucker-life-ancient-athens-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. g. tucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "t-g-tucker-foreign-debt-english-literature-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. g. tucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }

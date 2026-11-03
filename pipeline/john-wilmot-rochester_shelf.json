@@ -1,0 +1,42 @@
+{
+ "_about": "John Wilmot, Earl of Rochester. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Wilmot, Earl of Rochester",
+ "_name_words": [
+  "wilmot"
+ ],
+ "_surname": [
+  "rochester",
+  "wilmot"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rochester-works-right-honourable": [
+   44891,
+   "The Works of the Right Honourable John, Earl of Rochester"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "rochester-works-right-honourable": {
+   "bloom_n": [
+    182
+   ],
+   "bloom_title": "Poems",
+   "year": "1718 (PG text: 'Printed for the Booksellers of London and Westminster. 1718')",
+   "evidence": "PG text read.",
+   "case": "An 18th-c. collected Rochester; the only PD collected text on PG.",
+   "note": "Contains some misattributions typical of early editions."
+  }
+ },
+ "_checks": {
+  "rochester-works-right-honourable": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rochester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

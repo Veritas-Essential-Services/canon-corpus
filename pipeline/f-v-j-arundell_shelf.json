@@ -1,0 +1,33 @@
+{
+ "_about": "Francis Vyvyan Jago Arundell (1780-1846), chaplain at Smyrna, raw IA OCR of A Visit to the Seven Churches of Asia (1828).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "F. V. J. Arundell",
+ "_name_words": [
+  "arundell"
+ ],
+ "_surname": [
+  "f. v. j. arundell",
+  "arundell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "f-v-j-arundell-visit-to-seven-churches-of-asia-1828": [
+   "visittosevenchur00arun",
+   "A Visit to the Seven Churches of Asia, with an excursion into Pisidia, containing remarks on the geography and antiquities of those countries and numerous inscriptions, by the Rev. F. V. J. Arundell, British Chaplain at Smyrna (London: John Rodwell, 1828)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "f-v-j-arundell-visit-to-seven-churches-of-asia-1828": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arundell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

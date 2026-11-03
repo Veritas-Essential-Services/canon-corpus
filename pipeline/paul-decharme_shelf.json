@@ -1,0 +1,41 @@
+{
+ "_about": "Paul Decharme (1839-1905), Sorbonne: Euripides and the Spirit of his Dramas, tr. James Loeb (New York: Macmillan, 1906). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Paul Decharme (1839-1905)",
+ "_name_words": [
+  "decharme",
+  "paul",
+  "euripides",
+  "spirit",
+  "dramas"
+ ],
+ "_surname": [
+  "decharme"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "decharme-euripides-spirit-dramas-1906": [
+   "cu31924026667687",
+   "Euripides and the Spirit of his Dramas, tr. James Loeb (1906)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "decharme-euripides-spirit-dramas-1906": "Loeb"
+ },
+ "_checks": {
+  "decharme-euripides-spirit-dramas-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "decharme",
+   "translator_claimed": "Loeb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

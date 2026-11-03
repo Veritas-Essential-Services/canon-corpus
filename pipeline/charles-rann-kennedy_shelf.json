@@ -1,0 +1,35 @@
+{
+ "_about": "Charles Rann Kennedy (1808-1867), barrister and classical scholar, translator of Demosthenes for Bohn: Specimens of Greek and Latin Verse, chiefly translations (London: Henry G. Bohn, 1853), English poems (Byron, Milton, Shakespeare and others) rendered into Greek and Latin verse, raw IA. Greek-heavy OCR (clean ratio 0.80), kept per Adam's 2026-10-23 ruling; a candidate for the later Greek re-OCR batch. His Demosthenes is on the demosthenes shelf and his Virgil on the virgil shelf.",
+ "_author": "Charles Rann Kennedy (1808-1867)",
+ "_name_words": [
+  "kennedy",
+  "specimens",
+  "verse"
+ ],
+ "_surname": [
+  "charles rann kennedy",
+  "rann kennedy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "charles-rann-kennedy-specimens-1853": [
+   "specimensofgreek00kenn",
+   "Specimens of Greek and Latin Verse, chiefly translations (London: Henry G. Bohn, 1853); Greek-heavy, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "charles-rann-kennedy-specimens-1853": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles rann kennedy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "_about": "Frederick Seymour, travel writer, raw IA OCR of Up Hill and Down Dale in Ancient Etruria (1910). Classical topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Frederick Seymour",
+ "_name_words": [
+  "seymour"
+ ],
+ "_surname": [
+  "frederick seymour",
+  "seymour"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "frederick-seymour-ancient-etruria-1910": [
+   "uphilldowndalein00seym",
+   "Up Hill and Down Dale in Ancient Etruria, by Frederick Seymour (London: T. Fisher Unwin, 1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "frederick-seymour-ancient-etruria-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick seymour",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

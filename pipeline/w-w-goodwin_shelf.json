@@ -1,0 +1,49 @@
+{
+ "_about": "William Watson Goodwin (1831-1912), Eliot Professor of Greek at Harvard, raw IA OCR of the rewritten Syntax of the Moods and Tenses of the Greek Verb (1890) and his edition of Demosthenes On the Crown (1901); not Thomas Goodwin the Puritan, whose shelf is goodwin. Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "William Watson Goodwin",
+ "_name_words": [
+  "goodwin"
+ ],
+ "_surname": [
+  "william watson goodwin",
+  "w. w. goodwin",
+  "goodwin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-w-goodwin-moods-and-tenses-1890": [
+   "syntaxofmoodst00good",
+   "Syntax of the Moods and Tenses of the Greek Verb, by William Watson Goodwin, rewritten and enlarged (Boston: Ginn & Company, 1890)"
+  ],
+  "w-w-goodwin-demosthenes-on-the-crown-1901": [
+   "dmosthenousperi00goodgoog",
+   "Demosthenes On the Crown, with critical and explanatory notes, an historical sketch and essays, by William Watson Goodwin (Cambridge: at the University Press, 1901)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-w-goodwin-moods-and-tenses-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william watson goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "w-w-goodwin-demosthenes-on-the-crown-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william watson goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

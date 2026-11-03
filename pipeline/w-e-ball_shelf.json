@@ -1,0 +1,32 @@
+{
+ "_about": "W. E. Ball, LL.D., raw IA OCR of St. Paul and the Roman Law, and other studies on the origin of the form of doctrine (1901). Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "W. E. Ball",
+ "_name_words": [
+  "ball"
+ ],
+ "_surname": [
+  "w. e. ball"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-e-ball-st-paul-and-the-roman-law-1901": [
+   "stpaulandtheroma00balluoft",
+   "St. Paul and the Roman Law, and other studies on the origin of the form of doctrine, by W. E. Ball (Edinburgh: T. & T. Clark, 1901)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-e-ball-st-paul-and-the-roman-law-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. ball",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

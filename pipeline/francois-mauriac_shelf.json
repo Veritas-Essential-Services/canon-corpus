@@ -1,0 +1,50 @@
+{
+ "_about": "François Mauriac. Bloom's Western Canon (1994) lists: The Desert of Love. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "François Mauriac",
+ "_name_words": [
+  "francois",
+  "mauriac"
+ ],
+ "_surname": [
+  "mauriac",
+  "francois mauriac"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mauriac-desert-love": [
+   "desertoflove0000fran_m1a0",
+   "The Desert of Love, by François Mauriac, translated from the French by Samuel Putnam"
+  ]
+ },
+ "_translators": {
+  "mauriac-desert-love": "Putnam"
+ },
+ "_bloom": {
+  "mauriac-desert-love": {
+   "bloom_n": [
+    807
+   ],
+   "bloom_title": "The Desert of Love",
+   "year": "1929 (title page: New York, Covici-Friede, 1929; 'Copyright, 1929, by Covici, Friede Inc.')",
+   "evidence": "Read title page, copyright line and opening of chapter I; University of Arizona copy, collection internetarchivebooks/universityofarizonalib (not lending).",
+   "case": "Bloom lists The Desert of Love; Le Désert de l'amour (1925) was Englished by Samuel Putnam in 1929, so that translation is US-PD. This is the 1929 Covici-Friede first edition.",
+   "note": "Avoid desertoflove0000fran_f9r1: despite its '1925' IA date it is Gerard Hopkins's translation, first published 1949 (not PD)."
+  }
+ },
+ "_checks": {
+  "mauriac-desert-love": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "mauriac",
+   "translator_claimed": "Putnam",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

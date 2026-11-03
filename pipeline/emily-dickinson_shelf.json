@@ -1,0 +1,69 @@
+{
+ "_about": "Emily Dickinson. Bloom's Western Canon (1994) lists: Complete Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Emily Dickinson",
+ "_name_words": [
+  "emily",
+  "dickinson"
+ ],
+ "_surname": [
+  "dickinson",
+  "emily dickinson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dickinson-poems": [
+   12242,
+   "Poems by Emily Dickinson, Three Series, Complete"
+  ]
+ },
+ "internet_archive": {
+  "dickinson-complete-poems": [
+   "completepoemsofe0000emil",
+   "The Complete Poems of Emily Dickinson, with an introduction by her niece Martha Dickinson Bianchi"
+  ]
+ },
+ "_bloom": {
+  "dickinson-complete-poems": {
+   "bloom_n": [
+    620
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "1924 (title page: Boston, Little, Brown, 1924; 'Published July, 1924')",
+   "evidence": "djvu title page and copyright page read; collection internetarchivebooks",
+   "case": "Bianchi's 1924 Complete Poems was the fullest pre-1931 edition. The PG Three Series is the clean-text fallback.",
+   "note": "Both are edited (regularised) texts, not the Johnson 1955 manuscript text (not PD). Nothing by Dickinson is held. Another 1924 scan: completepoemsofe00dick_1 (LoC), which has a garbled OCR front."
+  },
+  "dickinson-poems": {
+   "bloom_n": [
+    620
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "unread",
+   "evidence": "PG header read; the 1890-96 Todd/Higginson selection",
+   "case": "Bianchi's 1924 Complete Poems was the fullest pre-1931 edition. The PG Three Series is the clean-text fallback.",
+   "note": "Both are edited (regularised) texts, not the Johnson 1955 manuscript text (not PD). Nothing by Dickinson is held. Another 1924 scan: completepoemsofe00dick_1 (LoC), which has a garbled OCR front."
+  }
+ },
+ "_checks": {
+  "dickinson-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dickinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickinson-complete-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dickinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

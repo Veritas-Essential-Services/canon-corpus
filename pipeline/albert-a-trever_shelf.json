@@ -1,0 +1,35 @@
+{
+ "_about": "Albert A. Trever (1874-1940), Lawrence College historian: A History of Greek Economic Thought (1916). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Albert Augustus Trever (1874-1940)",
+ "_name_words": [
+  "trever",
+  "greek",
+  "economic",
+  "thought"
+ ],
+ "_surname": [
+  "trever"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "trever-greek-economic-thought-1916": [
+   "historyofgreekec01trev",
+   "A History of Greek Economic Thought (1916)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "trever-greek-economic-thought-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

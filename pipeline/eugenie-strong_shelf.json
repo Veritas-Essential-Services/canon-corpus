@@ -1,0 +1,78 @@
+{
+ "_about": "Eugenie Sellers Strong (1860-1943), Assistant Director of the British School at Rome, raw IA OCR of her books on Roman art (1907-1928); everything here was published before 1930, so US public domain. Roman antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Eugenie Strong",
+ "_name_words": [
+  "strong"
+ ],
+ "_surname": [
+  "eugenie strong",
+  "arthur strong"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eugenie-strong-roman-sculpture-1907": [
+   "romansculpturefr00strouoft",
+   "Roman Sculpture from Augustus to Constantine, by Mrs. Arthur Strong, LL.D. (London: Duckworth and Co.; New York: Charles Scribner's Sons, 1907)"
+  ],
+  "eugenie-strong-apotheosis-and-after-life-1915": [
+   "apotheosisafterl00strouoft",
+   "Apotheosis and After Life: three lectures on certain phases of art and religion in the Roman Empire, by Mrs. Arthur Strong (London: Constable and Company, 1915)"
+  ],
+  "eugenie-strong-art-in-ancient-rome-1-1928": [
+   "artinancientrome12stro",
+   "Art in Ancient Rome, volume I, by Eugenie Strong (Ars Una series; New York: Charles Scribner's Sons; copyright 1928)"
+  ],
+  "eugenie-strong-art-in-ancient-rome-2-1928": [
+   "artinancientrome02stro",
+   "Art in Ancient Rome, volume II, by Eugenie Strong (Ars Una series; New York: Charles Scribner's Sons; copyright 1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "eugenie-strong-roman-sculpture-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugenie strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eugenie-strong-apotheosis-and-after-life-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugenie strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eugenie-strong-art-in-ancient-rome-1-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugenie strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": "Copyright status reviewed by UF staff - Out of copyright",
+   "ia_lending": null
+  },
+  "eugenie-strong-art-in-ancient-rome-2-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugenie strong",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": "Copyright status reviewed by UF staff - Out of copyright",
+   "ia_lending": null
+  }
+ }
+}

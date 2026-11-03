@@ -1,0 +1,180 @@
+{
+ "_about": "Edwin Sidney Hartland (1848-1927), folklorist and anthropologist, President of the Folk-Lore Society. Myth, folklore and the history of religion (lane B, beside Frazer and Tylor). Clean Gutenberg: The Science of Fairy Tales (1891), The Legend of Perseus (3 vols., 1894-1896) and Ritual and Belief (1914). Raw IA OCR: Primitive Paternity (2 vols., 1909-1910), The Legend of St. Kenelm (1916), Primitive Society (1921), The Evolution of Kinship (Frazer Lecture, 1922) and Primitive Law (1924). Held: English Fairy and Other Folk Tales (Scott Library), scan prints no year. US public domain. No uids minted.",
+ "_author": "Edwin Sidney Hartland",
+ "_name_words": [
+  "edwin",
+  "sidney",
+  "hartland"
+ ],
+ "_surname": [
+  "edwin sidney hartland",
+  "e. sidney hartland",
+  "e. s. hartland",
+  "hartland"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hartland-science-of-fairy-tales": [
+   24614,
+   "The Science of Fairy Tales"
+  ],
+  "hartland-legend-of-perseus-1": [
+   71074,
+   "The Legend of Perseus, vol. 1, The Supernatural Birth"
+  ],
+  "hartland-legend-of-perseus-2": [
+   71107,
+   "The Legend of Perseus, vol. 2, The Life-Token"
+  ],
+  "hartland-legend-of-perseus-3": [
+   71141,
+   "The Legend of Perseus, vol. 3, Andromeda. Medusa."
+  ],
+  "hartland-ritual-and-belief": [
+   71238,
+   "Ritual and Belief"
+  ]
+ },
+ "internet_archive": {
+  "hartland-primitive-paternity-1-1909": [
+   "primitivepaterni01hartuoft",
+   "Primitive Paternity, vol. I (Nutt, 1909)"
+  ],
+  "hartland-primitive-paternity-2-1910": [
+   "primitivepaterni02hartuoft",
+   "Primitive Paternity, vol. II (Nutt, 1910)"
+  ],
+  "hartland-legend-of-st-kenelm-1916": [
+   "legendofstkenelm00hartrich",
+   "The Legend of St. Kenelm (1916)"
+  ],
+  "hartland-primitive-society-1921": [
+   "primitivesociety00hartuoft",
+   "Primitive Society, the beginnings of the family and the reckoning of descent (Methuen, 1921)"
+  ],
+  "hartland-evolution-of-kinship-1922": [
+   "evolutionofkinsh00hartrich",
+   "The Evolution of Kinship, an African study (Oxford, 1922)"
+  ],
+  "hartland-primitive-law-1924": [
+   "primitivelaw0000hart",
+   "Primitive Law (Methuen, 1924)"
+  ]
+ },
+ "_excluded": {
+  "IA englishfairyothe00hartiala": "Scott Library printing with no year on its title page; held"
+ },
+ "_checks": {
+  "hartland-science-of-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin sidney hartland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hartland-legend-of-perseus-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin sidney hartland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hartland-legend-of-perseus-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin sidney hartland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hartland-legend-of-perseus-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin sidney hartland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hartland-ritual-and-belief": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin sidney hartland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hartland-primitive-paternity-1-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin sidney hartland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909-10",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hartland-primitive-paternity-2-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin sidney hartland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909-10",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hartland-legend-of-st-kenelm-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. sidney hartland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hartland-primitive-society-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin sidney hartland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hartland-evolution-of-kinship-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. sidney hartland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hartland-primitive-law-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. sidney hartland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

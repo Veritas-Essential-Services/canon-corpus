@@ -1,0 +1,41 @@
+{
+ "_about": "Jacob von Falke (1825-1897), Austrian art historian: Greece and Rome, their Life and Art, tr. William Hand Browne (1882). Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Jacob von Falke (1825-1897)",
+ "_name_words": [
+  "falke",
+  "greece",
+  "rome",
+  "life",
+  "art"
+ ],
+ "_surname": [
+  "falke"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "falke-greece-and-rome-1882": [
+   "greecerometheirl0000falk",
+   "Greece and Rome: their Life and Art (1882), tr. William Hand Browne"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "falke-greece-and-rome-1882": "Hand Browne"
+ },
+ "_checks": {
+  "falke-greece-and-rome-1882": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "falke",
+   "translator_claimed": "Hand Browne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

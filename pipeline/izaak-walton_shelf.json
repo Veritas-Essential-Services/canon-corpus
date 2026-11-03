@@ -1,0 +1,43 @@
+{
+ "_about": "Izaak Walton. Bloom's Western Canon (1994) lists: The Compleat Angler. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Izaak Walton",
+ "_name_words": [
+  "izaak",
+  "walton"
+ ],
+ "_surname": [
+  "walton",
+  "izaak walton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "walton-compleat-angler": [
+   683,
+   "The Compleat Angler"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "walton-compleat-angler": {
+   "bloom_n": [
+    194
+   ],
+   "bloom_title": "The Compleat Angler",
+   "year": "unread",
+   "evidence": "PG catalogue; also PG 9198 (the 1653 first-edition text).",
+   "case": "Bloom lists Walton's Angler; only Lang's introduction to it is held, not the text.",
+   "note": "PG 9198 reproduces the 1653 text; 683 is the fuller later text with Cotton's part (not verified which)."
+  }
+ },
+ "_checks": {
+  "walton-compleat-angler": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "_about": "Bernard William Henderson (1872-1929), Exeter College Oxford, raw IA OCR of his Life and Principate of the Emperor Nero (1903; issue of 1905), Civil War and Rebellion in the Roman Empire A.D. 69-70 (1908), The Study of Roman History (1921) and The Life and Principate of the Emperor Hadrian (1923). Roman history (lane B, round eb: eighth IA subject sweep). No uids minted. Round ec adds The Great War between Athens and Sparta (preface 1926) and Five Roman Emperors (preface June 1927).",
+ "_author": "Bernard W. Henderson",
+ "_name_words": [
+  "henderson"
+ ],
+ "_surname": [
+  "bernard w. henderson",
+  "b. w. henderson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bernard-w-henderson-nero": [
+   "lifeandprincipa00hendgoog",
+   "The Life and Principate of the Emperor Nero, by Bernard W. Henderson, new and cheaper issue (London: Methuen & Co.; first published 1903, this issue 1905)"
+  ],
+  "bernard-w-henderson-civil-war-rebellion-1908": [
+   "civilwarrebellio00henduoft",
+   "Civil War and Rebellion in the Roman Empire A.D. 69-70, a companion to the 'Histories' of Tacitus, by Bernard W. Henderson (London: Macmillan and Co., 1908)"
+  ],
+  "bernard-w-henderson-study-of-roman-history-1921": [
+   "studyofromanhist00henduoft",
+   "The Study of Roman History, by Bernard W. Henderson (Duckworth's Student Series II; London: Duckworth; first issued 1920, new edition 1921)"
+  ],
+  "bernard-w-henderson-hadrian-1923": [
+   "lifeprincipateof0000hend",
+   "The Life and Principate of the Emperor Hadrian A.D. 76-138, by Bernard W. Henderson (New York: Brentano's; no year on the title page, the preface is dated April 1923)"
+  ],
+  "bernard-w-henderson-great-war-athens-sparta": [
+   "greatwarbetweena0000bern",
+   "The Great War between Athens and Sparta, a companion to the military history of Thucydides, by Bernard W. Henderson (London: Macmillan and Co.; no year on the title page, the preface is dated July 17, 1926)"
+  ],
+  "bernard-w-henderson-five-roman-emperors": [
+   "fiveromanemperor0000bern",
+   "Five Roman Emperors: Vespasian, Titus, Domitian, Nerva, Trajan, A.D. 69-117, by Bernard W. Henderson (Cambridge: at the University Press; no year on the title page, the preface is dated June 1927)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bernard-w-henderson-nero": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard w. henderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bernard-w-henderson-civil-war-rebellion-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard w. henderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bernard-w-henderson-study-of-roman-history-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard w. henderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bernard-w-henderson-hadrian-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard w. henderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bernard-w-henderson-great-war-athens-sparta": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard w. henderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bernard-w-henderson-five-roman-emperors": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard w. henderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

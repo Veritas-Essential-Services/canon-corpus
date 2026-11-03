@@ -1,0 +1,92 @@
+{
+ "_about": "E. S. Bouchier, raw IA OCR of Life and Letters in Roman Africa (Oxford: B. H. Blackwell, 1913; US public domain by date). Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted. Round dz (2026-10-23), raw IA: his provincial histories, Spain under the Roman Empire (1914), Syria as a Roman Province (1916), Sardinia in Ancient Times (1917) and A Short History of Antioch (1921).",
+ "_author": "Edmund Spenser Bouchier (1876-1944)",
+ "_name_words": [
+  "bouchier"
+ ],
+ "_surname": [
+  "e. s. bouchier"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-s-bouchier-life-and-letters-roman-africa-1913": [
+   "lifelettersinrom00boucrich",
+   "Life and Letters in Roman Africa, by E. S. Bouchier (Oxford: B. H. Blackwell; London: Humphrey Milford, 1913)"
+  ],
+  "e-s-bouchier-spain-under-roman-empire-1914": [
+   "spainunderromane00bouc",
+   "Spain under the Roman Empire, by E. S. Bouchier, with a map (Oxford: B. H. Blackwell, 1914)"
+  ],
+  "e-s-bouchier-syria-as-roman-province-1916": [
+   "cu31924028520728",
+   "Syria as a Roman Province, by E. S. Bouchier (Oxford: B. H. Blackwell, 1916)"
+  ],
+  "e-s-bouchier-sardinia-in-ancient-times-1917": [
+   "sardiniainancien00bouc",
+   "Sardinia in Ancient Times, by E. S. Bouchier (Oxford: B. H. Blackwell; New York: Longmans, Green, 1917)"
+  ],
+  "e-s-bouchier-short-history-antioch-1921": [
+   "shorthistoryofan00boucuoft",
+   "A Short History of Antioch, 300 B.C.-A.D. 1268, by E. S. Bouchier (Oxford: Basil Blackwell, 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-s-bouchier-life-and-letters-roman-africa-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. bouchier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "e-s-bouchier-spain-under-roman-empire-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. bouchier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "e-s-bouchier-syria-as-roman-province-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. bouchier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "e-s-bouchier-sardinia-in-ancient-times-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. bouchier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "e-s-bouchier-short-history-antioch-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. bouchier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

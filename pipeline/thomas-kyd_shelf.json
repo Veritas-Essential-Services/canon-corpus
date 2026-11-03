@@ -1,0 +1,43 @@
+{
+ "_about": "Thomas Kyd. Bloom's Western Canon (1994) lists: The Spanish Tragedy. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Thomas Kyd",
+ "_name_words": [
+  "thomas",
+  "kyd"
+ ],
+ "_surname": [
+  "kyd",
+  "thomas kyd"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kyd-spanish-tragedie": [
+   6043,
+   "The Spanish Tragedie"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "kyd-spanish-tragedie": {
+   "bloom_n": [
+    163
+   ],
+   "bloom_title": "The Spanish Tragedy",
+   "year": "1897 (PG note: 'Edited by John Matthews Manly, 1897')",
+   "evidence": "PG header read; Manly's Specimens text.",
+   "case": "Both are PD; Manly's is the edited text.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "kyd-spanish-tragedie": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "kyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

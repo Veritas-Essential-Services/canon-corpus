@@ -1,0 +1,245 @@
+{
+ "_about": "William Butler Yeats. Bloom's Western Canon (1994) lists: A Vision; Collected Plays; Mythologies; The Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Butler Yeats",
+ "_name_words": [
+  "william",
+  "butler",
+  "yeats"
+ ],
+ "_surname": [
+  "yeats",
+  "william butler yeats"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "yeats-poems": [
+   38877,
+   "Poems (T. Fisher Unwin; Every Irishman's Library)"
+  ],
+  "yeats-rosa-alchemica": [
+   5794,
+   "Rosa Alchemica"
+  ],
+  "yeats-tables-law": [
+   43611,
+   "The Tables of the Law; & The Adoration of the Magi"
+  ],
+  "yeats-per-amica-silentia-lunae": [
+   33338,
+   "Per Amica Silentia Lunae"
+  ]
+ },
+ "internet_archive": {
+  "yeats-later-poems": [
+   "cu31924012971341",
+   "Later Poems, by W. B. Yeats"
+  ],
+  "yeats-tower": [
+   "yeats_thetower_1928",
+   "The Tower, by W. B. Yeats",
+   "Yeats The tower_djvu.txt"
+  ],
+  "yeats-plays-prose-verse": [
+   "playsinprosevers00yeatuoft",
+   "Plays in Prose and Verse, written for an Irish theatre, and generally with the help of a friend"
+  ],
+  "yeats-plays-controversies": [
+   "playscontroversi0000wbye",
+   "Plays and Controversies, by W. B. Yeats"
+  ],
+  "yeats-vision": [
+   "yeats-1925-a-vision",
+   "A Vision: an explanation of life founded upon the writings of Giraldus and upon certain doctrines attributed to Kusta ben Luka",
+   "Yeats, 1925, A Vision_djvu.txt"
+  ]
+ },
+ "_bloom": {
+  "yeats-poems": {
+   "bloom_n": [
+    847
+   ],
+   "bloom_title": "The Collected Poems",
+   "year": "unread (PG text: revised 1895, 'reprinted ... 1919, and 1920')",
+   "evidence": "PG text read: Yeats's own collected early poems (Crossways, The Rose, Wanderings of Oisin, plus Countess Cathleen and Land of Heart's Desire).",
+   "case": "Bloom lists The Collected Poems (1933). Its contents up to The Tower (1928) are US-PD; these three volumes cover all of it except The Winding Stair (1933).",
+   "note": "The Winding Stair and later poems are NOT PD, so the full 1933 Collected Poems cannot be added. We already hold no Yeats poetry, only the yeats-folk prose shelf."
+  },
+  "yeats-later-poems": {
+   "bloom_n": [
+    847
+   ],
+   "bloom_title": "The Collected Poems",
+   "year": "1926 printing (title page: Macmillan, London 1926; 'First Edition November 1922, reprinted ... March 1926')",
+   "evidence": "Read title page and preface: 'all poetry not in dramatic form that I have written between my seven-and-twentieth year and the year 1921'; Cornell copy, no known US copyright restrictions.",
+   "case": "Bloom lists The Collected Poems (1933). Its contents up to The Tower (1928) are US-PD; these three volumes cover all of it except The Winding Stair (1933).",
+   "note": "The Winding Stair and later poems are NOT PD, so the full 1933 Collected Poems cannot be added. We already hold no Yeats poetry, only the yeats-folk prose shelf."
+  },
+  "yeats-tower": {
+   "bloom_n": [
+    847
+   ],
+   "bloom_title": "The Collected Poems",
+   "year": "1928 (title page: Macmillan, London 1928)",
+   "evidence": "Read title page and contents (Sailing to Byzantium ... All Souls' Night); collection opensource, PD mark.",
+   "case": "Bloom lists The Collected Poems (1933). Its contents up to The Tower (1928) are US-PD; these three volumes cover all of it except The Winding Stair (1933).",
+   "note": "The Winding Stair and later poems are NOT PD, so the full 1933 Collected Poems cannot be added. We already hold no Yeats poetry, only the yeats-folk prose shelf."
+  },
+  "yeats-plays-prose-verse": {
+   "bloom_n": [
+    848
+   ],
+   "bloom_title": "Collected Plays",
+   "year": "1922 (title page: Macmillan, London 1922; 'First Edition November 1922, Reprinted December 1922')",
+   "evidence": "Read title page and preface: all Yeats's Abbey plays except Land of Heart's Desire and Countess Cathleen; University of Toronto copy.",
+   "case": "Bloom lists the Collected Plays (1934/1952). These two Macmillan volumes are Yeats's own pre-1931 collected plays; together with Poems (PG 38877, which holds Countess Cathleen and Land of Heart's Desire) they cover every play through the dance plays.",
+   "note": "Plays after 1924 (The Words upon the Window-pane, Purgatory, etc.) are not PD. PG also has several plays singly (Countess Cathleen 5167, Land of Heart's Desire 5168, Hour Glass 7448, King's Threshold 41102, Two Plays for Dancers 33321)."
+  },
+  "yeats-plays-controversies": {
+   "bloom_n": [
+    848
+   ],
+   "bloom_title": "Collected Plays",
+   "year": "1924 (title page: New York, Macmillan 1924; 'New and Revised Edition. Published August, 1924')",
+   "evidence": "Read title page and preface: two early plays, Four Plays for Dancers, and the Samhain dramatic notes; Wellesley College copy, collection internetarchivebooks (not lending).",
+   "case": "Bloom lists the Collected Plays (1934/1952). These two Macmillan volumes are Yeats's own pre-1931 collected plays; together with Poems (PG 38877, which holds Countess Cathleen and Land of Heart's Desire) they cover every play through the dance plays.",
+   "note": "Plays after 1924 (The Words upon the Window-pane, Purgatory, etc.) are not PD. PG also has several plays singly (Countess Cathleen 5167, Land of Heart's Desire 5168, Hour Glass 7448, King's Threshold 41102, Two Plays for Dancers 33321)."
+  },
+  "yeats-vision": {
+   "bloom_n": [
+    849
+   ],
+   "bloom_title": "A Vision",
+   "year": "1925 (title page: London, privately printed for subscribers only by T. Werner Laurie, 1925)",
+   "evidence": "Read title page, limitation notice (600 numbered signed copies) and contents (Books I-IV); collection opensource.",
+   "case": "Bloom lists A Vision. The first version (1925) is US-PD; this scan is that private Werner Laurie edition.",
+   "note": "The 1937 rewritten A Vision is a substantially different text and is NOT PD. Shelve this clearly as the 1925 version."
+  },
+  "yeats-rosa-alchemica": {
+   "bloom_n": [
+    850
+   ],
+   "bloom_title": "Mythologies",
+   "year": "unread",
+   "evidence": "PG title/author checked in catalogue and header.",
+   "case": "Bloom lists Mythologies (a 1959 gathering). All its contents are pre-1931 and PD; we already hold The Celtic Twilight, The Secret Rose and Stories of Red Hanrahan, so these three complete it.",
+   "note": "Held part: yeats-folk shelf (relay). The 1959 Mythologies volume itself is not needed."
+  },
+  "yeats-tables-law": {
+   "bloom_n": [
+    850
+   ],
+   "bloom_title": "Mythologies",
+   "year": "unread",
+   "evidence": "PG header read (title/author).",
+   "case": "Bloom lists Mythologies (a 1959 gathering). All its contents are pre-1931 and PD; we already hold The Celtic Twilight, The Secret Rose and Stories of Red Hanrahan, so these three complete it.",
+   "note": "Held part: yeats-folk shelf (relay). The 1959 Mythologies volume itself is not needed."
+  },
+  "yeats-per-amica-silentia-lunae": {
+   "bloom_n": [
+    850
+   ],
+   "bloom_title": "Mythologies",
+   "year": "1918 (PG text: 'Copyright, 1918 ... Published January, 1918')",
+   "evidence": "PG header read.",
+   "case": "Bloom lists Mythologies (a 1959 gathering). All its contents are pre-1931 and PD; we already hold The Celtic Twilight, The Secret Rose and Stories of Red Hanrahan, so these three complete it.",
+   "note": "Held part: yeats-folk shelf (relay). The 1959 Mythologies volume itself is not needed."
+  }
+ },
+ "_rights_checked": {
+  "yeats-later-poems": "Bloom addition 2026-11-03: 1926 printing (title page: Macmillan, London 1926; 'First Edition November 1922, reprinted ... March 1926'). Read title page and preface: 'all poetry not in dramatic form that I have written between my seven-and-twentieth year and the year 1921'; Cornell copy, no known US copyright restrictions."
+ },
+ "_checks": {
+  "yeats-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-rosa-alchemica": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-tables-law": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-per-amica-silentia-lunae": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-later-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1926 printing (title page: Macmillan, London 1926; 'First Edition November 1922, reprinted ... March 1926'). Read title page and preface: 'all poetry not in dramatic form that I have written between my seven-and-twentieth year and the year 1921'; Cornell copy, no known US copyright restrictions."
+  },
+  "yeats-tower": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yeats-plays-prose-verse": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "yeats-plays-controversies": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yeats-vision": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

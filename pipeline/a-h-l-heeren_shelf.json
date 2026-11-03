@@ -1,0 +1,38 @@
+{
+ "_about": "Arnold Hermann Ludwig Heeren (1760-1842), Göttingen historian, raw IA OCR of Reflections on the Politics of Ancient Greece, tr. George Bancroft (1824). Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "A. H. L. Heeren",
+ "_name_words": [
+  "heeren"
+ ],
+ "_surname": [
+  "heeren"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "a-h-l-heeren-politics-of-ancient-greece-1824": [
+   "reflectionsonpol00heer",
+   "Reflections on the Politics of Ancient Greece, translated from the German of Arnold H. L. Heeren by George Bancroft (Boston: Cummings, Hilliard & Co.; no year in the OCR, IA catalogues 1824)",
+   "tr. George Bancroft"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "a-h-l-heeren-politics-of-ancient-greece-1824": "George Bancroft"
+ },
+ "_checks": {
+  "a-h-l-heeren-politics-of-ancient-greece-1824": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heeren",
+   "translator_claimed": "George Bancroft",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

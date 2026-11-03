@@ -1,0 +1,32 @@
+{
+ "_about": "William Kelly Prentice (1871-1964), Princeton, raw IA OCR of the inscriptions volume of the American expedition to Syria (1908).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "William Kelly Prentice",
+ "_name_words": [
+  "prentice"
+ ],
+ "_surname": [
+  "william kelly prentice"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-k-prentice-greek-and-latin-inscriptions-syria-1908": [
+   "greeklatininscri0000pren",
+   "Greek and Latin Inscriptions (Publications of an American Archaeological Expedition to Syria in 1899-1900, part III), by William Kelly Prentice (New York: The Century Co., 1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-k-prentice-greek-and-latin-inscriptions-syria-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william kelly prentice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

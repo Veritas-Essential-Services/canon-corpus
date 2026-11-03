@@ -1,5 +1,5 @@
 {
- "_about": "H. A. Prichard (1871-1947), Oxford realist: Kant's Theory of Knowledge (Oxford: Clarendon Press, 1909), raw IA OCR, clean 0.94. US public domain. No uids minted.",
+ "_about": "H. A. Prichard (1871-1947), Oxford realist: Kant's Theory of Knowledge (Oxford: Clarendon Press, 1909), raw IA OCR, clean 0.94. US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "H. A. Prichard",
  "_name_words": [
   "harold",
@@ -10,7 +10,12 @@
   "prichard"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "prichard-kants-theory-knowledge-pg": [
+   32701,
+   "Kant's Theory of Knowledge"
+  ]
+ },
  "internet_archive": {
   "prichard-kants-theory-of-knowledge-1909": [
    "kantknowledge00pricuoft",
@@ -19,9 +24,18 @@
  },
  "_excluded": {},
  "_checks": {
+  "prichard-kants-theory-knowledge-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "prichard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "prichard-kants-theory-of-knowledge-1909": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "prichard",
    "identity": "ok",

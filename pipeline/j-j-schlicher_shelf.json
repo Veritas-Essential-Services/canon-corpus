@@ -1,0 +1,38 @@
+{
+ "_about": "John J. Schlicher, raw IA OCR of his Chicago dissertation on rhythmical verse in late Latin (1900); the OCR garbles his name, which was read from the title-page image. Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "John J. Schlicher",
+ "_name_words": [
+  "schlicher"
+ ],
+ "_surname": [
+  "john j. schlicher",
+  "schlicher"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-j-schlicher-origin-of-rhythmical-verse-in-late-latin-1900": [
+   "originofrhythmic00schlrich",
+   "The Origin of Rhythmical Verse in Late Latin: a dissertation (University of Chicago, Department of Latin), by John J. Schlicher (Chicago, 1900)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "j-j-schlicher-origin-of-rhythmical-verse-in-late-latin-1900": {
+   "author": "title-page image (archive.org page n6): JOHN J. SCHLICHER, A.B.; the OCR reads it as garbage"
+  }
+ },
+ "_checks": {
+  "j-j-schlicher-origin-of-rhythmical-verse-in-late-latin-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

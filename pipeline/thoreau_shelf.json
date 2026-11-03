@@ -1,5 +1,5 @@
 {
- "_about": "Thoreau's (1817-1862) Walden with On the Duty of Civil Disobedience, one Gutenberg text. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_about": "Thoreau's (1817-1862) Walden with On the Duty of Civil Disobedience, one Gutenberg text. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv. Bloom addition 2026-11-03 (Bloom's Western Canon): thoreau-poems-nature, thoreau-excursions, thoreau-yankee-canada.",
  "_author": "Henry David Thoreau",
  "_name_words": [
   "henry",
@@ -15,6 +15,18 @@
   "thoreau-walden": [
    205,
    "Walden, and On the Duty of Civil Disobedience (1854; 1849)"
+  ],
+  "thoreau-poems-nature": [
+   59988,
+   "Poems of Nature, ed. Henry S. Salt and Frank B. Sanborn"
+  ],
+  "thoreau-excursions": [
+   9846,
+   "Excursions"
+  ],
+  "thoreau-yankee-canada": [
+   70123,
+   "A Yankee in Canada, with Anti-slavery and Reform Papers"
   ]
  },
  "internet_archive": {},
@@ -24,12 +36,71 @@
  "_checks": {
   "thoreau-walden": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "henry david thoreau",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "thoreau-poems-nature": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "henry david thoreau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thoreau-excursions": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "henry david thoreau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thoreau-yankee-canada": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "henry david thoreau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ },
+ "_bloom": {
+  "thoreau-poems-nature": {
+   "bloom_n": [
+    641
+   ],
+   "bloom_title": "Poems",
+   "year": "unread",
+   "evidence": "PG title page shows Boston and New York / London: John Lane; year not on the lines read",
+   "case": "Salt and Sanborn's Poems of Nature (1895, from knowledge) was the first collection of Thoreau's verse; not held.",
+   "note": "Alternative: PG 42553 Excursions, and Poems (Writings vol. 5, 1906)."
+  },
+  "thoreau-excursions": {
+   "bloom_n": [
+    642
+   ],
+   "bloom_title": "Essays",
+   "year": "1863 (date in PG front matter)",
+   "evidence": "PG text read: Emerson's biographical sketch; Walking, Wild Apples, etc.",
+   "case": "Thoreau's two posthumous essay collections; only Walden and Civil Disobedience are held.",
+   "note": "The machine's PG candidate (Oxford Book of American Essays) is an anthology; not used."
+  },
+  "thoreau-yankee-canada": {
+   "bloom_n": [
+    642
+   ],
+   "bloom_title": "Essays",
+   "year": "1866 (PG title page: Boston, Ticknor and Fields, 1866)",
+   "evidence": "PG title page read",
+   "case": "Thoreau's two posthumous essay collections; only Walden and Civil Disobedience are held.",
+   "note": "The machine's PG candidate (Oxford Book of American Essays) is an anthology; not used."
   }
  }
 }

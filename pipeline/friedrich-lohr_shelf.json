@@ -1,0 +1,41 @@
+{
+ "_about": "Friedrich Lohr: A Day in Ancient Rome, being a revision of Lohr's Aus dem alten Rom, by Edgar S. Shumway (Boston: Heath, 1885). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Friedrich Lohr",
+ "_name_words": [
+  "lohr",
+  "friedrich",
+  "shumway",
+  "ancient",
+  "rome"
+ ],
+ "_surname": [
+  "lohr"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lohr-day-in-ancient-rome-1885": [
+   "cu31924028274029",
+   "A Day in Ancient Rome, rev. Edgar S. Shumway (Boston: Heath, 1885)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "lohr-day-in-ancient-rome-1885": "Shumway"
+ },
+ "_checks": {
+  "lohr-day-in-ancient-rome-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lohr",
+   "translator_claimed": "Shumway",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

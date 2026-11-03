@@ -1,0 +1,47 @@
+{
+ "_about": "William John Law (1786-1869), commissioner of insolvency, raw IA OCR of The Alps of Hannibal (2 vols, 1866). Roman history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "William John Law",
+ "_name_words": [
+  "law"
+ ],
+ "_surname": [
+  "william john law"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-john-law-alps-of-hannibal-1-1866": [
+   "alpsofhannibal01lawwuoft",
+   "The Alps of Hannibal, by William John Law, vol. I (London: Macmillan and Co., 1866)"
+  ],
+  "william-john-law-alps-of-hannibal-2-1866": [
+   "alpsofhannibal02lawwuoft",
+   "The Alps of Hannibal, by William John Law, vol. II (London: Macmillan and Co., 1866)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-john-law-alps-of-hannibal-1-1866": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william john law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "william-john-law-alps-of-hannibal-2-1866": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william john law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

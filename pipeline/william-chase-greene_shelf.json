@@ -1,0 +1,32 @@
+{
+ "_about": "William Chase Greene (1890-1978), Harvard classicist, raw IA OCR of The Achievement of Greece: a chapter in human experience (1923). Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "William Chase Greene",
+ "_name_words": [
+  "greene"
+ ],
+ "_surname": [
+  "william chase greene"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-chase-greene-achievement-of-greece-1923": [
+   "achievementofgre00gree",
+   "The Achievement of Greece: a chapter in human experience, by William Chase Greene (Cambridge: Harvard University Press, 1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-chase-greene-achievement-of-greece-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william chase greene",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

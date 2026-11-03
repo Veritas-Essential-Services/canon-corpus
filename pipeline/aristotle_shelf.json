@@ -203,13 +203,16 @@
    "aristotlemetaphy00arisuoft",
    "Aristotle on his Predecessors (Metaphysics, Book I), tr. A. E. Taylor (Open Court, 1907)",
    "tr. A. E. Taylor"
+  ],
+  "aristotle-hicks-de-anima-1907": [
+   "aristotledeanima011344mbp",
+   "De Anima, with translation, introduction and notes by R. D. Hicks (Cambridge, 1907); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
   "vol. III (1931)": "Meteorologica (Webster), De Mundo (Forster), De Anima (J. A. Smith), Parva Naturalia (Beare and Ross), De Spiritu (Dobson). Published 1931: US public domain from 2027-01-01. Pending; IA has worksofaristotle03arisuoft ready",
   "vol. XII (1952)": "Select Fragments (Ross). Published 1952; renewal status not checked; not cleared. Pending",
   "worksofaristotle10arisuoft / 11 / 12": "duplicate Toronto scans of vols. X-XII; the 'theworksofaristo' scans kept",
-  "R. D. Hicks, De Anima (1907)": "PD and a fine translation, but printed with the Greek text facing; Greek-English mixed OCR. Pending as an alternative De Anima",
   "Perseus English Aristotle": "Loeb translations (Rackham, Tredennick, Freese); thin and not the Oxford corpus. Gap-fill only if a hole remains; none fetched Update 2026-10-03: Rackham's Nicomachean Ethics (Loeb, 1926 printing) taken as a second Ethics witness (aristotle-perseus-rackham-nicomachean-ethics); Freese's Rhetoric refused (1947 printing in its record).",
   "worksofaristotle00unse (1830)": "'Aristotle's Masterpiece', a popular sex-and-midwifery manual falsely ascribed to Aristotle. Wrong author",
   "meteorologica00aris": "Catalogued as 'Meteorologica, 1923, separate issue', but the scan is the whole of vol. III as bound in 1931: it carries J. A. Smith's De Anima, first published 1931. Checked by its sub-title pages (1923, 1914, 1931, 1908). Removed after fetching; pending with vol. III until 2027-01-01. The PD parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues",
@@ -247,7 +250,8 @@
   "aristotle-ogle-parts-of-animals-1882": "Ogle",
   "aristotle-ogle-youth-old-age-1897": "Ogle",
   "aristotle-ross-v08-1908": "Ross",
-  "aristotle-taylor-metaphysics-a-1907": "Taylor"
+  "aristotle-taylor-metaphysics-a-1907": "Taylor",
+  "aristotle-hicks-de-anima-1907": "R. D. Hicks"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -268,7 +272,7 @@
  "_checks": {
   "aristotle-butcher-poetics-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "S. H. Butcher",
@@ -280,7 +284,7 @@
   },
   "aristotle-bywater-poetics-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Ingram Bywater",
@@ -292,7 +296,7 @@
   },
   "aristotle-kenyon-athenian-constitution-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Frederic G. Kenyon",
@@ -304,7 +308,7 @@
   },
   "aristotle-cresswell-history-of-animals-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Richard Cresswell",
@@ -316,7 +320,7 @@
   },
   "aristotle-ellis-politics-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "William Ellis",
@@ -328,7 +332,7 @@
   },
   "aristotle-ross-v01": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -340,7 +344,7 @@
   },
   "aristotle-ross-v02": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -352,7 +356,7 @@
   },
   "aristotle-ross-v04": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -364,7 +368,7 @@
   },
   "aristotle-ross-v05": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -376,7 +380,7 @@
   },
   "aristotle-ross-v06": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "title_weak": true,
@@ -389,7 +393,7 @@
   },
   "aristotle-ross-v07": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -401,7 +405,7 @@
   },
   "aristotle-ross-v08": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -413,7 +417,7 @@
   },
   "aristotle-ross-v09": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -425,7 +429,7 @@
   },
   "aristotle-ross-v10": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -437,7 +441,7 @@
   },
   "aristotle-ross-v11": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -449,7 +453,7 @@
   },
   "aristotle-hammond-psychology": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "william alexander hammond",
@@ -462,7 +466,7 @@
   },
   "aristotle-forster-de-mundo-1914": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -473,7 +477,7 @@
   },
   "aristotle-browne-ethics-1850": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -484,7 +488,7 @@
   },
   "aristotle-bohn-rhetoric-poetic-1857": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Theodore Buckley",
@@ -497,7 +501,7 @@
   },
   "aristotle-owen-organon-1853-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Octavius Freire Owen",
@@ -510,7 +514,7 @@
   },
   "aristotle-owen-organon-1853-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Octavius Freire Owen",
@@ -523,7 +527,7 @@
   },
   "aristotle-taylor-metaphysics-1801": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Thomas Taylor",
@@ -536,7 +540,7 @@
   },
   "aristotle-welldon-ethics-1892": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "J. E. C. Welldon",
@@ -549,7 +553,7 @@
   },
   "aristotle-welldon-rhetoric-1886": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "J. E. C. Welldon",
@@ -562,7 +566,7 @@
   },
   "aristotle-welldon-politics-1901": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -573,7 +577,7 @@
   },
   "aristotle-peters-ethics-1881": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -584,7 +588,7 @@
   },
   "aristotle-mcmahon-metaphysics-1857": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "M'Mahon",
@@ -597,7 +601,7 @@
   },
   "aristotle-walford-politics-economics-1853": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Edward Walford",
@@ -610,7 +614,7 @@
   },
   "aristotle-williams-ethics-1869": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "robert williams",
@@ -623,7 +627,7 @@
   },
   "aristotle-taylor-rhetoric-poetic-ethics-1818": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "thomas taylor",
@@ -636,7 +640,7 @@
   },
   "aristotle-jowett-politics-1885-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Jowett",
@@ -649,7 +653,7 @@
   },
   "aristotle-jowett-politics-1885-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Jowett",
@@ -662,7 +666,7 @@
   },
   "aristotle-jebb-rhetoric-1909": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Jebb",
@@ -675,7 +679,7 @@
   },
   "aristotle-poste-posterior-analytics-1850": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Poste",
@@ -688,7 +692,7 @@
   },
   "aristotle-poste-athenian-constitution-1891": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Poste",
@@ -701,7 +705,7 @@
   },
   "aristotle-twining-poetry-1812-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Twining",
@@ -714,7 +718,7 @@
   },
   "aristotle-twining-poetry-1812-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Twining",
@@ -727,7 +731,7 @@
   },
   "aristotle-ogle-parts-of-animals-1882": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Ogle",
@@ -740,7 +744,7 @@
   },
   "aristotle-ogle-youth-old-age-1897": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Ogle",
@@ -753,7 +757,7 @@
   },
   "aristotle-ross-v08-1908": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Ross",
@@ -766,7 +770,7 @@
   },
   "aristotle-taylor-metaphysics-a-1907": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Taylor",
@@ -775,6 +779,19 @@
    "ia_rights": "ok: published 1907",
    "ia_date": "1907",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-hicks-de-anima-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "R. D. Hicks",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },

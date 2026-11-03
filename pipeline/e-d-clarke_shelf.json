@@ -1,0 +1,32 @@
+{
+ "_about": "Edward Daniel Clarke (1769-1822), traveller and Cambridge mineralogist, raw IA OCR of Greek Marbles (1809).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Edward Daniel Clarke",
+ "_name_words": [
+  "clarke"
+ ],
+ "_surname": [
+  "edward daniel clarke"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-d-clarke-greek-marbles-1809": [
+   "greekmarblesbrou00clar",
+   "Greek Marbles brought from the shores of the Euxine, Archipelago, and Mediterranean, and deposited in the vestibule of the Public Library of the University of Cambridge, by Edward Daniel Clarke (Cambridge: University Press, 1809)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-d-clarke-greek-marbles-1809": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward daniel clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

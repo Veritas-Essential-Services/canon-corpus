@@ -1,0 +1,44 @@
+{
+ "_about": "Ernst Pfuhl (1876-1940), Basel, raw IA OCR of Masterpieces of Greek Drawing and Painting in J. D. Beazley's translation (1926); published before 1930, so US public domain.  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Ernst Pfuhl",
+ "_name_words": [
+  "pfuhl"
+ ],
+ "_surname": [
+  "ernst pfuhl",
+  "pfuhl"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ernst-pfuhl-masterpieces-greek-drawing-painting-1926": [
+   "masterpiecesofgr00pfuh",
+   "Masterpieces of Greek Drawing and Painting, by Ernst Pfuhl, translated by J. D. Beazley (New York: The Macmillan Company, 1926)",
+   "tr. J. D. Beazley"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "ernst-pfuhl-masterpieces-greek-drawing-painting-1926": "J. D. Beazley"
+ },
+ "_identity_checked": {
+  "ernst-pfuhl-masterpieces-greek-drawing-painting-1926": {
+   "author": "title page OCR reads only 'ERNST'; the translator's preface names 'Prof. Pfuhl'"
+  }
+ },
+ "_checks": {
+  "ernst-pfuhl-masterpieces-greek-drawing-painting-1926": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pfuhl",
+   "translator_claimed": "J. D. Beazley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

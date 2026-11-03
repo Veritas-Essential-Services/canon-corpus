@@ -1,0 +1,38 @@
+{
+ "_about": "Richard Johnson Walker, raw IA OCR of The Ichneutae of Sophocles, with notes and a translation into English (London: Burns and Oates; no year in the OCR title page, IA catalogues 1919; US public domain by date). Greek text with English translation and notes, kept per Adam's 2026-10-23 ruling. Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Richard Johnson Walker",
+ "_name_words": [
+  "walker"
+ ],
+ "_surname": [
+  "richard johnson walker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "richard-johnson-walker-ichneutae-of-sophocles": [
+   "ichneutaeofsopho00soph",
+   "The Ichneutae of Sophocles, with notes and a translation into English, by Richard Johnson Walker (London: Burns and Oates; no year in the OCR, IA catalogues 1919); Greek text with English translation",
+   "tr. Richard Johnson Walker"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "richard-johnson-walker-ichneutae-of-sophocles": "Richard Johnson Walker"
+ },
+ "_checks": {
+  "richard-johnson-walker-ichneutae-of-sophocles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard johnson walker",
+   "translator_claimed": "Richard Johnson Walker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

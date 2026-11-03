@@ -1,0 +1,49 @@
+{
+ "_about": "Robinson Jeffers. Bloom's Western Canon (1994) lists: Selected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Robinson Jeffers",
+ "_name_words": [
+  "robinson",
+  "jeffers"
+ ],
+ "_surname": [
+  "jeffers",
+  "robinson jeffers"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jeffers-roan-stallion": [
+   "roanstalliontama0000robi_h6v7",
+   "Roan Stallion, Tamar and Other Poems"
+  ]
+ },
+ "_rights_checked": {
+  "jeffers-roan-stallion": "Bloom addition 2026-11-03: 1925 (verso: 'Copyright, 1925, by Horace Liveright'; 'First printing, October, 1925'; printing list to Dec. 1932). djvu verso read; internetarchivebooks"
+ },
+ "_bloom": {
+  "jeffers-roan-stallion": {
+   "bloom_n": [
+    1273
+   ],
+   "bloom_title": "Selected Poems",
+   "year": "1925 (verso: 'Copyright, 1925, by Horace Liveright'; 'First printing, October, 1925'; printing list to Dec. 1932)",
+   "evidence": "djvu verso read; internetarchivebooks",
+   "case": "Bloom lists Jeffers's Selected Poems (generic). Roan Stallion, Tamar and Other Poems (1925) holds his first major narratives.",
+   "note": "PARTIAL. This copy's printing list runs to an eleventh printing, December 1932, so it is a 1932 printing of the 1925 book (first printing October 1925 per its own verso); no sign of revision. IA also has The Women at Point Sur 1927 (womenatpointsur0000robi), Cawdor 1928 (cawdorotherpoems0000robi), Dear Judas 1929 (dearjudasotherpo0000robi) -- unread."
+  }
+ },
+ "_checks": {
+  "jeffers-roan-stallion": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "jeffers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1925 (verso: 'Copyright, 1925, by Horace Liveright'; 'First printing, October, 1925'; printing list to Dec. 1932). djvu verso read; internetarchivebooks"
+  }
+ }
+}

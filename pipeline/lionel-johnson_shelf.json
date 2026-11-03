@@ -1,0 +1,43 @@
+{
+ "_about": "Lionel Johnson. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Lionel Johnson",
+ "_name_words": [
+  "lionel",
+  "johnson"
+ ],
+ "_surname": [
+  "johnson",
+  "lionel johnson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "johnson-poems": [
+   66520,
+   "Poems"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "johnson-poems": {
+   "bloom_n": [
+    509
+   ],
+   "bloom_title": "Poems",
+   "year": "1895 (title page 'LONDON ELKIN MATHEWS 1895'; 'limited to 750 copies')",
+   "evidence": "Read PG front matter.",
+   "case": "Bloom lists Johnson's poems; nothing is held. His 1895 Poems is on PG.",
+   "note": "Ireland, with Other Poems (1897) and the 1915 Poetical Works were not checked."
+  }
+ },
+ "_checks": {
+  "johnson-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

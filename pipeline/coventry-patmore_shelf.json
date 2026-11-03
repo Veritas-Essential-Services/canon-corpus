@@ -1,0 +1,43 @@
+{
+ "_about": "Coventry Patmore. Bloom's Western Canon (1994) lists: Odes. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Coventry Patmore",
+ "_name_words": [
+  "coventry",
+  "patmore"
+ ],
+ "_surname": [
+  "patmore",
+  "coventry patmore"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "patmore-unknown-eros": [
+   13672,
+   "The Unknown Eros"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "patmore-unknown-eros": {
+   "bloom_n": [
+    520
+   ],
+   "bloom_title": "Odes",
+   "year": "1890 printing (front matter read: 'Preface to Third Edition', 'HASTINGS, 1890')",
+   "evidence": "Read PG front matter.",
+   "case": "Bloom's 'Odes' are the odes of The Unknown Eros; nothing of Patmore's poetry is held (only his co-translation of St Bernard).",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "patmore-unknown-eros": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "patmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

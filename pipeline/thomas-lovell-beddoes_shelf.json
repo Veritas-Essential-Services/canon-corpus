@@ -1,0 +1,79 @@
+{
+ "_about": "Thomas Lovell Beddoes. Bloom's Western Canon (1994) lists: Death's Jest-Book; Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Thomas Lovell Beddoes",
+ "_name_words": [
+  "thomas",
+  "lovell",
+  "beddoes"
+ ],
+ "_surname": [
+  "beddoes",
+  "thomas lovell beddoes"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "beddoes-poetical-works": [
+   "poeticalworksedi02bedduoft",
+   "The Poetical Works of Thomas Lovell Beddoes, vol. II"
+  ],
+  "beddoes-poetical-works-2": [
+   "poeticalworksedi01bedduoft",
+   "The Poetical Works of Thomas Lovell Beddoes, vol. I"
+  ]
+ },
+ "_translators": {
+  "beddoes-poetical-works": "Gosse",
+  "beddoes-poetical-works-2": "Gosse"
+ },
+ "_bloom": {
+  "beddoes-poetical-works": {
+   "bloom_n": [
+    445
+   ],
+   "bloom_title": "Death's Jest-Book",
+   "year": "1890 (vol. I title page 'LONDON J. M. DENT AND CO. ... 1890')",
+   "evidence": "Read vol. II djvu: 'VOL. II', contents 'DEATH'S JEST-BOOK; OR THE FOOL'S TRAGEDY ... 5' and 'FRAGMENTS OF DEATH'S JEST-BOOK'. Collection university_of_toronto.",
+   "case": "Bloom lists Death's Jest-Book; nothing by Beddoes is held. Gosse's 1890 Dent edition prints it in vol. II.",
+   "note": "Vol. II is from the same set as vol. I (entry 446); its title page date was not separately read."
+  },
+  "beddoes-poetical-works-2": {
+   "bloom_n": [
+    446
+   ],
+   "bloom_title": "Poems",
+   "year": "1890 (title page 'LONDON J. M. DENT AND CO. 69 GREAT EASTERN STREET 1890')",
+   "evidence": "Read djvu title page and contents: Memoir, then 'POEMS COLLECTED IN 1851' (Alfarabi, Pygmalion, Dream-Pedlary...). Collection university_of_toronto.",
+   "case": "Bloom lists Beddoes's poems. Gosse's two-volume Poetical Works is the standard 19th-century collected edition.",
+   "note": "Donner's 1928 Complete Works would also be PD (not checked)."
+  }
+ },
+ "_checks": {
+  "beddoes-poetical-works": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "beddoes",
+   "translator_claimed": "Gosse",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "beddoes-poetical-works-2": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "beddoes",
+   "translator_claimed": "Gosse",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

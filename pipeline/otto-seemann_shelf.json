@@ -1,0 +1,41 @@
+{
+ "_about": "Otto Seemann (1825-1901), German classicist: The Mythology of Greece and Rome, with Special Reference to its Use in Art, ed. G. H. Bianchi (1875 edition). Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Otto Seemann (1825-1901)",
+ "_name_words": [
+  "seemann",
+  "mythology",
+  "greece",
+  "rome",
+  "art"
+ ],
+ "_surname": [
+  "seemann"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "seemann-mythology-greece-rome": [
+   "mythologyofgreec01seem",
+   "The Mythology of Greece and Rome, with Special Reference to its Use in Art, ed. G. H. Bianchi"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "seemann-mythology-greece-rome": "Bianchi"
+ },
+ "_checks": {
+  "seemann-mythology-greece-rome": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seemann",
+   "translator_claimed": "Bianchi",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

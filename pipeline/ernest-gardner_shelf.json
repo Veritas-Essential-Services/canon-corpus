@@ -1,5 +1,5 @@
 {
- "_about": "Ernest Arthur Gardner (1862-1939), Director of the British School at Athens. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Religion and Art in Ancient Greece, clean Gutenberg. Brother of Percy Gardner, whose book has its own shelf. No uids minted.",
+ "_about": "Ernest Arthur Gardner (1862-1939), Director of the British School at Athens. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Religion and Art in Ancient Greece, clean Gutenberg. Brother of Percy Gardner, whose book has its own shelf. No uids minted.  Round ea adds A Handbook of Greek Sculpture (1897).",
  "_name_words": [
   "gardner"
  ],
@@ -16,16 +16,32 @@
    "Religion and Art in Ancient Greece"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ernest-gardner-handbook-of-greek-sculpture-1897": [
+   "handbookofgreeks01garduoft",
+   "A Handbook of Greek Sculpture, by Ernest Arthur Gardner, parts I and II in one volume (London: Macmillan and Co.; New York: The Macmillan Company, 1897)"
+  ]
+ },
  "_checks": {
   "ernest-gardner-religion-art-ancient-greece": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest arthur gardner",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "ernest-gardner-handbook-of-greek-sculpture-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest arthur gardner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1897-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }

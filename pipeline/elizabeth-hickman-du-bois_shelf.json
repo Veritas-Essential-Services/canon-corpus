@@ -1,0 +1,33 @@
+{
+ "_about": "Elizabeth Hickman Du Bois, raw IA OCR of her Columbia study of stress accent in Latin verse (1906); not W. E. B. Du Bois, whose shelf is du-bois. Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Elizabeth Hickman Du Bois",
+ "_name_words": [
+  "hickman"
+ ],
+ "_surname": [
+  "elizabeth hickman du bois",
+  "hickman du bois"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "elizabeth-hickman-du-bois-stress-accent-in-latin-poetry-1906": [
+   "stressaccentinla00duborich",
+   "The Stress Accent in Latin Poetry, by Elizabeth Hickman Du Bois (New York: Columbia University Press; Macmillan, agents, 1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "elizabeth-hickman-du-bois-stress-accent-in-latin-poetry-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth hickman du bois",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

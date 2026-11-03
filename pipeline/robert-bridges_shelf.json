@@ -1,0 +1,43 @@
+{
+ "_about": "Robert Bridges. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Robert Bridges",
+ "_name_words": [
+  "robert",
+  "bridges"
+ ],
+ "_surname": [
+  "bridges",
+  "robert bridges"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bridges-poetical-works": [
+   37804,
+   "The Poetical Works of Robert Bridges, Excluding the Eight Dramas"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "bridges-poetical-works": {
+   "bloom_n": [
+    510
+   ],
+   "bloom_title": "Poems",
+   "year": "1912 (front matter read: '1912', preface dated 'Aug 1912')",
+   "evidence": "PG catalogue.",
+   "case": "Bloom lists Bridges's poems; nothing is held. The Oxford one-volume Poetical Works is the standard collected text.",
+   "note": "PG also has the six-volume Smith, Elder Poetical Works (54789 etc.). The Testament of Beauty (1929) is PD too but not on PG."
+  }
+ },
+ "_checks": {
+  "bridges-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "robert bridges",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "_about": "Evelyn Waugh. Bloom's Western Canon (1994) lists: Vile Bodies. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Evelyn Waugh",
+ "_name_words": [
+  "evelyn",
+  "waugh"
+ ],
+ "_surname": [
+  "waugh",
+  "evelyn waugh"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "waugh-vile-bodies": [
+   "vilebodies0000evel_j0k9",
+   "Vile Bodies (Chapman & Hall Uniform Edition)"
+  ]
+ },
+ "_rights_checked": {
+  "waugh-vile-bodies": "Bloom addition 2026-11-03: first pub. January 1930 (printing line); this impression 1949 (printing line). djvu head read: \"Originally Published January, 1930 / Uniform Edition 1947 / New Impression 1948 / New Impression 1949\"; no added preface; dedication to Bryan and Diana Guinness. Collection internetarchivebooks only."
+ },
+ "_bloom": {
+  "waugh-vile-bodies": {
+   "bloom_n": [
+    936
+   ],
+   "bloom_title": "Vile Bodies",
+   "year": "first pub. January 1930 (printing line); this impression 1949 (printing line)",
+   "evidence": "djvu head read: \"Originally Published January, 1930 / Uniform Edition 1947 / New Impression 1948 / New Impression 1949\"; no added preface; dedication to Bryan and Diana Guinness. Collection internetarchivebooks only.",
+   "case": "Bloom lists it; first published January 1930, so US-PD from 2026. Prefer an IA scan of a 1930-text printing.",
+   "note": "CAUTION on PG 77900: it includes Waugh's 1964 preface, which is NOT US public domain (published 1965), and follows the 1965 reset text. If PG is used, the preface must be stripped and the text checked against a 1930 printing. The IA Uniform Edition (1949 impression of the 1947 setting) has no preface."
+  }
+ },
+ "_checks": {
+  "waugh-vile-bodies": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "waugh",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: first pub. January 1930 (printing line); this impression 1949 (printing line). djvu head read: \"Originally Published January, 1930 / Uniform Edition 1947 / New Impression 1948 / New Impression 1949\"; no added preface; dedication to Bryan and Diana Guinness. Collection internetarchivebooks only."
+  }
+ }
+}

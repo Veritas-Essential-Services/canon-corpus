@@ -1,0 +1,73 @@
+{
+ "_about": "Conrad Aiken. Bloom's Western Canon (1994) lists: Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Conrad Aiken",
+ "_name_words": [
+  "conrad",
+  "aiken"
+ ],
+ "_surname": [
+  "aiken",
+  "conrad aiken"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aiken-house-dust": [
+   1246,
+   "The House of Dust: A Symphony"
+  ]
+ },
+ "internet_archive": {
+  "aiken-poems": [
+   "bwb_T5-AGU-819",
+   "Selected Poems by Conrad Aiken"
+  ]
+ },
+ "_rights_checked": {
+  "aiken-poems": "Bloom addition 2026-11-03: 1929 copyright (verso 'Copyright, 1918, 1921, 1929, by Conrad Aiken'; title page dated 1931). djvu title page and verso read; internetarchivebooks"
+ },
+ "_bloom": {
+  "aiken-poems": {
+   "bloom_n": [
+    1282
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1929 copyright (verso 'Copyright, 1918, 1921, 1929, by Conrad Aiken'; title page dated 1931)",
+   "evidence": "djvu title page and verso read; internetarchivebooks",
+   "case": "Bloom lists Aiken's Collected Poems (1953, not PD); his Selected Poems (Scribner, copyright 1929) is the best PD gathering.",
+   "note": "PARTIAL. The scan's title page reads 1931 but its copyright line is 1918, 1921, 1929 (and 1925 Liveright) -- a 1931 printing of the 1929 book; check for unrevised text. PG 1246 The House of Dust is a clean fallback; IA has Charnel Rose/Senlin 1918 (charnelrosesenli00aike) and Nocturne of Remembered Spring 1917."
+  },
+  "aiken-house-dust": {
+   "bloom_n": [
+    1282
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "unread",
+   "evidence": "PG catalogue row",
+   "case": "Bloom lists Aiken's Collected Poems (1953, not PD); his Selected Poems (Scribner, copyright 1929) is the best PD gathering.",
+   "note": "PARTIAL. The scan's title page reads 1931 but its copyright line is 1918, 1921, 1929 (and 1925 Liveright) -- a 1931 printing of the 1929 book; check for unrevised text. PG 1246 The House of Dust is a clean fallback; IA has Charnel Rose/Senlin 1918 (charnelrosesenli00aike) and Nocturne of Remembered Spring 1917."
+  }
+ },
+ "_checks": {
+  "aiken-house-dust": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "aiken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aiken-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "aiken",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1929 copyright (verso 'Copyright, 1918, 1921, 1929, by Conrad Aiken'; title page dated 1931). djvu title page and verso read; internetarchivebooks"
+  }
+ }
+}

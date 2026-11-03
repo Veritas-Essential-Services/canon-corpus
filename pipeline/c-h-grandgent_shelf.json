@@ -1,0 +1,35 @@
+{
+ "_about": "C. H. Grandgent (1862-1939), Harvard: An Introduction to Vulgar Latin (Boston: Heath, 1907). His Dante books are outside lane B. Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Charles Hall Grandgent (1862-1939)",
+ "_name_words": [
+  "grandgent",
+  "charles",
+  "vulgar",
+  "latin"
+ ],
+ "_surname": [
+  "grandgent"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grandgent-introduction-vulgar-latin-1907": [
+   "cu31924021623800",
+   "An Introduction to Vulgar Latin (Boston: Heath, 1907)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "grandgent-introduction-vulgar-latin-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grandgent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

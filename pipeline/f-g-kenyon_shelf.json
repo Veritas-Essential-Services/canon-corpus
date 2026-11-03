@@ -1,0 +1,148 @@
+{
+ "_about": "Sir Frederic G. Kenyon (1863-1952), Director of the British Museum: Classical Texts from Papyri in the British Museum, including the newly discovered poems of Herodas (1891); The Palaeography of Greek Papyri (Oxford, 1899); and the British Museum's Greek Papyri catalogue, Vols. I-II (1893, 1898) by Kenyon, Vol. III (1907) by Kenyon and H. I. Bell, and Vols. IV-V (1910, 1917) by Bell, kept here with their series. Greek-heavy; kept per Adam's 2026-10-23 ruling. His Bible and textual-criticism books are lane A's; his Browning editions are outside lane B. Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Sir Frederic George Kenyon (1863-1952)",
+ "_name_words": [
+  "kenyon",
+  "frederic",
+  "george",
+  "papyri",
+  "palaeography"
+ ],
+ "_surname": [
+  "f. g. kenyon",
+  "frederic g. kenyon",
+  "frederic george kenyon",
+  "kenyon"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kenyon-classical-texts-papyri-1891": [
+   "classicaltextsf00brit",
+   "Classical Texts from Papyri in the British Museum, including the Poems of Herodas (1891)"
+  ],
+  "kenyon-palaeography-greek-papyri-1899": [
+   "palaeographyofgr00kenyuoft",
+   "The Palaeography of Greek Papyri (Oxford: Clarendon Press, 1899)"
+  ],
+  "kenyon-greek-papyri-british-museum-v1-1893": [
+   "cu31924022695088",
+   "Greek Papyri in the British Museum: Catalogue, with Texts, vol. I (1893)"
+  ],
+  "kenyon-greek-papyri-british-museum-v2-1898": [
+   "cu31924022695096",
+   "Greek Papyri in the British Museum, vol. II (1898)"
+  ],
+  "kenyon-bell-greek-papyri-british-museum-v3-1907": [
+   "cu31924022695104",
+   "Greek Papyri in the British Museum, vol. III, ed. Kenyon and H. I. Bell (1907)"
+  ],
+  "bell-greek-papyri-british-museum-v4-1910": [
+   "cu31924022695112",
+   "Greek Papyri in the British Museum, vol. IV: The Aphrodito Papyri, ed. H. I. Bell (1910)"
+  ],
+  "bell-greek-papyri-british-museum-v5-1917": [
+   "cu31924022695120",
+   "Greek Papyri in the British Museum, vol. V, ed. H. I. Bell (1917)"
+  ]
+ },
+ "_excluded": {},
+ "_surname_by_slug": {
+  "bell-greek-papyri-british-museum-v4-1910": [
+   "h. i. bell",
+   "h. idris bell",
+   "idris bell",
+   "kenyon"
+  ],
+  "bell-greek-papyri-british-museum-v5-1917": [
+   "h. i. bell",
+   "h. idris bell",
+   "idris bell",
+   "kenyon"
+  ]
+ },
+ "_checks": {
+  "kenyon-classical-texts-papyri-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. g. kenyon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kenyon-palaeography-greek-papyri-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. g. kenyon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kenyon-greek-papyri-british-museum-v1-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. g. kenyon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kenyon-greek-papyri-british-museum-v2-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kenyon-bell-greek-papyri-british-museum-v3-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. g. kenyon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bell-greek-papyri-british-museum-v4-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kenyon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bell-greek-papyri-british-museum-v5-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. i. bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "kenyon-greek-papyri-british-museum-v2-1898": {
+   "author": "title page image (n4) read 2026-10-23: 'Greek Papyri in the British Museum, Catalogue, with Texts ... edited by F. G. Kenyon, M.A., D.Litt. ... Vol. II', Trustees, 1898; OCR misses the name"
+  }
+ }
+}

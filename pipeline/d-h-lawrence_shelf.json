@@ -1,0 +1,281 @@
+{
+ "_about": "D. H. Lawrence. Bloom's Western Canon (1994) lists: Complete Poems; Complete Short Stories; Sons and Lovers; Studies in Classic American Literature; The Rainbow; Women in Love. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "D. H. Lawrence",
+ "_name_words": [
+  "lawrence"
+ ],
+ "_surname": [
+  "lawrence",
+  "d h lawrence"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lawrence-love-poems-others": [
+   54058,
+   "Love Poems and Others"
+  ],
+  "lawrence-amores": [
+   22531,
+   "Amores: Poems"
+  ],
+  "lawrence-new-poems": [
+   22726,
+   "New Poems"
+  ],
+  "lawrence-studies-classic-american-literature": [
+   60547,
+   "Studies in Classic American Literature"
+  ],
+  "lawrence-prussian-officer": [
+   22480,
+   "The Prussian Officer"
+  ],
+  "lawrence-england": [
+   8914,
+   "England, My England"
+  ],
+  "lawrence-sons-lovers": [
+   217,
+   "Sons and Lovers"
+  ],
+  "lawrence-rainbow": [
+   28948,
+   "The Rainbow"
+  ],
+  "lawrence-women-love": [
+   4240,
+   "Women in Love"
+  ]
+ },
+ "internet_archive": {
+  "lawrence-collected-poems": [
+   "collectedpoemsof0000dhla",
+   "The Collected Poems of D. H. Lawrence, [vol. II] Unrhyming Poems"
+  ],
+  "lawrence-woman-who-rode-away": [
+   "womanwhorodeaway0000dhla",
+   "The Woman Who Rode Away and Other Stories"
+  ]
+ },
+ "_bloom": {
+  "lawrence-collected-poems": {
+   "bloom_n": [
+    907
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "1929 (title page: New York, Jonathan Cape and Harrison Smith, 1929; 'First published in the United States, 1929')",
+   "evidence": "Read title page and start (Look! We Have Come Through!); the scan holds only the Unrhyming Poems volume (Look! We Have Come Through!, Birds Beasts and Flowers); not lending.",
+   "case": "Bloom lists the Complete Poems. Lawrence's own Collected Poems (1928; US edition 1929) is US-PD. Vol. II is on IA. For the rhyming poems of vol. I, use the separate PG volumes (Love Poems, Amores, New Poems, Bay 22734), which hold the same poems.",
+   "note": "Pansies (1929) and Nettles (1930) are PD but not found here. Last Poems (1932) and the posthumous material in the Complete Poems are NOT PD. Lawrence revised his early poems for the 1928 Collected, so the PG volumes give the earlier versions."
+  },
+  "lawrence-love-poems-others": {
+   "bloom_n": [
+    907
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "unread",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists the Complete Poems. Lawrence's own Collected Poems (1928; US edition 1929) is US-PD. Vol. II is on IA. For the rhyming poems of vol. I, use the separate PG volumes (Love Poems, Amores, New Poems, Bay 22734), which hold the same poems.",
+   "note": "Pansies (1929) and Nettles (1930) are PD but not found here. Last Poems (1932) and the posthumous material in the Complete Poems are NOT PD. Lawrence revised his early poems for the 1928 Collected, so the PG volumes give the earlier versions."
+  },
+  "lawrence-amores": {
+   "bloom_n": [
+    907
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "1916 (front matter read 2026-11-03: 'Copyright, 1916')",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists the Complete Poems. Lawrence's own Collected Poems (1928; US edition 1929) is US-PD. Vol. II is on IA. For the rhyming poems of vol. I, use the separate PG volumes (Love Poems, Amores, New Poems, Bay 22734), which hold the same poems.",
+   "note": "Pansies (1929) and Nettles (1930) are PD but not found here. Last Poems (1932) and the posthumous material in the Complete Poems are NOT PD. Lawrence revised his early poems for the 1928 Collected, so the PG volumes give the earlier versions."
+  },
+  "lawrence-new-poems": {
+   "bloom_n": [
+    907
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "1918; this text the 1919 reset edition (front matter read: 'FIRST PUBLISHED, OCTOBER, 1918' / 'NEW EDITION (RESET), AUGUST, 1919')",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists the Complete Poems. Lawrence's own Collected Poems (1928; US edition 1929) is US-PD. Vol. II is on IA. For the rhyming poems of vol. I, use the separate PG volumes (Love Poems, Amores, New Poems, Bay 22734), which hold the same poems.",
+   "note": "Pansies (1929) and Nettles (1930) are PD but not found here. Last Poems (1932) and the posthumous material in the Complete Poems are NOT PD. Lawrence revised his early poems for the 1928 Collected, so the PG volumes give the earlier versions."
+  },
+  "lawrence-studies-classic-american-literature": {
+   "bloom_n": [
+    908
+   ],
+   "bloom_title": "Studies in Classic American Literature",
+   "year": "1923 (PG text)",
+   "evidence": "PG header read",
+   "case": "Bloom lists Studies in Classic American Literature (1923). PG text.",
+   "note": ""
+  },
+  "lawrence-prussian-officer": {
+   "bloom_n": [
+    909
+   ],
+   "bloom_title": "Complete Short Stories",
+   "year": "1914 (PG text: 'Published December 1914')",
+   "evidence": "PG header read",
+   "case": "Bloom lists the Complete Short Stories. Lawrence's three lifetime story collections (1914, 1922, 1928) are US-PD and are its core.",
+   "note": "Avoid womanwhorodeaway0000dhla_x6n4: it is a later Heinemann printing with an Aldington introduction. The Lovely Lady (1933) and other posthumous stories are NOT PD."
+  },
+  "lawrence-england": {
+   "bloom_n": [
+    909
+   ],
+   "bloom_title": "Complete Short Stories",
+   "year": "unread",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists the Complete Short Stories. Lawrence's three lifetime story collections (1914, 1922, 1928) are US-PD and are its core.",
+   "note": "Avoid womanwhorodeaway0000dhla_x6n4: it is a later Heinemann printing with an Aldington introduction. The Lovely Lady (1933) and other posthumous stories are NOT PD."
+  },
+  "lawrence-woman-who-rode-away": {
+   "bloom_n": [
+    909
+   ],
+   "bloom_title": "Complete Short Stories",
+   "year": "1928 (title page: New York, Alfred A. Knopf; 'Copyright 1927, 1928 ... Published May, 1928 ... Third printing July 1928')",
+   "evidence": "Read title page and copyright; collection internetarchivebooks, not lending.",
+   "case": "Bloom lists the Complete Short Stories. Lawrence's three lifetime story collections (1914, 1922, 1928) are US-PD and are its core.",
+   "note": "Avoid womanwhorodeaway0000dhla_x6n4: it is a later Heinemann printing with an Aldington introduction. The Lovely Lady (1933) and other posthumous stories are NOT PD."
+  },
+  "lawrence-sons-lovers": {
+   "bloom_n": [
+    910
+   ],
+   "bloom_title": "Sons and Lovers",
+   "year": "unread",
+   "evidence": "PG catalogue/header",
+   "case": "Bloom lists Sons and Lovers (1913). PG text.",
+   "note": ""
+  },
+  "lawrence-rainbow": {
+   "bloom_n": [
+    911
+   ],
+   "bloom_title": "The Rainbow",
+   "year": "1915 (PG text: 'Copyright, 1915, by D. H. Lawrence')",
+   "evidence": "PG header read",
+   "case": "Bloom lists The Rainbow (1915). PG text.",
+   "note": "The 1915 text was the expurgated one at first publication, so check which text PG used if Adam cares."
+  },
+  "lawrence-women-love": {
+   "bloom_n": [
+    912
+   ],
+   "bloom_title": "Women in Love",
+   "year": "unread",
+   "evidence": "PG catalogue/header",
+   "case": "Bloom lists Women in Love (1920). PG text.",
+   "note": ""
+  }
+ },
+ "_rights_checked": {
+  "lawrence-woman-who-rode-away": "Bloom addition 2026-11-03: 1928 (title page: New York, Alfred A. Knopf; 'Copyright 1927, 1928 ... Published May, 1928 ... Third printing July 1928'). Read title page and copyright; collection internetarchivebooks, not lending."
+ },
+ "_checks": {
+  "lawrence-love-poems-others": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lawrence-amores": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lawrence-new-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lawrence-studies-classic-american-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lawrence-prussian-officer": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lawrence-england": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lawrence-sons-lovers": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lawrence-rainbow": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lawrence-women-love": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lawrence-collected-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lawrence-woman-who-rode-away": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1928 (title page: New York, Alfred A. Knopf; 'Copyright 1927, 1928 ... Published May, 1928 ... Third printing July 1928'). Read title page and copyright; collection internetarchivebooks, not lending."
+  }
+ }
+}

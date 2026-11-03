@@ -1,0 +1,45 @@
+{
+ "_about": "William Dunbar. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Dunbar",
+ "_name_words": [
+  "william",
+  "dunbar"
+ ],
+ "_surname": [
+  "dunbar",
+  "william dunbar"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dunbar-poems": [
+   "poemsofwilliam01dunb",
+   "The Poems of William Dunbar, ed. John Small, vol. I (Scottish Text Society)"
+  ]
+ },
+ "_bloom": {
+  "dunbar-poems": {
+   "bloom_n": [
+    146
+   ],
+   "bloom_title": "Poems",
+   "year": "1893 (IA metadata; title page read, date not in the first page)",
+   "evidence": "Read title: 'The Poems of William Dunbar edited by the late John Small ... Vol. I, introduction by AE. J. G. Mackay'. Volumes 2-3 also on IA (e.g. poemsofwilliamdu03dunbuoft).",
+   "case": "Bloom lists Dunbar's poems; the Scottish Text Society edition (Small/Mackay) is the standard complete scholarly text.",
+   "note": "Machine's 'author' hit was Paul Laurence Dunbar - nothing of William Dunbar is held. STS edition is 3 vols; vol. 1 is introduction + poems."
+  }
+ },
+ "_checks": {
+  "dunbar-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dunbar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "George Sidney Brett (1879-1944), philosopher and historian of psychology at Toronto. Raw IA OCR: The Philosophy of Gassendi (London: Macmillan, 1908), The Government of Man, an introduction to ethics and politics (London: George Bell, 1913), and A History of Psychology in three volumes: I, Ancient and Patristic (London: George Allen, 1912), II, Medieval and Early Modern Period (1921; the verso reads 'First published in ig2i') and III, Modern Psychology (1921; the verso reads 'First published in igii', OCR for 1921). Not Brett-Feijoo (shelf brett-feijoo). Psychology Ancient and Modern (1928) was not found in a scan with a printed year. US public domain. No uids minted.",
+ "_about": "George Sidney Brett (1879-1944), philosopher and historian of psychology at Toronto. Raw IA OCR: The Philosophy of Gassendi (London: Macmillan, 1908), The Government of Man, an introduction to ethics and politics (London: George Bell, 1913), and A History of Psychology in three volumes: I, Ancient and Patristic (London: George Allen, 1912), II, Medieval and Early Modern Period (1921; the verso reads 'First published in ig2i') and III, Modern Psychology (1921; the verso reads 'First published in igii', OCR for 1921). Not Brett-Feijoo (shelf brett-feijoo). Psychology Ancient and Modern (1928) was not found in a scan with a printed year. US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "G. S. Brett",
  "_name_words": [
   "george",
@@ -12,7 +12,12 @@
   "sidney brett"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "brett-philosophy-of-gassendi-pg": [
+   77134,
+   "The Philosophy of Gassendi"
+  ]
+ },
  "internet_archive": {
   "brett-philosophy-of-gassendi-1908": [
    "philosophyofgass00bret",
@@ -37,9 +42,18 @@
  },
  "_excluded": {},
  "_checks": {
+  "brett-philosophy-of-gassendi-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "brett-philosophy-of-gassendi-1908": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brett",
    "identity": "ok",
@@ -50,7 +64,7 @@
   },
   "brett-government-of-man-1913": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brett",
    "identity": "ok",
@@ -61,7 +75,7 @@
   },
   "brett-history-of-psychology-1-1912": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brett",
    "identity": "ok",
@@ -72,7 +86,7 @@
   },
   "brett-history-of-psychology-2-1921": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brett",
    "identity": "ok",
@@ -83,7 +97,7 @@
   },
   "brett-history-of-psychology-3-1921": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brett",
    "identity": "ok",

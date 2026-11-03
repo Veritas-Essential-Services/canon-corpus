@@ -1,0 +1,53 @@
+{
+ "_about": "Leonard Whibley (1862-1941), Cambridge classicist: Political Parties in Athens during the Peloponnesian War (1889) and Greek Oligarchies, their Character and Organisation (1896). The multi-author Companion to Greek Studies that he edited is not taken. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Leonard Whibley (1862-1941)",
+ "_name_words": [
+  "whibley",
+  "greek",
+  "oligarchies",
+  "political",
+  "parties",
+  "athens"
+ ],
+ "_surname": [
+  "leonard whibley",
+  "whibley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whibley-political-parties-athens-1889": [
+   "politicalpartie02leongoog",
+   "Political Parties in Athens during the Peloponnesian War (1889)"
+  ],
+  "whibley-greek-oligarchies-1896": [
+   "greekoligarchie01whibgoog",
+   "Greek Oligarchies: their Character and Organisation (1896)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "whibley-political-parties-athens-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whibley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whibley-greek-oligarchies-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard whibley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

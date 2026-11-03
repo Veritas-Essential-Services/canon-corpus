@@ -1,0 +1,54 @@
+{
+ "_about": "Georg Curtius (1820-1885), Leipzig philologist, raw IA OCR of The Student's Greek Grammar (ed. William Smith, 4th ed. 1871) and its Elucidations, tr. Evelyn Abbott (1870); not Ernst Curtius the historian (ernst-curtius) or Quintus Curtius (curtius). Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Georg Curtius",
+ "_name_words": [
+  "curtius"
+ ],
+ "_surname": [
+  "george curtius",
+  "curtius"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "georg-curtius-students-greek-grammar-1871": [
+   "cu31924021601046",
+   "The Student's Greek Grammar: a grammar of the Greek language, by Dr. George Curtius, translated under the revision of the author, edited by William Smith, fourth edition (London: John Murray, 1871)"
+  ],
+  "georg-curtius-elucidations-1870": [
+   "elucidationsofst00curtuoft",
+   "Elucidations of the Student's Greek Grammar, by Prof. Curtius, from the German, with the author's sanction, by Evelyn Abbott (London: John Murray, 1870)",
+   "tr. Evelyn Abbott"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "georg-curtius-elucidations-1870": "Evelyn Abbott"
+ },
+ "_checks": {
+  "georg-curtius-students-greek-grammar-1871": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george curtius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "georg-curtius-elucidations-1870": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "curtius",
+   "translator_claimed": "Evelyn Abbott",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

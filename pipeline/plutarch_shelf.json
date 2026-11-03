@@ -171,488 +171,6 @@
   "Bernadotte Perrin and F. C. Babbitt, Loeb": "held from Perseus, English only: Perrin's Lives complete as Perseus has them (66 texts, Loeb 1914-26; plutarch-perseus-perrin-*) and 14 of Babbitt's Moralia (plutarch-perseus-babbitt-*). Babbitt's later Moralia volumes (after 1930) are not public domain",
   "plutarchslivesn05accigoog": "a second scan of North vol. 5, worse OCR (clean-word 0.74 against 0.95 for plutarchslivesn06accigoog, which is kept)"
  },
- "perseus": {
-  "plutarch-perseus-babbitt-advice-to-bride-and-groom": [
-   "tlg0007.tlg078.perseus-eng3",
-   "Advice to Bride and Groom",
-   "Frank Cole Babbitt",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
-  ],
-  "plutarch-perseus-babbitt-a-letter-of-condolence-to-apollonius": [
-   "tlg0007.tlg076.perseus-eng3",
-   "A Letter of Condolence to Apollonius",
-   "Frank Cole Babbitt",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
-  ],
-  "plutarch-perseus-babbitt-superstition": [
-   "tlg0007.tlg080.perseus-eng3",
-   "Superstition",
-   "Frank Cole Babbitt",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. IΙ. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
-  ],
-  "plutarch-perseus-babbitt-on-having-many-friends": [
-   "tlg0007.tlg073.perseus-eng3",
-   "On Having Many Friends",
-   "Frank Cole Babbitt",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
-  ],
-  "plutarch-perseus-babbitt-how-to-profit-by-one-s-enemies": [
-   "tlg0007.tlg072.perseus-eng3",
-   "How To Profit By One's Enemies",
-   "Frank Cole Babbitt",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
-  ],
-  "plutarch-perseus-babbitt-chance": [
-   "tlg0007.tlg074.perseus-eng3",
-   "Chance",
-   "Frank Cole Babbitt",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
-  ],
-  "plutarch-perseus-babbitt-the-education-of-children": [
-   "tlg0007.tlg067.perseus-eng3",
-   "The Education of Children",
-   "Frank Cole Babbitt",
-   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. I. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (printing)."
-  ],
-  "plutarch-perseus-babbitt-on-listening-to-lectures": [
-   "tlg0007.tlg069.perseus-eng3",
-   "On Listening to Lectures",
-   "Frank Cole Babbitt",
-   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. I. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press. London: William Heinemann Ltd., 1927 (printing)."
-  ],
-  "plutarch-perseus-babbitt-advice-about-keeping-well": [
-   "tlg0007.tlg077.perseus-eng3",
-   "Advice About Keeping Well",
-   "Frank Cole Babbitt",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
-  ],
-  "plutarch-perseus-babbitt-virtue-and-vice": [
-   "tlg0007.tlg075.perseus-eng3",
-   "Virtue and Vice",
-   "Frank Cole Babbitt",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
-  ],
-  "plutarch-perseus-babbitt-how-the-young-man-should-study-poetry": [
-   "tlg0007.tlg068.perseus-eng3",
-   "How the Young Man Should Study Poetry",
-   "Frank Cole Babbitt",
-   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. I. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (printing)."
-  ],
-  "plutarch-perseus-babbitt-how-to-tell-a-flatterer-from-a-friend": [
-   "tlg0007.tlg070.perseus-eng3",
-   "How to Tell a Flatterer from a Friend",
-   "Frank Cole Babbitt",
-   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. I. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (printing)."
-  ],
-  "plutarch-perseus-babbitt-how-a-man-may-become-aware-of-his-progre": [
-   "tlg0007.tlg071.perseus-eng3",
-   "How a Man May Become Aware of His Progress in Virtue",
-   "Frank Cole Babbitt",
-   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. I. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (printing)."
-  ],
-  "plutarch-perseus-babbitt-the-dinner-of-the-seven-wise-men": [
-   "tlg0007.tlg079.perseus-eng3",
-   "The Dinner of the Seven Wise Men",
-   "Frank Cole Babbitt",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
-  ],
-  "plutarch-perseus-perrin-aemilius-paulus": [
-   "tlg0007.tlg019.perseus-eng2",
-   "Aemilius Paulus",
-   "Bernadotte Perrin",
-   "Translation published 1918: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
-  ],
-  "plutarch-perseus-perrin-agesilaus": [
-   "tlg0007.tlg044.perseus-eng2",
-   "Agesilaus",
-   "Bernadotte Perrin",
-   "Translation published 1917: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
-  ],
-  "plutarch-perseus-perrin-agis-and-cleomenes": [
-   "tlg0007.tlg051.perseus-eng1",
-   "Agis and Cleomenes",
-   "Bernadotte Perrin",
-   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
-  ],
-  "plutarch-perseus-perrin-alcibiades": [
-   "tlg0007.tlg015.perseus-eng2",
-   "Alcibiades",
-   "Bernadotte Perrin",
-   "Translation published 1916: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
-  ],
-  "plutarch-perseus-perrin-alexander": [
-   "tlg0007.tlg047.perseus-eng2",
-   "Alexander",
-   "Bernadotte Perrin",
-   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
-  ],
-  "plutarch-perseus-perrin-antony": [
-   "tlg0007.tlg058.perseus-eng2",
-   "Antony",
-   "Bernadotte Perrin",
-   "Translation published 1920: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
-  ],
-  "plutarch-perseus-perrin-aratus": [
-   "tlg0007.tlg063.perseus-eng2",
-   "Aratus",
-   "Bernadotte Perrin",
-   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1926."
-  ],
-  "plutarch-perseus-perrin-aristides": [
-   "tlg0007.tlg024.perseus-eng2",
-   "Aristides",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-artaxerxes": [
-   "tlg0007.tlg064.perseus-eng2",
-   "Artaxerxes",
-   "Bernadotte Perrin",
-   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1926."
-  ],
-  "plutarch-perseus-perrin-brutus": [
-   "tlg0007.tlg061.perseus-eng2",
-   "Brutus",
-   "Bernadotte Perrin",
-   "Translation published 1918: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
-  ],
-  "plutarch-perseus-perrin-caesar": [
-   "tlg0007.tlg048.perseus-eng2",
-   "Caesar",
-   "Bernadotte Perrin",
-   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
-  ],
-  "plutarch-perseus-perrin-caius-marcius-coriolanus": [
-   "tlg0007.tlg016.perseus-eng2",
-   "Caius Marcius Coriolanus",
-   "Bernadotte Perrin",
-   "Translation published 1916: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
-  ],
-  "plutarch-perseus-perrin-caius-marius": [
-   "tlg0007.tlg031.perseus-eng2",
-   "Caius Marius",
-   "Bernadotte Perrin",
-   "Translation published 1920: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
-  ],
-  "plutarch-perseus-perrin-camillus": [
-   "tlg0007.tlg011.perseus-eng2",
-   "Camillus",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-cato-the-younger": [
-   "tlg0007.tlg050.perseus-eng2",
-   "Cato the Younger",
-   "Bernadotte Perrin",
-   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
-  ],
-  "plutarch-perseus-perrin-cicero": [
-   "tlg0007.tlg055.perseus-eng2",
-   "Cicero",
-   "Bernadotte Perrin",
-   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
-  ],
-  "plutarch-perseus-perrin-cimon": [
-   "tlg0007.tlg035.perseus-eng2",
-   "Cimon",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-comparison-of-agesilaus-and-pompey": [
-   "tlg0007.tlg046.perseus-eng2",
-   "Comparison of Agesilaus and Pompey",
-   "Bernadotte Perrin",
-   "Translation published 1917: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
-  ],
-  "plutarch-perseus-perrin-comparison-of-agis-and-cleomenes-and": [
-   "tlg0007.tlg053.perseus-eng2",
-   "Comparison of Agis and Cleomenes and the Gracchi",
-   "Bernadotte Perrin",
-   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
-  ],
-  "plutarch-perseus-perrin-comparison-of-alcibiades-and-coriola": [
-   "tlg0007.tlg017.perseus-eng2",
-   "Comparison of Alcibiades and Coriolanus",
-   "Bernadotte Perrin",
-   "Translation published 1916: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
-  ],
-  "plutarch-perseus-perrin-comparison-of-aristides-and-marcus-c": [
-   "tlg0007.tlg026.perseus-eng2",
-   "Comparison of Aristides and Marcus Cato",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-comparison-of-demetrius-and-antony": [
-   "tlg0007.tlg059.perseus-eng2",
-   "Comparison of Demetrius and Antony",
-   "Bernadotte Perrin",
-   "Translation published 1920: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
-  ],
-  "plutarch-perseus-perrin-comparison-of-demosthenes-and-cicero": [
-   "tlg0007.tlg056.perseus-eng2",
-   "Comparison of Demosthenes and Cicero",
-   "Bernadotte Perrin",
-   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
-  ],
-  "plutarch-perseus-perrin-comparison-of-dion-and-brutus": [
-   "tlg0007.tlg062.perseus-eng2",
-   "Comparison of Dion and Brutus",
-   "Bernadotte Perrin",
-   "Translation published 1918: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
-  ],
-  "plutarch-perseus-perrin-comparison-of-lucullus-and-cimon": [
-   "tlg0007.tlg037.perseus-eng2",
-   "Comparison of Lucullus and Cimon",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-comparison-of-lycurgus-and-numa": [
-   "tlg0007.tlg006.perseus-eng2",
-   "Comparison of Lycurgus and Numa",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-comparison-of-lysander-and-sulla": [
-   "tlg0007.tlg034.perseus-eng2",
-   "Comparison of Lysander and Sulla",
-   "Bernadotte Perrin",
-   "Translation published 1916: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
-  ],
-  "plutarch-perseus-perrin-comparison-of-nicias-and-crassus": [
-   "tlg0007.tlg040.perseus-eng2",
-   "Comparison of Nicias and Crassus",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-comparison-of-pelopidas-and-marcellu": [
-   "tlg0007.tlg023.perseus-eng2",
-   "Comparison of Pelopidas and Marcellus",
-   "Bernadotte Perrin",
-   "Translation published 1917: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
-  ],
-  "plutarch-perseus-perrin-comparison-of-pericles-and-fabius-ma": [
-   "tlg0007.tlg014.perseus-eng2",
-   "Comparison of Pericles and Fabius Maximus",
-   "Bernadotte Perrin",
-   "Translation published 1916: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
-  ],
-  "plutarch-perseus-perrin-comparison-of-philopoemen-and-titus": [
-   "tlg0007.tlg029.perseus-eng2",
-   "Comparison of Philopoemen and Titus",
-   "Bernadotte Perrin",
-   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
-  ],
-  "plutarch-perseus-perrin-comparison-of-sertorius-and-eumenes": [
-   "tlg0007.tlg043.perseus-eng2",
-   "Comparison of Sertorius and Eumenes",
-   "Bernadotte Perrin",
-   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
-  ],
-  "plutarch-perseus-perrin-comparison-of-solon-and-publicola": [
-   "tlg0007.tlg009.perseus-eng2",
-   "Comparison of Solon and Publicola",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-comparison-of-theseus-and-romulus": [
-   "tlg0007.tlg003.perseus-eng2",
-   "Comparison of Theseus and Romulus",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-comparison-of-timoleon-and-aemilius": [
-   "tlg0007.tlg020.perseus-eng2",
-   "Comparison of Timoleon and Aemilius",
-   "Bernadotte Perrin",
-   "Translation published 1918: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
-  ],
-  "plutarch-perseus-perrin-crassus": [
-   "tlg0007.tlg039.perseus-eng2",
-   "Crassus",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-demetrius": [
-   "tlg0007.tlg057.perseus-eng2",
-   "Demetrius",
-   "Bernadotte Perrin",
-   "Translation published 1920: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
-  ],
-  "plutarch-perseus-perrin-demosthenes": [
-   "tlg0007.tlg054.perseus-eng2",
-   "Demosthenes",
-   "Bernadotte Perrin",
-   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
-  ],
-  "plutarch-perseus-perrin-dion": [
-   "tlg0007.tlg060.perseus-eng2",
-   "Dion",
-   "Bernadotte Perrin",
-   "Translation published 1918: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
-  ],
-  "plutarch-perseus-perrin-eumenes": [
-   "tlg0007.tlg041.perseus-eng2",
-   "Eumenes",
-   "Bernadotte Perrin",
-   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
-  ],
-  "plutarch-perseus-perrin-fabius-maximus": [
-   "tlg0007.tlg013.perseus-eng2",
-   "Fabius Maximus",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-galba": [
-   "tlg0007.tlg065.perseus-eng2",
-   "Galba",
-   "Bernadotte Perrin",
-   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1926."
-  ],
-  "plutarch-perseus-perrin-lucullus": [
-   "tlg0007.tlg036.perseus-eng2",
-   "Lucullus",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-lycurgus": [
-   "tlg0007.tlg004.perseus-eng2",
-   "Lycurgus",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-lysander": [
-   "tlg0007.tlg032.perseus-eng2",
-   "Lysander",
-   "Bernadotte Perrin",
-   "Translation published 1916: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
-  ],
-  "plutarch-perseus-perrin-marcellus": [
-   "tlg0007.tlg022.perseus-eng2",
-   "Marcellus",
-   "Bernadotte Perrin",
-   "Translation published 1917: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
-  ],
-  "plutarch-perseus-perrin-marcus-cato": [
-   "tlg0007.tlg025.perseus-eng2",
-   "Marcus Cato",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-nicias": [
-   "tlg0007.tlg038.perseus-eng2",
-   "Nicias",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-numa": [
-   "tlg0007.tlg005.perseus-eng2",
-   "Numa",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-otho": [
-   "tlg0007.tlg066.perseus-eng2",
-   "Otho",
-   "Bernadotte Perrin",
-   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1926."
-  ],
-  "plutarch-perseus-perrin-pelopidas": [
-   "tlg0007.tlg021.perseus-eng2",
-   "Pelopidas",
-   "Bernadotte Perrin",
-   "Translation published 1917: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
-  ],
-  "plutarch-perseus-perrin-pericles": [
-   "tlg0007.tlg012.perseus-eng2",
-   "Pericles",
-   "Bernadotte Perrin",
-   "Translation published 1916: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
-  ],
-  "plutarch-perseus-perrin-philopoemen": [
-   "tlg0007.tlg027.perseus-eng2",
-   "Philopoemen",
-   "Bernadotte Perrin",
-   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
-  ],
-  "plutarch-perseus-perrin-phocion": [
-   "tlg0007.tlg049.perseus-eng2",
-   "Phocion",
-   "Bernadotte Perrin",
-   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
-  ],
-  "plutarch-perseus-perrin-pompey": [
-   "tlg0007.tlg045.perseus-eng2",
-   "Pompey",
-   "Bernadotte Perrin",
-   "Translation published 1917: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
-  ],
-  "plutarch-perseus-perrin-publicola": [
-   "tlg0007.tlg008.perseus-eng2",
-   "Publicola",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-pyrrhus": [
-   "tlg0007.tlg030.perseus-eng2",
-   "Pyrrhus",
-   "Bernadotte Perrin",
-   "Translation published 1920: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
-  ],
-  "plutarch-perseus-perrin-romulus": [
-   "tlg0007.tlg002.perseus-eng2",
-   "Romulus",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-sertorius": [
-   "tlg0007.tlg042.perseus-eng2",
-   "Sertorius",
-   "Bernadotte Perrin",
-   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
-  ],
-  "plutarch-perseus-perrin-solon": [
-   "tlg0007.tlg007.perseus-eng2",
-   "Solon",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-sulla": [
-   "tlg0007.tlg033.perseus-eng2",
-   "Sulla",
-   "Bernadotte Perrin",
-   "Translation published 1916: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
-  ],
-  "plutarch-perseus-perrin-themistocles": [
-   "tlg0007.tlg010.perseus-eng2",
-   "Themistocles",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-theseus": [
-   "tlg0007.tlg001.perseus-eng3",
-   "Theseus",
-   "Bernadotte Perrin",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
-  ],
-  "plutarch-perseus-perrin-tiberius-and-caius-gracchus": [
-   "tlg0007.tlg052.perseus-eng1",
-   "Tiberius and Caius Gracchus",
-   "Bernadotte Perrin",
-   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
-  ],
-  "plutarch-perseus-perrin-timoleon": [
-   "tlg0007.tlg018.perseus-eng2",
-   "Timoleon",
-   "Bernadotte Perrin",
-   "Translation published 1918: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
-  ],
-  "plutarch-perseus-perrin-titus-flamininus": [
-   "tlg0007.tlg028.perseus-eng2",
-   "Titus Flamininus",
-   "Bernadotte Perrin",
-   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
-  ]
- },
  "_surname": [
   "plutarch",
   "plutarchus",
@@ -1124,7 +642,7 @@
  },
  "_perseus_checks": {
   "plutarch-perseus-babbitt-advice-to-bride-and-groom": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg078.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1135,7 +653,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1145,7 +663,7 @@
    }
   },
   "plutarch-perseus-babbitt-a-letter-of-condolence-to-apollonius": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg076.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1156,7 +674,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1166,7 +684,7 @@
    }
   },
   "plutarch-perseus-babbitt-superstition": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg080.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1177,7 +695,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1187,7 +705,7 @@
    }
   },
   "plutarch-perseus-babbitt-on-having-many-friends": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg073.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1198,7 +716,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1208,7 +726,7 @@
    }
   },
   "plutarch-perseus-babbitt-how-to-profit-by-one-s-enemies": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg072.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1219,7 +737,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1229,7 +747,7 @@
    }
   },
   "plutarch-perseus-babbitt-chance": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg074.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1240,7 +758,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1250,7 +768,7 @@
    }
   },
   "plutarch-perseus-babbitt-the-education-of-children": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg067.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1261,7 +779,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1271,7 +789,7 @@
    }
   },
   "plutarch-perseus-babbitt-on-listening-to-lectures": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg069.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1282,7 +800,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1292,7 +810,7 @@
    }
   },
   "plutarch-perseus-babbitt-advice-about-keeping-well": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg077.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1303,7 +821,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1313,7 +831,7 @@
    }
   },
   "plutarch-perseus-babbitt-virtue-and-vice": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg075.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1324,7 +842,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1334,7 +852,7 @@
    }
   },
   "plutarch-perseus-babbitt-how-the-young-man-should-study-poetry": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg068.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1345,7 +863,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1355,7 +873,7 @@
    }
   },
   "plutarch-perseus-babbitt-how-to-tell-a-flatterer-from-a-friend": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg070.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1366,7 +884,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1376,7 +894,7 @@
    }
   },
   "plutarch-perseus-babbitt-how-a-man-may-become-aware-of-his-progre": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg071.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1387,7 +905,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1397,7 +915,7 @@
    }
   },
   "plutarch-perseus-babbitt-the-dinner-of-the-seven-wise-men": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg079.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1408,7 +926,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1418,7 +936,7 @@
    }
   },
   "plutarch-perseus-perrin-aemilius-paulus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg019.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1429,7 +947,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1439,7 +957,7 @@
    }
   },
   "plutarch-perseus-perrin-agesilaus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg044.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1450,7 +968,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1460,7 +978,7 @@
    }
   },
   "plutarch-perseus-perrin-agis-and-cleomenes": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg051.perseus-eng1",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1471,7 +989,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1481,7 +999,7 @@
    }
   },
   "plutarch-perseus-perrin-alcibiades": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg015.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1492,7 +1010,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1502,7 +1020,7 @@
    }
   },
   "plutarch-perseus-perrin-alexander": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg047.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1513,7 +1031,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1523,7 +1041,7 @@
    }
   },
   "plutarch-perseus-perrin-antony": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg058.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1534,7 +1052,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1544,7 +1062,7 @@
    }
   },
   "plutarch-perseus-perrin-aratus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg063.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1555,7 +1073,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1565,7 +1083,7 @@
    }
   },
   "plutarch-perseus-perrin-aristides": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg024.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1576,7 +1094,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1586,7 +1104,7 @@
    }
   },
   "plutarch-perseus-perrin-artaxerxes": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg064.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1597,7 +1115,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1607,7 +1125,7 @@
    }
   },
   "plutarch-perseus-perrin-brutus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg061.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1618,7 +1136,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1628,7 +1146,7 @@
    }
   },
   "plutarch-perseus-perrin-caesar": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg048.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1639,7 +1157,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1649,7 +1167,7 @@
    }
   },
   "plutarch-perseus-perrin-caius-marcius-coriolanus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg016.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1660,7 +1178,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1670,7 +1188,7 @@
    }
   },
   "plutarch-perseus-perrin-caius-marius": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg031.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1681,7 +1199,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1691,7 +1209,7 @@
    }
   },
   "plutarch-perseus-perrin-camillus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg011.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1702,7 +1220,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1712,7 +1230,7 @@
    }
   },
   "plutarch-perseus-perrin-cato-the-younger": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg050.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1723,7 +1241,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1733,7 +1251,7 @@
    }
   },
   "plutarch-perseus-perrin-cicero": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg055.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1744,7 +1262,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1754,7 +1272,7 @@
    }
   },
   "plutarch-perseus-perrin-cimon": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg035.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1765,7 +1283,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1775,7 +1293,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-agesilaus-and-pompey": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg046.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1786,7 +1304,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1796,7 +1314,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-agis-and-cleomenes-and": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg053.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1807,7 +1325,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1817,7 +1335,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-alcibiades-and-coriola": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg017.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1828,7 +1346,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1838,7 +1356,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-aristides-and-marcus-c": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg026.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1849,7 +1367,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1859,7 +1377,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-demetrius-and-antony": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg059.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1870,7 +1388,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1880,7 +1398,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-demosthenes-and-cicero": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg056.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1891,7 +1409,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1901,7 +1419,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-dion-and-brutus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg062.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1912,7 +1430,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1922,7 +1440,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-lucullus-and-cimon": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg037.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1933,7 +1451,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1943,7 +1461,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-lycurgus-and-numa": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg006.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1954,7 +1472,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1964,7 +1482,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-lysander-and-sulla": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg034.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1975,7 +1493,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1985,7 +1503,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-nicias-and-crassus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg040.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1996,7 +1514,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2006,7 +1524,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-pelopidas-and-marcellu": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg023.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2017,7 +1535,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2027,7 +1545,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-pericles-and-fabius-ma": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg014.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2038,7 +1556,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2048,7 +1566,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-philopoemen-and-titus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg029.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2059,7 +1577,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2069,7 +1587,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-sertorius-and-eumenes": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg043.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2080,7 +1598,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2090,7 +1608,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-solon-and-publicola": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg009.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2101,7 +1619,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2111,7 +1629,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-theseus-and-romulus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg003.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2122,7 +1640,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2132,7 +1650,7 @@
    }
   },
   "plutarch-perseus-perrin-comparison-of-timoleon-and-aemilius": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg020.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2143,7 +1661,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2153,7 +1671,7 @@
    }
   },
   "plutarch-perseus-perrin-crassus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg039.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2164,7 +1682,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2174,7 +1692,7 @@
    }
   },
   "plutarch-perseus-perrin-demetrius": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg057.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2185,7 +1703,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2195,7 +1713,7 @@
    }
   },
   "plutarch-perseus-perrin-demosthenes": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg054.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2206,7 +1724,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2216,7 +1734,7 @@
    }
   },
   "plutarch-perseus-perrin-dion": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg060.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2227,7 +1745,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2237,7 +1755,7 @@
    }
   },
   "plutarch-perseus-perrin-eumenes": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg041.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2248,7 +1766,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2258,7 +1776,7 @@
    }
   },
   "plutarch-perseus-perrin-fabius-maximus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg013.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2269,7 +1787,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2279,7 +1797,7 @@
    }
   },
   "plutarch-perseus-perrin-galba": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg065.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2290,7 +1808,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2300,7 +1818,7 @@
    }
   },
   "plutarch-perseus-perrin-lucullus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg036.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2311,7 +1829,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2321,7 +1839,7 @@
    }
   },
   "plutarch-perseus-perrin-lycurgus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg004.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2332,7 +1850,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2342,7 +1860,7 @@
    }
   },
   "plutarch-perseus-perrin-lysander": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg032.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2353,7 +1871,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2363,7 +1881,7 @@
    }
   },
   "plutarch-perseus-perrin-marcellus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg022.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2374,7 +1892,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2384,7 +1902,7 @@
    }
   },
   "plutarch-perseus-perrin-marcus-cato": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg025.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2395,7 +1913,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2405,7 +1923,7 @@
    }
   },
   "plutarch-perseus-perrin-nicias": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg038.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2416,7 +1934,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2426,7 +1944,7 @@
    }
   },
   "plutarch-perseus-perrin-numa": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg005.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2437,7 +1955,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2447,7 +1965,7 @@
    }
   },
   "plutarch-perseus-perrin-otho": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg066.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2458,7 +1976,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2468,7 +1986,7 @@
    }
   },
   "plutarch-perseus-perrin-pelopidas": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg021.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2479,7 +1997,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2489,7 +2007,7 @@
    }
   },
   "plutarch-perseus-perrin-pericles": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg012.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2500,7 +2018,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2510,7 +2028,7 @@
    }
   },
   "plutarch-perseus-perrin-philopoemen": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg027.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2521,7 +2039,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2531,7 +2049,7 @@
    }
   },
   "plutarch-perseus-perrin-phocion": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg049.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2542,7 +2060,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2552,7 +2070,7 @@
    }
   },
   "plutarch-perseus-perrin-pompey": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg045.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2563,7 +2081,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2573,7 +2091,7 @@
    }
   },
   "plutarch-perseus-perrin-publicola": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg008.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2584,7 +2102,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2594,7 +2112,7 @@
    }
   },
   "plutarch-perseus-perrin-pyrrhus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg030.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2605,7 +2123,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2615,7 +2133,7 @@
    }
   },
   "plutarch-perseus-perrin-romulus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg002.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2626,7 +2144,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2636,7 +2154,7 @@
    }
   },
   "plutarch-perseus-perrin-sertorius": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg042.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2647,7 +2165,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2657,7 +2175,7 @@
    }
   },
   "plutarch-perseus-perrin-solon": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg007.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2668,7 +2186,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2678,7 +2196,7 @@
    }
   },
   "plutarch-perseus-perrin-sulla": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg033.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2689,7 +2207,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2699,7 +2217,7 @@
    }
   },
   "plutarch-perseus-perrin-themistocles": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg010.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2710,7 +2228,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2720,7 +2238,7 @@
    }
   },
   "plutarch-perseus-perrin-theseus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg001.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2731,7 +2249,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2741,7 +2259,7 @@
    }
   },
   "plutarch-perseus-perrin-tiberius-and-caius-gracchus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg052.perseus-eng1",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2752,7 +2270,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2762,7 +2280,7 @@
    }
   },
   "plutarch-perseus-perrin-timoleon": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg018.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2773,7 +2291,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2783,7 +2301,7 @@
    }
   },
   "plutarch-perseus-perrin-titus-flamininus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0007.tlg028.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -2794,7 +2312,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -2881,7 +2399,46 @@
   "plutarch-perseus-barcroft-lives-of-the-ten-orators": "same translation as plutarch-goodwin-moralia-v1..v5 (PG 78134, 78147, 78851, 79588, 78000: the same several-hands translation in Goodwin's revision) on this shelf; Perseus TEI urn:cts:greekLit:tlg0007.tlg121.perseus-eng4 (Lives of the Ten Orators, tr. Charles Barcroft) is not taken as a second witness (moved here on review, 2026-10-02)",
   "plutarch-perseus-white-of-the-names-of-rivers-and-mountains-and": "same translation as plutarch-goodwin-moralia-v1..v5 (PG 78134, 78147, 78851, 79588, 78000: the same several-hands translation in Goodwin's revision) on this shelf; Perseus TEI urn:cts:greekLit:tlg0094.tlg001.perseus-eng2 (Of the Names of Rivers and Mountains, and of Such Things as are to be Found Therein, tr. R. White) is not taken as a second witness (moved here on review, 2026-10-02)",
   "plutarch-perseus-philips-concerning-music": "same translation as plutarch-goodwin-moralia-v1..v5 (PG 78134, 78147, 78851, 79588, 78000: the same several-hands translation in Goodwin's revision) on this shelf; Perseus TEI urn:cts:greekLit:tlg0094.tlg002.perseus-eng2 (Concerning music, tr. John Philips) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "plutarch-perseus-dowell-of-those-sentiments-concerning-nature-wi": "same translation as plutarch-goodwin-moralia-v1..v5 (PG 78134, 78147, 78851, 79588, 78000: the same several-hands translation in Goodwin's revision) on this shelf; Perseus TEI urn:cts:greekLit:tlg0094.tlg003.perseus-eng2 (Of Those Sentiments Concerning Nature with which Philosophers were Delighted, tr. John Dowell) is not taken as a second witness (moved here on review, 2026-10-02)"
+  "plutarch-perseus-dowell-of-those-sentiments-concerning-nature-wi": "same translation as plutarch-goodwin-moralia-v1..v5 (PG 78134, 78147, 78851, 79588, 78000: the same several-hands translation in Goodwin's revision) on this shelf; Perseus TEI urn:cts:greekLit:tlg0094.tlg003.perseus-eng2 (Of Those Sentiments Concerning Nature with which Philosophers were Delighted, tr. John Dowell) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "plutarch-perseus-whitaker-whether-twere-rightly-said-live-concealed": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg141.perseus-eng2 (Whether 'Twere Rightly Said, Live Concealed., tr. Charles Whitaker) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-fetherston-whether-an-aged-man-ought-to-meddle-in-state-affairs": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg117.perseus-eng4 (Whether an Aged Man Ought to Meddle in State Affairs., tr. F. Fetherston) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-white-whether-vice-is-sufficient-to-render-a-man-unhappy": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg099.perseus-eng4 (Whether vice is sufficient to render a man unhappy, tr. Samuel White) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-white-whether-the-passions-of-the-soul-or-diseases-of-the-bod": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg100.perseus-eng4 (Whether the Passions of the Soul or Diseases of the Body Are Worse, tr. Samuel White) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-baxter-an-abstract-of-a-comparison-betwixt-aristophanes-and-me": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg122.perseus-eng4 (An Abstract of a Comparison Betwixt Aristophanes and Menander, tr. William Baxter) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-baxter-a-breviate-of-a-discourse-showing-that-the-stoics-speak": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg137.perseus-eng2 (A breviate of a discourse, showing that the Stoics speak greater improbabilities than the poets., tr. William Baxter) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-creech-plutarch-s-consolatory-letter-to-his-wife": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg111.perseus-eng2 (Plutarch's Consolatory Letter to His Wife, tr. Thomas Creech) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-phillips-concerning-the-fortune-or-virtue-of-alexander-the-great": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg087.perseus-eng4 (Concerning the fortune or virtue of Alexander the Great., tr. John Phillips) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-brown-of-natural-affection-towards-one-s-offspring": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg098.perseus-eng4 (Of Natural Affection Towards One's Offspring, tr. R. Brown) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-kippax-of-the-word-engraven-over-the-gate-of-apollo-s-temple-a": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg090.perseus-eng4 (Of the word ΕΙ engraven over the gate of Apollo's temple at Delphi, tr. R Kippax) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-baxter-of-isis-and-osiris-or-of-the-ancient-religion-and-philo": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg089.perseus-eng4 (Of Isis and Osiris, or of the Ancient Religion and Philosophy of Egypt., tr. William Baxter) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-philips-wherefore-the-pythian-priestess-now-ceases-to-deliver-h": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg091.perseus-eng4 (Wherefore the Pythian Priestess now Ceases to Deliver her Oracles in Verse, tr. John Philips) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-lancaster-how-a-man-may-inoffensively-praise-himself-without-bein": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg106.perseus-eng2 (How a Man May Inoffensively Praise Himself Without Being Liable to Envy, tr. P. Lancaster) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-philips-concerning-such-whom-god-is-slow-to-punish": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg107.perseus-eng2 (Concerning Such Whom God is Slow to Punish, tr. John Philips) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-goodwin-the-contradictions-of-the-stoics": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg136.perseus-eng2 (The contradictions of the Stoics, tr. William W. Goodwin) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-matthew-of-moral-virtue": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg094.perseus-eng4 (Of Moral Virtue, tr. Morgan Matthew) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-philips-concerning-the-procreation-of-the-soul-as-discoursed-in": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg134.perseus-eng2 (Concerning the procreation of the soul as discoursed in Timaeus, tr. John Philips) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-wheeler-of-curiosity-or-an-over-busy-inquisitiveness-into-thing": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg102.perseus-eng4 (Of Curiosity, or an Over-Busy Inquisitiveness into Things Impertinent., tr. Maurice Wheeler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-smith-whether-the-athenians-were-more-renowned-for-their-warl": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg088.perseus-eng4 (Whether the Athenians Were More Renowned For Their Warlike Achievements or For Their Learning, tr. R Smith) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-ford-a-discourse-touching-the-training-of-children": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg067.perseus-eng4 (A Discourse Touching the Training of Children, tr. Simon Ford) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-philips-which-are-the-most-crafty-water-animals-or-those-creatu": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg129.perseus-eng4 (Which are the most crafty, water-animals or those creatures that breed upon the land?, tr. John Philips) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-poole-plutarch-s-rules-for-the-preservation-of-health": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg077.perseus-eng4 (Plutarch's Rules for the Preservation of Health, tr. Matthew Poole) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-smith-of-the-three-sorts-of-government-monarchy-democracy-and": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg119.perseus-eng4 (Of the Three Sorts of Government, Monarchy, Democracy, and Oligarchy., tr. R. Smith) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-smith-against-running-in-debt-or-taking-up-money-upon-usury": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg120.perseus-eng4 (Against Running in Debt, or Taking up Money Upon Usury, tr. R. Smith) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-chetwood-that-a-philosopher-ought-chiefly-to-converse-with-great": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg115.perseus-eng4 (That a Philosopher Ought Chiefly to Converse with Great Men, tr. Knightley Chetwood) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-baxter-that-it-is-not-possible-to-live-pleasurably-according-t": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg139.perseus-eng2 (That it is Not Possible to Live Pleasurably According to the Doctrine of Epicurus, tr. William Baxter) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-oswald-parallels-or-a-comparison-between-the-greek-and-roman-h": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg085.perseus-eng4 (Parallels, or a comparison between the Greek and Roman Histories., tr. John Oswald) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-hinton-the-apophthegms-or-remarkable-sayings-of-kings-and-grea": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg081.perseus-eng4 (The apophthegms or remarkable sayings of kings and great commanders., tr. Edward Hinton) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-white-of-the-names-of-rivers-and-mountains-and-of-such-things": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0094.tlg001.perseus-eng2 (Of the Names of Rivers and Mountains, and of Such Things as are to be Found Therein, tr. R. White) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-dowell-of-those-sentiments-concerning-nature-with-which-philos": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0094.tlg003.perseus-eng2 (Of Those Sentiments Concerning Nature with which Philosophers were Delighted, tr. John Dowell) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-goodwin-ed-of-herodotus-s-malice": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg123.perseus-eng2 (Of Herodotus's Malice., tr. Goodwin) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-goodwin-ed-of-fate": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg108.perseus-eng2 (Of Fate., tr. Goodwin) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-goodwin-ed-how-a-man-may-be-sensible-of-his-progress-in-virtue": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg071.perseus-eng4 (How a Man May Be Sensible of His Progress in Virtue., tr. Goodwin) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-goodwin-ed-of-large-acquaintance-or-an-essay-to-prove-the-folly-of": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg073.perseus-eng4 (Of Large Acquaintance: or, an Essay to Prove the Folly of Seeking Many Friends, tr. Goodwin) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-goodwin-ed-five-tragical-histories-of-love": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg114.perseus-eng4 (Five Tragical Histories of Love, tr. Goodwin) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-goodwin-ed-against-colotes-the-disciple-and-favorite-of-epicurus": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg140.perseus-eng2 (Against Colotes, the Disciple and Favorite of Epicurus., tr. Goodwin) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-goodwin-ed-that-brute-beasts-make-use-of-reason": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg130.perseus-eng4 (That brute beasts make use of reason, tr. Goodwin) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-goodwin-ed-laconic-apophthegms-or-remarkable-sayings-of-the-sparta": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg082.perseus-eng4 (Laconic Apophthegms; or Remarkable Sayings of the Spartans., tr. Goodwin) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plutarch-perseus-goodwin-ed-of-the-face-appearing-within-the-orb-of-the-moon": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0007.tlg126.perseus-eng4 (Of the Face Appearing Within the Orb Of the Moon, tr. Goodwin) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  },
  "_perseus_licence": {
   "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
@@ -2889,5 +2446,365 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "perseus": {
+  "plutarch-perseus-babbitt-advice-to-bride-and-groom": [
+   "tlg0007.tlg078.perseus-eng3",
+   "Advice to Bride and Groom",
+   "Frank Cole Babbitt",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
+  ],
+  "plutarch-perseus-babbitt-a-letter-of-condolence-to-apollonius": [
+   "tlg0007.tlg076.perseus-eng3",
+   "A Letter of Condolence to Apollonius",
+   "Frank Cole Babbitt",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
+  ],
+  "plutarch-perseus-babbitt-superstition": [
+   "tlg0007.tlg080.perseus-eng3",
+   "Superstition",
+   "Frank Cole Babbitt",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. IΙ. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
+  ],
+  "plutarch-perseus-babbitt-on-having-many-friends": [
+   "tlg0007.tlg073.perseus-eng3",
+   "On Having Many Friends",
+   "Frank Cole Babbitt",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
+  ],
+  "plutarch-perseus-babbitt-how-to-profit-by-one-s-enemies": [
+   "tlg0007.tlg072.perseus-eng3",
+   "How To Profit By One's Enemies",
+   "Frank Cole Babbitt",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
+  ],
+  "plutarch-perseus-babbitt-chance": [
+   "tlg0007.tlg074.perseus-eng3",
+   "Chance",
+   "Frank Cole Babbitt",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
+  ],
+  "plutarch-perseus-babbitt-the-education-of-children": [
+   "tlg0007.tlg067.perseus-eng3",
+   "The Education of Children",
+   "Frank Cole Babbitt",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. I. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (printing)."
+  ],
+  "plutarch-perseus-babbitt-on-listening-to-lectures": [
+   "tlg0007.tlg069.perseus-eng3",
+   "On Listening to Lectures",
+   "Frank Cole Babbitt",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. I. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press. London: William Heinemann Ltd., 1927 (printing)."
+  ],
+  "plutarch-perseus-babbitt-advice-about-keeping-well": [
+   "tlg0007.tlg077.perseus-eng3",
+   "Advice About Keeping Well",
+   "Frank Cole Babbitt",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
+  ],
+  "plutarch-perseus-babbitt-virtue-and-vice": [
+   "tlg0007.tlg075.perseus-eng3",
+   "Virtue and Vice",
+   "Frank Cole Babbitt",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
+  ],
+  "plutarch-perseus-babbitt-how-the-young-man-should-study-poetry": [
+   "tlg0007.tlg068.perseus-eng3",
+   "How the Young Man Should Study Poetry",
+   "Frank Cole Babbitt",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. I. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (printing)."
+  ],
+  "plutarch-perseus-babbitt-how-to-tell-a-flatterer-from-a-friend": [
+   "tlg0007.tlg070.perseus-eng3",
+   "How to Tell a Flatterer from a Friend",
+   "Frank Cole Babbitt",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. I. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (printing)."
+  ],
+  "plutarch-perseus-babbitt-how-a-man-may-become-aware-of-his-progre": [
+   "tlg0007.tlg071.perseus-eng3",
+   "How a Man May Become Aware of His Progress in Virtue",
+   "Frank Cole Babbitt",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. I. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (printing)."
+  ],
+  "plutarch-perseus-babbitt-the-dinner-of-the-seven-wise-men": [
+   "tlg0007.tlg079.perseus-eng3",
+   "The Dinner of the Seven Wise Men",
+   "Frank Cole Babbitt",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Plutarch. Moralia, Vol. II. Babbitt, Frank Cole, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1928 (printing)."
+  ]
+ },
+ "_pending": {
+  "plutarch-perseus-hartcliff-how-a-man-may-receive-advantage-and-profit-from-his-ene": "Perseus tlg0007.tlg072.perseus-eng4 \"How a man may receive advantage and profit from his enemies.\" (tr. John Hartcliff): translator name not found in the Perseus TEI header (the 1684-94 'Several Hands' Morals as reprinted by Goodwin 1874); held until the header's own attribution is read",
+  "plutarch-perseus-dillgham-concerning-the-cure-of-anger-a-dialogue": "Perseus tlg0007.tlg095.perseus-eng4 \"Concerning the cure of anger: a dialogue\" (tr. William Dillgham): translator name not found in the Perseus TEI header (the 1684-94 'Several Hands' Morals as reprinted by Goodwin 1874); held until the header's own attribution is read",
+  "plutarch-perseus-fetherstone-concerning-the-first-principle-of-cold": "Perseus tlg0007.tlg127.perseus-eng4 \"Concerning the First Principle of Cold\" (tr. F. Fetherstone): translator name not found in the Perseus TEI header (the 1684-94 'Several Hands' Morals as reprinted by Goodwin 1874); held until the header's own attribution is read"
+ },
+ "_perseus_on_main": {
+  "note": "2026-11-03: these Perseus rows were dropped from this shelf because PR #7 (merged to main) fetches the same Perseus texts under pipeline/fetch_sources.py PERSEUS. List: overnight/divines/OVERLAP-B-PR7.tsv.",
+  "dropped": [
+   [
+    "plutarch-perseus-perrin-aemilius-paulus",
+    "tlg0007.tlg019.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-agesilaus",
+    "tlg0007.tlg044.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-agis-and-cleomenes",
+    "tlg0007.tlg051.perseus-eng1"
+   ],
+   [
+    "plutarch-perseus-perrin-alcibiades",
+    "tlg0007.tlg015.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-alexander",
+    "tlg0007.tlg047.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-antony",
+    "tlg0007.tlg058.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-aratus",
+    "tlg0007.tlg063.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-aristides",
+    "tlg0007.tlg024.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-artaxerxes",
+    "tlg0007.tlg064.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-brutus",
+    "tlg0007.tlg061.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-caesar",
+    "tlg0007.tlg048.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-caius-marcius-coriolanus",
+    "tlg0007.tlg016.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-caius-marius",
+    "tlg0007.tlg031.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-camillus",
+    "tlg0007.tlg011.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-cato-the-younger",
+    "tlg0007.tlg050.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-cicero",
+    "tlg0007.tlg055.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-cimon",
+    "tlg0007.tlg035.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-agesilaus-and-pompey",
+    "tlg0007.tlg046.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-agis-and-cleomenes-and",
+    "tlg0007.tlg053.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-alcibiades-and-coriola",
+    "tlg0007.tlg017.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-aristides-and-marcus-c",
+    "tlg0007.tlg026.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-demetrius-and-antony",
+    "tlg0007.tlg059.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-demosthenes-and-cicero",
+    "tlg0007.tlg056.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-dion-and-brutus",
+    "tlg0007.tlg062.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-lucullus-and-cimon",
+    "tlg0007.tlg037.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-lycurgus-and-numa",
+    "tlg0007.tlg006.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-lysander-and-sulla",
+    "tlg0007.tlg034.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-nicias-and-crassus",
+    "tlg0007.tlg040.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-pelopidas-and-marcellu",
+    "tlg0007.tlg023.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-pericles-and-fabius-ma",
+    "tlg0007.tlg014.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-philopoemen-and-titus",
+    "tlg0007.tlg029.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-sertorius-and-eumenes",
+    "tlg0007.tlg043.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-solon-and-publicola",
+    "tlg0007.tlg009.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-theseus-and-romulus",
+    "tlg0007.tlg003.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-comparison-of-timoleon-and-aemilius",
+    "tlg0007.tlg020.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-crassus",
+    "tlg0007.tlg039.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-demetrius",
+    "tlg0007.tlg057.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-demosthenes",
+    "tlg0007.tlg054.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-dion",
+    "tlg0007.tlg060.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-eumenes",
+    "tlg0007.tlg041.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-fabius-maximus",
+    "tlg0007.tlg013.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-galba",
+    "tlg0007.tlg065.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-lucullus",
+    "tlg0007.tlg036.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-lycurgus",
+    "tlg0007.tlg004.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-lysander",
+    "tlg0007.tlg032.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-marcellus",
+    "tlg0007.tlg022.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-marcus-cato",
+    "tlg0007.tlg025.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-nicias",
+    "tlg0007.tlg038.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-numa",
+    "tlg0007.tlg005.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-otho",
+    "tlg0007.tlg066.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-pelopidas",
+    "tlg0007.tlg021.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-pericles",
+    "tlg0007.tlg012.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-philopoemen",
+    "tlg0007.tlg027.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-phocion",
+    "tlg0007.tlg049.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-pompey",
+    "tlg0007.tlg045.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-publicola",
+    "tlg0007.tlg008.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-pyrrhus",
+    "tlg0007.tlg030.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-romulus",
+    "tlg0007.tlg002.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-sertorius",
+    "tlg0007.tlg042.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-solon",
+    "tlg0007.tlg007.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-sulla",
+    "tlg0007.tlg033.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-themistocles",
+    "tlg0007.tlg010.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-theseus",
+    "tlg0007.tlg001.perseus-eng3"
+   ],
+   [
+    "plutarch-perseus-perrin-tiberius-and-caius-gracchus",
+    "tlg0007.tlg052.perseus-eng1"
+   ],
+   [
+    "plutarch-perseus-perrin-timoleon",
+    "tlg0007.tlg018.perseus-eng2"
+   ],
+   [
+    "plutarch-perseus-perrin-titus-flamininus",
+    "tlg0007.tlg028.perseus-eng2"
+   ]
+  ]
  }
 }

@@ -1,0 +1,67 @@
+{
+ "_about": "T. T. Timayenis (1853-1918), Greek-American writer: A History of Greece from the Earliest Times to the Present (2 vols., 1881) and Greece in the Times of Homer (1885). His later polemical pamphlets are not taken. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Telemachus Thomas Timayenis (1853-1918)",
+ "_name_words": [
+  "timayenis",
+  "greece",
+  "history",
+  "homer"
+ ],
+ "_surname": [
+  "timayenis"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "timayenis-history-of-greece-vol-1": [
+   "historyofgreecef0001tima",
+   "A History of Greece from the Earliest Times to the Present, vol. I"
+  ],
+  "timayenis-history-of-greece-vol-2": [
+   "historyofgreecef0002tima",
+   "A History of Greece from the Earliest Times to the Present, vol. II"
+  ],
+  "timayenis-greece-in-times-of-homer-1885": [
+   "greeceintimesofh00timauoft",
+   "Greece in the Times of Homer (1885)"
+  ]
+ },
+ "_excluded": {
+  "The Original Mr. Jacobs (1888) and similar": "antisemitic pamphlets, not scholarship"
+ },
+ "_checks": {
+  "timayenis-history-of-greece-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "timayenis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "timayenis-history-of-greece-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "timayenis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "timayenis-greece-in-times-of-homer-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "timayenis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

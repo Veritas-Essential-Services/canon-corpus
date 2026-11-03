@@ -1,0 +1,36 @@
+{
+ "_about": "C. W. L. Launspach: State and Family in Early Rome (1908). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Charles William Louis Launspach",
+ "_name_words": [
+  "launspach",
+  "state",
+  "family",
+  "early",
+  "rome"
+ ],
+ "_surname": [
+  "launspach"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "launspach-state-family-early-rome-1908": [
+   "cu31924030431294",
+   "State and Family in Early Rome (1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "launspach-state-family-early-rome-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "launspach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

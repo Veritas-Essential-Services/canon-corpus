@@ -1,0 +1,67 @@
+{
+ "_about": "William Carlos Williams. Bloom's Western Canon (1994) lists: Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Carlos Williams",
+ "_name_words": [
+  "william",
+  "carlos",
+  "williams"
+ ],
+ "_surname": [
+  "williams",
+  "william carlos williams"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "williams-sour-grapes": [
+   35667,
+   "Sour Grapes: A Book of Poems"
+  ],
+  "williams-book-poems": [
+   51997,
+   "A Book of Poems, Al Que Quiere!"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "williams-sour-grapes": {
+   "bloom_n": [
+    1269
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1921 (PG title page 'Copyright, 1921')",
+   "evidence": "PG header + title page read",
+   "case": "Bloom lists Williams's Collected Poems (not PD as a whole). The pre-1931 volumes are PD and on PG.",
+   "note": "PARTIAL: covers the early books only. Also on PG: The Tempers 31878, Kora in Hell 56681 (prose poems). Spring and All (1923) has no source -- see 1267."
+  },
+  "williams-book-poems": {
+   "bloom_n": [
+    1269
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "1917 (PG title page 'Copyright, 1917')",
+   "evidence": "PG header + title page read",
+   "case": "Bloom lists Williams's Collected Poems (not PD as a whole). The pre-1931 volumes are PD and on PG.",
+   "note": "PARTIAL: covers the early books only. Also on PG: The Tempers 31878, Kora in Hell 56681 (prose poems). Spring and All (1923) has no source -- see 1267."
+  }
+ },
+ "_checks": {
+  "williams-sour-grapes": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "williams-book-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

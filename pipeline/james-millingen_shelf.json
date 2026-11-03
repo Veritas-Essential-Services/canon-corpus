@@ -1,0 +1,32 @@
+{
+ "_about": "James Millingen (1774-1845), antiquary, raw IA OCR of Ancient Unedited Monuments, series I (1822).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "James Millingen",
+ "_name_words": [
+  "millingen"
+ ],
+ "_surname": [
+  "james millingen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "james-millingen-ancient-unedited-monuments-vases-1822": [
+   "ancientuneditedm00mill",
+   "Ancient Unedited Monuments, series I: Painted Greek Vases, from collections in various countries, illustrated and explained by James Millingen (London, 1822)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "james-millingen-ancient-unedited-monuments-vases-1822": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james millingen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

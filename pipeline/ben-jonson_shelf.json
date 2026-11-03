@@ -1,0 +1,45 @@
+{
+ "_about": "Ben Jonson. Bloom's Western Canon (1994) lists: Poems, Plays, and Masques. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Ben Jonson",
+ "_name_words": [
+  "ben",
+  "jonson"
+ ],
+ "_surname": [
+  "jonson",
+  "ben jonson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jonson-works": [
+   "worksofbenjonson00jonsuoft",
+   "The Works of Ben Jonson, with a biographical memoir by William Gifford, a new edition"
+  ]
+ },
+ "_bloom": {
+  "jonson-works": {
+   "bloom_n": [
+    168
+   ],
+   "bloom_title": "Poems, Plays, and Masques",
+   "year": "1860 (title page: 'London: Routledge, Warne, and Routledge ... 1860')",
+   "evidence": "Read title page; one-volume complete Works (plays, masques, poems).",
+   "case": "Bloom asks for the poems, plays and masques together; Gifford's one-volume Routledge Works is the handiest complete text.",
+   "note": "PG has many single plays (Volpone 4039, Alchemist 4081, etc.) and Discoveries+Poems (5134). Gifford/Cunningham 9-vol (1875) also on IA."
+  }
+ },
+ "_checks": {
+  "jonson-works": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "jonson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "_about": "Thomas Hood. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Thomas Hood",
+ "_name_words": [
+  "hood"
+ ],
+ "_surname": [
+  "thomas hood",
+  "hood"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hood-poetical-works": [
+   15652,
+   "The Poetical Works of Thomas Hood",
+   "tr. introduction by William Michael Rossetti"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "hood-poetical-works": "Rossetti"
+ },
+ "_bloom": {
+  "hood-poetical-works": {
+   "bloom_n": [
+    449
+   ],
+   "bloom_title": "Poems",
+   "year": "unread ('Enlarged and revised edition', New York: A. L. Burt Company; no date seen)",
+   "evidence": "Read PG header and front matter.",
+   "case": "Bloom lists Hood's poems; nothing by Hood is held. The Burt edition with W. M. Rossetti's introduction is a one-volume collected Hood.",
+   "note": "PG also has The Works of Thomas Hood vols 1-2 of 11 only."
+  }
+ },
+ "_checks": {
+  "hood-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "thomas hood",
+   "translator_claimed": "Rossetti",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

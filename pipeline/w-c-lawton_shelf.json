@@ -1,0 +1,98 @@
+{
+ "_about": "William Cranston Lawton (1853-1941), Professor of Greek at Adelphi College, raw IA OCR of Introduction to Classical Latin Literature (New York: Charles Scribner's Sons, 1904; US public domain by date). Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted. Round dz (2026-10-23), raw IA: Art and Humanity in Homer (1896), The Successors of Homer (the epic cycle, Hesiod, the Homeric Hymns; IA dates it 1898), Introduction to Classical Greek Literature (1903) and Ideals in Greek Literature (Chautauqua, 1905). His American-literature books and The Soul of the Anthology (1923, not yet checked) are not taken.",
+ "_author": "William Cranston Lawton (1853-1941)",
+ "_name_words": [
+  "lawton"
+ ],
+ "_surname": [
+  "william cranston lawton",
+  "w. c. lawton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-c-lawton-introduction-classical-latin-literature-1904": [
+   "introductiontocl00lawt",
+   "Introduction to Classical Latin Literature, by William Cranston Lawton (New York: Charles Scribner's Sons, 1904)"
+  ],
+  "w-c-lawton-art-and-humanity-in-homer-1896": [
+   "arthumanityinhom00lawt",
+   "Art and Humanity in Homer, by William Cranston Lawton (New York and London: Macmillan, 1896)"
+  ],
+  "w-c-lawton-successors-of-homer": [
+   "successorsofhome00lawtuoft",
+   "The Successors of Homer, by W. C. Lawton (no imprint legible in the OCR; IA catalogues 1898)"
+  ],
+  "w-c-lawton-introduction-classical-greek-literature-1903": [
+   "introductiontoc00lawtgoog",
+   "Introduction to Classical Greek Literature, by William Cranston Lawton (New York: Charles Scribner's Sons, 1903)"
+  ],
+  "w-c-lawton-ideals-in-greek-literature-1905": [
+   "idealsingreeklit00lawtrich",
+   "Ideals in Greek Literature, by William Cranston Lawton (Chautauqua Home Reading Series; Chautauqua, N.Y.: The Chautauqua Press, 1905)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-c-lawton-introduction-classical-latin-literature-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cranston lawton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-c-lawton-art-and-humanity-in-homer-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cranston lawton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-c-lawton-successors-of-homer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-c-lawton-introduction-classical-greek-literature-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cranston lawton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-c-lawton-ideals-in-greek-literature-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cranston lawton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "w-c-lawton-successors-of-homer": {
+   "author": "title page OCR '> C^^LAWTON, SENIOR CLASSICAL PROFESSOR IN THE ADELPHI COLLEGE, BROOKLYN' (W. C. Lawton taught at Adelphi)"
+  }
+ }
+}

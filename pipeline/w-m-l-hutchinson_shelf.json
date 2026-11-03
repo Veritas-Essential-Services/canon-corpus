@@ -1,0 +1,32 @@
+{
+ "_about": "Winifred Margaret Lambart Hutchinson (1868-1939), Newnham College, raw IA OCR of Aeacus, a Judge of the Underworld (1901). Her retold Muses' Pageant is left to the storytelling lanes.  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "W. M. L. Hutchinson",
+ "_name_words": [
+  "hutchinson"
+ ],
+ "_surname": [
+  "w. m. l. hutchinson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-m-l-hutchinson-aeacus-judge-of-the-underworld-1901": [
+   "aeacusajudgeund00hutcgoog",
+   "Aeacus, a Judge of the Underworld, by W. M. L. Hutchinson (Cambridge: Macmillan and Bowes, 1901)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-m-l-hutchinson-aeacus-judge-of-the-underworld-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. l. hutchinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

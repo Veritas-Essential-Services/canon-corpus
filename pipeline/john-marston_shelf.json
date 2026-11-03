@@ -1,0 +1,43 @@
+{
+ "_about": "John Marston. Bloom's Western Canon (1994) lists: The Malcontent. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Marston",
+ "_name_words": [
+  "john",
+  "marston"
+ ],
+ "_surname": [
+  "marston",
+  "john marston"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "marston-works-volume-1": [
+   45209,
+   "The Works of John Marston. Volume 1"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "marston-works-volume-1": {
+   "bloom_n": [
+    187
+   ],
+   "bloom_title": "The Malcontent",
+   "year": "1887 (front matter read: Bullen's edition, introduction dated '18th March 1887')",
+   "evidence": "PG contents read: 'THE MALCONTENT 193'.",
+   "case": "Bullen's Works vol. 1 contains The Malcontent.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "marston-works-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "marston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "_about": "Anatole France. Bloom's Western Canon (1994) lists: Penguin Island. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Anatole France",
+ "_name_words": [
+  "anatole",
+  "france"
+ ],
+ "_surname": [
+  "france",
+  "anatole france"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "france-penguin-island": [
+   1930,
+   "Penguin Island"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "france-penguin-island": {
+   "bloom_n": [
+    746
+   ],
+   "bloom_title": "Penguin Island",
+   "year": "unread",
+   "evidence": "PG header read; it names no translator",
+   "case": "Penguin Island (1908) is on PG; not held.",
+   "note": "PG header gives no translator. The English Penguin Island of 1909 (Lane) is by A. W. Evans (from knowledge, not read). Confirm before shelving."
+  }
+ },
+ "_checks": {
+  "france-penguin-island": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "france",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

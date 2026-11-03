@@ -1,5 +1,5 @@
 {
- "_about": "Samuel Henry Butcher (1850-1910), Harvard Lectures on Greek Subjects (1904); his Aristotle's Theory of Poetry and Fine Art (Greek facing) reads 0.69 and is refused under the bar; his Odyssey with Lang is on the homer shelf: Harvard Lectures on Greek Subjects (New York: Macmillan, 1904), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Also Some Aspects of the Greek Genius, third edition (Macmillan, 1904; first edition 1891), raw IA OCR: the third edition is taken because it carries the essay added in the second.",
+ "_about": "Samuel Henry Butcher (1850-1910), Harvard Lectures on Greek Subjects (1904); his Aristotle's Theory of Poetry and Fine Art (Greek facing) reads 0.69 and is refused under the bar; his Odyssey with Lang is on the homer shelf: Harvard Lectures on Greek Subjects (New York: Macmillan, 1904), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Also Some Aspects of the Greek Genius, third edition (Macmillan, 1904; first edition 1891), raw IA OCR: the third edition is taken because it carries the essay added in the second. Round dw (2026-10-23) added his Demosthenes (Classical Writers, 1881). The Butcher-Lang Odyssey is on the lang and homer shelves.",
  "_name_words": [
   "butcher"
  ],
@@ -18,15 +18,21 @@
   "butcher-some-aspects-greek-genius-1904": [
    "someaspectsofgre00butcuoft",
    "Some Aspects of the Greek Genius, third edition (London: Macmillan, 1904)"
+  ],
+  "butcher-aristotle-theory-poetry-1898": [
+   "aristotlestheory00butc",
+   "Aristotle's Theory of Poetry and Fine Art, with a critical text and translation of the Poetics, 2nd ed. (London: Macmillan, 1898); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "butcher-demosthenes-1881": [
+   "demosthenes00butcuoft",
+   "Demosthenes, by S. H. Butcher, Classical Writers, ed. John Richard Green (London: Macmillan, 1881)"
   ]
  },
- "_excluded": {
-  "Aristotle's Theory of Poetry and Fine Art (1898; IA aristotlestheory00butc)": "refused: OCR 0.69, Greek text facing"
- },
+ "_excluded": {},
  "_checks": {
   "butcher-harvard-lectures-greek-subjects-1904": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "s. h. butcher",
    "identity": "ok",
@@ -37,13 +43,35 @@
   },
   "butcher-some-aspects-greek-genius-1904": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "s. h. butcher",
    "identity": "ok",
    "ia_rights": "ok: published 1904",
    "ia_date": "1904",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "butcher-aristotle-theory-poetry-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. h. butcher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "butcher-demosthenes-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. h. butcher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

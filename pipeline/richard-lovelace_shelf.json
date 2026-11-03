@@ -1,0 +1,43 @@
+{
+ "_about": "Richard Lovelace. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Richard Lovelace",
+ "_name_words": [
+  "richard",
+  "lovelace"
+ ],
+ "_surname": [
+  "lovelace",
+  "richard lovelace"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lovelace-lucasta": [
+   703,
+   "Lucasta"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "lovelace-lucasta": {
+   "bloom_n": [
+    177
+   ],
+   "bloom_title": "Poems",
+   "year": "unread (PG text is W. Carew Hazlitt's edition; preface signed 'Kensington, August 12, 1863')",
+   "evidence": "PG front matter read: includes Lucasta and the Posthume Poems.",
+   "case": "Hazlitt's Lucasta (with Posthume Poems) is the complete Lovelace.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "lovelace-lucasta": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "lovelace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

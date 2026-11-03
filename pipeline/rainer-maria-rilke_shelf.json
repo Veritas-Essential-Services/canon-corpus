@@ -1,0 +1,55 @@
+{
+ "_about": "Rainer Maria Rilke. Bloom's Western Canon (1994) lists: Selected Poetry (including the Duino Elegies); The Notebooks of Malte Laurids Brigge. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom). Lemont's Poems (PG 38594, 1918), the PD part of Bloom's Selected Poetry, is already held on the jessie-lemont shelf and is not repeated here.",
+ "_author": "Rainer Maria Rilke",
+ "_name_words": [
+  "rainer",
+  "maria",
+  "rilke"
+ ],
+ "_surname": [
+  "rilke",
+  "rainer maria rilke"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rilke-journal-my-other-self": [
+   "journalofmyother0000rain",
+   "The Journal of My Other Self"
+  ]
+ },
+ "_translators": {
+  "rilke-journal-my-other-self": "Norton"
+ },
+ "_bloom": {
+  "rilke-journal-my-other-self": {
+   "bloom_n": [
+    1004
+   ],
+   "bloom_title": "The Notebooks of Malte Laurids Brigge",
+   "year": "\"Copyright, 1930, W. W. Norton & Company\" (verso)",
+   "evidence": "djvu head read: \"The Journal of my other Self. Copyright, 1930. W. W. Norton & Company, Inc., 70 Fifth Avenue ... printed by the Van Rees Press\"; text opens \"11 September, rue Toullier\" (Malte's opening). University of Florida, americana, no lending flag.",
+   "case": "Bloom lists Malte; the 1930 Norton translation (titled The Journal of My Other Self) is the first American English edition and falls just inside the cutoff.",
+   "note": "Swapped to IA journalofmyother0000rain, whose title page (read 2026-11-03) names the translators M. D. Herter Norton and John Linton, 'Copyright, 1930, W. W. Norton'; the first scan had no title page. The translator credit was not visible in the OCR of the front matter (the title page may be missing from the scan); bibliographies credit M. D. Herter Norton and John Linton -- verify on the scan images before recording. Second copy: journalofmyother0000rain (internetarchivebooks)."
+  }
+ },
+ "_rights_checked": {
+  "rilke-journal-my-other-self": "Bloom addition 2026-11-03: title page read: 'Translation by M. D. Herter Norton and John Linton', 'Copyright, 1930 W. W. Norton & Company'. Published 1930, US public domain from 2026-01-01; IA collection internetarchivebooks, not lending."
+ },
+ "_checks": {
+  "rilke-journal-my-other-self": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "rilke",
+   "translator_claimed": "Norton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: title page read: 'Translation by M. D. Herter Norton and John Linton', 'Copyright, 1930 W. W. Norton & Company'. Published 1930, US public domain from 2026-01-01; IA collection internetarchivebooks, not lending."
+  }
+ }
+}

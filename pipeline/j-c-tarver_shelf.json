@@ -1,0 +1,34 @@
+{
+ "_about": "J. C. Tarver (1854-1926), Eton master: Tiberius the Tyrant (1902). His essays on education are outside lane B. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "John Charles Tarver (1854-1926)",
+ "_name_words": [
+  "tarver",
+  "tiberius",
+  "tyrant"
+ ],
+ "_surname": [
+  "tarver"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tarver-tiberius-the-tyrant-1902": [
+   "cu31924028300550",
+   "Tiberius the Tyrant (1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "tarver-tiberius-the-tyrant-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tarver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

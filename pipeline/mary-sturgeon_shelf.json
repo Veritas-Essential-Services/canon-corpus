@@ -1,0 +1,34 @@
+{
+ "_about": "Mary Sturgeon (d. 1925): Women of the Classics (London: Harrap), the heroines of Greek and Latin literature. Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Mary Sturgeon (d. 1925)",
+ "_name_words": [
+  "sturgeon",
+  "mary",
+  "women",
+  "classics"
+ ],
+ "_surname": [
+  "mary sturgeon",
+  "mary c. sturgeon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sturgeon-women-of-the-classics": [
+   53487,
+   "Women of the Classics (London: Harrap)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "sturgeon-women-of-the-classics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary sturgeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

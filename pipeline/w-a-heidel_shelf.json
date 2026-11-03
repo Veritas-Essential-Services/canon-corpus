@@ -1,0 +1,57 @@
+{
+ "_about": "W. A. Heidel (1868-1941), Wesleyan classicist of early Greek thought: Pseudo-Platonica (1896) and The Necessary and the Contingent in the Aristotelian System (1896). His school Euthyphro is not taken. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "William Arthur Heidel (1868-1941)",
+ "_name_words": [
+  "heidel",
+  "aristotelian",
+  "necessary",
+  "contingent",
+  "pseudo",
+  "platonica"
+ ],
+ "_surname": [
+  "heidel"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "heidel-pseudo-platonica-1896": [
+   "pseudoplatonica00heidrich",
+   "Pseudo-Platonica (1896)"
+  ],
+  "heidel-necessary-contingent-aristotle-1896": [
+   "cu31924028999740",
+   "The Necessary and the Contingent in the Aristotelian System (1896)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "heidel-pseudo-platonica-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heidel-necessary-contingent-aristotle-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heidel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "heidel-pseudo-platonica-1896": {
+   "author": "title page read 2026-10-23 from the page image (n4): 'PSEUDO-PLATONICA. A Dissertation presented to the Faculty of Arts, Literature and Science of the University of Chicago ... by W. A. HEIDEL. Baltimore: The Friedenwald Company, 1896'; the OCR reads the name as 'WAS BLD EL'"
+  }
+ }
+}

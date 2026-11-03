@@ -1,0 +1,32 @@
+{
+ "_about": "James Christie the younger (1773-1831), antiquary and auctioneer, raw IA OCR of Disquisitions upon the Painted Greek Vases (1825).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "James Christie",
+ "_name_words": [
+  "christie"
+ ],
+ "_surname": [
+  "james christie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "james-christie-disquisitions-painted-greek-vases-1825": [
+   "disquisitionsupo00chri",
+   "Disquisitions upon the Painted Greek Vases, and their probable connection with the shows of the Eleusinian and other mysteries, by James Christie (London: Longman, Hurst, Rees, Orme, Brown, and Green, 1825)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "james-christie-disquisitions-painted-greek-vases-1825": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james christie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

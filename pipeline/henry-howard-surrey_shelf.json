@@ -1,0 +1,48 @@
+{
+ "_about": "Henry Howard, Earl of Surrey. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Henry Howard, Earl of Surrey",
+ "_name_words": [
+  "henry",
+  "howard",
+  "earl",
+  "of",
+  "surrey"
+ ],
+ "_surname": [
+  "surrey",
+  "henry howard earl of surrey"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "surrey-poems": [
+   "poemsofhenryhowa00surruoft",
+   "The Poems of Henry Howard, Earl of Surrey, ed. Frederick Morgan Padelford"
+  ]
+ },
+ "_bloom": {
+  "surrey-poems": {
+   "bloom_n": [
+    150
+   ],
+   "bloom_title": "Poems",
+   "year": "1920 (title page: 'University of Washington Publications ... Volume 1, October, 1920')",
+   "evidence": "Read title page and preface.",
+   "case": "Padelford's 1920 edition is the modern scholarly Surrey and is PD.",
+   "note": "IA also has a 1928 revised Padelford (poemsofhenryhowa1928surr) - also pre-1931 - and the Aldine Surrey (1866/1871)."
+  }
+ },
+ "_checks": {
+  "surrey-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "surrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[1920]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

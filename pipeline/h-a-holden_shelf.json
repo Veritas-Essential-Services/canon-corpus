@@ -1,0 +1,117 @@
+{
+ "_about": "Hubert Ashton Holden (1822-1896), Head Master of Ipswich School: school and college editions with English introductions and notes, raw IA. Cicero: De Officiis Libri Tres (third edition, 1879), Pro Gnaeo Plancio (1891), Pro Publio Sestio (1889). Plutarch: Lives of Themistocles (1892), Sulla (1886) and Pericles (1894). Latin or Greek text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions. Not taken: his Plutarch Gracchi, Nicias, Timoleon and Demosthenes and the Oeconomicus of Xenophon, whose open scans OCR the English as Greek letters.",
+ "_author": "Hubert Ashton Holden (1822-1896)",
+ "_name_words": [
+  "holden",
+  "cicero",
+  "plutarch"
+ ],
+ "_surname": [
+  "hubert a. holden",
+  "hubert ashton holden",
+  "h. a. holden",
+  "holden, hubert"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "h-a-holden-de-officiis-1879": [
+   "deofficiislibrit00cice_0",
+   "M. Tulli Ciceronis De Officiis Libri Tres, with introduction, analysis and commentary, third edition (Cambridge: at the University Press, 1879); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "h-a-holden-pro-plancio-1891": [
+   "mtvlliciceronis01holdgoog",
+   "M. Tulli Ciceronis Pro Gnaeo Plancio Oratio ad Iudices, edited with introduction and notes (Cambridge: University Press, 1891); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "h-a-holden-pro-sestio-1889": [
+   "propubliosestioo00ciceuoft",
+   "M. Tulli Ciceronis Pro Publio Sestio Oratio ad Iudices, with introduction, critical and explanatory notes and indexes third edition (London and New York: Macmillan, 1889; first impression 1883); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "h-a-holden-themistocles-1892": [
+   "lifethemistocle00holdgoog",
+   "Plutarch's Life of Themistocles, with introduction, critical and explanatory notes, indices and map, third edition (London and New York: Macmillan, 1892 on the title page; the OCR also shows 1907, perhaps a later impression); Greek text with English commentary, Greek-heavy, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "h-a-holden-sulla-1886": [
+   "plutarchslifeofl00plut",
+   "Plutarch's Life of Lucius Cornelius Sulla, with introduction, notes and lexicon (Cambridge: University Press, 1886); Greek text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "h-a-holden-pericles-1894": [
+   "lifeofpericleswi00plut",
+   "Plutarch's Life of Pericles, with introduction, critical and explanatory notes and indices (London: Macmillan, 1894); Greek text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "h-a-holden-de-officiis-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. a. holden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "h-a-holden-pro-plancio-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. a. holden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "h-a-holden-pro-sestio-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hubert a. holden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "h-a-holden-themistocles-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "h-a-holden-sulla-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. a. holden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "h-a-holden-pericles-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hubert ashton holden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "h-a-holden-themistocles-1892": {
+   "author": "title page read in the OCR 2026-10-23: 'PLUTARCH'S LIFE OF THEMISTOCLES WITH INTRODUCTION, CRITICAL AND EXPLANATORY NOTES, INDICES AND MAP BY HUBEBT ASHTON flOLDEN LL.D. THIRD EDITION ... London MACMILLAN AND CO. AND NEW YORK 1892', i.e. Hubert Ashton Holden, the name garbled"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "_about": "Hart Crane. Bloom's Western Canon (1994) lists: Complete Poems and Selected Letters and Prose. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Hart Crane",
+ "_name_words": [
+  "hart",
+  "crane"
+ ],
+ "_surname": [
+  "crane",
+  "hart crane"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "crane-white-buildings": [
+   77837,
+   "White Buildings"
+  ]
+ },
+ "internet_archive": {
+  "crane-bridge": [
+   "bridge0000hart",
+   "The Bridge: A Poem"
+  ]
+ },
+ "_bloom": {
+  "crane-white-buildings": {
+   "bloom_n": [
+    1291
+   ],
+   "bloom_title": "Complete Poems and Selected Letters and Prose",
+   "year": "1926 (PG title page 'BONI & LIVERIGHT, 1926'; 'COPYRIGHT 1926')",
+   "evidence": "PG header + title page read",
+   "case": "Bloom lists Crane's Complete Poems and Selected Letters and Prose (1966, not PD). Both books of poems Crane published -- White Buildings (1926) and The Bridge (1930) -- are PD, i.e. nearly all the poetry.",
+   "note": "PARTIAL only in that the letters/prose and uncollected poems are excluded. The Selected Letters part is not covered (PG lists a 1952 Letters ed. Weber, 76626 -- not checked, and not needed for the poems)."
+  },
+  "crane-bridge": {
+   "bloom_n": [
+    1291
+   ],
+   "bloom_title": "Complete Poems and Selected Letters and Prose",
+   "year": "1930 (title page 'New York Horace Liveright'; '1930, by Horace Liveright, Inc. Copyright')",
+   "evidence": "djvu title page read; Carnegie-Mellon copy, internetarchivebooks",
+   "case": "Bloom lists Crane's Complete Poems and Selected Letters and Prose (1966, not PD). Both books of poems Crane published -- White Buildings (1926) and The Bridge (1930) -- are PD, i.e. nearly all the poetry.",
+   "note": "PARTIAL only in that the letters/prose and uncollected poems are excluded. The Selected Letters part is not covered (PG lists a 1952 Letters ed. Weber, 76626 -- not checked, and not needed for the poems)."
+  }
+ },
+ "_rights_checked": {
+  "crane-bridge": "Bloom addition 2026-11-03: 1930 (title page 'New York Horace Liveright'; '1930, by Horace Liveright, Inc. Copyright'). djvu title page read; Carnegie-Mellon copy, internetarchivebooks"
+ },
+ "_checks": {
+  "crane-white-buildings": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crane-bridge": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "crane",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1930 (title page 'New York Horace Liveright'; '1930, by Horace Liveright, Inc. Copyright'). djvu title page read; Carnegie-Mellon copy, internetarchivebooks"
+  }
+ }
+}

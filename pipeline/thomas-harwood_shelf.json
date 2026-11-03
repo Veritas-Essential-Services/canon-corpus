@@ -1,0 +1,33 @@
+{
+ "_about": "Thomas Harwood (1767-1842), clergyman and antiquary, raw IA OCR of Grecian Antiquities, or an account of the public and private life of the Greeks (1801). Long-s OCR. Greek antiquities (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Thomas Harwood",
+ "_name_words": [
+  "harwood"
+ ],
+ "_surname": [
+  "thomas harwood",
+  "harwood"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thomas-harwood-grecian-antiquities-1801": [
+   "grecianantiquiti00harwrich",
+   "Grecian Antiquities; or, an account of the public and private life of the Greeks, by Thomas Harwood (London: T. Cadell and W. Davies, 1801)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "thomas-harwood-grecian-antiquities-1801": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas harwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

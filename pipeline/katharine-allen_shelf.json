@@ -1,0 +1,32 @@
+{
+ "_about": "Katharine Allen, University of Wisconsin, raw IA OCR of her Wisconsin dissertation on nature in Roman republican poetry (1899). Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Katharine Allen",
+ "_name_words": [
+  "allen"
+ ],
+ "_surname": [
+  "katharine allen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "katharine-allen-treatment-of-nature-roman-republic-1899": [
+   "treatmentofnatur00alleuoft",
+   "The Treatment of Nature in the Poetry of the Roman Republic (exclusive of comedy), by Katharine Allen (Bulletin of the University of Wisconsin no. 28, Philology and Literature Series vol. 1 no. 3; Madison, Wisconsin, May 1899)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "katharine-allen-treatment-of-nature-roman-republic-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katharine allen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

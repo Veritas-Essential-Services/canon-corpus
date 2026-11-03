@@ -1,0 +1,33 @@
+{
+ "_about": "Robert Theodore Gunther (1869-1940), Oxford zoologist and historian of science, raw IA OCR of Pausilypon, the Imperial Villa near Naples (1913). Roman topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "R. T. Gunther",
+ "_name_words": [
+  "gunther"
+ ],
+ "_surname": [
+  "r. t. gunther",
+  "gunther"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "r-t-gunther-pausilypon-1913": [
+   "pausilyponimper00gunt",
+   "Pausilypon, the Imperial Villa near Naples, with a description of the submerged foreshore and observations on the tomb of Virgil, by R. T. Gunther (Oxford: printed for the author at the University Press, 1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "r-t-gunther-pausilypon-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. t. gunther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

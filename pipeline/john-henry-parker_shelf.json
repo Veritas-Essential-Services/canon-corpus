@@ -1,0 +1,137 @@
+{
+ "_about": "John Henry Parker (1806-1884), Oxford publisher and antiquary, Keeper of the Ashmolean, raw IA OCR of his Archaeology of Rome (the text volumes; the plates volume of part I is left out) and a pamphlet on Roman building methods (1868). His Gothic architecture books are outside lane B. Roman antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "John Henry Parker",
+ "_name_words": [
+  "parker"
+ ],
+ "_surname": [
+  "john henry parker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "john-henry-parker-archaeology-of-rome-1-primitive-fortifications-1874": [
+   "TheArchaeologyOfRomeV1pt1",
+   "The Archaeology of Rome, part I: The Primitive Fortifications, by John Henry Parker, C.B., Keeper of the Ashmolean Museum (Oxford: James Parker and Co.; London: John Murray, 1874)"
+  ],
+  "john-henry-parker-archaeology-of-rome-5-6-forum-via-sacra-1876": [
+   "TheArchaeologyOfRomeV5V6",
+   "The Archaeology of Rome, parts V and VI: The Forum Romanum and the Via Sacra, by John Henry Parker, C.B., Keeper of the Ashmolean Museum (Oxford: James Parker and Co.; London: John Murray, 1876)"
+  ],
+  "john-henry-parker-archaeology-of-rome-7-flavian-amphitheatre-1876": [
+   "TheArchaeologyOfRomeV7",
+   "The Archaeology of Rome, part VII: The Flavian Amphitheatre, commonly called the Colosseum, by John Henry Parker, C.B., Keeper of the Ashmolean Museum (Oxford: James Parker and Co.; London: John Murray, 1876)"
+  ],
+  "john-henry-parker-archaeology-of-rome-8-aqueducts-1876": [
+   "TheArchaeologyOfRomeV8",
+   "The Archaeology of Rome, part VIII: The Aqueducts, by John Henry Parker, C.B., Keeper of the Ashmolean Museum (Oxford: James Parker and Co.; London: John Murray, 1876)"
+  ],
+  "john-henry-parker-archaeology-of-rome-9-10-tombs-1877": [
+   "TheArchaeologyOfRomeV9V10",
+   "The Archaeology of Rome, parts IX and X: Tombs in and near Rome, and Mythology in Funereal Sculpture, by John Henry Parker, C.B., Keeper of the Ashmolean Museum (Oxford: James Parker and Co.; London: John Murray, 1877)"
+  ],
+  "john-henry-parker-archaeology-of-rome-11-church-decorations": [
+   "TheArchaeologyOfRomeV11",
+   "The Archaeology of Rome, part XI: Church and Altar Decorations and Mosaic Pictures in Rome, by John Henry Parker, C.B., Keeper of the Ashmolean Museum (Oxford: James Parker and Co.; London: John Murray; the year is not legible in the OCR, IA catalogues 1877)"
+  ],
+  "john-henry-parker-archaeology-of-rome-12-catacombs": [
+   "TheArchaeologyOfRomeV12",
+   "The Archaeology of Rome, part XII: The Catacombs of Rome, by John Henry Parker, C.B., Keeper of the Ashmolean Museum (Oxford: James Parker and Co.; London: John Murray; IA catalogues 1877)"
+  ],
+  "john-henry-parker-different-modes-of-construction-1868": [
+   "TheDifferentModesOfConstruction",
+   "The Different Modes of Construction employed in Antient Roman Buildings, by John Henry Parker, F.S.A. (Rome: printed by the Chev. Peter Marietti, 1868)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "john-henry-parker-archaeology-of-rome-1-primitive-fortifications-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-henry-parker-archaeology-of-rome-5-6-forum-via-sacra-1876": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-henry-parker-archaeology-of-rome-7-flavian-amphitheatre-1876": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-henry-parker-archaeology-of-rome-8-aqueducts-1876": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-henry-parker-archaeology-of-rome-9-10-tombs-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-henry-parker-archaeology-of-rome-11-church-decorations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-henry-parker-archaeology-of-rome-12-catacombs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-henry-parker-different-modes-of-construction-1868": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john henry parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "_about": "Pierre Jouguet (1869-1949), French papyrologist, in the History of Civilization series (Kegan Paul / Knopf): Macedonian Imperialism and the Hellenization of the East, tr. M. R. Dobie (1928). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Pierre Jouguet (1869-1949)",
+ "_name_words": [
+  "jouguet",
+  "macedonian",
+  "imperialism",
+  "hellenization"
+ ],
+ "_surname": [
+  "jouguet"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jouguet-macedonian-imperialism-1928": [
+   "macedonianimperi0000pier",
+   "Macedonian Imperialism and the Hellenization of the East (1928), tr. M. R. Dobie"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "jouguet-macedonian-imperialism-1928": "Dobie"
+ },
+ "_checks": {
+  "jouguet-macedonian-imperialism-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jouguet",
+   "translator_claimed": "Dobie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "_about": "Helen Waddell, raw IA OCR of The Wandering Scholars, her study of the medieval Latin Vagantes (US issue, Houghton Mifflin, preface December 1926); published before 1930, so US public domain. Not C. C. Waddell, whose shelf is c-c-waddell. Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Helen Waddell",
+ "_name_words": [
+  "waddell"
+ ],
+ "_surname": [
+  "helen waddell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "helen-waddell-wandering-scholars": [
+   "wanderingscholar00wadd_1",
+   "The Wandering Scholars, by Helen Waddell (Boston and New York: Houghton Mifflin; no year on the title page, preface dated December 1926; IA catalogues 1927)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "helen-waddell-wandering-scholars": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen waddell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

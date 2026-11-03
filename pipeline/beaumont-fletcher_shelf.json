@@ -1,0 +1,44 @@
+{
+ "_about": "Francis Beaumont and John Fletcher. Bloom's Western Canon (1994) lists: Plays. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Francis Beaumont and John Fletcher",
+ "_name_words": [
+  "fletcher"
+ ],
+ "_surname": [
+  "beaumont",
+  "fletcher"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fletcher-works": [
+   "worksoffrancisb01beauuoft",
+   "The Works of Francis Beaumont and John Fletcher, vol. I, text ed. Arnold Glover (Cambridge English Classics)"
+  ]
+ },
+ "_bloom": {
+  "fletcher-works": {
+   "bloom_n": [
+    184
+   ],
+   "bloom_title": "Plays",
+   "year": "1905 (title page: 'Cambridge: at the University Press 1905')",
+   "evidence": "Read title page; vol. I holds Maid's Tragedy, Philaster, A King and No King, Scornful Lady, Custom of the Country.",
+   "case": "Glover & Waller's 10-vol Cambridge text is the standard complete B&F.",
+   "note": "PG has the same edition play by play (e.g. 10620, 12039). The held 'john-fletcher' shelf is John Fletcher of Madeley, the Methodist."
+  }
+ },
+ "_checks": {
+  "fletcher-works": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "beaumont",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "Marlowe's (1564-1593) Doctor Faustus, Dyce's text. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_about": "Marlowe's (1564-1593) Doctor Faustus, Dyce's text. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv. Bloom addition 2026-11-03 (Bloom's Western Canon): marlowe-works.",
  "_author": "Christopher Marlowe",
  "_name_words": [
   "christopher",
@@ -16,17 +16,45 @@
    "The Tragical History of Doctor Faustus (c. 1592; ed. Dyce)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "marlowe-works": [
+   "worksmarlowe00marluoft",
+   "The Works of Christopher Marlowe, ed. C. F. Tucker Brooke"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "marlowe-doctor-faustus": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "christopher marlowe",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "marlowe-works": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "christopher marlowe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "marlowe-works": {
+   "bloom_n": [
+    158
+   ],
+   "bloom_title": "Poems and Plays",
+   "year": "1910 first edition; this scan is the 'Impression of 1925' (title verso: 'First edition, 1910 / Impression of 1925')",
+   "evidence": "Read title page and verso; an unrevised reprint, fine.",
+   "case": "One-volume complete Marlowe (plays, poems, translations); we hold only Doctor Faustus (and Edward II on mason-poetry).",
+   "note": "PG has Bullen's Works vols 2-3 (42724, 21262) and single plays if a PG text is preferred."
   }
  }
 }

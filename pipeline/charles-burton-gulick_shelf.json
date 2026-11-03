@@ -1,0 +1,55 @@
+{
+ "_about": "Charles Burton Gulick (1868-1962), Harvard classicist: The Life of the Ancient Greeks (1902) and Modern Traits in Old Greek Life (Our Debt to Greece and Rome, 1927). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Charles Burton Gulick (1868-1962)",
+ "_name_words": [
+  "gulick",
+  "ancient",
+  "greeks",
+  "life",
+  "modern",
+  "traits"
+ ],
+ "_surname": [
+  "charles burton gulick",
+  "c. b. gulick",
+  "charles b. gulick"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gulick-life-of-ancient-greeks-1902": [
+   "lifeofancientgre00guliuoft",
+   "The Life of the Ancient Greeks, with Special Reference to Athens (1902)"
+  ],
+  "gulick-modern-traits-old-greek-life": [
+   "in.gov.ignca.13567",
+   "Modern Traits in Old Greek Life (Our Debt to Greece and Rome, 1927)",
+   "13567_djvu.txt"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "gulick-life-of-ancient-greeks-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles burton gulick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gulick-modern-traits-old-greek-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles burton gulick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "_about": "Frank Justus Miller (1858-1938), Chicago, the Loeb translator of Seneca's tragedies and Ovid: Studies in the Poetry of Italy, Part I, Roman (Chautauqua, New York, copyright 1901). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Frank Justus Miller (1858-1938)",
+ "_name_words": [
+  "miller",
+  "frank",
+  "justus",
+  "poetry",
+  "italy"
+ ],
+ "_surname": [
+  "frank justus miller",
+  "f. j. miller"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "miller-studies-poetry-italy-roman-1901": [
+   35174,
+   "Studies in the Poetry of Italy, Part I: Roman (Chautauqua, 1901)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "miller-studies-poetry-italy-roman-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank justus miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

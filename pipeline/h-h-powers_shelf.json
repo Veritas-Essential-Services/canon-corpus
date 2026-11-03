@@ -1,0 +1,32 @@
+{
+ "_about": "Harry Huntington Powers (1859-1936), president of the Bureau of University Travel, raw IA OCR of The Message of Greek Art (1913).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "H. H. Powers",
+ "_name_words": [
+  "powers"
+ ],
+ "_surname": [
+  "h. h. powers"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "h-h-powers-message-of-greek-art-1913": [
+   "cu31924030649374",
+   "The Message of Greek Art, by H. H. Powers (Home Reading Series; Chautauqua, New York; copyright 1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "h-h-powers-message-of-greek-art-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. h. powers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

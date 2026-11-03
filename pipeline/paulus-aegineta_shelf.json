@@ -1,5 +1,5 @@
 {
- "_about": "Paulus Aegineta, The Seven Books, translated from the Greek with a commentary by Francis Adams (Sydenham Society, 3 vols.), raw IA OCR (BIU Sante scans). The imprint year is not legible in the OCR of any title page; vol. I's advertisement is dated 1844 and the catalogue gives 1844-1847.",
+ "_about": "Paulus Aegineta, The Seven Books, translated from the Greek with a commentary by Francis Adams (Sydenham Society, 3 vols.), raw IA OCR (BIU Sante scans). The imprint year is not legible in the OCR of any title page; vol. I's advertisement is dated 1844 and the catalogue gives 1844-1847. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_name_words": [
   "paulus",
   "aegineta",
@@ -7,7 +7,20 @@
   "books"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "paulus-adams-1-pg": [
+   70531,
+   "The Seven Books of Paulus Aegineta, vol. 1"
+  ],
+  "paulus-adams-2-pg": [
+   70532,
+   "The Seven Books of Paulus Aegineta, vol. 2"
+  ],
+  "paulus-adams-3-pg": [
+   70533,
+   "The Seven Books of Paulus Aegineta, vol. 3"
+  ]
+ },
  "internet_archive": {
   "paulus-aegineta-adams-1844-v1": [
    "BIUSante_37321x01",
@@ -38,9 +51,36 @@
   "paulus-aegineta-adams-1847-v3": "francis adams"
  },
  "_checks": {
+  "paulus-adams-1-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paulus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Adams"
+  },
+  "paulus-adams-2-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paulus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Adams"
+  },
+  "paulus-adams-3-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paulus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Adams"
+  },
   "paulus-aegineta-adams-1844-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "paulus",
    "translator_claimed": "francis adams",
@@ -53,7 +93,7 @@
   },
   "paulus-aegineta-adams-1846-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "paulus",
    "translator_claimed": "francis adams",
@@ -66,7 +106,7 @@
   },
   "paulus-aegineta-adams-1847-v3": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "paulus",
    "translator_claimed": "francis adams",

@@ -1,5 +1,5 @@
 {
- "_about": "George Boole (1815-1864), raw IA OCR (Google scan): An Investigation of the Laws of Thought, on which are founded the mathematical theories of logic and probabilities (London: Walton and Maberly; Cambridge: Macmillan, 1854). US public domain. Held: The Mathematical Analysis of Logic (1847), because the scans found are the 1948 Philosophical Library facsimile, a post-1930 printing; PG 36884 has no plain-text file. Wanted (round 2026-10-18bx): The Mathematical Analysis of Logic (1847) and The Calculus of Logic (1848); Gutenberg serves these and its Laws of Thought only as PDF or TeX, with no plain text to fetch. No uids minted.",
+ "_about": "George Boole (1815-1864), raw IA OCR (Google scan): An Investigation of the Laws of Thought, on which are founded the mathematical theories of logic and probabilities (London: Walton and Maberly; Cambridge: Macmillan, 1854). US public domain. Held: The Mathematical Analysis of Logic (1847), because the scans found are the 1948 Philosophical Library facsimile, a post-1930 printing; PG 36884 has no plain-text file. Wanted (round 2026-10-18bx): The Mathematical Analysis of Logic (1847) and The Calculus of Logic (1848); Gutenberg serves these and its Laws of Thought only as PDF or TeX, with no plain text to fetch. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "George Boole",
  "_name_words": [
   "george",
@@ -25,7 +25,7 @@
  "_checks": {
   "boole-laws-of-thought-1854": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -34,5 +34,8 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
+ },
+ "_pending": {
+  "PG 15114 (An Investigation of the Laws of Thought)": "clean Gutenberg edition exists but only as PDF/TeX (no plain-text file); wanted as a clean witness once fetch_shelf can read TeX"
  }
 }

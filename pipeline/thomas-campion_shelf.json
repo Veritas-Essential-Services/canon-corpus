@@ -1,0 +1,45 @@
+{
+ "_about": "Thomas Campion. Bloom's Western Canon (1994) lists: Songs. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Thomas Campion",
+ "_name_words": [
+  "thomas",
+  "campion"
+ ],
+ "_surname": [
+  "campion",
+  "thomas campion"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "campion-works": [
+   "cu31924013118371",
+   "Works of Thomas Campion: Songs and Masques, with Observations in the Art of English Poesy, ed. A. H. Bullen"
+  ]
+ },
+ "_bloom": {
+  "campion-works": {
+   "bloom_n": [
+    165
+   ],
+   "bloom_title": "Songs",
+   "year": "1903 (title page: 'London, A. H. Bullen ... MCMIII')",
+   "evidence": "Read title page.",
+   "case": "Bullen's 1903 Songs and Masques is the classic Campion edition.",
+   "note": "Avoid workscamp00campuoft: it is a 1966/67 lithographic reprint (unrevised, but prefer a period printing)."
+  }
+ },
+ "_checks": {
+  "campion-works": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "campion",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

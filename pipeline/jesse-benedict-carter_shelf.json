@@ -1,0 +1,67 @@
+{
+ "_about": "Jesse Benedict Carter (1872-1917), Director of the American Academy in Rome: The Religion of Numa and Other Essays (1906, Gutenberg) and The Religious Life of Ancient Rome (1911). Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.  Round dz adds his Selections from the Roman Elegiac Poets (1900).",
+ "_author": "Jesse Benedict Carter (1872-1917)",
+ "_name_words": [
+  "carter",
+  "religion",
+  "numa",
+  "rome",
+  "roman"
+ ],
+ "_surname": [
+  "jesse benedict carter",
+  "jesse b. carter",
+  "j. b. carter"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "carter-religion-of-numa-pg": [
+   18222,
+   "The Religion of Numa, and Other Essays on the Religion of Ancient Rome (1906)"
+  ]
+ },
+ "internet_archive": {
+  "carter-religious-life-ancient-rome-1911": [
+   "religiouslifeofa00cartuoft",
+   "The Religious Life of Ancient Rome: a Study in the Development of Religious Consciousness (1911)"
+  ],
+  "jesse-benedict-carter-selections-from-roman-elegiac-poets-1900": [
+   "selectionsfromro00cartuoft",
+   "Selections from the Roman Elegiac Poets, with introduction and notes by Jesse Benedict Carter (New York: University Publishing Company, 1900)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "carter-religion-of-numa-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jesse benedict carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carter-religious-life-ancient-rome-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jesse benedict carter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jesse-benedict-carter-selections-from-roman-elegiac-poets-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jesse benedict carter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "[1900]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

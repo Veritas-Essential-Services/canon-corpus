@@ -1,0 +1,69 @@
+{
+ "_about": "Marianne Moore. Bloom's Western Canon (1994) lists: Complete Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Marianne Moore",
+ "_name_words": [
+  "marianne",
+  "moore"
+ ],
+ "_surname": [
+  "moore",
+  "marianne moore"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "moore-poems": [
+   62833,
+   "Poems"
+  ]
+ },
+ "internet_archive": {
+  "moore-observations": [
+   "bwb_P9-EKO-675",
+   "Observations"
+  ]
+ },
+ "_bloom": {
+  "moore-observations": {
+   "bloom_n": [
+    1274
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "1924 (title page 'The Dial Press MCMXXIV'; 'Copyright, 1924')",
+   "evidence": "djvu title page read; internetarchivebooks",
+   "case": "Bloom lists Moore's Complete Poems (1967, not PD). Observations (1924) is her collected early work and is PD.",
+   "note": "PARTIAL. Alt: PG 62833 Poems (Egoist Press, London 1921) -- read its title page -- a smaller, earlier selection."
+  },
+  "moore-poems": {
+   "bloom_n": [
+    1274
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "1921 (PG title page 'The Egoist Press ... 1921')",
+   "evidence": "PG header + title page read",
+   "case": "Bloom lists Moore's Complete Poems (1967, not PD). Observations (1924) is her collected early work and is PD.",
+   "note": "PARTIAL. Alt: PG 62833 Poems (Egoist Press, London 1921) -- read its title page -- a smaller, earlier selection."
+  }
+ },
+ "_checks": {
+  "moore-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moore-observations": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "moore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

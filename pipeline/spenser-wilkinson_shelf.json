@@ -1,0 +1,32 @@
+{
+ "_about": "Spenser Wilkinson (1853-1937), Chichele Professor of Military History at Oxford, raw IA OCR of Hannibal's March through the Alps (1911). Roman history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Spenser Wilkinson",
+ "_name_words": [
+  "wilkinson"
+ ],
+ "_surname": [
+  "spenser wilkinson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "spenser-wilkinson-hannibals-march-1911": [
+   "hannibalsmarchth00wilkuoft",
+   "Hannibal's March through the Alps, by Spenser Wilkinson (Oxford: at the Clarendon Press, 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "spenser-wilkinson-hannibals-march-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "spenser wilkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

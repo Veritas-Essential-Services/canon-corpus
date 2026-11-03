@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Dante Gabriel Rossetti (1828-1882). The Early Italian Poets (1861; later 'Dante and his Circle', 1874), which includes his Vita Nuova; and the Vita Nuova as Gutenberg's clean text. PD. Added 2026-10-02 by lane C under the coordinator's standing instruction (choose further translator shelves); Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: Dante Gabriel Rossetti (1828-1882). The Early Italian Poets (1861; later 'Dante and his Circle', 1874), which includes his Vita Nuova; and the Vita Nuova as Gutenberg's clean text. PD. Added 2026-10-02 by lane C under the coordinator's standing instruction (choose further translator shelves); Adam may veto the whole shelf. No uids minted in the relay burst. Bloom addition 2026-11-03 (Bloom's Western Canon): rossetti-poems-translations.",
  "_name_words": [
   "rossetti"
  ],
@@ -19,6 +19,10 @@
   "rossetti-early-italian-poets-1861": [
    "earlyitalianpo00rossuoft",
    "The Early Italian Poets from Ciullo d'Alcamo to Dante Alighieri (1861)"
+  ],
+  "rossetti-poems-translations": [
+   "cu31924014158210",
+   "Poems & Translations, 1850-1870, together with the prose story 'Hand and Soul'"
   ]
  },
  "titles": {
@@ -50,7 +54,7 @@
  "_checks": {
   "rossetti-vita-nuova-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "dante gabriel rossetti",
    "identity": "ok",
@@ -59,7 +63,7 @@
   },
   "rossetti-early-italian-poets-1861": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "d. g. rossetti",
    "identity": "ok",
@@ -67,6 +71,18 @@
    "ia_date": "1861",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "rossetti-poems-translations": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "dante gabriel rossetti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: first published 1913 (printing line 'This edition was first published in 1913, and reprinted in 1919, 1926, 1936, and 1949' -- the scan is a 1949 or later printing of the unrevised Oxford text). Read djvu title page and printing line: Oxford University Press (H. Milford), London New York Toronto. Collection cornell/americana."
   }
  },
  "_verified": {
@@ -90,5 +106,20 @@
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
- "_surname_note": "2026-10-03: full printed names only, after Lane D's name audit (a bare one-word form would pass other authors of the same surname, e.g. Maude Ashurst Biggs). Tested against every source on the shelf; the only misses already carry _identity_checked overrides."
+ "_surname_note": "2026-10-03: full printed names only, after Lane D's name audit (a bare one-word form would pass other authors of the same surname, e.g. Maude Ashurst Biggs). Tested against every source on the shelf; the only misses already carry _identity_checked overrides.",
+ "_rights_checked": {
+  "rossetti-poems-translations": "Bloom addition 2026-11-03: first published 1913 (printing line 'This edition was first published in 1913, and reprinted in 1919, 1926, 1936, and 1949' -- the scan is a 1949 or later printing of the unrevised Oxford text). Read djvu title page and printing line: Oxford University Press (H. Milford), London New York Toronto. Collection cornell/americana."
+ },
+ "_bloom": {
+  "rossetti-poems-translations": {
+   "bloom_n": [
+    468
+   ],
+   "bloom_title": "Poems and Translations",
+   "year": "first published 1913 (printing line 'This edition was first published in 1913, and reprinted in 1919, 1926, 1936, and 1949' -- the scan is a 1949 or later printing of the unrevised Oxford text)",
+   "evidence": "Read djvu title page and printing line: Oxford University Press (H. Milford), London New York Toronto. Collection cornell/americana.",
+   "case": "Bloom names exactly this Oxford volume, 'Poems and Translations 1850-1870'. The translations are held; the poems are not.",
+   "note": "The scan is a post-1931 reprint of a 1913 edition; if Adam prefers a pre-1931 printing, IA has 1919 (in.ernet.dli.2015.234904) and 1926 (in.ernet.dli.2015.59135) copies, not opened."
+  }
+ }
 }

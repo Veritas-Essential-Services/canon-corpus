@@ -135,7 +135,8 @@
   }
  },
  "_held": {
-  "quintilian-butler-v1": "held back on rights, not fetched: the scan is a reprint of the 1920 translation carrying a 'Bibliographical Addendum (1980)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was IA institutioorator00quin: The Institutio Oratoria of Quintilian, vol. 1: Books I-III Vol. 1 is now held from a DLI scan without the addendum as quintilian-butler-v1-1921."
+  "quintilian-butler-v1": "held back on rights, not fetched: the scan is a reprint of the 1920 translation carrying a 'Bibliographical Addendum (1980)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was IA institutioorator00quin: The Institutio Oratoria of Quintilian, vol. 1: Books I-III Vol. 1 is now held from a DLI scan without the addendum as quintilian-butler-v1-1921.",
+  "quintilian-perseus-butler-institutio-oratoria": "Perseus TEI phi1002.phi001.perseus-eng2 (Institutio Oratoria, tr. Harold Edgeworth Butler) is already in the PERSEUS manifest of fetch_sources.py on PR #7 (claude/project-thread-hxenem); not fetched twice (2026-10-23)"
  },
  "_rights_checked": {
   "quintilian-butler-v1-1921": "Imprint read: 'First printed 1921, Printed in Great Britain', no reprint, revision or addendum line; no year after 1930 anywhere in the file (the 1980 Bibliographical Addendum that held quintilian-butler-v1 back is absent). The half-title lists later series editors (Post, Warmington), so the physical copy is a later impression of the unrevised text. Replaces the held quintilian-butler-v1."

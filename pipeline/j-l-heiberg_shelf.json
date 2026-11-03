@@ -1,0 +1,38 @@
+{
+ "_about": "Johan Ludvig Heiberg (1854-1928), Danish editor of Euclid and Archimedes, raw IA OCR of Mathematics and Physical Science in Classical Antiquity, tr. D. C. Macgregor (1922). Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "J. L. Heiberg",
+ "_name_words": [
+  "heiberg"
+ ],
+ "_surname": [
+  "heiberg"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-l-heiberg-mathematics-physical-science-1922": [
+   "mathematicsphysi0000heib",
+   "Mathematics and Physical Science in Classical Antiquity, translated from the German of J. L. Heiberg by D. C. Macgregor (Chapters in the History of Science II; London: Oxford University Press, Humphrey Milford, 1922)",
+   "tr. D. C. Macgregor"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "j-l-heiberg-mathematics-physical-science-1922": "D. C. Macgregor"
+ },
+ "_checks": {
+  "j-l-heiberg-mathematics-physical-science-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heiberg",
+   "translator_claimed": "D. C. Macgregor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

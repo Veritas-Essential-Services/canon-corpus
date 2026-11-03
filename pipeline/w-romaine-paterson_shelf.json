@@ -1,0 +1,33 @@
+{
+ "_about": "William Romaine Paterson (1871-1935), raw IA OCR of The Nemesis of Nations: studies in history, the ancient world (1907). Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "W. Romaine Paterson",
+ "_name_words": [
+  "paterson"
+ ],
+ "_surname": [
+  "w. romaine paterson",
+  "romaine paterson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-romaine-paterson-nemesis-of-nations-1907": [
+   "nemesisofnations00pateuoft",
+   "The Nemesis of Nations: studies in history, by W. Romaine Paterson (London: J. M. Dent & Co., 1907)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-romaine-paterson-nemesis-of-nations-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. romaine paterson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

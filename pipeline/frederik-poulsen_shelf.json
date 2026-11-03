@@ -1,0 +1,58 @@
+{
+ "_about": "Frederik Poulsen (1876-1950), keeper at the Ny Carlsberg Glyptotek, raw IA OCR of Greek and Roman Portraits in English Country Houses (tr. G. C. Richards, 1923).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted. Round eb adds Delphi (tr. G. C. Richards, 1920).",
+ "_author": "Frederik Poulsen",
+ "_name_words": [
+  "poulsen"
+ ],
+ "_surname": [
+  "frederik poulsen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "frederik-poulsen-greek-roman-portraits-english-country-houses": [
+   "GrkRmnPortraits",
+   "Greek and Roman Portraits in English Country Houses, by Frederik Poulsen, translated by the Rev. G. C. Richards (Oxford: Clarendon Press; no year in the OCR, IA catalogues 1923)",
+   "135440-GrkRmnPortraits_reduced_djvu.txt",
+   "tr. G. C. Richards"
+  ],
+  "frederik-poulsen-delphi-1920": [
+   "delphipoulsen00poul",
+   "Delphi, by Frederik Poulsen, translated by G. C. Richards, with a preface by Percy Gardner (London: Gyldendal; no year on the title page, the author's foreword is dated Copenhagen, July 1920)",
+   "tr. G. C. Richards"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "frederik-poulsen-greek-roman-portraits-english-country-houses": "G. C. Richards",
+  "frederik-poulsen-delphi-1920": "G. C. Richards"
+ },
+ "_checks": {
+  "frederik-poulsen-greek-roman-portraits-english-country-houses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederik poulsen",
+   "translator_claimed": "G. C. Richards",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frederik-poulsen-delphi-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederik poulsen",
+   "translator_claimed": "G. C. Richards",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

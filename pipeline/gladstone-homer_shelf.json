@@ -1,5 +1,5 @@
 {
- "_about": "William Ewart Gladstone (1809-1898), Studies on Homer and the Homeric Age (Oxford, 1858). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Studies on Homer and the Homeric Age, vol. 1, Studies on Homer and the Homeric Age, vol. 2, Studies on Homer and the Homeric Age, vol. 3, clean Gutenberg. The shelf is for his Homeric work only; his politics are outside the brief. No uids minted.",
+ "_about": "William Ewart Gladstone (1809-1898), Studies on Homer and the Homeric Age (Oxford, 1858). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Studies on Homer and the Homeric Age, vol. 1, Studies on Homer and the Homeric Age, vol. 2, Studies on Homer and the Homeric Age, vol. 3, clean Gutenberg. The shelf is for his Homeric work only; his politics are outside the brief. No uids minted.  Round ea adds Landmarks of Homeric Study.",
  "_name_words": [
   "gladstone"
  ],
@@ -23,11 +23,16 @@
    "Studies on Homer and the Homeric Age, vol. 3"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "gladstone-landmarks-of-homeric-study": [
+   "landmarksofhomer00gladuoft",
+   "Landmarks of Homeric Study, together with an essay on the points of contact between the Assyrian tablets and the Homeric text, by W. E. Gladstone (London and New York: Macmillan and Co.; no year in the OCR, IA catalogues 1890)"
+  ]
+ },
  "_checks": {
   "gladstone-studies-homer-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. e. gladstone",
    "identity": "ok",
@@ -36,7 +41,7 @@
   },
   "gladstone-studies-homer-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. e. gladstone",
    "identity": "ok",
@@ -45,12 +50,23 @@
   },
   "gladstone-studies-homer-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. e. gladstone",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "gladstone-landmarks-of-homeric-study": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. gladstone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }

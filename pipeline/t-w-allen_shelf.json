@@ -1,0 +1,54 @@
+{
+ "_about": "T. W. Allen (1862-1950), Fellow of Queen's College, Oxford, editor of the Oxford Homer, raw IA OCR: Notes on Abbreviations in Greek Manuscripts (Clarendon Press, MDCCCLXXXIX = 1889); The Homeric Catalogue of Ships, edited with a commentary (Clarendon Press, MDCCCCXXI = 1921). His Homeric Hymns with Sikes (1904) is on the e-e-sikes shelf. Greek-dense volumes kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dx). No uids minted.",
+ "_author": "Thomas William Allen (1862-1950)",
+ "_name_words": [
+  "allen"
+ ],
+ "_surname": [
+  "t. w. allen",
+  "thomas w. allen",
+  "allen, t. w."
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "t-w-allen-abbreviations-greek-manuscripts-1889": [
+   "notesonabbreviat00alle",
+   "Notes on Abbreviations in Greek Manuscripts, by T. W. Allen, with eleven pages of facsimiles by photolithography (Oxford: Clarendon Press, M DCCC LXXXIX [1889])"
+  ],
+  "t-w-allen-homeric-catalogue-of-ships-1921": [
+   "homericcatalogue00homeuoft",
+   "The Homeric Catalogue of Ships, edited with a commentary by Thomas W. Allen (Oxford: Clarendon Press, M DCCCC XXI [1921]; the OCR reads the year as 'M DCCCCXXxI')"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "t-w-allen-abbreviations-greek-manuscripts-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. w. allen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "t-w-allen-homeric-catalogue-of-ships-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "t-w-allen-homeric-catalogue-of-ships-1921": {
+   "author": "title page OCRs the editor as 'SHOMAS W. ALLEN, Fellow of Queen's College' (Oxford: Clarendon Press, M DCCCCXXxI)"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "_about": "Trumbull Stickney. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Trumbull Stickney",
+ "_name_words": [
+  "trumbull",
+  "stickney"
+ ],
+ "_surname": [
+  "stickney",
+  "trumbull stickney"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stickney-poems": [
+   "poemsoftrumbulls00sticuoft",
+   "The Poems of Trumbull Stickney, ed. G. C. Lodge, W. V. Moody, J. E. Lodge"
+  ]
+ },
+ "_bloom": {
+  "stickney-poems": {
+   "bloom_n": [
+    678
+   ],
+   "bloom_title": "Poems",
+   "year": "1905 (title page: Boston and New York, Houghton, Mifflin, MDCCCCV; 'Copyright 1905')",
+   "evidence": "djvu title page and prefatory note read; collection toronto",
+   "case": "The 1905 posthumous Poems is the collected Stickney; not on PG.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "stickney-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "stickney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -48,74 +48,6 @@
    "ia_lending": null
   }
  },
- "perseus": {
-  "isocrates-perseus-norlin-against-the-sophists": [
-   "tlg0010.tlg008.perseus-eng2",
-   "Against the Sophists",
-   "George Norlin",
-   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Isocrates, Vol 2. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1929 (printing)."
-  ],
-  "isocrates-perseus-norlin-antidosis": [
-   "tlg0010.tlg019.perseus-eng2",
-   "Antidosis",
-   "George Norlin",
-   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Isocrates, Vol 2. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1929 (printing)."
-  ],
-  "isocrates-perseus-norlin-to-archidamus": [
-   "tlg0010.tlg016.perseus-eng2",
-   "To Archidamus",
-   "George Norlin",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
-  ],
-  "isocrates-perseus-norlin-areopagiticus": [
-   "tlg0010.tlg018.perseus-eng2",
-   "Areopagiticus",
-   "George Norlin",
-   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Isocrates, Vol 2. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1929 (printing)."
-  ],
-  "isocrates-perseus-norlin-nicocles-or-the-cyprians": [
-   "tlg0010.tlg014.perseus-eng2",
-   "Nicocles or the Cyprians",
-   "George Norlin",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
-  ],
-  "isocrates-perseus-norlin-on-the-peace": [
-   "tlg0010.tlg017.perseus-eng2",
-   "On the Peace",
-   "George Norlin",
-   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Isocrates, Vol 2. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1929 (printing)."
-  ],
-  "isocrates-perseus-norlin-panathenaicus": [
-   "tlg0010.tlg021.perseus-eng2",
-   "Panathenaicus",
-   "George Norlin",
-   "Translation published 1929: US public domain (in or before 1930). Perseus source line: IIsocrates, Vol 2. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1929 (printing)."
-  ],
-  "isocrates-perseus-norlin-panegyricus": [
-   "tlg0010.tlg011.perseus-eng2",
-   "Panegyricus",
-   "George Norlin",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
-  ],
-  "isocrates-perseus-norlin-to-demonicus": [
-   "tlg0010.tlg007.perseus-eng2",
-   "To Demonicus",
-   "George Norlin",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
-  ],
-  "isocrates-perseus-norlin-to-nicocles": [
-   "tlg0010.tlg013.perseus-eng2",
-   "To Nicocles",
-   "George Norlin",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
-  ],
-  "isocrates-perseus-norlin-to-philip": [
-   "tlg0010.tlg020.perseus-eng2",
-   "To Philip",
-   "George Norlin",
-   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
-  ]
- },
  "_perseus_checks": {
   "isocrates-perseus-norlin-against-the-sophists": {
    "checked": "2026-10-03",
@@ -355,5 +287,54 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_perseus_on_main": {
+  "note": "2026-11-03: these Perseus rows were dropped from this shelf because PR #7 (merged to main) fetches the same Perseus texts under pipeline/fetch_sources.py PERSEUS. List: overnight/divines/OVERLAP-B-PR7.tsv.",
+  "dropped": [
+   [
+    "isocrates-perseus-norlin-against-the-sophists",
+    "tlg0010.tlg008.perseus-eng2"
+   ],
+   [
+    "isocrates-perseus-norlin-antidosis",
+    "tlg0010.tlg019.perseus-eng2"
+   ],
+   [
+    "isocrates-perseus-norlin-to-archidamus",
+    "tlg0010.tlg016.perseus-eng2"
+   ],
+   [
+    "isocrates-perseus-norlin-areopagiticus",
+    "tlg0010.tlg018.perseus-eng2"
+   ],
+   [
+    "isocrates-perseus-norlin-nicocles-or-the-cyprians",
+    "tlg0010.tlg014.perseus-eng2"
+   ],
+   [
+    "isocrates-perseus-norlin-on-the-peace",
+    "tlg0010.tlg017.perseus-eng2"
+   ],
+   [
+    "isocrates-perseus-norlin-panathenaicus",
+    "tlg0010.tlg021.perseus-eng2"
+   ],
+   [
+    "isocrates-perseus-norlin-panegyricus",
+    "tlg0010.tlg011.perseus-eng2"
+   ],
+   [
+    "isocrates-perseus-norlin-to-demonicus",
+    "tlg0010.tlg007.perseus-eng2"
+   ],
+   [
+    "isocrates-perseus-norlin-to-nicocles",
+    "tlg0010.tlg013.perseus-eng2"
+   ],
+   [
+    "isocrates-perseus-norlin-to-philip",
+    "tlg0010.tlg020.perseus-eng2"
+   ]
+  ]
  }
 }

@@ -1,5 +1,5 @@
 {
- "_about": "William Stearns Davis (1877-1930), historian. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A Day in Old Athens: a Picture of Athenian Life, A Day in Old Rome, clean Gutenberg. His historical novels are outside the brief. No uids minted.",
+ "_about": "William Stearns Davis (1877-1930), historian. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A Day in Old Athens: a Picture of Athenian Life, A Day in Old Rome, clean Gutenberg. His historical novels are outside the brief. No uids minted. Lane B round ec added The Influence of Wealth in Imperial Rome (1910), raw IA OCR.",
  "_name_words": [
   "davis"
  ],
@@ -18,11 +18,16 @@
    "A Day in Old Rome"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "w-s-davis-influence-of-wealth-in-imperial-rome-1910": [
+   "influenceofwealt0000davi",
+   "The Influence of Wealth in Imperial Rome, by William Stearns Davis (New York: Macmillan, published October 1910)"
+  ]
+ },
  "_checks": {
   "w-s-davis-day-in-old-athens": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william stearns davis",
    "identity": "ok",
@@ -31,12 +36,23 @@
   },
   "w-s-davis-day-in-old-rome": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william stearns davis",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "w-s-davis-influence-of-wealth-in-imperial-rome-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william stearns davis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }

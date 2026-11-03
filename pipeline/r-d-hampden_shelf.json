@@ -1,0 +1,35 @@
+{
+ "_about": "R. D. Hampden (1793-1868), Regius Professor of Divinity and Bishop of Hereford: The Fathers of Greek Philosophy (1862), from his Encyclopaedia Britannica articles. His theology is left for lane A. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Renn Dickson Hampden (1793-1868)",
+ "_name_words": [
+  "hampden",
+  "fathers",
+  "greek",
+  "philosophy"
+ ],
+ "_surname": [
+  "hampden"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hampden-fathers-greek-philosophy-1862": [
+   "fathersgreekphi01hampgoog",
+   "The Fathers of Greek Philosophy (1862)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hampden-fathers-greek-philosophy-1862": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hampden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

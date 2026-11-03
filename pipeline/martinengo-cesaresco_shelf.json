@@ -1,0 +1,38 @@
+{
+ "_about": "Countess Evelyn Martinengo-Cesaresco (1852-1931): The Outdoor Life in Greek and Roman Poets (1911). Her Italian Risorgimento histories and folk-song essays are out of lane B's scope.",
+ "_author": "Evelyn Martinengo-Cesaresco (1852-1931)",
+ "_name_words": [
+  "cesaresco",
+  "martinengo",
+  "outdoor",
+  "greek",
+  "roman",
+  "poets"
+ ],
+ "_surname": [
+  "cesaresco",
+  "martinengo"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "martinengo-outdoor-life-greek-roman-poets-1911": [
+   "outdoorlifeingre0000evel",
+   "The Outdoor Life in Greek and Roman Poets and Kindred Studies (1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "martinengo-outdoor-life-greek-roman-poets-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cesaresco",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "_about": "R. W. Leage, Fellow of Brasenose, raw IA OCR of Roman Private Law founded on the Institutes of Gaius and Justinian (1906). Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "R. W. Leage",
+ "_name_words": [
+  "leage"
+ ],
+ "_surname": [
+  "r. w. leage",
+  "leage"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "r-w-leage-roman-private-law-1906": [
+   "romanprivatelawf00leaguoft",
+   "Roman Private Law founded on the 'Institutes' of Gaius and Justinian, by R. W. Leage (London: Macmillan and Co.; New York: The Macmillan Company, 1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "r-w-leage-roman-private-law-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

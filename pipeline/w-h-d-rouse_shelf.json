@@ -1,0 +1,33 @@
+{
+ "_about": "W. H. D. Rouse (1863-1950), headmaster of the Perse School and first editor of the Loeb Library, raw IA OCR of Greek Votive Offerings (1902). His retellings with Crooke are on crooke-rouse.  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "W. H. D. Rouse",
+ "_name_words": [
+  "rouse"
+ ],
+ "_surname": [
+  "william henry denham rouse",
+  "w. h. d. rouse"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-h-d-rouse-greek-votive-offerings-1902": [
+   "greekvotiveoffer00rousuoft",
+   "Greek Votive Offerings: an essay in the history of Greek religion, by William Henry Denham Rouse (Cambridge: University Press, 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-h-d-rouse-greek-votive-offerings-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry denham rouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

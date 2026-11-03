@@ -1,0 +1,32 @@
+{
+ "_about": "Harold Ripley Hastings, Wisconsin, raw IA OCR of his study of Attic tombstones (1912).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Harold Ripley Hastings",
+ "_name_words": [
+  "hastings"
+ ],
+ "_surname": [
+  "harold ripley hastings"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "harold-ripley-hastings-inscriptions-attic-tombstones-1912": [
+   "onrelationbetwe01hastgoog",
+   "On the Relation between Inscriptions and Sculptured Representations on Attic Tombstones, by Harold Ripley Hastings (Bulletin of the University of Wisconsin; Madison, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "harold-ripley-hastings-inscriptions-attic-tombstones-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold ripley hastings",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

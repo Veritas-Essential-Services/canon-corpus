@@ -1,5 +1,5 @@
 {
- "_about": "Georg Friedrich Schömann (1793-1879): The Antiquities of Greece, vol. I, The State, translated by E. G. Hardy and J. S. Mann (London: Rivingtons, 1880), raw IA OCR. Hardy died 1925; J. S. Mann's death year is not checked, so life-plus-70 status is unconfirmed (US public domain by date). The scan's title page advertises vol. II as 'in preparation'. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Georg Friedrich Schömann (1793-1879): The Antiquities of Greece, vol. I, The State, translated by E. G. Hardy and J. S. Mann (London: Rivingtons, 1880), raw IA OCR. Hardy died 1925; J. S. Mann's death year is not checked, so life-plus-70 status is unconfirmed (US public domain by date). The scan's title page advertises vol. II as 'in preparation'. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round ec added A Dissertation on the Assemblies of the Athenians (Cambridge, 1838), an anonymous translation of De Comitiis Atheniensium; Greek-heavy in places, kept under Adam's 2026-10-23 Greek ruling.",
  "_name_words": [
   "schomann",
   "schömann"
@@ -17,6 +17,10 @@
    "antiquitiesofgre00schuoft",
    "The Antiquities of Greece: The State (London: Rivingtons, 1880)",
    "tr. E. G. Hardy and J. S. Mann"
+  ],
+  "schomann-assemblies-of-the-athenians-1838": [
+   "dissertationonas00schuoft",
+   "A Dissertation on the Assemblies of the Athenians, in three books, translated from the Latin of G. F. Schömann (Cambridge: W. P. Grant, 1838)"
   ]
  },
  "_translators": {
@@ -25,7 +29,7 @@
  "_checks": {
   "schomann-antiquities-greece-state-1880": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "g. f. schomann",
    "translator_claimed": "Hardy",
@@ -33,6 +37,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1880",
    "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "schomann-assemblies-of-the-athenians-1838": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. f. schomann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

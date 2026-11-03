@@ -1,0 +1,1744 @@
+[
+ {
+  "author": "Christine de Pisan",
+  "shelf": "christine-de-pisan",
+  "new": true,
+  "surname": [
+   "pisan",
+   "pyzan",
+   "christine"
+  ],
+  "rows": [
+   {
+    "n": [
+     96
+    ],
+    "bloom_title": "The Book of the City of Ladies",
+    "kind": "ia",
+    "id": "the-boke-of-the-cyte-of-ladyes",
+    "title": "The Boke Of The Cyte Of Ladyes",
+    "translator": "Brian Anslay (not named in what I read; standard attribution)",
+    "year": "1521 (colophon quoted in IA metadata: 'Imprynted at London... by Henry Pepwell... M.CCCCC.xxj')",
+    "djvu": "the boke of the cyte of ladyes_djvu.txt",
+    "evidence": "IA metadata/description read; EEBO facsimile, tesseract 'enm' OCR. Note the djvu file name has spaces.",
+    "slug": "pisan-boke-cyte-ladyes",
+    "case": "Bloom lists the City of Ladies; the only pre-1931 English is the 1521 Pepwell printing, which is PD.",
+    "note": "Black-letter EEBO scan: OCR will be rough; a clean transcript exists at quod.lib.umich.edu/e/eebo/A20897.0001.001 (EEBO-TCP, check its terms before using). The modern Richards translation (1982) is copyrighted."
+   }
+  ]
+ },
+ {
+  "author": "Diego de San Pedro",
+  "shelf": "diego-de-san-pedro",
+  "new": true,
+  "surname": [
+   "san pedro",
+   "pedro",
+   "berners"
+  ],
+  "rows": [
+   {
+    "n": [
+     97
+    ],
+    "bloom_title": "Prison of Love",
+    "kind": "ia",
+    "id": "bim_early-english-books-1475-1640_the-castell-of-love-_san-pedro-diego-de_1560",
+    "title": "The Castell of love",
+    "translator": "John Bourchier, Lord Berners (read on title page: 'translated oute of Spanyshe into Englyshe by John Bowrchier knyght, lorde Bernes')",
+    "year": "1560 (IA metadata; title-page OCR too garbled to read a date)",
+    "djvu": "",
+    "evidence": "Read first 1200 chars of djvu: Berners translator line legible.",
+    "slug": "pedro-castell-love",
+    "case": "Bloom lists Cárcel de amor; Berners's Castell of Love is the classic (and only pre-1931) English version.",
+    "note": "The OCR is black-letter garble; usable only with re-OCR or as a page-image edition. The 1979 Whinnom edition is copyrighted (lending only)."
+   }
+  ]
+ },
+ {
+  "author": "William Dunbar",
+  "shelf": "william-dunbar",
+  "new": true,
+  "surname": [
+   "dunbar",
+   "william dunbar"
+  ],
+  "rows": [
+   {
+    "n": [
+     146
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "poemsofwilliam01dunb",
+    "title": "The Poems of William Dunbar, ed. John Small, vol. I (Scottish Text Society)",
+    "translator": "",
+    "year": "1893 (IA metadata; title page read, date not in the first page)",
+    "djvu": "",
+    "evidence": "Read title: 'The Poems of William Dunbar edited by the late John Small ... Vol. I, introduction by AE. J. G. Mackay'. Volumes 2-3 also on IA (e.g. poemsofwilliamdu03dunbuoft).",
+    "slug": "dunbar-poems",
+    "case": "Bloom lists Dunbar's poems; the Scottish Text Society edition (Small/Mackay) is the standard complete scholarly text.",
+    "note": "Machine's 'author' hit was Paul Laurence Dunbar - nothing of William Dunbar is held. STS edition is 3 vols; vol. 1 is introduction + poems."
+   }
+  ]
+ },
+ {
+  "author": "John Skelton",
+  "shelf": "john-skelton",
+  "new": true,
+  "surname": [
+   "skelton",
+   "john skelton"
+  ],
+  "rows": [
+   {
+    "n": [
+     147
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "59997",
+    "title": "The Poetical Works of John Skelton, Volume 1 (of 2)",
+    "translator": "",
+    "year": "1843 (preface dated 'London, Gray's Inn, Nov. 1st, 1843' in PG text)",
+    "djvu": "",
+    "evidence": "PG header: Editor Alexander Dyce.",
+    "slug": "skelton-poetical-works",
+    "case": "Dyce's 1843 Poetical Works is the classic complete Skelton.",
+    "note": "Held 'skelton' shelf is Philip Skelton (an 18th-c. divine), not John."
+   },
+   {
+    "n": [
+     147
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "59998",
+    "title": "The Poetical Works of John Skelton, Volume 2 (of 2)",
+    "translator": "",
+    "year": "1843 (same edition)",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "skelton-poetical-works-2",
+    "case": "Dyce's 1843 Poetical Works is the classic complete Skelton.",
+    "note": "Held 'skelton' shelf is Philip Skelton (an 18th-c. divine), not John."
+   }
+  ]
+ },
+ {
+  "author": "Sir Thomas Wyatt",
+  "shelf": "sir-thomas-wyatt",
+  "new": true,
+  "surname": [
+   "wyatt",
+   "sir thomas wyatt"
+  ],
+  "rows": [
+   {
+    "n": [
+     149
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "poemsofsirthomas01wyatuoft",
+    "title": "The Poems of Sir Thomas Wiat, edited from the MSS. and early editions by A. K. Foxwell, vol. I",
+    "translator": "",
+    "year": "1913 (title page: '...University of London Press... Hodder and Stoughton ... 1913', OCR ragged)",
+    "djvu": "",
+    "evidence": "Read title page.",
+    "slug": "wyatt-poems-wiat",
+    "case": "Bloom lists Wyatt's poems; Foxwell (2 vols, 1913) is the first edition from the manuscripts, the Aldine is a handy one-volume text.",
+    "note": "Vol. II of Foxwell: poemsofsirthomas02wyatuoft."
+   }
+  ]
+ },
+ {
+  "author": "Henry Howard, Earl of Surrey",
+  "shelf": "henry-howard-surrey",
+  "new": true,
+  "surname": [
+   "surrey",
+   "henry howard earl of surrey"
+  ],
+  "rows": [
+   {
+    "n": [
+     150
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "poemsofhenryhowa00surruoft",
+    "title": "The Poems of Henry Howard, Earl of Surrey, ed. Frederick Morgan Padelford",
+    "translator": "",
+    "year": "1920 (title page: 'University of Washington Publications ... Volume 1, October, 1920')",
+    "djvu": "",
+    "evidence": "Read title page and preface.",
+    "slug": "surrey-poems",
+    "case": "Padelford's 1920 edition is the modern scholarly Surrey and is PD.",
+    "note": "IA also has a 1928 revised Padelford (poemsofhenryhowa1928surr) - also pre-1931 - and the Aldine Surrey (1866/1871)."
+   }
+  ]
+ },
+ {
+  "author": "Sir Philip Sidney",
+  "shelf": "sir-philip-sidney",
+  "new": true,
+  "surname": [
+   "philip sidney",
+   "sir philip sidney",
+   "sidney"
+  ],
+  "rows": [
+   {
+    "n": [
+     151
+    ],
+    "bloom_title": "The Countess of Pembroke's Arcadia",
+    "kind": "pg",
+    "id": "70854",
+    "title": "The Countess of Pembroke's Arcadia",
+    "translator": "",
+    "year": "1907 (PG header: 'Original publication: George Routledge and Sons, 1907'; editor Ernest A. Baker)",
+    "djvu": "",
+    "evidence": "PG header read.",
+    "slug": "sidney-countess-pembroke-arcadia",
+    "case": "Bloom lists the Arcadia; PG 70854 is Baker's edition of the composite Arcadia.",
+    "note": "Nothing of Sir Philip Sidney is held (machine matched other Sidneys)."
+   },
+   {
+    "n": [
+     152
+    ],
+    "bloom_title": "Astrophel and Stella",
+    "kind": "pg",
+    "id": "56375",
+    "title": "Sir P.S.: His Astrophel and Stella",
+    "translator": "",
+    "year": "1591 (PG text reproduces title: 'At London, Printed for Thomas Newman. Anno Domini 1591')",
+    "djvu": "",
+    "evidence": "PG text read.",
+    "slug": "sidney-p",
+    "case": "PG 56375 is a transcription of the first (Newman 1591) quarto.",
+    "note": "Old spelling. PG 1962 (Defence of Poesie and Poems) also contains the sonnets in a modernized text."
+   },
+   {
+    "n": [
+     153
+    ],
+    "bloom_title": "An Apology for Poetry",
+    "kind": "pg",
+    "id": "1962",
+    "title": "A Defence of Poesie and Poems",
+    "translator": "",
+    "year": "1891 (PG credits: 'Transcribed from the 1891 Cassell & Company edition')",
+    "djvu": "",
+    "evidence": "PG header read.",
+    "slug": "sidney-defence-poesie-poems",
+    "case": "The Apology for Poetry = The Defence of Poesie; PG 1962 is Henry Morley's Cassell's National Library edition.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Fulke Greville, Lord Brooke",
+  "shelf": "fulke-greville",
+  "new": true,
+  "surname": [
+   "greville",
+   "fulke greville"
+  ],
+  "rows": [
+   {
+    "n": [
+     154
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "worksinversepros03grev",
+    "title": "The Works in Verse and Prose Complete of Fulke Greville, Lord Brooke, ed. Grosart, vol. III (Caelica; Alaham; Mustapha)",
+    "translator": "",
+    "year": "1870 (title page: 'Printed for private circulation. 1870. 156 copies only')",
+    "djvu": "",
+    "evidence": "Read title page.",
+    "slug": "brooke-works-verse-prose-complete",
+    "case": "Bloom lists the poems; Grosart's Works (4 vols) is the only complete edition, Crow's Caelica a clean reading text.",
+    "note": "Other Grosart vols (02, 04) on IA as worksforfirsttim02broouoft etc."
+   }
+  ]
+ },
+ {
+  "author": "Edmund Spenser",
+  "shelf": "spenser",
+  "new": false,
+  "surname": [
+   "spenser",
+   "edmund spenser"
+  ],
+  "rows": [
+   {
+    "n": [
+     156
+    ],
+    "bloom_title": "The Minor Poems",
+    "kind": "ia",
+    "id": "spensersminorpoe00spenuoft",
+    "title": "Spenser's Minor Poems, ed. Ernest de Selincourt",
+    "translator": "",
+    "year": "1910 (title page: 'Oxford at the Clarendon Press MCMX')",
+    "djvu": "",
+    "evidence": "Read title page and introduction opening.",
+    "slug": "spenser-minor-poems",
+    "case": "Bloom's title matches de Selincourt's Oxford volume exactly; we hold only the Faerie Queene.",
+    "note": "PG 10602 (Child vol. 5) is apparatus only, not the minor poems."
+   }
+  ]
+ },
+ {
+  "author": "Sir Walter Ralegh",
+  "shelf": "sir-walter-ralegh",
+  "new": true,
+  "surname": [
+   "ralegh",
+   "sir walter ralegh"
+  ],
+  "rows": [
+   {
+    "n": [
+     157
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "poemsofsirwalter00rale_1",
+    "title": "The Poems of Sir Walter Ralegh, ed. Agnes M. C. Latham",
+    "translator": "",
+    "year": "1929 (title page: 'Houghton Mifflin Company 1929'; printed in Great Britain by MacLehose)",
+    "djvu": "",
+    "evidence": "Read dust-jacket + imprint lines; collection bplhoughton/bostonpubliclibrary (not lending).",
+    "slug": "ralegh-poems",
+    "case": "Latham's 1929 edition is the definitive collection and is PD (1929); Hannah is the older Aldine alternative.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Christopher Marlowe",
+  "shelf": "marlowe",
+  "new": false,
+  "surname": [
+   "marlowe",
+   "christopher marlowe"
+  ],
+  "rows": [
+   {
+    "n": [
+     158
+    ],
+    "bloom_title": "Poems and Plays",
+    "kind": "ia",
+    "id": "worksmarlowe00marluoft",
+    "title": "The Works of Christopher Marlowe, ed. C. F. Tucker Brooke",
+    "translator": "",
+    "year": "1910 first edition; this scan is the 'Impression of 1925' (title verso: 'First edition, 1910 / Impression of 1925')",
+    "djvu": "",
+    "evidence": "Read title page and verso; an unrevised reprint, fine.",
+    "slug": "marlowe-works",
+    "case": "One-volume complete Marlowe (plays, poems, translations); we hold only Doctor Faustus (and Edward II on mason-poetry).",
+    "note": "PG has Bullen's Works vols 2-3 (42724, 21262) and single plays if a PG text is preferred."
+   }
+  ]
+ },
+ {
+  "author": "Michael Drayton",
+  "shelf": "michael-drayton",
+  "new": true,
+  "surname": [
+   "drayton",
+   "michael drayton"
+  ],
+  "rows": [
+   {
+    "n": [
+     159
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "17873",
+    "title": "Minor Poems of Michael Drayton, chosen and edited by Cyril Brett",
+    "translator": "",
+    "year": "1907 (PG text: 'CHOSEN AND EDITED BY ... 1907')",
+    "djvu": "",
+    "evidence": "PG header/front matter read.",
+    "slug": "drayton-minor-poems",
+    "case": "Brett's Oxford selection is the best PD reading text of Drayton's lyrics (Idea, odes, Nymphidia).",
+    "note": "Not complete: Poly-Olbion is excluded. Hebel's complete Works (1931-41) is not PD."
+   }
+  ]
+ },
+ {
+  "author": "Samuel Daniel",
+  "shelf": "samuel-daniel",
+  "new": true,
+  "surname": [
+   "daniel",
+   "samuel daniel"
+  ],
+  "rows": [
+   {
+    "n": [
+     160,
+     161
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "poemsanddefenceo1930dani",
+    "title": "Poems and A Defence of Ryme, ed. Arthur Colby Sprague",
+    "translator": "",
+    "year": "1930 (title page: 'Cambridge, Harvard University Press, 1930 / Copyright, 1930')",
+    "djvu": "",
+    "evidence": "Read title page and copyright line; Wellesley copy, collection americana (not lending).",
+    "slug": "daniel-poems-defence-ryme",
+    "case": "Sprague's edition carries exactly Bloom's two Daniel titles; 1930 is PD as of 2026.",
+    "note": "Grosart's Complete Works (1885, 5 vols) is the full alternative."
+   }
+  ]
+ },
+ {
+  "author": "Thomas Nashe",
+  "shelf": "thomas-nashe",
+  "new": true,
+  "surname": [
+   "nashe",
+   "thomas nashe"
+  ],
+  "rows": [
+   {
+    "n": [
+     162
+    ],
+    "bloom_title": "The Unfortunate Traveller",
+    "kind": "pg",
+    "id": "21338",
+    "title": "The Vnfortunate Traveller, or The Life of Jack Wilton, with an essay ... by Edmund Gosse",
+    "translator": "",
+    "year": "unread (PG text shows 'London, printed and issued by Charles Whittingham & Co at the Chiswick Press'; Gosse's edition is 1892, not read)",
+    "djvu": "",
+    "evidence": "PG front matter read.",
+    "slug": "nashe-vnfortunate-traveller",
+    "case": "Bloom lists the Unfortunate Traveller; PG 21338 is the Gosse/Chiswick edition.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Thomas Kyd",
+  "shelf": "thomas-kyd",
+  "new": true,
+  "surname": [
+   "kyd",
+   "thomas kyd"
+  ],
+  "rows": [
+   {
+    "n": [
+     163
+    ],
+    "bloom_title": "The Spanish Tragedy",
+    "kind": "pg",
+    "id": "6043",
+    "title": "The Spanish Tragedie",
+    "translator": "",
+    "year": "1897 (PG note: 'Edited by John Matthews Manly, 1897')",
+    "djvu": "",
+    "evidence": "PG header read; Manly's Specimens text.",
+    "slug": "kyd-spanish-tragedie",
+    "case": "Both are PD; Manly's is the edited text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Thomas Campion",
+  "shelf": "thomas-campion",
+  "new": true,
+  "surname": [
+   "campion",
+   "thomas campion"
+  ],
+  "rows": [
+   {
+    "n": [
+     165
+    ],
+    "bloom_title": "Songs",
+    "kind": "ia",
+    "id": "cu31924013118371",
+    "title": "Works of Thomas Campion: Songs and Masques, with Observations in the Art of English Poesy, ed. A. H. Bullen",
+    "translator": "",
+    "year": "1903 (title page: 'London, A. H. Bullen ... MCMIII')",
+    "djvu": "",
+    "evidence": "Read title page.",
+    "slug": "campion-works",
+    "case": "Bullen's 1903 Songs and Masques is the classic Campion edition.",
+    "note": "Avoid workscamp00campuoft: it is a 1966/67 lithographic reprint (unrevised, but prefer a period printing)."
+   }
+  ]
+ },
+ {
+  "author": "Ben Jonson",
+  "shelf": "ben-jonson",
+  "new": true,
+  "surname": [
+   "jonson",
+   "ben jonson"
+  ],
+  "rows": [
+   {
+    "n": [
+     168
+    ],
+    "bloom_title": "Poems, Plays, and Masques",
+    "kind": "ia",
+    "id": "worksofbenjonson00jonsuoft",
+    "title": "The Works of Ben Jonson, with a biographical memoir by William Gifford, a new edition",
+    "translator": "",
+    "year": "1860 (title page: 'London: Routledge, Warne, and Routledge ... 1860')",
+    "djvu": "",
+    "evidence": "Read title page; one-volume complete Works (plays, masques, poems).",
+    "slug": "jonson-works",
+    "case": "Bloom asks for the poems, plays and masques together; Gifford's one-volume Routledge Works is the handiest complete text.",
+    "note": "PG has many single plays (Volpone 4039, Alchemist 4081, etc.) and Discoveries+Poems (5134). Gifford/Cunningham 9-vol (1875) also on IA."
+   }
+  ]
+ },
+ {
+  "author": "Robert Burton",
+  "shelf": "robert-burton",
+  "new": true,
+  "surname": [
+   "burton",
+   "robert burton"
+  ],
+  "rows": [
+   {
+    "n": [
+     170
+    ],
+    "bloom_title": "The Anatomy of Melancholy",
+    "kind": "pg",
+    "id": "10800",
+    "title": "The Anatomy of Melancholy",
+    "translator": "",
+    "year": "unread (PG intro: based on a 19th-c. modernized edition corrected against the 1638 edition)",
+    "djvu": "",
+    "evidence": "PG introduction read.",
+    "slug": "burton-anatomy-melancholy",
+    "case": "Bloom lists Burton's Anatomy; PG 10800 is a complete, corrected text.",
+    "note": "The 'burton' shelf is Richard Burton (Arabian Nights); Robert Burton is not held."
+   }
+  ]
+ },
+ {
+  "author": "Robert Herrick",
+  "shelf": "robert-herrick",
+  "new": true,
+  "surname": [
+   "herrick",
+   "robert herrick"
+  ],
+  "rows": [
+   {
+    "n": [
+     175
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "22421",
+    "title": "The Hesperides & Noble Numbers: Vol. 1 and 2",
+    "translator": "",
+    "year": "1898 (PG text: '1898'; editor Alfred W. Pollard, Muses' Library)",
+    "djvu": "",
+    "evidence": "PG front matter read.",
+    "slug": "herrick-hesperides-noble-numbers",
+    "case": "Complete Hesperides and Noble Numbers in Pollard's Muses' Library edition.",
+    "note": "PG 1211 is only Palgrave's selection."
+   }
+  ]
+ },
+ {
+  "author": "Thomas Carew",
+  "shelf": "thomas-carew",
+  "new": true,
+  "surname": [
+   "carew",
+   "thomas carew"
+  ],
+  "rows": [
+   {
+    "n": [
+     176
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "poemsandmasquewi00careuoft",
+    "title": "The Poems and Masque of Thomas Carew, ed. Joseph Woodfall Ebsworth",
+    "translator": "",
+    "year": "1893 (title page: 'London: Reeves and Turner ... 1893')",
+    "djvu": "",
+    "evidence": "Read title page.",
+    "slug": "carew-poems-masque",
+    "case": "Ebsworth's complete Poems and Coelum Britannicum masque.",
+    "note": "Vincent's Muses' Library (1899, poemscarew00careuoft) is an alternative."
+   }
+  ]
+ },
+ {
+  "author": "Richard Lovelace",
+  "shelf": "richard-lovelace",
+  "new": true,
+  "surname": [
+   "lovelace",
+   "richard lovelace"
+  ],
+  "rows": [
+   {
+    "n": [
+     177
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "703",
+    "title": "Lucasta",
+    "translator": "",
+    "year": "unread (PG text is W. Carew Hazlitt's edition; preface signed 'Kensington, August 12, 1863')",
+    "djvu": "",
+    "evidence": "PG front matter read: includes Lucasta and the Posthume Poems.",
+    "slug": "lovelace-lucasta",
+    "case": "Hazlitt's Lucasta (with Posthume Poems) is the complete Lovelace.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Andrew Marvell",
+  "shelf": "andrew-marvell",
+  "new": true,
+  "surname": [
+   "marvell",
+   "andrew marvell"
+  ],
+  "rows": [
+   {
+    "n": [
+     178
+    ],
+    "bloom_title": "Poems",
+    "kind": "ia",
+    "id": "miscellaneouspoe00marvuoft",
+    "title": "Miscellaneous Poems by Andrew Marvell, Esq.",
+    "translator": "",
+    "year": "1923 (title page: 'London, The Nonesuch Press ... MCMXXIII')",
+    "djvu": "",
+    "evidence": "Read title page; Nonesuch reprint of the 1681 folio.",
+    "slug": "marvell-miscellaneous-poems",
+    "case": "A faithful reprint of the 1681 Miscellaneous Poems.",
+    "note": "Avoid poemslettersofan0001edit: it is Margoliouth's corrected 2nd edition (1952), not the 1927 first. PG 26288 is one poem only."
+   }
+  ]
+ },
+ {
+  "author": "John Wilmot, Earl of Rochester",
+  "shelf": "john-wilmot-rochester",
+  "new": true,
+  "surname": [
+   "rochester",
+   "wilmot"
+  ],
+  "rows": [
+   {
+    "n": [
+     182
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "44891",
+    "title": "The Works of the Right Honourable John, Earl of Rochester",
+    "translator": "",
+    "year": "1718 (PG text: 'Printed for the Booksellers of London and Westminster. 1718')",
+    "djvu": "",
+    "evidence": "PG text read.",
+    "slug": "rochester-works-right-honourable",
+    "case": "An 18th-c. collected Rochester; the only PD collected text on PG.",
+    "note": "Contains some misattributions typical of early editions."
+   }
+  ]
+ },
+ {
+  "author": "Richard Crashaw",
+  "shelf": "richard-crashaw",
+  "new": true,
+  "surname": [
+   "crashaw",
+   "richard crashaw"
+  ],
+  "rows": [
+   {
+    "n": [
+     183
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "38549",
+    "title": "The Complete Works of Richard Crashaw, Volume I",
+    "translator": "",
+    "year": "unread (Grosart edition)",
+    "djvu": "",
+    "evidence": "PG catalogue: editor Grosart.",
+    "slug": "crashaw-complete-works",
+    "case": "Grosart's Complete Works of Crashaw.",
+    "note": ""
+   },
+   {
+    "n": [
+     183
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "38550",
+    "title": "The Complete Works of Richard Crashaw, Volume II",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "crashaw-complete-works-2",
+    "case": "Grosart's Complete Works of Crashaw.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Francis Beaumont and John Fletcher",
+  "shelf": "beaumont-fletcher",
+  "new": true,
+  "surname": [
+   "beaumont",
+   "fletcher"
+  ],
+  "rows": [
+   {
+    "n": [
+     184
+    ],
+    "bloom_title": "Plays",
+    "kind": "ia",
+    "id": "worksoffrancisb01beauuoft",
+    "title": "The Works of Francis Beaumont and John Fletcher, vol. I, text ed. Arnold Glover (Cambridge English Classics)",
+    "translator": "",
+    "year": "1905 (title page: 'Cambridge: at the University Press 1905')",
+    "djvu": "",
+    "evidence": "Read title page; vol. I holds Maid's Tragedy, Philaster, A King and No King, Scornful Lady, Custom of the Country.",
+    "slug": "fletcher-works",
+    "case": "Glover & Waller's 10-vol Cambridge text is the standard complete B&F.",
+    "note": "PG has the same edition play by play (e.g. 10620, 12039). The held 'john-fletcher' shelf is John Fletcher of Madeley, the Methodist."
+   }
+  ]
+ },
+ {
+  "author": "George Chapman",
+  "shelf": "george-chapman",
+  "new": true,
+  "surname": [
+   "chapman",
+   "george chapman"
+  ],
+  "rows": [
+   {
+    "n": [
+     185
+    ],
+    "bloom_title": "Comedies, Tragedies, Poems",
+    "kind": "ia",
+    "id": "worksofgeorgechap00chaprich",
+    "title": "The Works of George Chapman: Plays, ed. Richard Herne Shepherd, a new edition",
+    "translator": "",
+    "year": "1889 (title page: 'London, Chatto & Windus ... 1889')",
+    "djvu": "",
+    "evidence": "Read title page and start of contents.",
+    "slug": "chapman-works",
+    "case": "Shepherd's Chatto edition covers plays and poems.",
+    "note": "Third vol. is Homer (already partly on PG). PG 20890 has Bussy D'Ambois."
+   },
+   {
+    "n": [
+     185
+    ],
+    "bloom_title": "Comedies, Tragedies, Poems",
+    "kind": "ia",
+    "id": "worksofgeorgecha00chapuoft",
+    "title": "The Works of George Chapman: Poems and Minor Translations, intro. Swinburne",
+    "translator": "",
+    "year": "1875 (title page: 'Chatto and Windus ... 1875')",
+    "djvu": "",
+    "evidence": "Read title page and contents.",
+    "slug": "chapman-works-2",
+    "case": "Shepherd's Chatto edition covers plays and poems.",
+    "note": "Third vol. is Homer (already partly on PG). PG 20890 has Bussy D'Ambois."
+   }
+  ]
+ },
+ {
+  "author": "John Ford",
+  "shelf": "john-ford",
+  "new": true,
+  "surname": [
+   "john ford",
+   "ford"
+  ],
+  "rows": [
+   {
+    "n": [
+     186
+    ],
+    "bloom_title": "'Tis Pity She's a Whore",
+    "kind": "ia",
+    "id": "johnfordeditedwi00forduoft",
+    "title": "John Ford, ed. Havelock Ellis (Mermaid Series)",
+    "translator": "",
+    "year": "unread (IA metadata 1888)",
+    "djvu": "",
+    "evidence": "Read series title page; grep of djvu shows the 'TIS PITY SHE'S A WHORE running heads.",
+    "slug": "ford",
+    "case": "The Mermaid Ford includes 'Tis Pity, The Broken Heart and others.",
+    "note": "IA also has 'Tis pity she's a whore, and The broken heart (Sherman, 1915)."
+   }
+  ]
+ },
+ {
+  "author": "John Marston",
+  "shelf": "john-marston",
+  "new": true,
+  "surname": [
+   "marston",
+   "john marston"
+  ],
+  "rows": [
+   {
+    "n": [
+     187
+    ],
+    "bloom_title": "The Malcontent",
+    "kind": "pg",
+    "id": "45209",
+    "title": "The Works of John Marston. Volume 1",
+    "translator": "",
+    "year": "unread (Bullen edition)",
+    "djvu": "",
+    "evidence": "PG contents read: 'THE MALCONTENT 193'.",
+    "slug": "marston-works-volume-1",
+    "case": "Bullen's Works vol. 1 contains The Malcontent.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "John Webster",
+  "shelf": "john-webster",
+  "new": true,
+  "surname": [
+   "webster",
+   "john webster"
+  ],
+  "rows": [
+   {
+    "n": [
+     188,
+     189
+    ],
+    "bloom_title": "The White Devil",
+    "kind": "pg",
+    "id": "55625",
+    "title": "Webster & Tourneur (Mermaid Series)",
+    "translator": "",
+    "year": "unread (Symonds intro; PG text mentions 1888)",
+    "djvu": "",
+    "evidence": "PG contents read: The White Devil, The Duchess of Malfi, The Revenger's Tragedy (plus Appius and Virginia).",
+    "slug": "webster-tourneur",
+    "case": "One Mermaid volume covers 188, 189 and 191.",
+    "note": "Nothing of John Webster is held (machine matched other Websters)."
+   }
+  ]
+ },
+ {
+  "author": "Thomas Middleton and William Rowley",
+  "shelf": "thomas-middleton",
+  "new": true,
+  "surname": [
+   "middleton",
+   "thomas middleton"
+  ],
+  "rows": [
+   {
+    "n": [
+     190
+    ],
+    "bloom_title": "The Changeling",
+    "kind": "pg",
+    "id": "75606",
+    "title": "The works of Thomas Middleton, Volume 4 (of 5)",
+    "translator": "",
+    "year": "1840 (PG header: 'Original publication: Edward Lumley, 1840'; editor Dyce)",
+    "djvu": "",
+    "evidence": "PG text: 'THE CHANGELING.' found in vol. 4.",
+    "slug": "rowley-works",
+    "case": "Dyce's Middleton vol. 4 contains The Changeling.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Philip Massinger",
+  "shelf": "philip-massinger",
+  "new": true,
+  "surname": [
+   "massinger",
+   "philip massinger"
+  ],
+  "rows": [
+   {
+    "n": [
+     192
+    ],
+    "bloom_title": "A New Way to Pay Old Debts",
+    "kind": "ia",
+    "id": "anewwaytopayold01massgoog",
+    "title": "A New Way to Pay Old Debts",
+    "translator": "unread (editor not read; likely K. Deighton)",
+    "year": "1893 (front matter: 'London 1893')",
+    "djvu": "",
+    "evidence": "Grep of djvu: 'MASSINGER'S ... LONDON 1893' and life of Massinger.",
+    "slug": "massinger-new-way-to-pay",
+    "case": "A school edition of the play; PD.",
+    "note": "PG 48440 (Massinger vol. I, 1830) does not contain this play. The Mermaid Massinger vol. 1 (Symons) also has it, not checked."
+   }
+  ]
+ },
+ {
+  "author": "Izaak Walton",
+  "shelf": "izaak-walton",
+  "new": true,
+  "surname": [
+   "walton",
+   "izaak walton"
+  ],
+  "rows": [
+   {
+    "n": [
+     194
+    ],
+    "bloom_title": "The Compleat Angler",
+    "kind": "pg",
+    "id": "683",
+    "title": "The Compleat Angler",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue; also PG 9198 (the 1653 first-edition text).",
+    "slug": "walton-compleat-angler",
+    "case": "Bloom lists Walton's Angler; only Lang's introduction to it is held, not the text.",
+    "note": "PG 9198 reproduces the 1653 text; 683 is the fuller later text with Cotton's part (not verified which)."
+   }
+  ]
+ },
+ {
+  "author": "John Aubrey",
+  "shelf": "john-aubrey",
+  "new": true,
+  "surname": [
+   "aubrey",
+   "john aubrey"
+  ],
+  "rows": [
+   {
+    "n": [
+     200
+    ],
+    "bloom_title": "Brief Lives",
+    "kind": "pg",
+    "id": "47787",
+    "title": "Brief Lives, Vol. 1",
+    "translator": "",
+    "year": "unread (Andrew Clark's edition)",
+    "djvu": "",
+    "evidence": "PG catalogue: editor Andrew Clark.",
+    "slug": "aubrey-brief-lives",
+    "case": "Clark's Clarendon edition (1898) is the standard full text.",
+    "note": ""
+   },
+   {
+    "n": [
+     200
+    ],
+    "bloom_title": "Brief Lives",
+    "kind": "pg",
+    "id": "47791",
+    "title": "Brief Lives, Vol. 2",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "aubrey-brief-lives-2",
+    "case": "Clark's Clarendon edition (1898) is the standard full text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Samuel Butler",
+  "shelf": "samuel-butler-hudibras",
+  "new": true,
+  "surname": [
+   "butler",
+   "hudibras"
+  ],
+  "rows": [
+   {
+    "n": [
+     202
+    ],
+    "bloom_title": "Hudibras",
+    "kind": "pg",
+    "id": "4937",
+    "title": "Hudibras, in Three Parts",
+    "translator": "",
+    "year": "1805 (PG note: 'The text is that of an edition published in London, 1805')",
+    "djvu": "",
+    "evidence": "PG front matter read.",
+    "slug": "butler-hudibras",
+    "case": "Bloom lists Hudibras; the held 'samuel-butler' shelf is the Victorian Samuel Butler (Erewhon), not this one.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "John Dryden",
+  "shelf": "dryden",
+  "new": false,
+  "surname": [
+   "dryden",
+   "john dryden"
+  ],
+  "rows": [
+   {
+    "n": [
+     203
+    ],
+    "bloom_title": "Poetry and Plays",
+    "kind": "pg",
+    "id": "11488",
+    "title": "The Poetical Works of John Dryden, Volume 1 (Gilfillan)",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "dryden-poetical-works",
+    "case": "We hold Scott's Works vols 11-17 but none of the original poems or plays; the simplest completion is to add Scott vols 2-10 from PG (12166, 37645, 15349, 16208, 16456, 16402, 47679, 49221, 51652) which hold the plays and poems, or Gilfillan's Poetical Works for the poems alone.",
+    "note": "Recommend completing the Scott set we already started (same edition = consistent citation); vol 1 (Life) and 18 also on PG/IA."
+   },
+   {
+    "n": [
+     203
+    ],
+    "bloom_title": "Poetry and Plays",
+    "kind": "pg",
+    "id": "11578",
+    "title": "The Poetical Works of John Dryden, Volume 2 (Gilfillan)",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "dryden-poetical-works-2",
+    "case": "We hold Scott's Works vols 11-17 but none of the original poems or plays; the simplest completion is to add Scott vols 2-10 from PG (12166, 37645, 15349, 16208, 16456, 16402, 47679, 49221, 51652) which hold the plays and poems, or Gilfillan's Poetical Works for the poems alone.",
+    "note": "Recommend completing the Scott set we already started (same edition = consistent citation); vol 1 (Life) and 18 also on PG/IA."
+   },
+   {
+    "n": [
+     204
+    ],
+    "bloom_title": "Critical Essays",
+    "kind": "ia",
+    "id": "in.ernet.dli.2015.93279",
+    "title": "Essays of John Dryden, selected and edited by W. P. Ker, vol. I",
+    "translator": "",
+    "year": "1900 (title page: 'Oxford at the Clarendon Press 1900')",
+    "djvu": "2015.93279.Essays-Of-John-Dryden--Vol-1_djvu.txt",
+    "evidence": "Read title page and preface (Digital Library of India scan, not lending).",
+    "slug": "dryden-essays",
+    "case": "Ker's 2-vol Essays is the standard collection of Dryden's criticism.",
+    "note": "PG 2615 (Discourses on Satire and Epic Poetry) is a partial alternative."
+   },
+   {
+    "n": [
+     204
+    ],
+    "bloom_title": "Critical Essays",
+    "kind": "ia",
+    "id": "essaysofjohndryd0000unse_n8d5",
+    "title": "Essays of John Dryden, vol. 2, ed. W. P. Ker",
+    "translator": "",
+    "year": "1900 (IA metadata)",
+    "djvu": "",
+    "evidence": "Found in search; not opened.",
+    "slug": "dryden-essays-2",
+    "case": "Ker's 2-vol Essays is the standard collection of Dryden's criticism.",
+    "note": "PG 2615 (Discourses on Satire and Epic Poetry) is a partial alternative."
+   }
+  ]
+ },
+ {
+  "author": "Thomas Otway",
+  "shelf": "thomas-otway",
+  "new": true,
+  "surname": [
+   "otway",
+   "thomas otway"
+  ],
+  "rows": [
+   {
+    "n": [
+     205
+    ],
+    "bloom_title": "Venice Preserv'd",
+    "kind": "pg",
+    "id": "46605",
+    "title": "Thomas Otway (Mermaid Series), ed. Roden Noel",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "otway",
+    "case": "Mermaid Otway contains Venice Preserv'd and The Orphan.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "William Congreve",
+  "shelf": "william-congreve",
+  "new": true,
+  "surname": [
+   "congreve",
+   "william congreve"
+  ],
+  "rows": [
+   {
+    "n": [
+     206
+    ],
+    "bloom_title": "The Way of the World",
+    "kind": "pg",
+    "id": "1292",
+    "title": "The Way of the World",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "congreve-way-world",
+    "case": "Standard PG text.",
+    "note": "Held 'congreve' shelf is Richard Congreve (positivist), not William."
+   },
+   {
+    "n": [
+     207
+    ],
+    "bloom_title": "Love for Love",
+    "kind": "pg",
+    "id": "1244",
+    "title": "Love for Love: A Comedy",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "congreve-love-for-love",
+    "case": "Standard PG text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Jonathan Swift",
+  "shelf": "jonathan-swift",
+  "new": true,
+  "surname": [
+   "jonathan swift",
+   "dean swift",
+   "swift"
+  ],
+  "rows": [
+   {
+    "n": [
+     208
+    ],
+    "bloom_title": "A Tale of a Tub",
+    "kind": "pg",
+    "id": "4737",
+    "title": "A Tale of a Tub (ed. Henry Morley)",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "swift-tale-tub",
+    "case": "Bloom lists the Tale; PG 4737 is Morley's Cassell text.",
+    "note": ""
+   },
+   {
+    "n": [
+     211
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "14353",
+    "title": "The Poems of Jonathan Swift, D.D., Volume 1 (ed. W. E. Browning)",
+    "translator": "",
+    "year": "1910 (PG text: 'G. Bell and Sons, Ltd. 1910')",
+    "djvu": "",
+    "evidence": "PG front matter read.",
+    "slug": "swift-poems",
+    "case": "Browning's Bohn edition is the complete PD Swift poems.",
+    "note": ""
+   },
+   {
+    "n": [
+     211
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "13621",
+    "title": "The Poems of Jonathan Swift, D.D., Volume 2",
+    "translator": "",
+    "year": "1910 (same edition)",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "swift-poems-2",
+    "case": "Browning's Bohn edition is the complete PD Swift poems.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Sir George Etherege",
+  "shelf": "sir-george-etherege",
+  "new": true,
+  "surname": [
+   "etherege",
+   "sir george etherege"
+  ],
+  "rows": [
+   {
+    "n": [
+     212
+    ],
+    "bloom_title": "The Man of Mode",
+    "kind": "ia",
+    "id": "cu31924012961482",
+    "title": "The Works of Sir George Etheredge: Plays and Poems, ed. A. Wilson Verity",
+    "translator": "",
+    "year": "1888 (title page: 'London, John C. Nimmo ... MDCCCLXXXVIII')",
+    "djvu": "",
+    "evidence": "Read title page; Cornell copy.",
+    "slug": "etherege-works-etheredge",
+    "case": "Verity's Works contains The Man of Mode and the other two comedies.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Alexander Pope",
+  "shelf": "alexander-pope",
+  "new": true,
+  "surname": [
+   "alexander pope",
+   "pope"
+  ],
+  "rows": [
+   {
+    "n": [
+     213
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "9413",
+    "title": "The Poetical Works of Alexander Pope, Volume 1 (Gilfillan)",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "pope-poetical-works",
+    "case": "We hold two slim Pope selections; Gilfillan's 2-vol Poetical Works gives the whole poetry (Dunciad, Epistles, Windsor Forest, etc.).",
+    "note": "Elwin-Courthope Works (PG 32190, 43271) is the scholarly alternative but incomplete on PG."
+   },
+   {
+    "n": [
+     213
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "9601",
+    "title": "The Poetical Works of Alexander Pope, Volume 2 (Gilfillan)",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "pope-poetical-works-2",
+    "case": "We hold two slim Pope selections; Gilfillan's 2-vol Poetical Works gives the whole poetry (Dunciad, Epistles, Windsor Forest, etc.).",
+    "note": "Elwin-Courthope Works (PG 32190, 43271) is the scholarly alternative but incomplete on PG."
+   }
+  ]
+ },
+ {
+  "author": "John Gay",
+  "shelf": "john-gay",
+  "new": true,
+  "surname": [
+   "john gay",
+   "gay"
+  ],
+  "rows": [
+   {
+    "n": [
+     214
+    ],
+    "bloom_title": "The Beggar's Opera",
+    "kind": "pg",
+    "id": "2421",
+    "title": "The Beggar's Opera",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "gay-beggar-opera",
+    "case": "Standard PG text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "James Boswell",
+  "shelf": "james-boswell",
+  "new": true,
+  "surname": [
+   "boswell",
+   "james boswell"
+  ],
+  "rows": [
+   {
+    "n": [
+     216
+    ],
+    "bloom_title": "Journals",
+    "kind": "ia",
+    "id": "privatepapersofj0000ralp",
+    "title": "Private Papers of James Boswell from Malahide Castle, in the collection of Lt-Colonel Ralph Heyward Isham (vol. I: 1754-1763)",
+    "translator": "",
+    "year": "1928 (title page: 'Copyright, 1928, Ralph H. Isham ... Printed in the United States of America')",
+    "djvu": "",
+    "evidence": "Read title page, note and contents: 'Journal of my Jaunt, Harvest 1762', 'First memoranda of Johnson 1763'; collection internetarchivebooks, djvu downloads.",
+    "slug": "boswell-private-papers-malahide-castle",
+    "case": "Bloom's 'Journals' are the private journals, first printed in Isham's limited Private Papers (1928-34); the 1928-1930 volumes are US-PD and vol. I is on IA. The Hebrides journal (1785) is the published journal.",
+    "note": "Only vol. I of Isham was found readable; later vols are lending-only or post-1930 (a 1931 vol. is lending). The Yale trade editions (1950-) are not PD. Notable find."
+   }
+  ]
+ },
+ {
+  "author": "Samuel Johnson",
+  "shelf": "samuel-johnson",
+  "new": true,
+  "surname": [
+   "johnson",
+   "samuel johnson"
+  ],
+  "rows": [
+   {
+    "n": [
+     217
+    ],
+    "bloom_title": "Works",
+    "kind": "pg",
+    "id": "10835",
+    "title": "Dr. Johnson's Works: Life, Poems, and Tales, Volume 1 (Works in Nine Volumes)",
+    "translator": "",
+    "year": "unread (PG header: 'In nine volumes. Volume the first'; the Oxford 1825 edition, not read)",
+    "djvu": "",
+    "evidence": "PG header read.",
+    "slug": "johnson-dr-works",
+    "case": "Bloom's 'Works': the 9-vol Oxford set is on PG in part; it holds the poems, Rambler, Idler, Adventurer and Lives.",
+    "note": "PG lacks vols 6, 7, 9 of this set; IA has full Oxford 1825 sets. Lives of the Poets also separately on PG (4679, 9823)."
+   },
+   {
+    "n": [
+     217
+    ],
+    "bloom_title": "Works",
+    "kind": "pg",
+    "id": "43656",
+    "title": "The Works of Samuel Johnson, LL.D. in Nine Volumes, Volume 02 The Rambler, Volume I",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue; same set also 11397 (vol 3), 12050 (vol 4), 11768 (vol 5), 24218 (vol 8).",
+    "slug": "johnson-works",
+    "case": "Bloom's 'Works': the 9-vol Oxford set is on PG in part; it holds the poems, Rambler, Idler, Adventurer and Lives.",
+    "note": "PG lacks vols 6, 7, 9 of this set; IA has full Oxford 1825 sets. Lives of the Poets also separately on PG (4679, 9823)."
+   }
+  ]
+ },
+ {
+  "author": "Edmund Burke",
+  "shelf": "edmund-burke",
+  "new": false,
+  "surname": [
+   "burke",
+   "edmund burke"
+  ],
+  "rows": [
+   {
+    "n": [
+     219
+    ],
+    "bloom_title": "A Philosophical Enquiry into...the Sublime and Beautiful",
+    "kind": "pg",
+    "id": "15043",
+    "title": "The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12)",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG contents read: 'A Philosophical Inquiry into the Origin of our Ideas of the Sublime and Beautiful'.",
+    "slug": "burke-works-right-honourable",
+    "case": "We hold vol. 3 of this same Works; vol. 1 contains the Enquiry - same edition, consistent.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Maurice Morgann",
+  "shelf": "maurice-morgann",
+  "new": true,
+  "surname": [
+   "morgann",
+   "maurice morgann"
+  ],
+  "rows": [
+   {
+    "n": [
+     221
+    ],
+    "bloom_title": "An Essay on the Dramatic Character of Sir John Falstaff",
+    "kind": "ia",
+    "id": "essayondramaticc00morguoft",
+    "title": "Morgann's Essay on the Dramatic Character of Sir John Falstaff, ed. William Arthur Gill",
+    "translator": "",
+    "year": "1912 (title page: 'London, Henry Frowde 1912')",
+    "djvu": "",
+    "evidence": "Read title page and introduction opening.",
+    "slug": "morgann-essay-on-dramatic-character",
+    "case": "Gill's 1912 reprint is a clean text of the 1777 essay.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "William Collins",
+  "shelf": "william-collins",
+  "new": true,
+  "surname": [
+   "william collins",
+   "collins"
+  ],
+  "rows": [
+   {
+    "n": [
+     222
+    ],
+    "bloom_title": "Poems",
+    "kind": "pg",
+    "id": "29879",
+    "title": "The Poetical Works of William Collins; With a Memoir",
+    "translator": "",
+    "year": "unread (PG text shows '1865' in front matter)",
+    "djvu": "",
+    "evidence": "PG front matter grep.",
+    "slug": "collins-poetical-works",
+    "case": "Complete Collins (a slim oeuvre).",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "George Farquhar",
+  "shelf": "george-farquhar",
+  "new": true,
+  "surname": [
+   "farquhar",
+   "george farquhar"
+  ],
+  "rows": [
+   {
+    "n": [
+     223
+    ],
+    "bloom_title": "The Beaux' Strategem",
+    "kind": "pg",
+    "id": "21334",
+    "title": "The Beaux-Stratagem",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "farquhar-beaux-stratagem",
+    "case": "Standard PG text.",
+    "note": ""
+   },
+   {
+    "n": [
+     224
+    ],
+    "bloom_title": "The Recruiting Officer",
+    "kind": "pg",
+    "id": "37012",
+    "title": "The Recruiting Officer (Inchbald's British Theatre)",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "farquhar-recruiting-officer",
+    "case": "Standard PG text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "William Wycherley",
+  "shelf": "william-wycherley",
+  "new": true,
+  "surname": [
+   "wycherley",
+   "william wycherley"
+  ],
+  "rows": [
+   {
+    "n": [
+     225,
+     226
+    ],
+    "bloom_title": "The Country Wife",
+    "kind": "pg",
+    "id": "55426",
+    "title": "William Wycherley [Four Plays] (Mermaid Series, ed. W. C. Ward)",
+    "translator": "",
+    "year": "1893 (PG front matter: 'Edited, with an introduction and notes ... 1893')",
+    "djvu": "",
+    "evidence": "PG text: 'THE COUNTRY WIFE.' and 'THE PLAIN DEALER.' present.",
+    "slug": "wycherley-four-plays",
+    "case": "One Mermaid volume covers both Wycherley titles Bloom lists.",
+    "note": "Mermaid texts are lightly bowdlerised in places? Not checked."
+   }
+  ]
+ },
+ {
+  "author": "Christopher Smart",
+  "shelf": "christopher-smart",
+  "new": true,
+  "surname": [
+   "smart",
+   "christopher smart"
+  ],
+  "rows": [
+   {
+    "n": [
+     228
+    ],
+    "bloom_title": "A Song to David",
+    "kind": "ia",
+    "id": "songtodavidedite00smar",
+    "title": "A Song to David, by Christopher Smart, edited, with notes",
+    "translator": "unread (editor; William Andrews & Co.)",
+    "year": "1898 (title page: 'London: William Andrews & Co. ... 1898')",
+    "djvu": "",
+    "evidence": "Read title page and contents.",
+    "slug": "smart-song-to-david",
+    "case": "A clean annotated reprint of the 1763 poem.",
+    "note": "IA also has 1904 and 1924 printings."
+   }
+  ]
+ },
+ {
+  "author": "Richard Brinsley Sheridan",
+  "shelf": "richard-brinsley-sheridan",
+  "new": true,
+  "surname": [
+   "sheridan",
+   "richard brinsley sheridan"
+  ],
+  "rows": [
+   {
+    "n": [
+     233
+    ],
+    "bloom_title": "The School of Scandal",
+    "kind": "pg",
+    "id": "1929",
+    "title": "The School for Scandal",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "sheridan-school-for-scandal",
+    "case": "Standard PG text.",
+    "note": "Held 'sheridan' hits are Sheridan Le Fanu."
+   },
+   {
+    "n": [
+     234
+    ],
+    "bloom_title": "The Rivals",
+    "kind": "pg",
+    "id": "24761",
+    "title": "The Rivals: A Comedy",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "sheridan-rivals",
+    "case": "Standard PG text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "William Cowper",
+  "shelf": "william-cowper",
+  "new": true,
+  "surname": [
+   "cowper",
+   "william cowper"
+  ],
+  "rows": [
+   {
+    "n": [
+     235
+    ],
+    "bloom_title": "Poetical Works",
+    "kind": "ia",
+    "id": "completepoetica00cowp",
+    "title": "The Complete Poetical Works of William Cowper, ed. H. S. Milford (Oxford Edition)",
+    "translator": "",
+    "year": "1913 (title page: 'Humphrey Milford, Oxford University Press ... 1913')",
+    "djvu": "",
+    "evidence": "Read title page and preface; Toronto copy.",
+    "slug": "cowper-complete-poetical-works",
+    "case": "Milford's Oxford Cowper is the standard complete text; we hold only The Task.",
+    "note": "PG 47790 (Grimshawe's one-volume Works with letters) is an alternative."
+   }
+  ]
+ },
+ {
+  "author": "George Crabbe",
+  "shelf": "george-crabbe",
+  "new": true,
+  "surname": [
+   "crabbe",
+   "george crabbe"
+  ],
+  "rows": [
+   {
+    "n": [
+     236
+    ],
+    "bloom_title": "Poetical Works",
+    "kind": "pg",
+    "id": "46858",
+    "title": "George Crabbe: Poems, Volume 1 (of 3) (Cambridge English Classics, ed. A. W. Ward)",
+    "translator": "",
+    "year": "1905 (PG front matter: 'Cambridge ... 1905')",
+    "djvu": "",
+    "evidence": "PG front matter read.",
+    "slug": "crabbe",
+    "case": "Ward's 3-vol Cambridge Crabbe is the standard complete text.",
+    "note": ""
+   },
+   {
+    "n": [
+     236
+    ],
+    "bloom_title": "Poetical Works",
+    "kind": "pg",
+    "id": "51003",
+    "title": "George Crabbe: Poems, Volume 2 (of 3)",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "",
+    "slug": "crabbe-2",
+    "case": "Ward's 3-vol Cambridge Crabbe is the standard complete text.",
+    "note": ""
+   },
+   {
+    "n": [
+     236
+    ],
+    "bloom_title": "Poetical Works",
+    "kind": "pg",
+    "id": "59204",
+    "title": "George Crabbe: Poems, Volume 3 (of 3)",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "",
+    "slug": "crabbe-3",
+    "case": "Ward's 3-vol Cambridge Crabbe is the standard complete text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Tobias Smollett",
+  "shelf": "tobias-smollett",
+  "new": true,
+  "surname": [
+   "smollett",
+   "tobias smollett"
+  ],
+  "rows": [
+   {
+    "n": [
+     245
+    ],
+    "bloom_title": "The Expedition of Humphry Clinker",
+    "kind": "pg",
+    "id": "2160",
+    "title": "The Expedition of Humphry Clinker",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "smollett-expedition-humphry-clinker",
+    "case": "Standard PG text.",
+    "note": "Held smollett-translations shelf holds only his translations (Gil Blas, Don Quixote)."
+   },
+   {
+    "n": [
+     246
+    ],
+    "bloom_title": "The Adventures of Roderick Random",
+    "kind": "pg",
+    "id": "4085",
+    "title": "The Adventures of Roderick Random",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue.",
+    "slug": "smollett-adventures-roderick-random",
+    "case": "Standard PG text.",
+    "note": ""
+   }
+  ]
+ }
+]

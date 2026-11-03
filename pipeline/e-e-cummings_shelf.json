@@ -1,0 +1,69 @@
+{
+ "_about": "e. e. cummings. Bloom's Western Canon (1994) lists: Complete Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "e. e. cummings",
+ "_name_words": [
+  "cummings"
+ ],
+ "_surname": [
+  "cummings",
+  "e e cummings"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cummings-tulips-chimneys": [
+   "bwb_Y0-DRX-311",
+   "Tulips and Chimneys"
+  ],
+  "cummings-is-5": [
+   "bwb_Y0-EFR-343",
+   "is 5"
+  ]
+ },
+ "_bloom": {
+  "cummings-tulips-chimneys": {
+   "bloom_n": [
+    1286
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "1923 (verso 'Copyright, 1923, by Thomas Seltzer'; 'First Printing, October, 1923 / Second Printing, March, 1924')",
+   "evidence": "djvu verso + contents read",
+   "case": "Bloom lists cummings's Complete Poems (not PD as a whole). His first books are PD: Tulips and Chimneys (1923) and is 5 (1926).",
+   "note": "PARTIAL. Tulips scan is the second printing, March 1924, of the 1923 Seltzer edition. Also on IA: is 5 (bwb_Y0-EFR-343, 'Copyright, 1926, by Horace Liveright', read). & (1925) and XLI Poems (1925) not searched. Typography matters for cummings -- OCR will need checking."
+  },
+  "cummings-is-5": {
+   "bloom_n": [
+    1286
+   ],
+   "bloom_title": "Complete Poems",
+   "year": "1926 (verso 'COPYRIGHT, 1926, BY HORACE LIVERIGHT')",
+   "evidence": "djvu verso read",
+   "case": "Bloom lists cummings's Complete Poems (not PD as a whole). His first books are PD: Tulips and Chimneys (1923) and is 5 (1926).",
+   "note": "PARTIAL. Tulips scan is the second printing, March 1924, of the 1923 Seltzer edition. Also on IA: is 5 (bwb_Y0-EFR-343, 'Copyright, 1926, by Horace Liveright', read). & (1925) and XLI Poems (1925) not searched. Typography matters for cummings -- OCR will need checking."
+  }
+ },
+ "_checks": {
+  "cummings-tulips-chimneys": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "cummings",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cummings-is-5": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "cummings",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

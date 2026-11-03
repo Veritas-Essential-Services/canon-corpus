@@ -1,5 +1,5 @@
 {
- "_about": "John Maynard Keynes (1883-1946), the works first published by 1930: A Treatise on Probability (London: Macmillan, 1921; raw IA OCR, as the Gutenberg edition has no plain text), and, clean Gutenberg texts, Indian Currency and Finance (Macmillan, 1913), The Economic Consequences of the Peace (New York: Harcourt, Brace and Howe, 1920), A Revision of the Treaty (Harcourt, 1922) and A Tract on Monetary Reform (Macmillan, 1923). US public domain (published before 1931). No uids minted.",
+ "_about": "John Maynard Keynes (1883-1946), the works first published by 1930: A Treatise on Probability (London: Macmillan, 1921; raw IA OCR, as the Gutenberg edition has no plain text), and, clean Gutenberg texts, Indian Currency and Finance (Macmillan, 1913), The Economic Consequences of the Peace (New York: Harcourt, Brace and Howe, 1920), A Revision of the Treaty (Harcourt, 1922) and A Tract on Monetary Reform (Macmillan, 1923). US public domain (published before 1931). No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "John Maynard Keynes",
  "_name_words": [
   "john",
@@ -38,7 +38,7 @@
  "_checks": {
   "keynes-indian-currency-and-finance-1913": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "keynes",
    "identity": "ok",
@@ -47,7 +47,7 @@
   },
   "keynes-economic-consequences-of-the-peace-1920": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "keynes",
    "identity": "ok",
@@ -56,7 +56,7 @@
   },
   "keynes-revision-of-the-treaty-1922": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "keynes",
    "identity": "ok",
@@ -65,7 +65,7 @@
   },
   "keynes-tract-on-monetary-reform-1923": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "keynes",
    "identity": "ok",
@@ -74,7 +74,7 @@
   },
   "keynes-treatise-on-probability-1921": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "keynes",
    "identity": "ok",
@@ -83,5 +83,8 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_pending": {
+  "PG 32625 (A Treatise on Probability)": "clean Gutenberg edition exists but only as PDF/TeX (no plain-text file); wanted as a clean witness once fetch_shelf can read TeX"
  }
 }

@@ -1,0 +1,38 @@
+{
+ "_about": "Paul Frédéric Girard (1852-1926), Paris professor of Roman law, raw IA OCR of A Short History of Roman Law, tr. A. H. F. Lefroy and J. H. Cameron (1906). Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Paul Frédéric Girard",
+ "_name_words": [
+  "girard"
+ ],
+ "_surname": [
+  "girard"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "paul-frederic-girard-short-history-roman-law-1906": [
+   "shorthistoryofro00girauoft",
+   "A Short History of Roman Law, being the first part of his Manuel élémentaire de droit romain, by Paul Frédéric Girard, translated by Augustus Henry Frazer Lefroy and John Home Cameron (Toronto: Canada Law Book Company, 1906)",
+   "tr. Augustus Henry Frazer Lefroy"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "paul-frederic-girard-short-history-roman-law-1906": "Augustus Henry Frazer Lefroy"
+ },
+ "_checks": {
+  "paul-frederic-girard-short-history-roman-law-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "girard",
+   "translator_claimed": "Augustus Henry Frazer Lefroy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

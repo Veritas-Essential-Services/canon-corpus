@@ -1,5 +1,5 @@
 {
- "_about": "Henry Beauchamp Walters (1867-1944), British Museum; with Samuel Birch. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 1, History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 2, clean Gutenberg. No uids minted.",
+ "_about": "Henry Beauchamp Walters (1867-1944), British Museum; with Samuel Birch. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 1, History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 2, clean Gutenberg. No uids minted.  Round ea adds The Art of the Greeks (1906) and Greek Art (Little Books on Art, second edition).  Round ea also adds The Art of the Romans (1911).",
  "_name_words": [
   "walters"
  ],
@@ -19,11 +19,24 @@
    "History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 2"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "h-b-walters-art-of-the-greeks-1906": [
+   "artofgreeks00walt",
+   "The Art of the Greeks, by H. B. Walters (New York: The Macmillan Company; London: Methuen and Co., 1906)"
+  ],
+  "h-b-walters-greek-art-little-books-2nd-ed": [
+   "greekart00walt",
+   "Greek Art, by H. B. Walters, second edition, revised (Little Books on Art; New York: Dodge Publishing Company; no year in the OCR, IA catalogues 1905)"
+  ],
+  "h-b-walters-art-of-the-romans-1911": [
+   "artofromans00walt",
+   "The Art of the Romans, by H. B. Walters (London: Methuen and Co.; preface dated June 1911)"
+  ]
+ },
  "_checks": {
   "walters-history-ancient-pottery-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. b. walters",
    "identity": "ok",
@@ -32,12 +45,45 @@
   },
   "walters-history-ancient-pottery-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. b. walters",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "h-b-walters-art-of-the-greeks-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. b. walters",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "h-b-walters-greek-art-little-books-2nd-ed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. b. walters",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "h-b-walters-art-of-the-romans-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. b. walters",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }

@@ -1,0 +1,32 @@
+{
+ "_about": "Joseph Ward Swain (1891-1971), raw IA OCR of his Columbia dissertation (1916).  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Joseph Ward Swain",
+ "_name_words": [
+  "swain"
+ ],
+ "_surname": [
+  "joseph ward swain"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "joseph-ward-swain-hellenic-origins-christian-asceticism-1916": [
+   "hellenicoriginso00swairich",
+   "The Hellenic Origins of Christian Asceticism: a dissertation (Columbia University), by Joseph Ward Swain (New York, 1916)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "joseph-ward-swain-hellenic-origins-christian-asceticism-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph ward swain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

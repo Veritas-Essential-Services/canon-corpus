@@ -1,0 +1,44 @@
+{
+ "_about": "William Wycherley. Bloom's Western Canon (1994) lists: The Country Wife. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "William Wycherley",
+ "_name_words": [
+  "william",
+  "wycherley"
+ ],
+ "_surname": [
+  "wycherley",
+  "william wycherley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wycherley-four-plays": [
+   55426,
+   "William Wycherley [Four Plays] (Mermaid Series, ed. W. C. Ward)"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "wycherley-four-plays": {
+   "bloom_n": [
+    225,
+    226
+   ],
+   "bloom_title": "The Country Wife",
+   "year": "1893 (PG front matter: 'Edited, with an introduction and notes ... 1893')",
+   "evidence": "PG text: 'THE COUNTRY WIFE.' and 'THE PLAIN DEALER.' present.",
+   "case": "One Mermaid volume covers both Wycherley titles Bloom lists.",
+   "note": "Mermaid texts are lightly bowdlerised in places? Not checked."
+  }
+ },
+ "_checks": {
+  "wycherley-four-plays": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "wycherley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

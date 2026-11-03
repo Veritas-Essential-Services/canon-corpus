@@ -1,0 +1,194 @@
+{
+ "_about": "W. M. Lindsay (Wallace Martin Lindsay, 1858-1937), Professor of Humanity at St Andrews, Latin philologist and palaeographer. Classical scholarship (lane B), his English-language studies. Raw IA OCR (mostly Toronto scans): The Latin Language (Oxford, 1894), A Short Historical Latin Grammar (1895, and the 2nd edition of 1915, kept apart because it was rewritten), An Introduction to Latin Textual Emendation (1896), Handbook of Latin Inscriptions (1897), Nonius Marcellus' Dictionary of Republican Latin (1901), The Ancient Editions of Plautus (1904), Syntax of Plautus (1907), Contractions in Early Latin Minuscule MSS. (1908), Notae Latinae (1915) and Early Latin Verse (1922). Not taken: his Latin text editions (Isidore, Plautus, Martial, Terence), and the collation volumes The Codex Turnebi of Plautus (1898), The Ancient Editions of Martial (1903) and Ancient Lore in Medieval Latin Glossaries (1921), which are mostly Latin apparatus; wishlist if Adam wants them. Not A. D. Lindsay (philosopher, a-d-lindsay). US public domain. No uids minted.",
+ "_author": "W. M. Lindsay",
+ "_name_words": [
+  "wallace",
+  "martin",
+  "lindsay"
+ ],
+ "_surname": [
+  "w. m. lindsay",
+  "wallace martin lindsay",
+  "wallace m. lindsay"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lindsay-latin-language-1894": [
+   "latinlanguagehis00linduoft",
+   "The Latin Language, an historical account of Latin sounds, stems and flexions (Oxford, 1894)"
+  ],
+  "lindsay-short-historical-latin-grammar-1895": [
+   "latingrammarsh00linduoft",
+   "A Short Historical Latin Grammar (Oxford, 1895)"
+  ],
+  "lindsay-short-historical-latin-grammar-1915": [
+   "shorthistoricall00linduoft",
+   "A Short Historical Latin Grammar, 2nd ed. (Oxford, 1915)"
+  ],
+  "lindsay-latin-textual-emendation-1896": [
+   "introductiontola00linduoft",
+   "An Introduction to Latin Textual Emendation, based on the text of Plautus (Macmillan, 1896)"
+  ],
+  "lindsay-handbook-latin-inscriptions-1897": [
+   "handbookoflatini00linduoft",
+   "Handbook of Latin Inscriptions illustrating the history of the language (Allyn and Bacon, 1897)"
+  ],
+  "lindsay-nonius-marcellus-dictionary-1901": [
+   "noniusmarcellusd00linduoft",
+   "Nonius Marcellus' Dictionary of Republican Latin (Oxford, 1901)"
+  ],
+  "lindsay-ancient-editions-plautus-1904": [
+   "ancienteditionso00linduoft",
+   "The Ancient Editions of Plautus (Oxford, 1904)"
+  ],
+  "lindsay-syntax-of-plautus-1907": [
+   "syntaxofplautus00linduoft",
+   "Syntax of Plautus (Oxford, 1907)"
+  ],
+  "lindsay-contractions-minuscule-mss-1908": [
+   "cu31924006481125",
+   "Contractions in Early Latin Minuscule MSS. (Oxford, 1908)"
+  ],
+  "lindsay-notae-latinae-1915": [
+   "notaelatinae00linduoft",
+   "Notae Latinae, an account of abbreviation in Latin MSS. of the early minuscule period (Cambridge, 1915)"
+  ],
+  "lindsay-early-latin-verse-1922": [
+   "earlylatinverse00linduoft",
+   "Early Latin Verse (Oxford, 1922)"
+  ]
+ },
+ "_excluded": {
+  "Latin text editions (Isidore 1911, Captivi 1900, Plautus, Martial, Terence)": "Latin texts, not English scholarship",
+  "Codex Turnebi 1898, Ancient Editions of Martial 1903, Ancient Lore 1921": "mostly Latin collation and apparatus; held as wishlist"
+ },
+ "_identity_checked": {
+  "lindsay-ancient-editions-plautus-1904": {
+   "author": "Title page read 2026-10-23: 'W, M. LINDSAY, Hon. Ph.D. ... Professor of Humanity in the University of St. Andrews', Oxford, 1904; the OCR reads the first full stop as a comma"
+  }
+ },
+ "_checks": {
+  "lindsay-latin-language-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lindsay-short-historical-latin-grammar-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lindsay-short-historical-latin-grammar-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lindsay-latin-textual-emendation-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lindsay-handbook-latin-inscriptions-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "c1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lindsay-nonius-marcellus-dictionary-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lindsay-ancient-editions-plautus-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lindsay-syntax-of-plautus-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lindsay-contractions-minuscule-mss-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lindsay-notae-latinae-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lindsay-early-latin-verse-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

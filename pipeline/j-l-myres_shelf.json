@@ -1,0 +1,144 @@
+{
+ "_about": "J. L. Myres (Sir John Linton Myres, 1869-1954), Wykeham Professor of Ancient History at Oxford. Classical scholarship, Greek history and Cypriote archaeology (lane B). Raw IA OCR: A Catalogue of the Cyprus Museum (with M. Ohnefalsch-Richter, Oxford, 1899), Greek Lands and the Greek People (inaugural lecture, 1910), The Value of Ancient History (1910), The Dawn of History (Home University Library, 1911), Herodotus, outline analysis of books I-VI (1912), Handbook of the Cesnola Collection of Antiquities from Cyprus (Metropolitan Museum, 1914), The Influence of Anthropology on the Course of Political Science (University of California, 1916) and The Political Ideas of the Greeks (Abingdon Press, 1927). His lecture in Anthropology and the Classics is on the r-r-marett shelf (PG 53646). Not taken: Who Were the Greeks? (1930) not found in a 1930 printing. US public domain. No uids minted.",
+ "_author": "J. L. Myres",
+ "_name_words": [
+  "john",
+  "linton",
+  "myres"
+ ],
+ "_surname": [
+  "j. l. myres",
+  "john l. myres",
+  "john linton myres",
+  "myres"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "myres-catalogue-cyprus-museum-1899": [
+   "catalogueofcypru00myreuoft",
+   "A Catalogue of the Cyprus Museum (Oxford, 1899)"
+  ],
+  "myres-greek-lands-greek-people-1910": [
+   "greeklandsgreekp00myreiala",
+   "Greek Lands and the Greek People (Oxford, 1910)"
+  ],
+  "myres-value-of-ancient-history-1910": [
+   "valueofancienthi00myre",
+   "The Value of Ancient History (1910)"
+  ],
+  "myres-dawn-of-history-1911": [
+   "dawnofhistory0000myre",
+   "The Dawn of History (Home University Library, 1911)"
+  ],
+  "myres-herodotus-outline-1912": [
+   "herodotusoutline00myrerich",
+   "Herodotus, outline analysis of books I-VI (Oxford, 1912)"
+  ],
+  "myres-cesnola-collection-handbook-1914": [
+   "handbookofcesnol00metruoft",
+   "Handbook of the Cesnola Collection of Antiquities from Cyprus (Metropolitan Museum of Art, 1914)"
+  ],
+  "myres-influence-of-anthropology-1916": [
+   "influenceanthro00myrerich",
+   "The Influence of Anthropology on the Course of Political Science (University of California, 1916)"
+  ],
+  "myres-political-ideas-of-the-greeks-1927": [
+   "politicalideasof00myre",
+   "The Political Ideas of the Greeks (Abingdon Press, 1927)"
+  ]
+ },
+ "_excluded": {
+  "PG 53646 Anthropology and the Classics": "on the r-r-marett shelf"
+ },
+ "_checks": {
+  "myres-catalogue-cyprus-museum-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "myres-greek-lands-greek-people-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. l. myres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "myres-value-of-ancient-history-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john l. myres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "myres-dawn-of-history-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. l. myres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "myres-herodotus-outline-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john l. myres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "myres-cesnola-collection-handbook-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "myres-influence-of-anthropology-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john l. myres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "myres-political-ideas-of-the-greeks-1927": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john l. myres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "[c1927]",
+   "ia_possible_copyright_status": "Copyright status reviewed by UF staff - Out of copyright",
+   "ia_lending": null
+  }
+ }
+}

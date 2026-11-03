@@ -1,0 +1,32 @@
+{
+ "_about": "Joseph Wright (1855-1930), Oxford Professor of Comparative Philology, raw IA OCR of his Comparative Grammar of the Greek Language (1912). Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Joseph Wright",
+ "_name_words": [
+  "wright"
+ ],
+ "_surname": [
+  "joseph wright"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "joseph-wright-comparative-grammar-greek-1912": [
+   "comparativegramm00wriguoft",
+   "Comparative Grammar of the Greek Language, by Joseph Wright (London, New York and Toronto: Henry Frowde, Oxford University Press, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "joseph-wright-comparative-grammar-greek-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph wright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

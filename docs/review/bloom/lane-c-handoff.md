@@ -1,0 +1,137 @@
+# Bloom finds handed to Lane C (2026-11-03)
+
+Lane B's research pass found these US-public-domain English translations for Bloom entries in the
+Renaissance-to-19th-century foreign-language regions. Lane C owns those regions (staging-C), so Lane B
+did NOT shelve them. Each line: Bloom n, author, Bloom title, then the source(s) the worker read.
+`LC` marks an entry Lane C has already staged. Workers' full evidence: `bloom-research.jsonl` beside this file.
+
+- **107** Niccolò Machiavelli, *The Mandrake, a Comedy* (LC staged)
+  - ia `mandragola0000nicc`: Mandragola; tr. Stark Young; 1927 (title page: 'Copyright, 1927, by The Macaulay Company'
+  - ia `bwb_S0-DGM-610`: Mandragola; tr. Stark Young; 1927 (title page)
+  - note: Collection is 'internetarchivebooks' only (not inlibrary/printdisabled) and the djvu text downloaded. Detmold's Machiavelli vols held do not include the plays as far as their titles show.
+- **114** Giordano Bruno, *The Expulsion of the Triumphant Beast* (LC staged)
+  - ia `bim_eighteenth-century_spaccio-della-bestia-tri_bruno-giordano_1713`: Spaccio della bestia trionfante. Or the expulsion of the triumphant beast. Translated from; tr. unread (title page OCR illegible; commonly attributed to W. Morehead / John Toland circle - not verified); 1713 (IA metadata)
+  - note: ECCO scan with long-s; OCR fair-to-poor. Needs cleanup or re-OCR.
+- **127** Fray Luis de León, *Poems*
+  - ia `poemsfromspanish00lenl`: Poems from the Spanish of Fra Luis Ponce de Leon; tr. Henry Phillips Jr.; 1883 (title page: 'Philadelphia ... printed solely for priva
+  - ia `poemsfromspanis00philgoog`: Poems from the Spanish of Fra Luis Ponce de Leon; tr. Henry Phillips; 1883 (IA metadata)
+  - note: A selection, not complete. Aubrey Bell's Lyrics of Luis de León (1928) would also be PD but I did not find it on IA.
+- **137** Tirso de Molina, *The Trickster of Seville* (LC staged)
+  - ia `loveroguepoeticd0000harr`: The Love-Rogue: a poetic drama in three acts, transmuted from the Spanish of Tirso de Moli; tr. Harry Kemp; 1923 (title page: 'Lieber & Lewis, New York 1923 / Copyright
+  - note: 'Transmuted' = a free verse adaptation, not a close translation. Flag it as such in the honesty field.
+- **141** Pedro Calderón de la Barca, *The Doctor of His Own Honor*
+  - ia `dramastragiccom00maccgoog`: Dramas of Calderon, Tragic, Comic, and Legendary, vol. I; tr. Denis Florence MacCarthy; 1853 (IA metadata; title-page OCR reads 'London: Charles Dol
+  - ia `dramastragiccom01maccgoog`: Dramas of Calderon, vol. I (second scan); tr. Denis Florence MacCarthy; 1853 (IA metadata)
+  - note: Vol. I also holds The Constant Prince and The Secret in Words. Not on PG.
+- **256** Marguerite de Navarre, *The Heptameron*
+  - pg `17701`: The Tales of the Heptameron, Vol. 1 (of 5); tr. George Saintsbury; 1894 (PG header: 'Original publication: London: The Society 
+- **259** Pierre Ronsard, *Odes, Elegies, Sonnets*
+  - ia `songssonnetsofpi00rons`: Songs & Sonnets of Pierre de Ronsard, translated by Curtis Hidden Page; tr. Curtis Hidden Page; unread (title page reads 'Boston & New York, Houghton Miffli
+  - note: A selection. St. John Lucas's Selected Poems (1908) is French text.
+- **262** Robert Garnier, *Mark Antony*
+  - ia `countessofpembro00garniala`: The Countess of Pembroke's Antonie, edited with introduction by Alice Luce; tr. Mary Sidney Herbert, Countess of Pembroke; 1897 (title page: 'Weimar, Verlag von Emil Felber, 1897')
+  - note: EEBO 1595 printing also on IA.
+- **264** Pierre Corneille, *The Cid*
+  - pg `14954`: The Cid; tr. Roscoe Mongan; 1896 (PG text: '1896, by Hinds & Noble')
+  - note: Alternative: the 1637 Rutter translation (EEBO, bim_early-english-books-1475-1640_the-cid-a-tragicomedy-_corneille-pierre_1637).
+- **266** Pierre Corneille, *Nicomède*
+  - ia `bim_early-english-books-1641-1700_nicomede-a-tragi-comedy-_corneille-pierre_1671`: Nicomede, a tragi-comedy, translated out of the French of Monsieur Corneille; tr. John Dancer; 1671 (title page: 'Licensed Dec. 16, 1670 ... London, printe
+  - note: EEBO OCR, long s.
+- **270** François de La Rochefoucauld, *Maxims*
+  - pg `9105`: Reflections; or Sentences and Moral Maxims; tr. J. W. Willis Bund and J. Hain Friswell; 1871 (PG front matter: '...By J. W. Willis Bund ... and J. H
+- **284** Nicolas Boileau-Despréaux, *The Art of Poetry* (LC staged)
+  - ia `artpoetrypoetic00soamgoog`: The Art of Poetry: the poetical treatises of Horace, Vida, and Boileau, with the translati; tr. Sir William Soame (revised by Dryden) - per Cook: 'Chalmers' English Poets has furnished the translation'; 1892 (IA metadata; preface signed 'Yale University, July 4, 
+  - note: EEBO 1683 first printing also on IA.
+- **285** Nicolas Boileau-Despréaux, *Lutrin* (LC staged)
+  - ia `bim_eighteenth-century_boileaus-lutrin-a-mock_boileau-despraux-nicol_1708`: Boileau's Lutrin: a mock-heroic poem. In six canto's. Render'd into English verse. To whic; tr. unread (title credits N. Rowe with the prefixed account; translator commonly given as John Ozell - not verified); 1708 (IA metadata)
+  - note: ECCO OCR, long s. Also 1682 EEBO and 1730/1752 printings on IA.
+- **293** Jean-Jacques Rousseau, *La Nouvelle Héloïse*
+  - pg `76639`: Eloisa; tr. W. Kenrick; 1761 (PG header 'Original publication: London: Griffiths, Be
+  - note: Rousseau shelf holds Confessions and Discourse on Inequality, not Julie.
+- **294** Voltaire, *Zadig* (LC staged)
+  - pg `18972`: Zadig; Or, The Book of Fate. An Oriental History, Translated from the French Original of M; tr. anonymous; 1749 (front matter 'MDCCXLIX', London)
+  - pg `35595`: Voltaire's Romances, Complete in One Volume; tr. anonymous; 1889 (front matter 'NEW YORK: 1889')
+  - note: PG 35595 would bring all the romances in one volume if preferred.
+- **297** Voltaire, *The Lisbon Earthquake*
+  - pg `64858`: Toleration and other essays; tr. Joseph McCabe; 1912 (title page 'NEW YORK AND LONDON 1912', Knickerbocker P
+- **317** Johann Wolfgang von Goethe, *West-Eastern Divan*
+  - ia `cihm_86815`: West-Eastern Divan in Twelve Books; tr. Edward Dowden; 1914 (title page 'MCMXIV. J. M. Dent & Sons Ltd. London and 
+  - note: This is a microfilm scan; the OCR is noisy at the start and will need checking.
+- **318** Friedrich Schiller, *The Robbers*
+  - pg `6782`: The Robbers; tr. unnamed in header (Bohn's 'Dramatic Works' translation, inferred, not read); unread
+  - note: The PG file does not name its translator or printing. Schiller died 1805 and every 19th-century translation is PD, but Adam may want the imprint confirmed before ingest.
+- **320** Friedrich Schiller, *Wallenstein*
+  - pg `6785`: Wallenstein's Camp: A Play; tr. James Churchill; unread
+  - note: Adding PG 6785 completes the trilogy.
+- **336** Giacomo Leopardi, *The Moral Essays*
+  - pg `52356`: Essays and Dialogues; tr. Charles Edwardes; 1882 (PG front matter 'LONDON: 1882.')
+  - note: Not held under either Leopardi row.
+- **341** Giovanni Verga, *Little Novels of Sicily*
+  - ia `littlenovelsofsi0000giov_w7r6`: Little Novels of Sicily; tr. D. H. Lawrence; 1929 (title page 'OXFORD BASIL BLACKWELL 1929')
+  - ia `littlenovelsofsi0000unse_v0x4`: Little Novels of Sicily; tr. D. H. Lawrence; 1925 first ed. per printing line 'Copyright 1925 by Thomas S
+  - note: Prefer the 1929 Blackwell scan; the Grove copy is a 1953 reprint (the '1953 by Frieda Lawrence Ravagli' line is the copyright renewal, which expired with the 95-year term).
+- **342** Giovanni Verga, *Mastro-Don Gesualdo*
+  - ia `mastrodongesuald0000giov_s4h7`: Mastro-Don Gesualdo; tr. D. H. Lawrence; 1925 / 1928 (printing line 'FIRST PUBLISHED 1925 / RE-ISSUED
+  - note: Lawrence's US first edition was Seltzer 1923 (not read). Mary A. Craig also translated it in the 1890s (not checked).
+- **344** Giovanni Verga, *The She-Wolf and Other Stories*
+  - pg `37979`: Under the Shadow of Etna: Sicilian Stories from the Italian of Giovanni Verga; tr. Nathan Haskell Dole; 1896 (title page 'BOSTON JOSEPH KNIGHT COMPANY 1896 / COPYRI
+  - note: Alternative: Alma Strettell, Cavalleria Rusticana and Other Tales of Sicilian Peasant Life (London: Fisher Unwin, 1893; IA cavalleriarusticanaandothertalesofsicilianpeasantlifebygiovanniverga, title page read). The held 'Rustic Chivalry' (s
+- **345** Gustavo Adolfo Bécquer, *Poems*
+  - ia `poemsofgustavoad00bc`: Poems of Gustavo Adolfo Becquer, rendered into English verse; tr. Mason Carnes; 1891 (title page 'LONDON: Kegan Paul, Trench, Trübner & Co.,
+  - note: PG has only Bécquer's prose legends (PG 50044). IA also has 'Legends, Tales and Poems' (1907, legendstalesand00goog), probably a Spanish school text with English notes (not opened).
+- **351** François-Auguste-René de Chateaubriand, *Attala*
+  - pg `44427`: Atala; tr. unnamed in PG header (the Doré-illustrated edition); unread
+  - note: Translator and imprint were not visible in the opening of the PG file; Doré's illustrations date it to the 1860s, but confirm the translator before ingest.
+- **357** Victor Hugo, *The Distance, the Shadows: Selected Poems*
+  - pg `8775`: Poems; tr. various (Bohn collection; each poem credited to its translator); 1888 (PG front matter 'POEMS By Victor Hugo 1888')
+- **360** Victor Hugo, *William Shakespeare*
+  - pg `53490`: William Shakespeare; tr. A. Baillot; 1864 (title page 'BOSTON ESTES AND LAURIAT ... 1864'; author
+  - note: The 1864 on the title page may be the date of the original printing; the Estes & Lauriat edition with photogravures is probably a later reprint of Baillot's 1864 text. Either way pre-1931.
+- **364** Alfred de Musset, *Poems*
+  - ia `writingsmusset01mussiala`: The Complete Writings of Alfred de Musset, vol. 1: Poems; tr. Andrew Lang, Marie Agnes Colburn Clarke and others (IA creator field; not read on the page); 1905 (title page 'VOLUME ONE 1905 / COPYRIGHT, 1905')
+  - ia `writingsmusset02mussiala`: The Complete Writings of Alfred de Musset, vol. 2: Poems; tr. as above; 1905 (title page)
+  - note: Vol. 2 contains the Nights (grep 'May Night' found matches in the c1908 vol. 2 printing, completewritings02mussiala).
+- **365** Alfred de Musset, *Lorenzaccio*
+  - ia `writingsmusset04mussiala`: The Complete Writings of Alfred de Musset, vol. 4: Comedies (Lorenzaccio, The Chandler); tr. unread; 1905 (title page 'COMEDIES OF ... LORENZACCIO - THE CHANDLER
+  - note: Same set as entry 364; one ten-volume acquisition would cover both and the Confession.
+- **367** Gérard de Nerval, *Sylvie* (LC staged)
+  - pg `40492`: Sylvie: souvenirs du Valois; tr. Lucie Page; 1896 (PG front matter)
+  - note: IA also has 'Daughters of Fire: Sylvie, Emilie, Octavie' (1922, DaughtersOfFireSylvieEmilieOctavie; not opened).
+- **383** Gustave Flaubert, *Sentimental Education*
+  - pg `34828`: Sentimental Education; Or, The History of a Young Man. Volume 1; tr. unnamed; 1904 (title page 'M. WALTER DUNNE, NEW YORK AND LONDON, COPY
+  - pg `27537`: Sentimental Education; Or, The History of a Young Man. Volume 2; tr. unnamed; 1904 (same Dunne edition, inferred from the series; not read
+  - note: Need both volumes (PG 34828 + 27537).
+- **384** Gustave Flaubert, *Salammbô* (LC staged)
+  - pg `1290`: Salammbo; tr. unnamed in the PG file; unread
+  - note: PG gives no source edition. If Adam wants a named translation, J. S. Chartres (1886) or the 1904 Dunne edition can be sought on IA; not checked.
+- **385** Gustave Flaubert, *A Simple Soul* (LC staged)
+  - pg `10458`: Three short works: The Dance of Death, The Legend of Saint Julian the Hospitaller, A Simpl; tr. unnamed; unread
+  - pg `1253`: A Simple Soul; tr. unnamed; unread
+  - note: Neither PG file names its translator.
+- **393** Jules Laforgue, *Selected Writings* (LC staged)
+  - ia `sixmoraltalesfro0000jule`: Six Moral Tales from Jules Laforgue; tr. Frances Newman; 1928 (title page 'New York: Horace Liveright, Copyright 1928
+  - note: Prose only: no PD English translation of the poems was found. 1928 publication puts it in US PD since 2024.
+- **396** Émile Zola, *L'Assommoir* (LC staged)
+  - pg `8558`: L'Assommoir; tr. unnamed in the PG file; unread
+  - ia `assommoirprelud00zolagoog`: The "Assommoir" (The Prelude to "Nana"): A Realistic Novel; tr. unread (Vizetelly & Co. edition, inferred from the title); 1884 (IA metadata, not read)
+  - note: PG 8600 is a second L'Assommoir file; compare before choosing. Translator unknown for the PG text.
+- **397** Émile Zola, *Nana* (LC staged)
+  - ia `nanasequeltolass00zola`: Nana: (sequel to "L'Assommoir"); tr. John Stirling; 1880 (title page 'Philadelphia: T. B. Peterson & Brothers ..
+  - ia `nananana00zolarich`: Nana; tr. unread (introduction by Burton Rascoe); 1922 (IA metadata; Knopf, 'first edition of this book consis
+  - note: Victorian English Nanas were often bowdlerised; Peterson's says unabridged. The Knopf 1922 text is cleaner print but its translator was not identified.
+- **573** Aleksandr Pushkin, *Complete Poetry*
+  - pg `54991`: Poems by Alexander Pushkin, translated from the Russian, with Introduction and Notes; tr. Ivan Panin; 1888 (title page in PG text: Boston, Cupples and Hurd, 1888)
+  - note: Held already: Eugene Oneguine (singles-literature), Boris Godunov, 'Poems selected from Karamzin, Pushkin, Tyutchev, Lermontov and others (1917)' (singles-plays-poetry-2). Panin is a selection, not complete.
+- **575** Aleksandr Pushkin, *Narrative Poems*
+  - pg `8192`: The Bakchesarian Fountain, by Alexander Pooshkeen, and Other Poems, by Various Authors; tr. William D. Lewis; 1849 (dedication dated 'Philadelphia, July, 1849' in PG text
+  - note: Thin cover for 'Narrative Poems' (one poem plus pieces by Derzhavin and others). Also on PG: The Talisman, Borrow (PG 12458), not checked as held. No pre-1931 English Bronze Horseman/Poltava volume looked for on IA.
+- **588** Ivan Turgenev, *A Month in the Country*
+  - ia `playsofivansturg0000tran`: The Plays of Ivan S. Turgenev, translated from the Russian by M. S. Mandell; tr. M. S. Mandell; 1924 (title page: London, William Heinemann, 'FIRST PUBLISHE
+  - note: Macmillan NY issue (IA playsofivansturg0001msma, 'Copyright 1924') is only vol. I of the two-volume printing. Garnett's 1934 Three Plays version isn't PD. A Garnett text at IA 'AMonthInTheCountry' has no imprint, so rejected.
+- **715** Miguel de Unamuno, *Three Exemplary Novels*
+  - ia `threeexemplaryno0000migu_w2m4`: Three Exemplary Novels, translated by Angel Flores, with an introduction by Angel del Rio; tr. Angel Flores; 1930 for the translation ('COPYRIGHT, 1930, BY ALBERT & CHAR
+  - note: Del Rio's introduction is copyright 1956, not PD; strip it and keep only the three novels (Marquis of Lumbria, Two Mothers, Nothing Less Than a Man). Assumed unrevised: the copyright line names only 1930 for the text. Other copy: threeexemp
+
+## Added 2026-11-03 (afternoon)
+
+- **Benjamin Constant, Adolphe (Bloom n 349, was "unclear").** IA `adolphenarrative0000na`: *Adolphe: a narrative found among the papers of an unknown person*, translated by Paul Hookham, introduction by Henry K. Marks, Borzoi Pocket Books (New York: Knopf). Title-page verso read: "COPYRIGHT, 1925, BY ALFRED A. KNOPF". The collection is internetarchivebooks, not lending. It is US PD by date. Hookham's translation was first published in 1913 (Fifield, London; from bibliographies, not read). So this is the PD English Adolphe that the research didn't find.

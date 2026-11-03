@@ -1,12 +1,13 @@
 {
- "_about": "Percy Neville Ure (1879-1950), Reading. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Origin of Tyranny, clean Gutenberg. No uids minted.",
+ "_about": "Percy Neville Ure (1879-1950), Reading. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Origin of Tyranny, clean Gutenberg. No uids minted.  Round dz adds Black Glaze Pottery from Rhitsona (1913).",
  "_name_words": [
   "ure"
  ],
  "_surname": [
   "p. n. ure",
   "percy neville ure",
-  "ure, p. n"
+  "ure, p. n",
+  "percy n. ure"
  ],
  "ccel": {},
  "gutenberg": {
@@ -15,16 +16,32 @@
    "The Origin of Tyranny"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "p-n-ure-black-glaze-pottery-rhitsona-1913": [
+   "blackglazepotter00urepuoft",
+   "Black Glaze Pottery from Rhitsona in Boeotia, by Percy N. Ure (University College, Reading, Studies; Oxford: Horace Hart, printer to the University, 1913)"
+  ]
+ },
  "_checks": {
   "ure-origin-of-tyranny": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "p. n. ure",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "p-n-ure-black-glaze-pottery-rhitsona-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy n. ure",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }

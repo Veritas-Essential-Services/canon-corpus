@@ -1,0 +1,38 @@
+{
+ "_about": "Raymond Henry Lacey: The Equestrian Officials of Trajan and Hadrian, their Careers (Princeton dissertation, 1917). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Raymond Henry Lacey (1876-)",
+ "_name_words": [
+  "lacey",
+  "raymond",
+  "henry",
+  "equestrian",
+  "trajan",
+  "hadrian"
+ ],
+ "_surname": [
+  "raymond henry lacey",
+  "r. h. lacey"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lacey-equestrian-officials-trajan-hadrian-1917": [
+   "cu31924006776748",
+   "The Equestrian Officials of Trajan and Hadrian: their Careers (Princeton, 1917)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lacey-equestrian-officials-trajan-hadrian-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "raymond henry lacey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

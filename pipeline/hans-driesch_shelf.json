@@ -1,5 +1,5 @@
 {
- "_about": "Hans Driesch (1867-1941), biologist and vitalist philosopher: The Science and Philosophy of the Organism, the Gifford Lectures delivered at Aberdeen in 1907 and 1908, written in English, 2 vols. (London: A. and C. Black, 1908); The Problem of Individuality, four lectures at the University of London, October 1913 (London: Macmillan, 1914); The History and Theory of Vitalism, authorised translation by C. K. Ogden (London: Macmillan, 1914). Raw IA OCR, clean 0.90-0.92. US public domain (published 1908-1914). No uids minted.",
+ "_about": "Hans Driesch (1867-1941), biologist and vitalist philosopher: The Science and Philosophy of the Organism, the Gifford Lectures delivered at Aberdeen in 1907 and 1908, written in English, 2 vols. (London: A. and C. Black, 1908); The Problem of Individuality, four lectures at the University of London, October 1913 (London: Macmillan, 1914); The History and Theory of Vitalism, authorised translation by C. K. Ogden (London: Macmillan, 1914). Raw IA OCR, clean 0.90-0.92. US public domain (published 1908-1914). No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "Hans Driesch",
  "_name_words": [
   "hans",
@@ -9,7 +9,12 @@
   "driesch"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "driesch-science-philosophy-organism-pg": [
+   44388,
+   "The Science and Philosophy of the Organism"
+  ]
+ },
  "internet_archive": {
   "driesch-science-philosophy-organism-v1": [
    "thescienceandphi01drieuoft",
@@ -34,9 +39,18 @@
   "driesch-history-theory-vitalism-ogden-1914": "Ogden"
  },
  "_checks": {
+  "driesch-science-philosophy-organism-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "driesch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "driesch-science-philosophy-organism-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "driesch",
    "identity": "ok",
@@ -47,7 +61,7 @@
   },
   "driesch-science-philosophy-organism-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "driesch",
    "identity": "ok",
@@ -58,7 +72,7 @@
   },
   "driesch-problem-of-individuality-1914": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "driesch",
    "identity": "ok",
@@ -69,7 +83,7 @@
   },
   "driesch-history-theory-vitalism-ogden-1914": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "driesch",
    "translator_claimed": "Ogden",

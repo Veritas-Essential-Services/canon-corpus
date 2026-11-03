@@ -1,0 +1,46 @@
+{
+ "_about": "Sir Walter Ralegh. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Sir Walter Ralegh",
+ "_name_words": [
+  "sir",
+  "walter",
+  "ralegh"
+ ],
+ "_surname": [
+  "ralegh",
+  "sir walter ralegh"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ralegh-poems": [
+   "poemsofsirwalter00rale_1",
+   "The Poems of Sir Walter Ralegh, ed. Agnes M. C. Latham"
+  ]
+ },
+ "_bloom": {
+  "ralegh-poems": {
+   "bloom_n": [
+    157
+   ],
+   "bloom_title": "Poems",
+   "year": "1929 (title page: 'Houghton Mifflin Company 1929'; printed in Great Britain by MacLehose)",
+   "evidence": "Read dust-jacket + imprint lines; collection bplhoughton/bostonpubliclibrary (not lending).",
+   "case": "Latham's 1929 edition is the definitive collection and is PD (1929); Hannah is the older Aldine alternative.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "ralegh-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "ralegh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

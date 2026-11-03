@@ -1,0 +1,35 @@
+{
+ "_about": "C. H. Hawes and Harriet Boyd Hawes, excavators of Gournia: Crete, the Forerunner of Greece (Harper's Library of Living Thought, 1909; this printing 1911), preface by Arthur Evans. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Charles Henry Hawes (1867-1943) and Harriet Boyd Hawes (1871-1945)",
+ "_name_words": [
+  "hawes",
+  "crete",
+  "forerunner",
+  "greece"
+ ],
+ "_surname": [
+  "hawes"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hawes-crete-forerunner-of-greece": [
+   "creteforerunnero00haweuoft",
+   "Crete, the Forerunner of Greece (1909; this printing 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hawes-crete-forerunner-of-greece": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hawes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

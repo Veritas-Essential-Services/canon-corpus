@@ -1,0 +1,40 @@
+{
+ "_about": "Charles Diehl (1859-1944), French Byzantinist: Excursions in Greece to Recently Explored Sites of Classical Interest, tr. Emma R. Perkins (1893). His Byzantine portraits and histories were not found in pre-1930 English scans here. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Charles Diehl (1859-1944)",
+ "_name_words": [
+  "diehl",
+  "excursions",
+  "greece"
+ ],
+ "_surname": [
+  "charles diehl",
+  "diehl"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "diehl-excursions-in-greece-1893": [
+   "cu31924028258022",
+   "Excursions in Greece to Recently Explored Sites of Classical Interest (1893), tr. Emma R. Perkins"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "diehl-excursions-in-greece-1893": "Perkins"
+ },
+ "_checks": {
+  "diehl-excursions-in-greece-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles diehl",
+   "translator_claimed": "Perkins",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

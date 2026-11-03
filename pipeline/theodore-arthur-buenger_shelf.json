@@ -1,0 +1,32 @@
+{
+ "_about": "Theodore Arthur Buenger, raw IA OCR of his Pennsylvania dissertation on Crete in Greek myth and tradition (1915).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Theodore Arthur Buenger",
+ "_name_words": [
+  "buenger"
+ ],
+ "_surname": [
+  "theodore arthur buenger"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "theodore-arthur-buenger-crete-in-the-greek-tradition-1915": [
+   "creteingreektrad00buenrich",
+   "Crete in the Greek Tradition: a thesis (University of Pennsylvania), by Theodore Arthur Buenger (Lancaster, Pa.: Steinman and Foltz; no year in the OCR, IA catalogues 1915)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "theodore-arthur-buenger-crete-in-the-greek-tradition-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore arthur buenger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

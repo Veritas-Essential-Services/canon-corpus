@@ -1,0 +1,45 @@
+{
+ "_about": "Thomas Carew. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Thomas Carew",
+ "_name_words": [
+  "thomas",
+  "carew"
+ ],
+ "_surname": [
+  "carew",
+  "thomas carew"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "carew-poems-masque": [
+   "poemsandmasquewi00careuoft",
+   "The Poems and Masque of Thomas Carew, ed. Joseph Woodfall Ebsworth"
+  ]
+ },
+ "_bloom": {
+  "carew-poems-masque": {
+   "bloom_n": [
+    176
+   ],
+   "bloom_title": "Poems",
+   "year": "1893 (title page: 'London: Reeves and Turner ... 1893')",
+   "evidence": "Read title page.",
+   "case": "Ebsworth's complete Poems and Coelum Britannicum masque.",
+   "note": "Vincent's Muses' Library (1899, poemscarew00careuoft) is an alternative."
+  }
+ },
+ "_checks": {
+  "carew-poems-masque": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "carew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

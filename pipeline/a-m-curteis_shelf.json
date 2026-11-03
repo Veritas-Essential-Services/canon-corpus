@@ -1,0 +1,34 @@
+{
+ "_about": "A. M. Curteis: Rise of the Macedonian Empire (Epochs of Ancient History, 1878; this copy 1890). Classical scholarship (lane B, round de). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Arthur Mayer Curteis (1846-?)",
+ "_name_words": [
+  "curteis",
+  "macedonian",
+  "empire"
+ ],
+ "_surname": [
+  "curteis"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "curteis-rise-macedonian-empire": [
+   "risemacedoniane00curtgoog",
+   "Rise of the Macedonian Empire (Epochs of Ancient History, 1878; this copy 1890)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "curteis-rise-macedonian-empire": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "curteis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "_about": "J. I. Beare (d. 1918), Trinity College Dublin: Greek Theories of Elementary Cognition from Alcmaeon to Aristotle (1906). His Oxford Aristotle Parva Naturalia (with Ross) is noted on the aristotle shelf. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "John Isaac Beare (d. 1918)",
+ "_name_words": [
+  "beare",
+  "greek",
+  "theories",
+  "cognition",
+  "alcmaeon",
+  "aristotle"
+ ],
+ "_surname": [
+  "john i. beare",
+  "j. i. beare",
+  "john isaac beare",
+  "beare"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "beare-greek-theories-elementary-cognition-1906": [
+   "greektheoriesel00beargoog",
+   "Greek Theories of Elementary Cognition from Alcmaeon to Aristotle (1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "beare-greek-theories-elementary-cognition-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john i. beare",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "_about": "Edwin Justus Mayer. Bloom's Western Canon (1994) lists: Children of Darkness. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Edwin Justus Mayer",
+ "_name_words": [
+  "edwin",
+  "justus",
+  "mayer"
+ ],
+ "_surname": [
+  "mayer",
+  "edwin justus mayer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mayer-children-darkness": [
+   "childernofdarkne00edwi",
+   "Children of Darkness: An Original Tragi-Comedy, by Edwin Justus Mayer (Horace Liveright, New York)"
+  ]
+ },
+ "_bloom": {
+  "mayer-children-darkness": {
+   "bloom_n": [
+    1396
+   ],
+   "bloom_title": "Children of Darkness",
+   "year": "1929 (title page; verso reads 'COPYRIGHT, 1929 By Edwin Justus Mayer')",
+   "evidence": "Read djvu title page: 'CHILDREN OF DARKNESS / An Original Tragi-Comedy / by EDWIN JUSTUS MAYER / Author of The Firebrand / Suggested by Henry Fielding's ... Jonathan Wild the Great / HORACE LIVERIGHT NEW YORK 1929', then cast list and Act I. IA metadata collections: internetarchivebooks, americana (not lending). Note IA's title field is misspelled 'Childern Of Darkness'.",
+   "case": "Bloom lists Mayer's Children of Darkness; the Liveright first edition of 1929 is US public domain and IA has a full scan with OCR text, the only edition needed.",
+   "note": "The machine's 'author' match was a false hit (gt.py finds only Conrad's 'Almayer's Folly'); nothing by Mayer is held. Not on Project Gutenberg. OCR is freshly scanned (2026) and will need ordinary cleanup; stage directions are bracketed italics. This is the one pre-1931 work in chunk 8."
+  }
+ },
+ "_checks": {
+  "mayer-children-darkness": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "mayer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

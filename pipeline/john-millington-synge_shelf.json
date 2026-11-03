@@ -1,0 +1,159 @@
+{
+ "_about": "John Millington Synge. Bloom's Western Canon (1994) lists: Collected Plays. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Millington Synge",
+ "_name_words": [
+  "john",
+  "millington",
+  "synge"
+ ],
+ "_surname": [
+  "synge",
+  "john millington synge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "synge-riders-to-sea": [
+   994,
+   "Riders to the Sea"
+  ],
+  "synge-shadow-glen": [
+   1618,
+   "In the Shadow of the Glen"
+  ],
+  "synge-tinker-wedding": [
+   1328,
+   "The Tinker's Wedding"
+  ],
+  "synge-well-saints": [
+   1241,
+   "The Well of the Saints"
+  ],
+  "synge-playboy-western-world": [
+   1240,
+   "The Playboy of the Western World"
+  ],
+  "synge-deirdre-sorrows": [
+   1922,
+   "Deirdre of the Sorrows"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "synge-riders-to-sea": {
+   "bloom_n": [
+    857
+   ],
+   "bloom_title": "Collected Plays",
+   "year": "1904 (front matter read: 'First performed at the Molesworth Hall, Dublin, February 25th, 1904')",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+   "note": "Synge was not held at all before this."
+  },
+  "synge-shadow-glen": {
+   "bloom_n": [
+    857
+   ],
+   "bloom_title": "Collected Plays",
+   "year": "1903 (front matter read: 'First performed at the Molesworth Hall, Dublin, October 8th, 1903')",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+   "note": "Synge was not held at all before this."
+  },
+  "synge-tinker-wedding": {
+   "bloom_n": [
+    857
+   ],
+   "bloom_title": "Collected Plays",
+   "year": "1907 (preface read: dated 'December 2nd, 1907')",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+   "note": "Synge was not held at all before this."
+  },
+  "synge-well-saints": {
+   "bloom_n": [
+    857
+   ],
+   "bloom_title": "Collected Plays",
+   "year": "unread",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+   "note": "Synge was not held at all before this."
+  },
+  "synge-playboy-western-world": {
+   "bloom_n": [
+    857
+   ],
+   "bloom_title": "Collected Plays",
+   "year": "1907 (PG text, preface dated January 21st, 1907)",
+   "evidence": "PG header read",
+   "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+   "note": "Synge was not held at all before this."
+  },
+  "synge-deirdre-sorrows": {
+   "bloom_n": [
+    857
+   ],
+   "bloom_title": "Collected Plays",
+   "year": "unread",
+   "evidence": "PG catalogue",
+   "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+   "note": "Synge was not held at all before this."
+  }
+ },
+ "_checks": {
+  "synge-riders-to-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "synge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "synge-shadow-glen": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "synge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "synge-tinker-wedding": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "synge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "synge-well-saints": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "synge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "synge-playboy-western-world": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "synge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "synge-deirdre-sorrows": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "synge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

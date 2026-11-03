@@ -1,0 +1,48 @@
+{
+ "_about": "William Edward Jelf (1811-1875), Student of Christ Church, raw IA OCR of his Grammar of the Greek Language, fourth edition (1866), both volumes. Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "William Edward Jelf",
+ "_name_words": [
+  "jelf"
+ ],
+ "_surname": [
+  "william edward jelf",
+  "jelf"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-edward-jelf-greek-grammar-1-1866": [
+   "grammargreeklan00jelfgoog",
+   "A Grammar of the Greek Language, by William Edward Jelf, fourth edition, with additions and corrections, vol. I: Accidence (Oxford and London: James Parker and Co., 1866)"
+  ],
+  "william-edward-jelf-greek-grammar-2-1866": [
+   "grammargreeklan01jelfgoog",
+   "A Grammar of the Greek Language, by William Edward Jelf, fourth edition, with additions and corrections, vol. II: Syntax (Oxford and London: James Parker and Co., 1866)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-edward-jelf-greek-grammar-1-1866": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william edward jelf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "william-edward-jelf-greek-grammar-2-1866": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william edward jelf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "_about": "Ethel Burton-Brown, raw IA OCR of Recent Excavations in the Roman Forum 1898-1905, a handbook, second edition (1905). Roman topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "E. Burton-Brown",
+ "_name_words": [
+  "burton-brown"
+ ],
+ "_surname": [
+  "e. burton-brown",
+  "burton-brown"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-burton-brown-recent-excavations-roman-forum-1905": [
+   "recentexcavation00burt",
+   "Recent Excavations in the Roman Forum 1898-1905, a handbook, by E. Burton-Brown, second edition (London: John Murray, 1905)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-burton-brown-recent-excavations-roman-forum-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. burton-brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

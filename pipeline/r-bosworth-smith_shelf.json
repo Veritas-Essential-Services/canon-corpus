@@ -1,0 +1,56 @@
+{
+ "_about": "R. Bosworth Smith (1839-1908), Harrow master: Carthage and the Carthaginians (1878) and its abridgement Rome and Carthage: the Punic Wars (Epochs of Ancient History, 1881). His Mohammed and Mohammedanism and Life of Lord Lawrence are outside lane B. Classical scholarship (lane B, round de). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Reginald Bosworth Smith (1839-1908)",
+ "_name_words": [
+  "bosworth",
+  "smith",
+  "carthage",
+  "carthaginians",
+  "rome",
+  "punic"
+ ],
+ "_surname": [
+  "bosworth smith",
+  "r. bosworth smith",
+  "reginald bosworth smith"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bosworth-smith-carthage-carthaginians-1878": [
+   "carthagecarthagi00smit_0",
+   "Carthage and the Carthaginians (1878)"
+  ],
+  "bosworth-smith-rome-and-carthage-1881": [
+   "romeandcarthage00smitgoog",
+   "Rome and Carthage: the Punic Wars (Epochs of Ancient History, 1881)"
+  ]
+ },
+ "_excluded": {
+  "Mohammed and Mohammedanism; Life of Lord Lawrence": "outside lane B"
+ },
+ "_checks": {
+  "bosworth-smith-carthage-carthaginians-1878": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bosworth smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bosworth-smith-rome-and-carthage-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bosworth smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

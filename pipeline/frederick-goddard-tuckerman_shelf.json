@@ -1,0 +1,46 @@
+{
+ "_about": "Frederick Goddard Tuckerman. Bloom's Western Canon (1994) lists: The Cricket and Other Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Frederick Goddard Tuckerman",
+ "_name_words": [
+  "frederick",
+  "goddard",
+  "tuckerman"
+ ],
+ "_surname": [
+  "tuckerman",
+  "frederick goddard tuckerman"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tuckerman-poems": [
+   "poems00tuck",
+   "Poems, by Frederick Goddard Tuckerman"
+  ]
+ },
+ "_bloom": {
+  "tuckerman-poems": {
+   "bloom_n": [
+    639
+   ],
+   "bloom_title": "The Cricket and Other Poems",
+   "year": "1864 (title page: Boston, Ticknor and Fields, 1864; note 'first collected and printed in 1860')",
+   "evidence": "djvu title page and contents read; collection library_of_congress/americana",
+   "case": "Tuckerman's only lifetime book, the Poems (1860/1864), holds the sonnet sequences that make up most of Bloom's 'other poems'.",
+   "note": "'The Cricket' itself was first printed in 1950 (from knowledge), so it isn't PD and isn't in this volume. Flag that the title is only partly covered."
+  }
+ },
+ "_checks": {
+  "tuckerman-poems": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "tuckerman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

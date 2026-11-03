@@ -1,0 +1,40 @@
+{
+ "_about": "Alfred and Maurice Croiset: An Abridged History of Greek Literature, tr. George F. Heffelbower (1904).",
+ "_author": "Alfred Croiset (1845-1923) and Maurice Croiset (1846-1935)",
+ "_name_words": [
+  "croiset",
+  "greek",
+  "literature",
+  "abridged"
+ ],
+ "_surname": [
+  "croiset"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "croiset-abridged-greek-literature-1904": [
+   "anabridgedhisto00croigoog",
+   "An Abridged History of Greek Literature (1904), tr. George F. Heffelbower"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "croiset-abridged-greek-literature-1904": "George F. Heffelbower"
+ },
+ "_checks": {
+  "croiset-abridged-greek-literature-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "croiset",
+   "translator_claimed": "George F. Heffelbower",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

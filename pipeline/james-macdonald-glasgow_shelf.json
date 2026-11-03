@@ -1,0 +1,33 @@
+{
+ "_about": "James Macdonald (1822-1897), Scottish epigraphist of the Antonine Wall, raw IA OCR of Tituli Hunteriani (1897).  Roman antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "James Macdonald",
+ "_name_words": [
+  "macdonald"
+ ],
+ "_surname": [
+  "james macdonald"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "james-macdonald-tituli-hunteriani-1897": [
+   "titulihunteriani00macduoft",
+   "Tituli Hunteriani: an account of the Roman stones in the Hunterian Museum, University of Glasgow, by James Macdonald, with prefatory note by John Young (Glasgow: T. and R. Annan and Sons, 1897)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "james-macdonald-tituli-hunteriani-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james macdonald",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

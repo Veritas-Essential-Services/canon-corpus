@@ -1,0 +1,47 @@
+{
+ "_about": "Duane Reed Stuart (1873-1941), Professor of Classics at Princeton, raw IA OCR of Epochs of Greek and Roman Biography (Sather Classical Lectures IV; Berkeley: University of California Press, 1928; US public domain by date). Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted. Round dz (2026-10-23), raw IA: his school Germania of Tacitus (Macmillan, 1916).",
+ "_author": "Duane Reed Stuart (1873-1941)",
+ "_name_words": [
+  "stuart"
+ ],
+ "_surname": [
+  "duane reed stuart"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "duane-reed-stuart-epochs-greek-roman-biography-1928": [
+   "epochsofgreekrom00stua",
+   "Epochs of Greek and Roman Biography, by Duane Reed Stuart (Sather Classical Lectures, vol. IV; Berkeley: University of California Press, 1928)"
+  ],
+  "duane-reed-stuart-germania-1916": [
+   "germania00taciuoft",
+   "Tacitus, The Germania, with introduction and notes by Duane Reed Stuart (New York: Macmillan, published March 1916; the title-page year reads '1910' in the OCR, the copyright line 1916); Latin text with English notes"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "duane-reed-stuart-epochs-greek-roman-biography-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duane reed stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duane-reed-stuart-germania-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duane reed stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

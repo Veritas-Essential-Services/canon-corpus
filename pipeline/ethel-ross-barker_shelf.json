@@ -1,0 +1,33 @@
+{
+ "_about": "Ethel Ross Barker, raw IA OCR of Rome of the Pilgrims and Martyrs (no year on the title page; IA catalogues 1913); not Ernest Barker, whose shelf is ernest-barker. Roman topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Ethel Ross Barker",
+ "_name_words": [
+  "barker"
+ ],
+ "_surname": [
+  "ethel ross barker",
+  "barker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ethel-ross-barker-rome-of-the-pilgrims-and-martyrs": [
+   "romeofpilgrimsma00barkuoft",
+   "Rome of the Pilgrims and Martyrs: a study in the martyrologies, itineraries, syllogae, and other contemporary documents, by Ethel Ross Barker (London: Methuen; IA catalogues 1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ethel-ross-barker-rome-of-the-pilgrims-and-martyrs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel ross barker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "[1913]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

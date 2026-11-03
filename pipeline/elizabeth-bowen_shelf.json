@@ -1,0 +1,70 @@
+{
+ "_about": "Elizabeth Bowen. Bloom's Western Canon (1994) lists: Collected Stories. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Elizabeth Bowen",
+ "_name_words": [
+  "elizabeth",
+  "bowen"
+ ],
+ "_surname": [
+  "bowen",
+  "elizabeth bowen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bowen-encounters": [
+   "encountersstorie00boweuoft",
+   "Encounters: Stories by Elizabeth Bowen"
+  ],
+  "bowen-ann-lee-other-stories": [
+   "annleesotherssto0000eliz",
+   "Ann Lee's & other stories"
+  ]
+ },
+ "_bloom": {
+  "bowen-encounters": {
+   "bloom_n": [
+    929
+   ],
+   "bloom_title": "Collected Stories",
+   "year": "unread (IA metadata 1923; title-page year OCR-garbled)",
+   "evidence": "djvu head read: \"Encounters: Stories by Elizabeth Bowen / Boni and Liveright Publishers New York\", printed in Great Britain; contents Breakfast ... Coming Home (14 stories). Toronto (robarts), not a lending item.",
+   "case": "Bloom lists the Collected Stories (1980, not PD as a book), which reprints her first two story collections whole; Encounters (1923) and Ann Lee's (1926) are US-PD and give the PD third of the book.",
+   "note": "Partial by nature: Joining Charles (1929) is PD too but IA has only 1952 lending copies; later stories are not PD. Check the Encounters scan for a later printing line before ingesting (printing year OCR garbled)."
+  },
+  "bowen-ann-lee-other-stories": {
+   "bloom_n": [
+    929
+   ],
+   "bloom_title": "Collected Stories",
+   "year": "1926 (title page)",
+   "evidence": "djvu head read: \"London: Sidgwick & Jackson, Ltd. ... 1926\"; verso lists Encounters (published 1923); collection internetarchivebooks, not inlibrary/printdisabled.",
+   "case": "Bloom lists the Collected Stories (1980, not PD as a book), which reprints her first two story collections whole; Encounters (1923) and Ann Lee's (1926) are US-PD and give the PD third of the book.",
+   "note": "Partial by nature: Joining Charles (1929) is PD too but IA has only 1952 lending copies; later stories are not PD. Check the Encounters scan for a later printing line before ingesting (printing year OCR garbled)."
+  }
+ },
+ "_checks": {
+  "bowen-encounters": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "[1923?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bowen-ann-lee-other-stories": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

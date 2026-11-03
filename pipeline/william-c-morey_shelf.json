@@ -1,0 +1,32 @@
+{
+ "_about": "William Carey Morey (1843-1925), Rochester historian, raw IA OCR of Outlines of Roman Law, comprising its historical growth and general principles, second edition. Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "William C. Morey",
+ "_name_words": [
+  "morey"
+ ],
+ "_surname": [
+  "william c. morey"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-c-morey-outlines-of-roman-law": [
+   "cu31924021187897",
+   "Outlines of Roman Law, comprising its historical growth and general principles, by William C. Morey, second edition (New York and London: G. P. Putnam's Sons; the library call number gives 1885)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-c-morey-outlines-of-roman-law": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william c. morey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

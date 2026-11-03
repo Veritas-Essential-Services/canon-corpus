@@ -1,0 +1,48 @@
+{
+ "_about": "George Dennis (1814-1898), explorer of Etruria, raw IA OCR of The Cities and Cemeteries of Etruria, third edition (1883), 2 vols. Classical topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "George Dennis",
+ "_name_words": [
+  "dennis"
+ ],
+ "_surname": [
+  "george dennis",
+  "dennis"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "george-dennis-cities-cemeteries-etruria-1-1883": [
+   "citiescemeteries01denniala",
+   "The Cities and Cemeteries of Etruria, by George Dennis, third edition, vol. I (London: John Murray, 1883)"
+  ],
+  "george-dennis-cities-cemeteries-etruria-2-1883": [
+   "citiescemeteries02denniala",
+   "The Cities and Cemeteries of Etruria, by George Dennis, third edition, vol. II (London: John Murray, 1883)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "george-dennis-cities-cemeteries-etruria-1-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george dennis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "george-dennis-cities-cemeteries-etruria-2-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george dennis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,2540 @@
+[
+ {
+  "author": "Saint-John Perse",
+  "shelf": "saint-john-perse",
+  "new": true,
+  "surname": [
+   "perse",
+   "saintjohn perse"
+  ],
+  "rows": [
+   {
+    "n": [
+     789
+    ],
+    "bloom_title": "Anabasis",
+    "kind": "ia",
+    "id": "anabasispoembyst0000sain",
+    "title": "Anabasis: a poem by St.-J. Perse with a translation into English by T. S. Eliot",
+    "translator": "T. S. Eliot",
+    "year": "1930 (IA metadata; title page reads London: Faber & Faber, 24 Russell Square, no year printed)",
+    "djvu": "",
+    "evidence": "Read title page and preface; text is bilingual French/English, 75 pp; Eliot's preface speaks of 'the late Hugo von Hofmannsthal' (d. 1929), consistent with the 1930 first edition; no mention of the 1938/1949 revisions; Warwick University Library copy stamped REVIEW COPY; collection warwickdigitalcollections (not lending).",
+    "slug": "perse-anabasis",
+    "case": "Bloom lists Anabasis; Anabase (1924) was translated by T. S. Eliot and published by Faber in 1930, so the first English edition is US-PD. This IA scan is the Faber bilingual edition.",
+    "note": "Eliot revised the translation in 1938 and 1949/1959; those revisions are NOT PD. The year here comes from IA metadata plus internal evidence, not a printed date -- Adam may want to eyeball the scan's verso. OCR of the first pages is noisy (cover scan)."
+   }
+  ]
+ },
+ {
+  "author": "François Mauriac",
+  "shelf": "francois-mauriac",
+  "new": true,
+  "surname": [
+   "mauriac",
+   "francois mauriac"
+  ],
+  "rows": [
+   {
+    "n": [
+     807
+    ],
+    "bloom_title": "The Desert of Love",
+    "kind": "ia",
+    "id": "desertoflove0000fran_m1a0",
+    "title": "The Desert of Love, by François Mauriac, translated from the French by Samuel Putnam",
+    "translator": "Samuel Putnam",
+    "year": "1929 (title page: New York, Covici-Friede, 1929; 'Copyright, 1929, by Covici, Friede Inc.')",
+    "djvu": "",
+    "evidence": "Read title page, copyright line and opening of chapter I; University of Arizona copy, collection internetarchivebooks/universityofarizonalib (not lending).",
+    "slug": "mauriac-desert-love",
+    "case": "Bloom lists The Desert of Love; Le Désert de l'amour (1925) was Englished by Samuel Putnam in 1929, so that translation is US-PD. This is the 1929 Covici-Friede first edition.",
+    "note": "Avoid desertoflove0000fran_f9r1: despite its '1925' IA date it is Gerard Hopkins's translation, first published 1949 (not PD)."
+   }
+  ]
+ },
+ {
+  "author": "William Butler Yeats",
+  "shelf": "william-butler-yeats",
+  "new": true,
+  "surname": [
+   "yeats",
+   "william butler yeats"
+  ],
+  "rows": [
+   {
+    "n": [
+     847
+    ],
+    "bloom_title": "The Collected Poems",
+    "kind": "pg",
+    "id": "38877",
+    "title": "Poems (T. Fisher Unwin; Every Irishman's Library)",
+    "translator": "",
+    "year": "unread (PG text: revised 1895, 'reprinted ... 1919, and 1920')",
+    "djvu": "",
+    "evidence": "PG text read: Yeats's own collected early poems (Crossways, The Rose, Wanderings of Oisin, plus Countess Cathleen and Land of Heart's Desire).",
+    "slug": "yeats-poems",
+    "case": "Bloom lists The Collected Poems (1933). Its contents up to The Tower (1928) are US-PD; these three volumes cover all of it except The Winding Stair (1933).",
+    "note": "The Winding Stair and later poems are NOT PD, so the full 1933 Collected Poems cannot be added. We already hold no Yeats poetry, only the yeats-folk prose shelf."
+   },
+   {
+    "n": [
+     847
+    ],
+    "bloom_title": "The Collected Poems",
+    "kind": "ia",
+    "id": "cu31924012971341",
+    "title": "Later Poems, by W. B. Yeats",
+    "translator": "",
+    "year": "1926 printing (title page: Macmillan, London 1926; 'First Edition November 1922, reprinted ... March 1926')",
+    "djvu": "",
+    "evidence": "Read title page and preface: 'all poetry not in dramatic form that I have written between my seven-and-twentieth year and the year 1921'; Cornell copy, no known US copyright restrictions.",
+    "slug": "yeats-later-poems",
+    "case": "Bloom lists The Collected Poems (1933). Its contents up to The Tower (1928) are US-PD; these three volumes cover all of it except The Winding Stair (1933).",
+    "note": "The Winding Stair and later poems are NOT PD, so the full 1933 Collected Poems cannot be added. We already hold no Yeats poetry, only the yeats-folk prose shelf."
+   },
+   {
+    "n": [
+     847
+    ],
+    "bloom_title": "The Collected Poems",
+    "kind": "ia",
+    "id": "yeats_thetower_1928",
+    "title": "The Tower, by W. B. Yeats",
+    "translator": "",
+    "year": "1928 (title page: Macmillan, London 1928)",
+    "djvu": "Yeats The tower_djvu.txt",
+    "evidence": "Read title page and contents (Sailing to Byzantium ... All Souls' Night); collection opensource, PD mark.",
+    "slug": "yeats-tower",
+    "case": "Bloom lists The Collected Poems (1933). Its contents up to The Tower (1928) are US-PD; these three volumes cover all of it except The Winding Stair (1933).",
+    "note": "The Winding Stair and later poems are NOT PD, so the full 1933 Collected Poems cannot be added. We already hold no Yeats poetry, only the yeats-folk prose shelf."
+   },
+   {
+    "n": [
+     848
+    ],
+    "bloom_title": "Collected Plays",
+    "kind": "ia",
+    "id": "playsinprosevers00yeatuoft",
+    "title": "Plays in Prose and Verse, written for an Irish theatre, and generally with the help of a friend",
+    "translator": "",
+    "year": "1922 (title page: Macmillan, London 1922; 'First Edition November 1922, Reprinted December 1922')",
+    "djvu": "",
+    "evidence": "Read title page and preface: all Yeats's Abbey plays except Land of Heart's Desire and Countess Cathleen; University of Toronto copy.",
+    "slug": "yeats-plays-prose-verse",
+    "case": "Bloom lists the Collected Plays (1934/1952). These two Macmillan volumes are Yeats's own pre-1931 collected plays; together with Poems (PG 38877, which holds Countess Cathleen and Land of Heart's Desire) they cover every play through the dance plays.",
+    "note": "Plays after 1924 (The Words upon the Window-pane, Purgatory, etc.) are not PD. PG also has several plays singly (Countess Cathleen 5167, Land of Heart's Desire 5168, Hour Glass 7448, King's Threshold 41102, Two Plays for Dancers 33321)."
+   },
+   {
+    "n": [
+     848
+    ],
+    "bloom_title": "Collected Plays",
+    "kind": "ia",
+    "id": "playscontroversi0000wbye",
+    "title": "Plays and Controversies, by W. B. Yeats",
+    "translator": "",
+    "year": "1924 (title page: New York, Macmillan 1924; 'New and Revised Edition. Published August, 1924')",
+    "djvu": "",
+    "evidence": "Read title page and preface: two early plays, Four Plays for Dancers, and the Samhain dramatic notes; Wellesley College copy, collection internetarchivebooks (not lending).",
+    "slug": "yeats-plays-controversies",
+    "case": "Bloom lists the Collected Plays (1934/1952). These two Macmillan volumes are Yeats's own pre-1931 collected plays; together with Poems (PG 38877, which holds Countess Cathleen and Land of Heart's Desire) they cover every play through the dance plays.",
+    "note": "Plays after 1924 (The Words upon the Window-pane, Purgatory, etc.) are not PD. PG also has several plays singly (Countess Cathleen 5167, Land of Heart's Desire 5168, Hour Glass 7448, King's Threshold 41102, Two Plays for Dancers 33321)."
+   },
+   {
+    "n": [
+     849
+    ],
+    "bloom_title": "A Vision",
+    "kind": "ia",
+    "id": "yeats-1925-a-vision",
+    "title": "A Vision: an explanation of life founded upon the writings of Giraldus and upon certain doctrines attributed to Kusta ben Luka",
+    "translator": "",
+    "year": "1925 (title page: London, privately printed for subscribers only by T. Werner Laurie, 1925)",
+    "djvu": "Yeats, 1925, A Vision_djvu.txt",
+    "evidence": "Read title page, limitation notice (600 numbered signed copies) and contents (Books I-IV); collection opensource.",
+    "slug": "yeats-vision",
+    "case": "Bloom lists A Vision. The first version (1925) is US-PD; this scan is that private Werner Laurie edition.",
+    "note": "The 1937 rewritten A Vision is a substantially different text and is NOT PD. Shelve this clearly as the 1925 version."
+   },
+   {
+    "n": [
+     850
+    ],
+    "bloom_title": "Mythologies",
+    "kind": "pg",
+    "id": "5794",
+    "title": "Rosa Alchemica",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG title/author checked in catalogue and header.",
+    "slug": "yeats-rosa-alchemica",
+    "case": "Bloom lists Mythologies (a 1959 gathering). All its contents are pre-1931 and PD; we already hold The Celtic Twilight, The Secret Rose and Stories of Red Hanrahan, so these three complete it.",
+    "note": "Held part: yeats-folk shelf (relay). The 1959 Mythologies volume itself is not needed."
+   },
+   {
+    "n": [
+     850
+    ],
+    "bloom_title": "Mythologies",
+    "kind": "pg",
+    "id": "43611",
+    "title": "The Tables of the Law; & The Adoration of the Magi",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read (title/author).",
+    "slug": "yeats-tables-law",
+    "case": "Bloom lists Mythologies (a 1959 gathering). All its contents are pre-1931 and PD; we already hold The Celtic Twilight, The Secret Rose and Stories of Red Hanrahan, so these three complete it.",
+    "note": "Held part: yeats-folk shelf (relay). The 1959 Mythologies volume itself is not needed."
+   },
+   {
+    "n": [
+     850
+    ],
+    "bloom_title": "Mythologies",
+    "kind": "pg",
+    "id": "33338",
+    "title": "Per Amica Silentia Lunae",
+    "translator": "",
+    "year": "1918 (PG text: 'Copyright, 1918 ... Published January, 1918')",
+    "djvu": "",
+    "evidence": "PG header read.",
+    "slug": "yeats-per-amica-silentia-lunae",
+    "case": "Bloom lists Mythologies (a 1959 gathering). All its contents are pre-1931 and PD; we already hold The Celtic Twilight, The Secret Rose and Stories of Red Hanrahan, so these three complete it.",
+    "note": "Held part: yeats-folk shelf (relay). The 1959 Mythologies volume itself is not needed."
+   }
+  ]
+ },
+ {
+  "author": "George Bernard Shaw",
+  "shelf": "shaw-plays",
+  "new": false,
+  "surname": [
+   "shaw",
+   "george bernard shaw"
+  ],
+  "rows": [
+   {
+    "n": [
+     851
+    ],
+    "bloom_title": "Major Critical Essays",
+    "kind": "pg",
+    "id": "1487",
+    "title": "The Perfect Wagnerite: A Commentary on the Niblung's Ring",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read.",
+    "slug": "shaw-perfect-wagnerite",
+    "case": "Bloom's Major Critical Essays is the standard trio: The Quintessence of Ibsenism, The Perfect Wagnerite and The Sanity of Art. All three are pre-1931.",
+    "note": ""
+   },
+   {
+    "n": [
+     851
+    ],
+    "bloom_title": "Major Critical Essays",
+    "kind": "ia",
+    "id": "quintessenceofib0000shaw",
+    "title": "The Quintessence of Ibsenism, now completed to the death of Ibsen",
+    "translator": "",
+    "year": "1913 (title page: London, Constable, 1913)",
+    "djvu": "",
+    "evidence": "Read title page, contents and 'Preface: 1913'; Trent University copy, not lending.",
+    "slug": "shaw-quintessence-ibsenism",
+    "case": "Bloom's Major Critical Essays is the standard trio: The Quintessence of Ibsenism, The Perfect Wagnerite and The Sanity of Art. All three are pre-1931.",
+    "note": ""
+   },
+   {
+    "n": [
+     851
+    ],
+    "bloom_title": "Major Critical Essays",
+    "kind": "ia",
+    "id": "sanityofart00shawuoft",
+    "title": "The Sanity of Art",
+    "translator": "",
+    "year": "1908 (title page: New York, Benj. R. Tucker, 1908; 'Copyright, 1895')",
+    "djvu": "",
+    "evidence": "Read title page and preface; University of Toronto copy.",
+    "slug": "shaw-sanity-art",
+    "case": "Bloom's Major Critical Essays is the standard trio: The Quintessence of Ibsenism, The Perfect Wagnerite and The Sanity of Art. All three are pre-1931.",
+    "note": ""
+   },
+   {
+    "n": [
+     852
+    ],
+    "bloom_title": "Heartbreak House",
+    "kind": "pg",
+    "id": "3543",
+    "title": "Heartbreak House",
+    "translator": "",
+    "year": "unread (PG text dates the play 1913-1916)",
+    "djvu": "",
+    "evidence": "PG header read.",
+    "slug": "shaw-heartbreak-house",
+    "case": "Bloom lists Heartbreak House (1919). PG text.",
+    "note": ""
+   },
+   {
+    "n": [
+     855
+    ],
+    "bloom_title": "Major Barbara",
+    "kind": "pg",
+    "id": "3790",
+    "title": "Major Barbara",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read; PG 3789 is only the Preface.",
+    "slug": "shaw-major-barbara",
+    "case": "Bloom lists Major Barbara (1907). Use PG 3790, the play; PG 3789 is only the preface.",
+    "note": "Both are worth taking, since Shaw's prefaces are part of the work."
+   },
+   {
+    "n": [
+     856
+    ],
+    "bloom_title": "Back to Methuselah",
+    "kind": "pg",
+    "id": "13084",
+    "title": "Back to Methuselah: A Metabiological Pentateuch",
+    "translator": "",
+    "year": "1921 (PG text)",
+    "djvu": "",
+    "evidence": "PG header read.",
+    "slug": "shaw-back-to-methuselah",
+    "case": "Bloom lists Back to Methuselah (1921). PG text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "John Millington Synge",
+  "shelf": "john-millington-synge",
+  "new": true,
+  "surname": [
+   "synge",
+   "john millington synge"
+  ],
+  "rows": [
+   {
+    "n": [
+     857
+    ],
+    "bloom_title": "Collected Plays",
+    "kind": "pg",
+    "id": "994",
+    "title": "Riders to the Sea",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "synge-riders-to-sea",
+    "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+    "note": "Synge was not held at all before this."
+   },
+   {
+    "n": [
+     857
+    ],
+    "bloom_title": "Collected Plays",
+    "kind": "pg",
+    "id": "1618",
+    "title": "In the Shadow of the Glen",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "synge-shadow-glen",
+    "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+    "note": "Synge was not held at all before this."
+   },
+   {
+    "n": [
+     857
+    ],
+    "bloom_title": "Collected Plays",
+    "kind": "pg",
+    "id": "1328",
+    "title": "The Tinker's Wedding",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "synge-tinker-wedding",
+    "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+    "note": "Synge was not held at all before this."
+   },
+   {
+    "n": [
+     857
+    ],
+    "bloom_title": "Collected Plays",
+    "kind": "pg",
+    "id": "1241",
+    "title": "The Well of the Saints",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "synge-well-saints",
+    "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+    "note": "Synge was not held at all before this."
+   },
+   {
+    "n": [
+     857
+    ],
+    "bloom_title": "Collected Plays",
+    "kind": "pg",
+    "id": "1240",
+    "title": "The Playboy of the Western World",
+    "translator": "",
+    "year": "1907 (PG text, preface dated January 21st, 1907)",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "synge-playboy-western-world",
+    "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+    "note": "Synge was not held at all before this."
+   },
+   {
+    "n": [
+     857
+    ],
+    "bloom_title": "Collected Plays",
+    "kind": "pg",
+    "id": "1922",
+    "title": "Deirdre of the Sorrows",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "synge-deirdre-sorrows",
+    "case": "Bloom lists Synge's Collected Plays. Synge (d. 1909) wrote six plays, and all six are on PG; together they are the complete plays.",
+    "note": "Synge was not held at all before this."
+   }
+  ]
+ },
+ {
+  "author": "Sean O'Casey",
+  "shelf": "sean-o-casey",
+  "new": true,
+  "surname": [
+   "ocasey",
+   "sean ocasey"
+  ],
+  "rows": [
+   {
+    "n": [
+     858,
+     860
+    ],
+    "bloom_title": "Juno and the Paycock",
+    "kind": "ia",
+    "id": "twoplaysjunopayc00ocas",
+    "title": "Two Plays: Juno and the Paycock, The Shadow of a Gunman",
+    "translator": "",
+    "year": "1929 printing (title page: New York, Macmillan 1929; 'Copyright, 1925 ... Published February, 1925. Reissued January, 1927')",
+    "djvu": "",
+    "evidence": "Read title page, copyright and contents; collection internetarchivebooks/americana, not lending.",
+    "slug": "ocasey-two-plays",
+    "case": "Bloom lists Juno and the Paycock (first published 1925). This 1929 reprint of the 1925 Macmillan text is US-PD. The same volume also holds The Shadow of a Gunman (#860).",
+    "note": "A reprint of the unrevised 1925 text; the first edition is pre-1931. O'Casey is not on PG."
+   },
+   {
+    "n": [
+     859
+    ],
+    "bloom_title": "The Plough and the Stars",
+    "kind": "ia",
+    "id": "bwb_KU-774-542",
+    "title": "The Plough and the Stars: a tragedy in four acts",
+    "translator": "",
+    "year": "1926 (title page: London, Macmillan 1926; 'First Edition April 1926, Reprinted April and July 1926')",
+    "djvu": "",
+    "evidence": "Read title page and cast list; collection internetarchivebooks, not lending.",
+    "slug": "ocasey-plough-stars",
+    "case": "Bloom lists The Plough and the Stars (1926). The 1926 Macmillan edition is US-PD.",
+    "note": "Alternative: ploughstars0000sean, the 1930 reprint (cleaner title page OCR)."
+   }
+  ]
+ },
+ {
+  "author": "Thomas Hardy",
+  "shelf": "hardy-works",
+  "new": false,
+  "surname": [
+   "hardy",
+   "thomas hardy"
+  ],
+  "rows": [
+   {
+    "n": [
+     869
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "ia",
+    "id": "humanshowsfarpha0000hard",
+    "title": "Human Shows, Far Phantasies, Songs, and Trifles",
+    "translator": "",
+    "year": "1925 (title page: London, Macmillan 1925)",
+    "djvu": "",
+    "evidence": "Read title page and contents; Trent University copy, not lending.",
+    "slug": "hardy-human-shows",
+    "case": "Bloom lists Hardy's Collected Poems. We hold six of his eight verse collections; these two (1925 and 1928, both US-PD) complete it.",
+    "note": "Alternative single volume: bwb_S0-CJE-644, Collected Poems (New York, Macmillan 1928 reprint of the 1926 'New Complete American Edition'), which runs through Human Shows but not Winter Words."
+   },
+   {
+    "n": [
+     869
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "ia",
+    "id": "winterwordsinvar0000hard",
+    "title": "Winter Words in Various Moods and Metres",
+    "translator": "",
+    "year": "1928 (title page: London, Macmillan 1928)",
+    "djvu": "",
+    "evidence": "Read title page and the editorial note on the posthumous volume; Trent copy, not lending.",
+    "slug": "hardy-winter-words-various-moods",
+    "case": "Bloom lists Hardy's Collected Poems. We hold six of his eight verse collections; these two (1925 and 1928, both US-PD) complete it.",
+    "note": "Alternative single volume: bwb_S0-CJE-644, Collected Poems (New York, Macmillan 1928 reprint of the 1926 'New Complete American Edition'), which runs through Human Shows but not Winter Words."
+   }
+  ]
+ },
+ {
+  "author": "Rudyard Kipling",
+  "shelf": "kipling",
+  "new": false,
+  "surname": [
+   "kipling",
+   "rudyard kipling"
+  ],
+  "rows": [
+   {
+    "n": [
+     871
+    ],
+    "bloom_title": "Collected Stories",
+    "kind": "pg",
+    "id": "1858",
+    "title": "Plain Tales from the Hills",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "kipling-plain-tales-hills",
+    "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+    "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+   },
+   {
+    "n": [
+     871
+    ],
+    "bloom_title": "Collected Stories",
+    "kind": "pg",
+    "id": "5777",
+    "title": "Life's Handicap: Being Stories of Mine Own People",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "kipling-life-handicap",
+    "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+    "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+   },
+   {
+    "n": [
+     871
+    ],
+    "bloom_title": "Collected Stories",
+    "kind": "pg",
+    "id": "2569",
+    "title": "The Day's Work",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "kipling-day-work",
+    "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+    "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+   },
+   {
+    "n": [
+     871
+    ],
+    "bloom_title": "Collected Stories",
+    "kind": "pg",
+    "id": "9790",
+    "title": "Traffics and Discoveries",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "kipling-traffics-discoveries",
+    "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+    "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+   },
+   {
+    "n": [
+     871
+    ],
+    "bloom_title": "Collected Stories",
+    "kind": "pg",
+    "id": "2381",
+    "title": "Actions and Reactions",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "kipling-actions-reactions",
+    "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+    "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+   },
+   {
+    "n": [
+     871
+    ],
+    "bloom_title": "Collected Stories",
+    "kind": "pg",
+    "id": "13085",
+    "title": "A Diversity of Creatures",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "kipling-diversity-creatures",
+    "case": "Bloom lists Kipling's Collected Stories (a modern selection). No pre-1931 one-volume collected stories exists, so these are the main story collections we lack. All are pre-1918 and on PG.",
+    "note": "Held already: Jungle Books, Just So, Puck, Rewards and Fairies, The Man Who Would Be King (kipling, kipling-novels shelves). Not on PG: Debits and Credits (1926); Limits and Renewals (1932) is not PD."
+   },
+   {
+    "n": [
+     873
+    ],
+    "bloom_title": "Complete Verse",
+    "kind": "ia",
+    "id": "rudyardkiplingsv0000rudy_h1r8",
+    "title": "Rudyard Kipling's Verse: Inclusive Edition, 1885-1926",
+    "translator": "",
+    "year": "1927 (title page: Garden City NY, Doubleday, Page 1927; 'First Edition')",
+    "djvu": "",
+    "evidence": "Read title page, copyright line (1891-1927) and start of contents; collection internetarchivebooks, not lending.",
+    "slug": "kipling-verse",
+    "case": "Bloom lists Complete Verse. The 1927 Inclusive Edition is the fullest pre-1931 collected verse and is US-PD.",
+    "note": "The Definitive Edition (1940) adds post-1927 poems, which are NOT PD. Held already: several separate verse volumes in mason-poetry; this one volume replaces them. Earlier alternative: rudyardkiplingsv0000rudy (Inclusive 1885-1918, 1919)."
+   }
+  ]
+ },
+ {
+  "author": "A. E. Housman",
+  "shelf": "a-e-housman",
+  "new": true,
+  "surname": [
+   "housman",
+   "a e housman"
+  ],
+  "rows": [
+   {
+    "n": [
+     874
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "5720",
+    "title": "A Shropshire Lad",
+    "translator": "",
+    "year": "unread (PG text shows 1919 and 1887)",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "housman-shropshire-lad",
+    "case": "Bloom lists Housman's Collected Poems. Its PD core is A Shropshire Lad (1896) and Last Poems (1922), both on PG.",
+    "note": "More Poems (1936) and the additional poems of the 1939 Collected Poems are NOT PD."
+   },
+   {
+    "n": [
+     874
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "7848",
+    "title": "Last Poems",
+    "translator": "",
+    "year": "1922 (preface dated September 1922 in PG text)",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "housman-last-poems",
+    "case": "Bloom lists Housman's Collected Poems. Its PD core is A Shropshire Lad (1896) and Last Poems (1922), both on PG.",
+    "note": "More Poems (1936) and the additional poems of the 1939 Collected Poems are NOT PD."
+   }
+  ]
+ },
+ {
+  "author": "Ronald Firbank",
+  "shelf": "ronald-firbank",
+  "new": true,
+  "surname": [
+   "firbank",
+   "ronald firbank"
+  ],
+  "rows": [
+   {
+    "n": [
+     882
+    ],
+    "bloom_title": "Five Novels",
+    "kind": "ia",
+    "id": "gtu_32400005594068",
+    "title": "Concerning the Eccentricities of Cardinal Pirelli",
+    "translator": "",
+    "year": "1926 (title page: London, Grant Richards, MDCCCCXXVI)",
+    "djvu": "",
+    "evidence": "Read title page and opening; collection internetarchivebooks/graduatetheologicalunion, not lending.",
+    "slug": "firbank-concerning-eccentricities-cardinal-pirelli",
+    "case": "Bloom lists Five Novels (1949): Valmouth, The Artificial Princess, The Flower Beneath the Foot, Prancing Nigger (=Sorrow in Sunlight), Cardinal Pirelli. We hold two of them; Pirelli (1926) is added here.",
+    "note": "Valmouth (1919) is PD but I found no text on IA or PG (searched title:(valmouth), creator:(firbank) 1915-30). The Artificial Princess was first published 1934 and is NOT PD."
+   }
+  ]
+ },
+ {
+  "author": "Ford Madox Ford",
+  "shelf": "ford-madox-ford",
+  "new": false,
+  "surname": [
+   "ford",
+   "ford madox ford"
+  ],
+  "rows": [
+   {
+    "n": [
+     883
+    ],
+    "bloom_title": "Parade's End",
+    "kind": "ia",
+    "id": "mancouldstandup0000ford_c2a5",
+    "title": "A Man Could Stand Up --",
+    "translator": "",
+    "year": "unread (title page: New York, Grosset & Dunlap by arrangement with A. & C. Boni; 'Copyright, 1926 ... Published, October, 1926')",
+    "djvu": "",
+    "evidence": "Read title page and dedicatory letter to Gerald Duckworth; collection internetarchivebooks, not lending.",
+    "slug": "ford-man-could-stand-up",
+    "case": "Bloom lists Parade's End: four novels, 1924-28, all US-PD. We hold Some Do Not and No More Parades; these two complete the tetralogy.",
+    "note": "Both scans are US reprints of the first American editions (Boni), unrevised as far as I can see. Grosset and the Literary Guild printings are undated."
+   },
+   {
+    "n": [
+     883
+    ],
+    "bloom_title": "Parade's End",
+    "kind": "ia",
+    "id": "lastpostnovel00ford",
+    "title": "The Last Post: a novel",
+    "translator": "",
+    "year": "unread (Literary Guild of America printing; 'Copyright, 1928, by Albert & Charles Boni')",
+    "djvu": "",
+    "evidence": "Read title page and dedicatory letter to Isabel Paterson; not lending.",
+    "slug": "ford-last-post",
+    "case": "Bloom lists Parade's End: four novels, 1924-28, all US-PD. We hold Some Do Not and No More Parades; these two complete the tetralogy.",
+    "note": "Both scans are US reprints of the first American editions (Boni), unrevised as far as I can see. Grosset and the Literary Guild printings are undated."
+   }
+  ]
+ },
+ {
+  "author": "W. Somerset Maugham",
+  "shelf": "w-somerset-maugham",
+  "new": true,
+  "surname": [
+   "maugham",
+   "w somerset maugham"
+  ],
+  "rows": [
+   {
+    "n": [
+     885
+    ],
+    "bloom_title": "Collected Short Stories",
+    "kind": "pg",
+    "id": "26854",
+    "title": "The Trembling of a Leaf: Little Stories of the South Sea Islands",
+    "translator": "",
+    "year": "1921 (PG text: 'Copyright, 1921')",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "maugham-trembling-leaf",
+    "case": "Bloom lists Maugham's Collected Short Stories (1951, not PD as a collection). Its main pre-1931 parts are The Trembling of a Leaf (1921, with 'Rain') and The Casuarina Tree (1926), both US-PD.",
+    "note": "Ashenden (1928) is also PD but I did not look for it; most later stories are post-1931."
+   },
+   {
+    "n": [
+     885
+    ],
+    "bloom_title": "Collected Short Stories",
+    "kind": "ia",
+    "id": "casuarinatree0000wsom",
+    "title": "The Casuarina Tree: Six Stories",
+    "translator": "",
+    "year": "1926 (title page: New York, George H. Doran; 'Copyright, 1926')",
+    "djvu": "",
+    "evidence": "Read title page; collection internetarchivebooks, not lending.",
+    "slug": "maugham-casuarina-tree",
+    "case": "Bloom lists Maugham's Collected Short Stories (1951, not PD as a collection). Its main pre-1931 parts are The Trembling of a Leaf (1921, with 'Rain') and The Casuarina Tree (1926), both US-PD.",
+    "note": "Ashenden (1928) is also PD but I did not look for it; most later stories are post-1931."
+   },
+   {
+    "n": [
+     886
+    ],
+    "bloom_title": "The Moon and Sixpence",
+    "kind": "pg",
+    "id": "222",
+    "title": "The Moon and Sixpence",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "maugham-moon-sixpence",
+    "case": "Bloom lists The Moon and Sixpence (1919). PG text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "John Cowper Powys",
+  "shelf": "john-cowper-powys",
+  "new": true,
+  "surname": [
+   "powys",
+   "john cowper powys"
+  ],
+  "rows": [
+   {
+    "n": [
+     887
+    ],
+    "bloom_title": "Wolf Solent",
+    "kind": "ia",
+    "id": "wolfsolentanovel031128mbp",
+    "title": "Wolf Solent: a novel",
+    "translator": "",
+    "year": "1929 (title page: New York, Simon and Schuster 1929; 'First printing, May 1929 ... Fourth printing, June 1929')",
+    "djvu": "",
+    "evidence": "Read title page, copyright and contents (both volumes in one scan); collection universallibrary, not lending.",
+    "slug": "powys-wolf-solent",
+    "case": "Bloom lists Wolf Solent; it was first published in New York in 1929, so it is US-PD. The 1929 Simon and Schuster first edition is on IA.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Walter De la Mare",
+  "shelf": "walter-de-la-mare",
+  "new": true,
+  "surname": [
+   "mare",
+   "walter de la mare"
+  ],
+  "rows": [
+   {
+    "n": [
+     893
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "12031",
+    "title": "Collected Poems 1901-1918 in Two Volumes. Volume I.",
+    "translator": "",
+    "year": "1920 (PG text)",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "mare-collected-poems-1901-1918",
+    "case": "Bloom lists de la Mare's Collected Poems. The 1920 Collected Poems 1901-1918 is US-PD and on PG.",
+    "note": "The Veil (1921, PG 52366) postdates the collection and is also PD; anything after 1930 is not."
+   },
+   {
+    "n": [
+     894
+    ],
+    "bloom_title": "Memoirs of a Midget",
+    "kind": "pg",
+    "id": "39122",
+    "title": "Memoirs of a Midget",
+    "translator": "",
+    "year": "1922 (PG text: 'Copyright, 1922 ... Published, January, 1922')",
+    "djvu": "",
+    "evidence": "PG header read; full novel (870 KB); PG's '[Adapter]' role tag is a cataloguing slip.",
+    "slug": "mare-memoirs-midget",
+    "case": "Bloom lists Memoirs of a Midget (1921). PG text of the 1922 Knopf edition.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Wilfred Owen",
+  "shelf": "wilfred-owen",
+  "new": true,
+  "surname": [
+   "owen",
+   "wilfred owen"
+  ],
+  "rows": [
+   {
+    "n": [
+     895
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "1034",
+    "title": "Poems, by Wilfred Owen, with an introduction by Siegfried Sassoon",
+    "translator": "",
+    "year": "unread (PG header has no date)",
+    "djvu": "",
+    "evidence": "PG header and Sassoon introduction read",
+    "slug": "owen-poems",
+    "case": "Bloom lists Owen's Collected Poems. The PD core is the 1920 Poems edited by Sassoon, on PG.",
+    "note": "Later editions (Blunden 1931, Day Lewis 1963) add poems and are NOT PD."
+   }
+  ]
+ },
+ {
+  "author": "Isaac Rosenberg",
+  "shelf": "isaac-rosenberg",
+  "new": true,
+  "surname": [
+   "rosenberg",
+   "isaac rosenberg"
+  ],
+  "rows": [
+   {
+    "n": [
+     896
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "66889",
+    "title": "Poems by Isaac Rosenberg, selected and edited by Gordon Bottomley, with an introductory memoir by Laurence Binyon",
+    "translator": "",
+    "year": "1922 (title page, London: William Heinemann)",
+    "djvu": "",
+    "evidence": "PG header and title page read",
+    "slug": "rosenberg-poems",
+    "case": "Bloom lists Rosenberg's Collected Poems. The 1922 Heinemann Poems, his first collection, is US-PD and on PG.",
+    "note": "The 1937 and 1979 collected editions add material and are NOT PD."
+   }
+  ]
+ },
+ {
+  "author": "Edward Thomas",
+  "shelf": "edward-thomas",
+  "new": true,
+  "surname": [
+   "thomas",
+   "edward thomas"
+  ],
+  "rows": [
+   {
+    "n": [
+     897
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "ia",
+    "id": "collectedpoemswi00thomuoft",
+    "title": "Collected Poems, with a foreword by Walter de la Mare",
+    "translator": "",
+    "year": "1920 (IA metadata; title page not read past the list of the author's books)",
+    "djvu": "",
+    "evidence": "Read the front matter; University of Toronto copy.",
+    "slug": "thomas-collected-poems",
+    "case": "Bloom lists Edward Thomas's Collected Poems; the 1920 Selwyn & Blount Collected Poems is US-PD.",
+    "note": "PG 22423 Poems (1917) + 22732 Last Poems (1918) together are nearly the same corpus and are cleaner text."
+   },
+   {
+    "n": [
+     897
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "22423",
+    "title": "Poems",
+    "translator": "",
+    "year": "1917 (PG text: 'First printed, Oct., 1917')",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "thomas-poems",
+    "case": "Bloom lists Edward Thomas's Collected Poems; the 1920 Selwyn & Blount Collected Poems is US-PD.",
+    "note": "PG 22423 Poems (1917) + 22732 Last Poems (1918) together are nearly the same corpus and are cleaner text."
+   }
+  ]
+ },
+ {
+  "author": "D. H. Lawrence",
+  "shelf": "d-h-lawrence",
+  "new": true,
+  "surname": [
+   "lawrence",
+   "d h lawrence"
+  ],
+  "rows": [
+   {
+    "n": [
+     907
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "ia",
+    "id": "collectedpoemsof0000dhla",
+    "title": "The Collected Poems of D. H. Lawrence, [vol. II] Unrhyming Poems",
+    "translator": "",
+    "year": "1929 (title page: New York, Jonathan Cape and Harrison Smith, 1929; 'First published in the United States, 1929')",
+    "djvu": "",
+    "evidence": "Read title page and start (Look! We Have Come Through!); the scan holds only the Unrhyming Poems volume (Look! We Have Come Through!, Birds Beasts and Flowers); not lending.",
+    "slug": "lawrence-collected-poems",
+    "case": "Bloom lists the Complete Poems. Lawrence's own Collected Poems (1928; US edition 1929) is US-PD. Vol. II is on IA. For the rhyming poems of vol. I, use the separate PG volumes (Love Poems, Amores, New Poems, Bay 22734), which hold the same poems.",
+    "note": "Pansies (1929) and Nettles (1930) are PD but not found here. Last Poems (1932) and the posthumous material in the Complete Poems are NOT PD. Lawrence revised his early poems for the 1928 Collected, so the PG volumes give the earlier versions."
+   },
+   {
+    "n": [
+     907
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "pg",
+    "id": "54058",
+    "title": "Love Poems and Others",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "lawrence-love-poems-others",
+    "case": "Bloom lists the Complete Poems. Lawrence's own Collected Poems (1928; US edition 1929) is US-PD. Vol. II is on IA. For the rhyming poems of vol. I, use the separate PG volumes (Love Poems, Amores, New Poems, Bay 22734), which hold the same poems.",
+    "note": "Pansies (1929) and Nettles (1930) are PD but not found here. Last Poems (1932) and the posthumous material in the Complete Poems are NOT PD. Lawrence revised his early poems for the 1928 Collected, so the PG volumes give the earlier versions."
+   },
+   {
+    "n": [
+     907
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "pg",
+    "id": "22531",
+    "title": "Amores: Poems",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "lawrence-amores",
+    "case": "Bloom lists the Complete Poems. Lawrence's own Collected Poems (1928; US edition 1929) is US-PD. Vol. II is on IA. For the rhyming poems of vol. I, use the separate PG volumes (Love Poems, Amores, New Poems, Bay 22734), which hold the same poems.",
+    "note": "Pansies (1929) and Nettles (1930) are PD but not found here. Last Poems (1932) and the posthumous material in the Complete Poems are NOT PD. Lawrence revised his early poems for the 1928 Collected, so the PG volumes give the earlier versions."
+   },
+   {
+    "n": [
+     907
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "pg",
+    "id": "22726",
+    "title": "New Poems",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "lawrence-new-poems",
+    "case": "Bloom lists the Complete Poems. Lawrence's own Collected Poems (1928; US edition 1929) is US-PD. Vol. II is on IA. For the rhyming poems of vol. I, use the separate PG volumes (Love Poems, Amores, New Poems, Bay 22734), which hold the same poems.",
+    "note": "Pansies (1929) and Nettles (1930) are PD but not found here. Last Poems (1932) and the posthumous material in the Complete Poems are NOT PD. Lawrence revised his early poems for the 1928 Collected, so the PG volumes give the earlier versions."
+   },
+   {
+    "n": [
+     908
+    ],
+    "bloom_title": "Studies in Classic American Literature",
+    "kind": "pg",
+    "id": "60547",
+    "title": "Studies in Classic American Literature",
+    "translator": "",
+    "year": "1923 (PG text)",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "lawrence-studies-classic-american-literature",
+    "case": "Bloom lists Studies in Classic American Literature (1923). PG text.",
+    "note": ""
+   },
+   {
+    "n": [
+     909
+    ],
+    "bloom_title": "Complete Short Stories",
+    "kind": "pg",
+    "id": "22480",
+    "title": "The Prussian Officer",
+    "translator": "",
+    "year": "1914 (PG text: 'Published December 1914')",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "lawrence-prussian-officer",
+    "case": "Bloom lists the Complete Short Stories. Lawrence's three lifetime story collections (1914, 1922, 1928) are US-PD and are its core.",
+    "note": "Avoid womanwhorodeaway0000dhla_x6n4: it is a later Heinemann printing with an Aldington introduction. The Lovely Lady (1933) and other posthumous stories are NOT PD."
+   },
+   {
+    "n": [
+     909
+    ],
+    "bloom_title": "Complete Short Stories",
+    "kind": "pg",
+    "id": "8914",
+    "title": "England, My England",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue",
+    "slug": "lawrence-england",
+    "case": "Bloom lists the Complete Short Stories. Lawrence's three lifetime story collections (1914, 1922, 1928) are US-PD and are its core.",
+    "note": "Avoid womanwhorodeaway0000dhla_x6n4: it is a later Heinemann printing with an Aldington introduction. The Lovely Lady (1933) and other posthumous stories are NOT PD."
+   },
+   {
+    "n": [
+     909
+    ],
+    "bloom_title": "Complete Short Stories",
+    "kind": "ia",
+    "id": "womanwhorodeaway0000dhla",
+    "title": "The Woman Who Rode Away and Other Stories",
+    "translator": "",
+    "year": "1928 (title page: New York, Alfred A. Knopf; 'Copyright 1927, 1928 ... Published May, 1928 ... Third printing July 1928')",
+    "djvu": "",
+    "evidence": "Read title page and copyright; collection internetarchivebooks, not lending.",
+    "slug": "lawrence-woman-who-rode-away",
+    "case": "Bloom lists the Complete Short Stories. Lawrence's three lifetime story collections (1914, 1922, 1928) are US-PD and are its core.",
+    "note": "Avoid womanwhorodeaway0000dhla_x6n4: it is a later Heinemann printing with an Aldington introduction. The Lovely Lady (1933) and other posthumous stories are NOT PD."
+   },
+   {
+    "n": [
+     910
+    ],
+    "bloom_title": "Sons and Lovers",
+    "kind": "pg",
+    "id": "217",
+    "title": "Sons and Lovers",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue/header",
+    "slug": "lawrence-sons-lovers",
+    "case": "Bloom lists Sons and Lovers (1913). PG text.",
+    "note": ""
+   },
+   {
+    "n": [
+     911
+    ],
+    "bloom_title": "The Rainbow",
+    "kind": "pg",
+    "id": "28948",
+    "title": "The Rainbow",
+    "translator": "",
+    "year": "1915 (PG text: 'Copyright, 1915, by D. H. Lawrence')",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "lawrence-rainbow",
+    "case": "Bloom lists The Rainbow (1915). PG text.",
+    "note": "The 1915 text was the expurgated one at first publication, so check which text PG used if Adam cares."
+   },
+   {
+    "n": [
+     912
+    ],
+    "bloom_title": "Women in Love",
+    "kind": "pg",
+    "id": "4240",
+    "title": "Women in Love",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue/header",
+    "slug": "lawrence-women-love",
+    "case": "Bloom lists Women in Love (1920). PG text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Virginia Woolf",
+  "shelf": "virginia-woolf",
+  "new": true,
+  "surname": [
+   "woolf",
+   "virginia woolf"
+  ],
+  "rows": [
+   {
+    "n": [
+     913
+    ],
+    "bloom_title": "Mrs. Dalloway",
+    "kind": "pg",
+    "id": "71865",
+    "title": "Mrs. Dalloway",
+    "translator": "",
+    "year": "1925 (PG header: 'Original publication: New York: Harcourt, Brace & World, Inc., 1925'; scanned printing is a later 'twenty-third printing', copyright 1925)",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "woolf-mrs-dalloway",
+    "case": "Bloom lists Mrs. Dalloway (1925). PG 71865 is the novel; the candidate the machine found (PG 63107) is only the short story 'Mrs Dalloway in Bond Street'.",
+    "note": "The source is a later printing of the unrevised 1925 Harcourt text."
+   },
+   {
+    "n": [
+     914
+    ],
+    "bloom_title": "To the Lighthouse",
+    "kind": "ia",
+    "id": "bwb_S0-AMN-737",
+    "title": "To the Lighthouse, by Virginia Woolf",
+    "translator": "",
+    "year": "unread (New York, Harcourt, Brace & Company; 'Copyright, 1927'; a later printing, since its list of the author's works runs to Between the Acts)",
+    "djvu": "",
+    "evidence": "Read title page, copyright and the opening of 'The Window'; collection internetarchivebooks, not lending.",
+    "slug": "woolf-to-lighthouse",
+    "case": "Bloom lists To the Lighthouse (1927). It is US-PD; this IA scan is a later Harcourt printing of the 1927 text.",
+    "note": "No first-printing scan outside the lending library turned up. Also seen: woolf_virginia_1882_1941_to_the_lighthouse, a modern e-text from the Harvest edition. Not on PG."
+   },
+   {
+    "n": [
+     915
+    ],
+    "bloom_title": "Orlando: A Biography",
+    "kind": "ia",
+    "id": "orlandobiography0000virg_a1r7",
+    "title": "Orlando: a biography",
+    "translator": "",
+    "year": "1928 (title page: New York, Harcourt, Brace and Company; 'Copyright, 1928, by Virginia Woolf. First Regular Edition')",
+    "djvu": "",
+    "evidence": "Read title page, copyright and preface; collection internetarchivebooks, not lending.",
+    "slug": "woolf-orlando",
+    "case": "Bloom lists Orlando (1928). This is the 1928 first US trade edition.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "James Joyce",
+  "shelf": "james-joyce",
+  "new": true,
+  "surname": [
+   "joyce",
+   "james joyce"
+  ],
+  "rows": [
+   {
+    "n": [
+     918
+    ],
+    "bloom_title": "Dubliners",
+    "kind": "pg",
+    "id": "2814",
+    "title": "Dubliners",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue/header",
+    "slug": "joyce-dubliners",
+    "case": "Bloom lists Dubliners (1914). PG text.",
+    "note": ""
+   },
+   {
+    "n": [
+     920
+    ],
+    "bloom_title": "Ulysses",
+    "kind": "pg",
+    "id": "4300",
+    "title": "Ulysses",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue/header",
+    "slug": "joyce-ulysses",
+    "case": "Bloom lists Ulysses (1922). PG text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Elizabeth Bowen",
+  "shelf": "elizabeth-bowen",
+  "new": true,
+  "surname": [
+   "bowen",
+   "elizabeth bowen"
+  ],
+  "rows": [
+   {
+    "n": [
+     929
+    ],
+    "bloom_title": "Collected Stories",
+    "kind": "ia",
+    "id": "encountersstorie00boweuoft",
+    "title": "Encounters: Stories by Elizabeth Bowen",
+    "translator": "",
+    "year": "unread (IA metadata 1923; title-page year OCR-garbled)",
+    "djvu": "",
+    "evidence": "djvu head read: \"Encounters: Stories by Elizabeth Bowen / Boni and Liveright Publishers New York\", printed in Great Britain; contents Breakfast ... Coming Home (14 stories). Toronto (robarts), not a lending item.",
+    "slug": "bowen-encounters",
+    "case": "Bloom lists the Collected Stories (1980, not PD as a book), which reprints her first two story collections whole; Encounters (1923) and Ann Lee's (1926) are US-PD and give the PD third of the book.",
+    "note": "Partial by nature: Joining Charles (1929) is PD too but IA has only 1952 lending copies; later stories are not PD. Check the Encounters scan for a later printing line before ingesting (printing year OCR garbled)."
+   },
+   {
+    "n": [
+     929
+    ],
+    "bloom_title": "Collected Stories",
+    "kind": "ia",
+    "id": "annleesotherssto0000eliz",
+    "title": "Ann Lee's & other stories",
+    "translator": "",
+    "year": "1926 (title page)",
+    "djvu": "",
+    "evidence": "djvu head read: \"London: Sidgwick & Jackson, Ltd. ... 1926\"; verso lists Encounters (published 1923); collection internetarchivebooks, not inlibrary/printdisabled.",
+    "slug": "bowen-ann-lee-other-stories",
+    "case": "Bloom lists the Collected Stories (1980, not PD as a book), which reprints her first two story collections whole; Encounters (1923) and Ann Lee's (1926) are US-PD and give the PD third of the book.",
+    "note": "Partial by nature: Joining Charles (1929) is PD too but IA has only 1952 lending copies; later stories are not PD. Check the Encounters scan for a later printing line before ingesting (printing year OCR garbled)."
+   }
+  ]
+ },
+ {
+  "author": "Evelyn Waugh",
+  "shelf": "evelyn-waugh",
+  "new": true,
+  "surname": [
+   "waugh",
+   "evelyn waugh"
+  ],
+  "rows": [
+   {
+    "n": [
+     936
+    ],
+    "bloom_title": "Vile Bodies",
+    "kind": "ia",
+    "id": "vilebodies0000evel_j0k9",
+    "title": "Vile Bodies (Chapman & Hall Uniform Edition)",
+    "translator": "",
+    "year": "first pub. January 1930 (printing line); this impression 1949 (printing line)",
+    "djvu": "",
+    "evidence": "djvu head read: \"Originally Published January, 1930 / Uniform Edition 1947 / New Impression 1948 / New Impression 1949\"; no added preface; dedication to Bryan and Diana Guinness. Collection internetarchivebooks only.",
+    "slug": "waugh-vile-bodies",
+    "case": "Bloom lists it; first published January 1930, so US-PD from 2026. Prefer an IA scan of a 1930-text printing.",
+    "note": "CAUTION on PG 77900: it includes Waugh's 1964 preface, which is NOT US public domain (published 1965), and follows the 1965 reset text. If PG is used, the preface must be stripped and the text checked against a 1930 printing. The IA Uniform Edition (1949 impression of the 1947 setting) has no preface."
+   }
+  ]
+ },
+ {
+  "author": "Norman Douglas",
+  "shelf": "norman-douglas",
+  "new": true,
+  "surname": [
+   "douglas",
+   "norman douglas"
+  ],
+  "rows": [
+   {
+    "n": [
+     946
+    ],
+    "bloom_title": "South Wind",
+    "kind": "pg",
+    "id": "4508",
+    "title": "South Wind",
+    "translator": "",
+    "year": "\"First Published March 1917\" (PG title page, London: Martin Secker)",
+    "djvu": "",
+    "evidence": "PG header read: Title South Wind, Author Norman Douglas; title page \"London: Martin Secker / First Published March 1917\".",
+    "slug": "douglas-south-wind",
+    "case": "Bloom lists it; the 1917 Secker first edition text is on PG, clean.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Aldous Huxley",
+  "shelf": "aldous-huxley",
+  "new": true,
+  "surname": [
+   "huxley",
+   "aldous huxley"
+  ],
+  "rows": [
+   {
+    "n": [
+     948
+    ],
+    "bloom_title": "Antic Hay",
+    "kind": "pg",
+    "id": "60483",
+    "title": "Antic Hay",
+    "translator": "",
+    "year": "\"First published November 1923\" (PG title page, London)",
+    "djvu": "",
+    "evidence": "PG header read: title page London, \"First published November 1923\".",
+    "slug": "huxley-antic-hay",
+    "case": "Bloom lists it; 1923 first edition on PG.",
+    "note": ""
+   },
+   {
+    "n": [
+     949
+    ],
+    "bloom_title": "Point Counter Point",
+    "kind": "ia",
+    "id": "pointcounterpoin0000aldo_s1v7",
+    "title": "Point Counter Point (The Modern Library)",
+    "translator": "",
+    "year": "\"Copyright, 1928, by Doubleday Doran & Company\" (verso); printing year unread",
+    "djvu": "",
+    "evidence": "djvu head read: Modern Library, New York, Random House; copyright 1928 Doubleday Doran; internetarchivebooks only, no lending flag.",
+    "slug": "huxley-point-counter-point",
+    "case": "Bloom lists it; first published 1928 and not on PG, so the best source is an IA scan of the (unrevised) Modern Library reprint of the 1928 text.",
+    "note": "Both scans are later Modern Library printings of the 1928 copyright text; no revision is claimed in them. Text is OCR (needs proofing). Other copies: pointcounterpoin0000aldo_t3e5 (same), pointcounterpoin0000unse_a6b3 (Harper, \"Copyright, 1928, by Aldous Huxley\")."
+   }
+  ]
+ },
+ {
+  "author": "Hugh MacDiarmid",
+  "shelf": "hugh-macdiarmid",
+  "new": true,
+  "surname": [
+   "macdiarmid",
+   "hugh macdiarmid"
+  ],
+  "rows": [
+   {
+    "n": [
+     977
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "pg",
+    "id": "72731",
+    "title": "A drunk man looks at the thistle",
+    "translator": "",
+    "year": "1926 (PG title page: Edinburgh and London, William Blackwood & Sons)",
+    "djvu": "",
+    "evidence": "PG header read: original publication Edinburgh: William Blackwood & Sons, 1926; title page lists Sangschaw (1925) and Penny Wheep (1926).",
+    "slug": "macdiarmid-drunk-man-looks-at",
+    "case": "Bloom lists the Complete Poems (1978, not PD as a book); his first three books -- Sangschaw (1925), Penny Wheep (1926) and A Drunk Man Looks at the Thistle (1926), his masterpiece -- are US-PD and are the PD core of it.",
+    "note": "Partial: everything after 1930 (most of the Complete Poems) is not PD. Sangschaw (1925) was not found on PG or as a free IA scan in this pass. PG also has Albyn (1927, prose) -- not on Bloom's list."
+   },
+   {
+    "n": [
+     977
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "ia",
+    "id": "pennywheep0000hugh",
+    "title": "Penny Wheep",
+    "translator": "",
+    "year": "1926 (title page)",
+    "djvu": "",
+    "evidence": "djvu head read: \"Penny Wheep by Hugh M'Diarmid ... William Blackwood & Sons Ltd. Edinburgh and London 1926\"; internetarchivebooks only, no lending flag.",
+    "slug": "macdiarmid-penny-wheep",
+    "case": "Bloom lists the Complete Poems (1978, not PD as a book); his first three books -- Sangschaw (1925), Penny Wheep (1926) and A Drunk Man Looks at the Thistle (1926), his masterpiece -- are US-PD and are the PD core of it.",
+    "note": "Partial: everything after 1930 (most of the Complete Poems) is not PD. Sangschaw (1925) was not found on PG or as a free IA scan in this pass. PG also has Albyn (1927, prose) -- not on Bloom's list."
+   }
+  ]
+ },
+ {
+  "author": "Hugo von Hofmannsthal",
+  "shelf": "hugo-von-hofmannsthal",
+  "new": true,
+  "surname": [
+   "hofmannsthal",
+   "hugo von hofmannsthal"
+  ],
+  "rows": [
+   {
+    "n": [
+     999
+    ],
+    "bloom_title": "Poems and Verse Plays",
+    "kind": "ia",
+    "id": "lyricalpoemshug00unkngoog",
+    "title": "The Lyrical Poems of Hugo von Hofmannsthal",
+    "translator": "Charles Wharton Stork",
+    "year": "MDCCCCXVIII = 1918 (title page)",
+    "djvu": "",
+    "evidence": "djvu title page read: \"translated from the German with an Introduction by Charles Wharton Stork. New Haven: Yale University Press; London: Humphrey Milford, Oxford University Press, MDCCCCXVIII\". Google scan, americana, no lending flag.",
+    "slug": "hofmannsthal-lyrical-poems",
+    "case": "Bloom lists the poems and verse plays. We already hold the principal lyric dramas in Francke's German Classics (vols. XVII, XX); Stork's 1918 Lyrical Poems adds the poems as a book and completes the PD portion.",
+    "note": "The Stork volume is short (about 80 KB of OCR). An alternate copy: lyricalpoemshug00storgoog."
+   },
+   {
+    "n": [
+     1001
+    ],
+    "bloom_title": "Selected Plays and Libretti",
+    "kind": "ia",
+    "id": "cu31924026245435",
+    "title": "Electra: a tragedy in one act",
+    "translator": "Arthur Symons",
+    "year": "1908 (title page)",
+    "djvu": "",
+    "evidence": "djvu title page read: \"Electra, a tragedy in one act, by Hugo von Hofmannsthal, translated by Arthur Symons. New York, Brentano's, 1908\"; Cornell, \"no known copyright restrictions\".",
+    "slug": "hofmannsthal-electra",
+    "case": "Bloom lists the plays and libretti; Symons's Electra (1908) and Kalisch's Rose-Bearer (1912) and Ariadne (1913) are the classic pre-1931 English versions.",
+    "note": "The Rosenkavalier scan is a later Fürstner Ltd printing (imprint, not text, is post-1930); it is a bilingual libretto. Alternate Electra copies: electratragedyin00hofmiala, electraatragedy00symogoog."
+   },
+   {
+    "n": [
+     1001
+    ],
+    "bloom_title": "Selected Plays and Libretti",
+    "kind": "ia",
+    "id": "ariadneonnaxosop00strauoft",
+    "title": "Ariadne on Naxos: opera in one act",
+    "translator": "Alfred Kalisch",
+    "year": "\"Copyright ... 1913 by Adolph Fürstner\" (title page)",
+    "djvu": "",
+    "evidence": "djvu head read: English translation by Alfred Kalisch, Berlin/Paris Adolph Fürstner, copyright 1913; translator's note says it is not a singing version. Toronto, no lending flag.",
+    "slug": "hofmannsthal-ariadne-on-naxos",
+    "case": "Bloom lists the plays and libretti; Symons's Electra (1908) and Kalisch's Rose-Bearer (1912) and Ariadne (1913) are the classic pre-1931 English versions.",
+    "note": "The Rosenkavalier scan is a later Fürstner Ltd printing (imprint, not text, is post-1930); it is a bilingual libretto. Alternate Electra copies: electratragedyin00hofmiala, electraatragedy00symogoog."
+   },
+   {
+    "n": [
+     1001
+    ],
+    "bloom_title": "Selected Plays and Libretti",
+    "kind": "ia",
+    "id": "derrosenkavalie01kaligoog",
+    "title": "Der Rosenkavalier (The Rose-Bearer): comedy for music in three acts",
+    "translator": "Alfred Kalisch",
+    "year": "\"Copyright 1911 and 1912 by Adolph Fürstner\" (title page); this printing later, unread",
+    "djvu": "",
+    "evidence": "djvu title page read: English version by Alfred Kalisch; imprint Fürstner Limited, London, Galaxy Music sole agents (a later printing of the 1911-12 text).",
+    "slug": "hofmannsthal-der-rosenkavalier",
+    "case": "Bloom lists the plays and libretti; Symons's Electra (1908) and Kalisch's Rose-Bearer (1912) and Ariadne (1913) are the classic pre-1931 English versions.",
+    "note": "The Rosenkavalier scan is a later Fürstner Ltd printing (imprint, not text, is post-1930); it is a bilingual libretto. Alternate Electra copies: electratragedyin00hofmiala, electraatragedy00symogoog."
+   }
+  ]
+ },
+ {
+  "author": "Rainer Maria Rilke",
+  "shelf": "rainer-maria-rilke",
+  "new": true,
+  "surname": [
+   "rilke",
+   "rainer maria rilke"
+  ],
+  "rows": [
+   {
+    "n": [
+     1002
+    ],
+    "bloom_title": "Selected Poetry (including the Duino Elegies)",
+    "kind": "pg",
+    "id": "38594",
+    "title": "Poems",
+    "translator": "Jessie Lemont",
+    "year": "1918 (PG title page, New York)",
+    "djvu": "",
+    "evidence": "PG header read: Poems, Rainer Maria Rilke, translated by Jessie Lemont, New York 1918.",
+    "slug": "rilke-poems",
+    "case": "Bloom lists a selected Rilke; Lemont's 1918 Poems is the one PD English selection and is a clean PG text.",
+    "note": "PARTIAL: it does not contain the Duino Elegies (German 1923), whose first English translation (the Sackville-Wests, Hogarth Press) is, to my knowledge, 1931 -- not PD. If Adam wants Bloom's item strictly as named, treat this as not_pd and skip."
+   },
+   {
+    "n": [
+     1004
+    ],
+    "bloom_title": "The Notebooks of Malte Laurids Brigge",
+    "kind": "ia",
+    "id": "journalofmyother00rilk",
+    "title": "The Journal of My Other Self",
+    "translator": "unread (no translator named in the scanned front matter)",
+    "year": "\"Copyright, 1930, W. W. Norton & Company\" (verso)",
+    "djvu": "",
+    "evidence": "djvu head read: \"The Journal of my other Self. Copyright, 1930. W. W. Norton & Company, Inc., 70 Fifth Avenue ... printed by the Van Rees Press\"; text opens \"11 September, rue Toullier\" (Malte's opening). University of Florida, americana, no lending flag.",
+    "slug": "rilke-journal-my-other-self",
+    "case": "Bloom lists Malte; the 1930 Norton translation (titled The Journal of My Other Self) is the first American English edition and falls just inside the cutoff.",
+    "note": "The translator credit was not visible in the OCR of the front matter (the title page may be missing from the scan); bibliographies credit M. D. Herter Norton and John Linton -- verify on the scan images before recording. Second copy: journalofmyother0000rain (internetarchivebooks)."
+   }
+  ]
+ },
+ {
+  "author": "Maksim Gorky",
+  "shelf": "maksim-gorky",
+  "new": true,
+  "surname": [
+   "gorky",
+   "maksim gorky"
+  ],
+  "rows": [
+   {
+    "n": [
+     1063
+    ],
+    "bloom_title": "Reminiscences of Tolstoy, Chekhov, and Andreev",
+    "kind": "ia",
+    "id": "in.ernet.dli.2015.60412",
+    "title": "Reminiscences of Leonid Andreyev",
+    "translator": "Katherine Mansfield and S. S. Koteliansky",
+    "year": "unread (IA metadata 1922; the colophon says the translation was made Aug-Sept 1922)",
+    "djvu": "2015.60412.Reminiscences-Of-Leonid-Andreyev_djvu.txt",
+    "evidence": "djvu head read: \"This translation, which is authorised by Maxim Gorki, was made by Katherine Mansfield and S. S. Koteliansky during the last stay of the former in England, August-September, 1922. This edition is limited to [?] copies.\" Digital Library of India.",
+    "slug": "gorky-reminiscences-leonid-andreyev",
+    "case": "Bloom lists the three memoirs (gathered as one book only in 1934). We already hold the Tolstoy (1920) and Chekhov (1921) Koteliansky-Woolf translations; the Andreyev piece in the Mansfield-Koteliansky limited edition completes the PD set.",
+    "note": "The DLI scan's OCR is poor in places (needs re-OCR or proofing) and its imprint year was not readable; the limited edition is said to be 1928, which would still be PD -- confirm on the scan images."
+   },
+   {
+    "n": [
+     1064
+    ],
+    "bloom_title": "Autobiography",
+    "kind": "ia",
+    "id": "mychildhood0000gork",
+    "title": "My Childhood",
+    "translator": "unread",
+    "year": "\"Copyright, 1915, by The Century Co. Published, October, 1915\" (verso); title page New York, The Century Co., 1916",
+    "djvu": "",
+    "evidence": "djvu head read: \"My Childhood by Maxim Gorky, New York, The Century Co. 1916 / Copyright, 1915 ... Published, October, 1915\". Trent, internetarchivebooks, no lending flag.",
+    "slug": "gorky-my-childhood",
+    "case": "Bloom lists the Autobiography (the trilogy My Childhood, In the World, My Universities); all three parts have pre-1931 American translations.",
+    "note": "VERIFY My University Days before acquiring: the Boni scan shows no date or translator in OCR; the translation first appeared 1923 (Boni & Liveright) to my knowledge, and this Albert & Charles Boni issue must be confirmed as pre-1931 and unrevised. Translator of the 1915 My Childhood is not named in the OCR front matter."
+   },
+   {
+    "n": [
+     1064
+    ],
+    "bloom_title": "Autobiography",
+    "kind": "pg",
+    "id": "55502",
+    "title": "In the World",
+    "translator": "Gertrude M. Foakes",
+    "year": "1917 (PG title page, New York)",
+    "djvu": "",
+    "evidence": "PG header read: translator Gertrude M. Foakes; title page New York 1917, \"Author of My Childhood\".",
+    "slug": "gorky-world",
+    "case": "Bloom lists the Autobiography (the trilogy My Childhood, In the World, My Universities); all three parts have pre-1931 American translations.",
+    "note": "VERIFY My University Days before acquiring: the Boni scan shows no date or translator in OCR; the translation first appeared 1923 (Boni & Liveright) to my knowledge, and this Albert & Charles Boni issue must be confirmed as pre-1931 and unrevised. Translator of the 1915 My Childhood is not named in the OCR front matter."
+   }
+  ]
+ },
+ {
+  "author": "Knut Hamsun",
+  "shelf": "knut-hamsun",
+  "new": true,
+  "surname": [
+   "hamsun",
+   "knut hamsun"
+  ],
+  "rows": [
+   {
+    "n": [
+     1081
+    ],
+    "bloom_title": "Hunger",
+    "kind": "pg",
+    "id": "76692",
+    "title": "Hunger",
+    "translator": "George Egerton",
+    "year": "1920 (title page in PG text: New York, Alfred A. Knopf, 1920; \"Published, October, 1920\")",
+    "djvu": "",
+    "evidence": "PG header and transcribed title page/copyright page read; intro by Edwin Björkman; produced from HathiTrust images.",
+    "slug": "hamsun-hunger",
+    "case": "Bloom lists Hunger; Egerton's is the classic English translation, first published 1899, and the Knopf 1920 text is cleanly PD. Prefer PG 76692 (proofread, title page transcribed).",
+    "note": "Both PG texts are the Knopf text, which (per PG 8387 note) is bowdlerised relative to Egerton's 1899 London edition. If an unexpurgated 1899 text is wanted, look for the Smithers 1899 edition on IA (not searched)."
+   },
+   {
+    "n": [
+     1082
+    ],
+    "bloom_title": "Pan",
+    "kind": "pg",
+    "id": "7214",
+    "title": "Pan",
+    "translator": "W. W. Worster",
+    "year": "1921 (PG transcribed page: Knopf 1927 fifth printing; \"Published July, 1921\")",
+    "djvu": "",
+    "evidence": "PG header and transcribed title/printing page read: New York, Alfred A. Knopf, 1927; printings July 1921 to January 1927; intro by Edwin Björkman.",
+    "slug": "hamsun-pan",
+    "case": "Bloom lists Pan; Worster's 1921 Knopf translation is the standard early English one and is US-PD.",
+    "note": "Scan is a 1927 reprint of the unrevised 1921 edition."
+   }
+  ]
+ },
+ {
+  "author": "I. L. Peretz",
+  "shelf": "i-l-peretz",
+  "new": true,
+  "surname": [
+   "peretz",
+   "i l peretz"
+  ],
+  "rows": [
+   {
+    "n": [
+     1118
+    ],
+    "bloom_title": "Selected Stories",
+    "kind": "pg",
+    "id": "37242",
+    "title": "Stories and Pictures",
+    "translator": "Helena Frank",
+    "year": "1906 (title page in PG text: Philadelphia, Jewish Publication Society of America, 1906; \"Copyright, 1906\")",
+    "djvu": "",
+    "evidence": "PG header and transcribed title page read.",
+    "slug": "peretz-stories-pictures",
+    "case": "Bloom lists Peretz's Selected Stories (a generic title); Helena Frank's Stories and Pictures (JPS 1906) is the substantial early English collection of his tales and is PD.",
+    "note": "Bloom's edition is the Howe/Greenberg 1974 selection; this is the PD substitute under the \"pick one good collection\" rule."
+   }
+  ]
+ },
+ {
+  "author": "S. Ansky",
+  "shelf": "s-ansky",
+  "new": true,
+  "surname": [
+   "ansky",
+   "s ansky"
+  ],
+  "rows": [
+   {
+    "n": [
+     1125
+    ],
+    "bloom_title": "The Dybbuk",
+    "kind": "ia",
+    "id": "dybbuk0000sans",
+    "title": "The Dybbuk: A Play in Four Acts",
+    "translator": "Henry G. Alsberg and Winifred Katzin",
+    "year": "1926 (title page: New York, Liveright Publishing Corp., 1926; \"Copyright, 1926, by Henry G. Alsberg\"; printing list First April 1926 ... Eighth July 1937)",
+    "djvu": "",
+    "evidence": "djvu title page and printing line read; collection internetarchivebooks/graduatetheologicalunion (not lending).",
+    "slug": "ansky-dybbuk",
+    "case": "Bloom lists The Dybbuk; the Alsberg-Katzin translation (1926) is the classic English version that played the Neighborhood Playhouse, and is US-PD.",
+    "note": "The scan is the eighth printing (July 1937) of the 1926 edition; the printing list shows straight reprints, no revision noted. Text includes Gabriel introduction and Zhitlowsky note (1926 too). Performance-rights notice on the copyright page is moot now that the text is PD."
+   }
+  ]
+ },
+ {
+  "author": "Miles Franklin",
+  "shelf": "miles-franklin",
+  "new": true,
+  "surname": [
+   "franklin",
+   "miles franklin"
+  ],
+  "rows": [
+   {
+    "n": [
+     1225
+    ],
+    "bloom_title": "My Brilliant Career",
+    "kind": "pg",
+    "id": "11620",
+    "title": "My Brilliant Career",
+    "translator": "",
+    "year": "1901 (PG text heading)",
+    "djvu": "",
+    "evidence": "PG header + text heading 'by Miles Franklin 1901'; no copyright notice",
+    "slug": "franklin-my-brilliant-career",
+    "case": "Bloom lists My Brilliant Career (1901). PG has a clean text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Edwin Arlington Robinson",
+  "shelf": "edwin-arlington-robinson",
+  "new": true,
+  "surname": [
+   "robinson",
+   "edwin arlington robinson"
+  ],
+  "rows": [
+   {
+    "n": [
+     1240
+    ],
+    "bloom_title": "Selected Poems",
+    "kind": "ia",
+    "id": "collectedpoems00robiiala",
+    "title": "Collected Poems by Edwin Arlington Robinson",
+    "translator": "",
+    "year": "1921 (title page: 'The Macmillan Company 1921'; 'Published October, 1921')",
+    "djvu": "",
+    "evidence": "djvu title page read; UCLA copy, collection cdl/americana",
+    "slug": "robinson-collected-poems",
+    "case": "Bloom lists Robinson's Selected Poems (generic). The Macmillan Collected Poems (1921) gathers every volume from The Children of the Night to Lancelot -- the core of his work.",
+    "note": "Later long poems (Tristram 1927 etc.) are in the 1929 enlarged Collected Poems; IA has 1929 copies (e.g. collectedpoems0000edwi_w6s0, unread). PG also has the separate volumes (313, 1035, 1040, 40906, 76699, 77544)."
+   }
+  ]
+ },
+ {
+  "author": "Robert Frost",
+  "shelf": "robert-frost",
+  "new": false,
+  "surname": [
+   "frost",
+   "robert frost"
+  ],
+  "rows": [
+   {
+    "n": [
+     1241
+    ],
+    "bloom_title": "The Poetry",
+    "kind": "pg",
+    "id": "78327",
+    "title": "Collected poems of Robert Frost",
+    "translator": "",
+    "year": "1930 (PG title page: 'Copyright 1930 by Henry Holt and Company'; Fourth Printing)",
+    "djvu": "",
+    "evidence": "PG header 'Original publication: New York: Henry Holt and Company, 1930'",
+    "slug": "frost-collected-poems",
+    "case": "Bloom lists Frost's Poetry (generic). PG 78327 is the 1930 Holt Collected Poems -- everything through West-Running Brook.",
+    "note": "Scan is the 'Fourth Printing'; the copyright line reads 1930, so first edition is 1930 and PD. Already held: New Hampshire (robert-frost shelf, relay)."
+   }
+  ]
+ },
+ {
+  "author": "Gertrude Stein",
+  "shelf": "gertrude-stein",
+  "new": true,
+  "surname": [
+   "stein",
+   "gertrude stein"
+  ],
+  "rows": [
+   {
+    "n": [
+     1250
+    ],
+    "bloom_title": "Three Lives",
+    "kind": "pg",
+    "id": "15408",
+    "title": "Three Lives: Stories of The Good Anna, Melanctha and The Gentle Lena",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read; no copyright notice",
+    "slug": "stein-three-lives",
+    "case": "Bloom lists Three Lives (1909). PG has a proofed text.",
+    "note": "Year not printed in the PG header; first publication 1909 (Grafton Press) is well known, but I did not read it on a title page."
+   },
+   {
+    "n": [
+     1252
+    ],
+    "bloom_title": "The Making of Americans",
+    "kind": "ia",
+    "id": "makingofamerican0000unse_j2t9",
+    "title": "The Making of Americans, Being a History of a Family's Progress",
+    "translator": "",
+    "year": "1925 (IA metadata; title page names Contact Editions, Three Mountains Press, Paris, no year seen)",
+    "djvu": "",
+    "evidence": "djvu first 1500 chars read; collection internetarchivebooks, not lending",
+    "slug": "stein-making-americans",
+    "case": "Bloom lists The Making of Americans; the complete 1925 Contact Editions (Paris) text is on IA.",
+    "note": "Paris-printed (Three Mountains Press); 'COPYRIGHTED BY THE AUTHOR' with no year in the part I read -- the 1925 date is from IA metadata. A 1925 publication is PD in the US either way. It is enormous (900+ pp); OCR quality at the start is poor around the title page but the body reads clean. The 1934 Harcourt abridgment is NOT PD."
+   },
+   {
+    "n": [
+     1253
+    ],
+    "bloom_title": "Tender Buttons",
+    "kind": "pg",
+    "id": "15396",
+    "title": "Tender Buttons: Objects, Food, Rooms",
+    "translator": "",
+    "year": "1914 (PG text heading)",
+    "djvu": "",
+    "evidence": "PG header + heading 'Gertrude Stein 1914'",
+    "slug": "stein-tender-buttons",
+    "case": "Bloom lists Tender Buttons (1914). PG has it.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "Wallace Stevens",
+  "shelf": "wallace-stevens",
+  "new": true,
+  "surname": [
+   "stevens",
+   "wallace stevens"
+  ],
+  "rows": [
+   {
+    "n": [
+     1254
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "78743",
+    "title": "Harmonium",
+    "translator": "",
+    "year": "1923 (PG title page 'COPYRIGHT, 1923, BY ALFRED A. KNOPF'; 'Published, September, 1923')",
+    "djvu": "",
+    "evidence": "PG header 'Original publication: New York: Alfred A. Knopf, 1923'",
+    "slug": "stevens-harmonium",
+    "case": "Bloom lists Stevens's Collected Poems (1954, not PD). Its first and most famous part, Harmonium (1923), is PD and on PG.",
+    "note": "PARTIAL: Harmonium only. The rest of the Collected Poems (Ideas of Order 1935 onward) is not PD. Adam may prefer to count this as not_pd."
+   }
+  ]
+ },
+ {
+  "author": "Vachel Lindsay",
+  "shelf": "vachel-lindsay",
+  "new": true,
+  "surname": [
+   "lindsay",
+   "vachel lindsay"
+  ],
+  "rows": [
+   {
+    "n": [
+     1258
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "ia",
+    "id": "vachellindsay",
+    "title": "Collected Poems by Vachel Lindsay, Revised and Illustrated Edition",
+    "translator": "",
+    "year": "1925 (title page 'The Macmillan Company 1925'; 'Published May, 1923. Revised and Illustrated Edition published May, 1925')",
+    "djvu": "",
+    "evidence": "djvu title/copyright page read; collections family_history_library/americana",
+    "slug": "lindsay-collected-poems",
+    "case": "Bloom lists Lindsay's Collected Poems; the Macmillan Collected Poems is pre-1931.",
+    "note": "This copy is the 'Revised and Illustrated Edition' (1925), a numbered limited issue of 350; the 1923 first edition would also do. Avoid collectedpoems0000vach -- it is a 1978 23rd printing with a modern rights notice, though the text is the same 1925 edition."
+   }
+  ]
+ },
+ {
+  "author": "Edgar Lee Masters",
+  "shelf": "edgar-lee-masters",
+  "new": true,
+  "surname": [
+   "masters",
+   "edgar lee masters"
+  ],
+  "rows": [
+   {
+    "n": [
+     1259
+    ],
+    "bloom_title": "Spoon River Anthology",
+    "kind": "pg",
+    "id": "1280",
+    "title": "Spoon River Anthology",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read; no copyright notice",
+    "slug": "masters-spoon-river-anthology",
+    "case": "Bloom lists Spoon River Anthology (1915). PG has it.",
+    "note": "PG 26471 is a second Spoon River edition (unread) -- the 1916 enlarged edition may be preferable; check before fetching."
+   }
+  ]
+ },
+ {
+  "author": "Sinclair Lewis",
+  "shelf": "sinclair-lewis",
+  "new": true,
+  "surname": [
+   "lewis",
+   "sinclair lewis"
+  ],
+  "rows": [
+   {
+    "n": [
+     1264
+    ],
+    "bloom_title": "Babbitt",
+    "kind": "pg",
+    "id": "1156",
+    "title": "Babbitt",
+    "translator": "",
+    "year": "1922 (PG title page 'COPYRIGHT, 1922, BY HARCOURT, BRACE AND COMPANY')",
+    "djvu": "",
+    "evidence": "PG header + title page read",
+    "slug": "lewis-babbitt",
+    "case": "Bloom lists Babbitt (1922). PG has a renovated proofed text.",
+    "note": ""
+   }
+  ]
+ },
+ {
+  "author": "William Carlos Williams",
+  "shelf": "william-carlos-williams",
+  "new": true,
+  "surname": [
+   "williams",
+   "william carlos williams"
+  ],
+  "rows": [
+   {
+    "n": [
+     1269
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "35667",
+    "title": "Sour Grapes: A Book of Poems",
+    "translator": "",
+    "year": "1921 (PG title page 'Copyright, 1921')",
+    "djvu": "",
+    "evidence": "PG header + title page read",
+    "slug": "williams-sour-grapes",
+    "case": "Bloom lists Williams's Collected Poems (not PD as a whole). The pre-1931 volumes are PD and on PG.",
+    "note": "PARTIAL: covers the early books only. Also on PG: The Tempers 31878, Kora in Hell 56681 (prose poems). Spring and All (1923) has no source -- see 1267."
+   },
+   {
+    "n": [
+     1269
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "51997",
+    "title": "A Book of Poems, Al Que Quiere!",
+    "translator": "",
+    "year": "1917 (PG title page 'Copyright, 1917')",
+    "djvu": "",
+    "evidence": "PG header + title page read",
+    "slug": "williams-book-poems",
+    "case": "Bloom lists Williams's Collected Poems (not PD as a whole). The pre-1931 volumes are PD and on PG.",
+    "note": "PARTIAL: covers the early books only. Also on PG: The Tempers 31878, Kora in Hell 56681 (prose poems). Spring and All (1923) has no source -- see 1267."
+   }
+  ]
+ },
+ {
+  "author": "Robinson Jeffers",
+  "shelf": "robinson-jeffers",
+  "new": true,
+  "surname": [
+   "jeffers",
+   "robinson jeffers"
+  ],
+  "rows": [
+   {
+    "n": [
+     1273
+    ],
+    "bloom_title": "Selected Poems",
+    "kind": "ia",
+    "id": "roanstalliontama0000robi_h6v7",
+    "title": "Roan Stallion, Tamar and Other Poems",
+    "translator": "",
+    "year": "1925 (verso: 'Copyright, 1925, by Horace Liveright'; 'First printing, October, 1925'; printing list to Dec. 1932)",
+    "djvu": "",
+    "evidence": "djvu verso read; internetarchivebooks",
+    "slug": "jeffers-roan-stallion",
+    "case": "Bloom lists Jeffers's Selected Poems (generic). Roan Stallion, Tamar and Other Poems (1925) holds his first major narratives.",
+    "note": "PARTIAL. This copy's printing list runs to an eleventh printing, December 1932, so it is a 1932 printing of the 1925 book (first printing October 1925 per its own verso); no sign of revision. IA also has The Women at Point Sur 1927 (womenatpointsur0000robi), Cawdor 1928 (cawdorotherpoems0000robi), Dear Judas 1929 (dearjudasotherpo0000robi) -- unread."
+   }
+  ]
+ },
+ {
+  "author": "Marianne Moore",
+  "shelf": "marianne-moore",
+  "new": true,
+  "surname": [
+   "moore",
+   "marianne moore"
+  ],
+  "rows": [
+   {
+    "n": [
+     1274
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "ia",
+    "id": "bwb_P9-EKO-675",
+    "title": "Observations",
+    "translator": "",
+    "year": "1924 (title page 'The Dial Press MCMXXIV'; 'Copyright, 1924')",
+    "djvu": "",
+    "evidence": "djvu title page read; internetarchivebooks",
+    "slug": "moore-observations",
+    "case": "Bloom lists Moore's Complete Poems (1967, not PD). Observations (1924) is her collected early work and is PD.",
+    "note": "PARTIAL. Alt: PG 62833 Poems (Egoist Press, London 1921) -- read its title page -- a smaller, earlier selection."
+   },
+   {
+    "n": [
+     1274
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "pg",
+    "id": "62833",
+    "title": "Poems",
+    "translator": "",
+    "year": "1921 (PG title page 'The Egoist Press ... 1921')",
+    "djvu": "",
+    "evidence": "PG header + title page read",
+    "slug": "moore-poems",
+    "case": "Bloom lists Moore's Complete Poems (1967, not PD). Observations (1924) is her collected early work and is PD.",
+    "note": "PARTIAL. Alt: PG 62833 Poems (Egoist Press, London 1921) -- read its title page -- a smaller, earlier selection."
+   }
+  ]
+ },
+ {
+  "author": "Hilda Doolittle",
+  "shelf": "hilda-doolittle",
+  "new": true,
+  "surname": [
+   "doolittle",
+   "hilda doolittle"
+  ],
+  "rows": [
+   {
+    "n": [
+     1275
+    ],
+    "bloom_title": "Selected Poems",
+    "kind": "ia",
+    "id": "collectedpoemsof0000hdhi",
+    "title": "Collected Poems of H. D.",
+    "translator": "",
+    "year": "1925 (verso 'COPYRIGHT, 1925, BY BONI AND LIVERIGHT'; 'SIXTH PRINTING, AUGUST, 1940')",
+    "djvu": "",
+    "evidence": "djvu verso + contents read; collection printcollection/toronto",
+    "slug": "doolittle-collected-poems",
+    "case": "Bloom lists H.D.'s Selected Poems (generic). Collected Poems of H.D. (1925) gathers Sea Garden, The God, Translations, Hymen, Heliodora.",
+    "note": "Scan is the sixth printing, August 1940, of the 1925 edition (verso 'Copyright, 1925, by Boni and Liveright'); contents read match the 1925 book. PG has the separate volumes Sea Garden 28665, Hymen 28666, Heliodora 62456 as a fallback."
+   }
+  ]
+ },
+ {
+  "author": "John Crowe Ransom",
+  "shelf": "john-crowe-ransom",
+  "new": true,
+  "surname": [
+   "ransom",
+   "john crowe ransom"
+  ],
+  "rows": [
+   {
+    "n": [
+     1276
+    ],
+    "bloom_title": "Selected Poems",
+    "kind": "ia",
+    "id": "chillsfeverpoems0000unse",
+    "title": "Chills and Fever: Poems by John Crowe Ransom",
+    "translator": "",
+    "year": "1924 (title page 'Alfred A. Knopf MCMXXIV'; 'Published, August, 1924')",
+    "djvu": "",
+    "evidence": "djvu title page read; Albion College copy; internetarchivebooks",
+    "slug": "ransom-chills-fever",
+    "case": "Bloom lists Ransom's Selected Poems; Ransom wrote nearly all his poetry by 1927, so Chills and Fever (1924) covers much of it.",
+    "note": "PARTIAL: Two Gentlemen in Bonds (1927) not found on IA; Poems about God (1919) is on IA (poemsaboutgod00ransrich, unread). Avoid chillsfever0000rans -- that is a 1972 Folcroft reprint (same text, but a modern reprint)."
+   }
+  ]
+ },
+ {
+  "author": "T. S. Eliot",
+  "shelf": "ts-eliot",
+  "new": false,
+  "surname": [
+   "eliot",
+   "t s eliot"
+  ],
+  "rows": [
+   {
+    "n": [
+     1277
+    ],
+    "bloom_title": "The Complete Poems and Plays",
+    "kind": "pg",
+    "id": "1567",
+    "title": "Poems",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read; no date in it (the 1920 Knopf Poems is assumed, not read)",
+    "slug": "eliot-poems",
+    "case": "Bloom lists The Complete Poems and Plays (1952, not PD). The poems through Ash-Wednesday (1930) are PD; Prufrock and The Waste Land are already held.",
+    "note": "PARTIAL. To round out the PD poems add PG 1567 Poems (1920) and PG 78023 Ash-Wednesday (1930) -- Ash-Wednesday date read on PG; PG 1567 date unread. The plays and Four Quartets are not PD."
+   },
+   {
+    "n": [
+     1277
+    ],
+    "bloom_title": "The Complete Poems and Plays",
+    "kind": "pg",
+    "id": "78023",
+    "title": "Ash-Wednesday",
+    "translator": "",
+    "year": "1930 (PG title page 'Copyright, 1930'; First American Trade Edition, Putnam)",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "eliot-ash-wednesday",
+    "case": "Bloom lists The Complete Poems and Plays (1952, not PD). The poems through Ash-Wednesday (1930) are PD; Prufrock and The Waste Land are already held.",
+    "note": "PARTIAL. To round out the PD poems add PG 1567 Poems (1920) and PG 78023 Ash-Wednesday (1930) -- Ash-Wednesday date read on PG; PG 1567 date unread. The plays and Four Quartets are not PD."
+   }
+  ]
+ },
+ {
+  "author": "Jean Toomer",
+  "shelf": "jean-toomer",
+  "new": true,
+  "surname": [
+   "toomer",
+   "jean toomer"
+  ],
+  "rows": [
+   {
+    "n": [
+     1280
+    ],
+    "bloom_title": "Cane",
+    "kind": "pg",
+    "id": "60093",
+    "title": "Cane",
+    "translator": "",
+    "year": "1923 (PG title page '© 1923 BY BONI & LIVERIGHT', renewed 1951; later printing)",
+    "djvu": "",
+    "evidence": "PG header + title page read",
+    "slug": "toomer-cane",
+    "case": "Bloom lists Cane (1923). PG has a proofed text.",
+    "note": "PG's transcribed title page is a later Liveright printing (shows '(c) 1923 by Boni & Liveright', '(R) 1951 by Jean Toomer', a 1.98765 printing line and an SBN number) -- the text is the unrevised 1923 book, but the source copy is a modern printing."
+   }
+  ]
+ },
+ {
+  "author": "Conrad Aiken",
+  "shelf": "conrad-aiken",
+  "new": true,
+  "surname": [
+   "aiken",
+   "conrad aiken"
+  ],
+  "rows": [
+   {
+    "n": [
+     1282
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "ia",
+    "id": "bwb_T5-AGU-819",
+    "title": "Selected Poems by Conrad Aiken",
+    "translator": "",
+    "year": "1929 copyright (verso 'Copyright, 1918, 1921, 1929, by Conrad Aiken'; title page dated 1931)",
+    "djvu": "",
+    "evidence": "djvu title page and verso read; internetarchivebooks",
+    "slug": "aiken-poems",
+    "case": "Bloom lists Aiken's Collected Poems (1953, not PD); his Selected Poems (Scribner, copyright 1929) is the best PD gathering.",
+    "note": "PARTIAL. The scan's title page reads 1931 but its copyright line is 1918, 1921, 1929 (and 1925 Liveright) -- a 1931 printing of the 1929 book; check for unrevised text. PG 1246 The House of Dust is a clean fallback; IA has Charnel Rose/Senlin 1918 (charnelrosesenli00aike) and Nocturne of Remembered Spring 1917."
+   },
+   {
+    "n": [
+     1282
+    ],
+    "bloom_title": "Collected Poems",
+    "kind": "pg",
+    "id": "1246",
+    "title": "The House of Dust: A Symphony",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG catalogue row",
+    "slug": "aiken-house-dust",
+    "case": "Bloom lists Aiken's Collected Poems (1953, not PD); his Selected Poems (Scribner, copyright 1929) is the best PD gathering.",
+    "note": "PARTIAL. The scan's title page reads 1931 but its copyright line is 1918, 1921, 1929 (and 1925 Liveright) -- a 1931 printing of the 1929 book; check for unrevised text. PG 1246 The House of Dust is a clean fallback; IA has Charnel Rose/Senlin 1918 (charnelrosesenli00aike) and Nocturne of Remembered Spring 1917."
+   }
+  ]
+ },
+ {
+  "author": "Eugene O'Neill",
+  "shelf": "eugene-o-neill",
+  "new": true,
+  "surname": [
+   "o'neill",
+   "eugene o'neill",
+   "oneill"
+  ],
+  "rows": [
+   {
+    "n": [
+     1283
+    ],
+    "bloom_title": "Lazarus Laughed",
+    "kind": "ia",
+    "id": "lazaruslaughed0000unse",
+    "title": "Lazarus Laughed (1925-26): A Play for an Imaginative Theatre",
+    "translator": "",
+    "year": "1927 (verso 'Copyright, 1927, by Boni & Liveright')",
+    "djvu": "",
+    "evidence": "djvu title page read; Yeshiva Univ. copy, internetarchivebooks",
+    "slug": "oneill-lazarus-laughed",
+    "case": "Bloom lists Lazarus Laughed (1927). IA has the Boni & Liveright first edition.",
+    "note": "Alt copy lazaruslaughed190000euge has a printing list (first printing Nov 1927, third Feb 1928)."
+   }
+  ]
+ },
+ {
+  "author": "e. e. cummings",
+  "shelf": "e-e-cummings",
+  "new": true,
+  "surname": [
+   "cummings",
+   "e e cummings"
+  ],
+  "rows": [
+   {
+    "n": [
+     1286
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "ia",
+    "id": "bwb_Y0-DRX-311",
+    "title": "Tulips and Chimneys",
+    "translator": "",
+    "year": "1923 (verso 'Copyright, 1923, by Thomas Seltzer'; 'First Printing, October, 1923 / Second Printing, March, 1924')",
+    "djvu": "",
+    "evidence": "djvu verso + contents read",
+    "slug": "cummings-tulips-chimneys",
+    "case": "Bloom lists cummings's Complete Poems (not PD as a whole). His first books are PD: Tulips and Chimneys (1923) and is 5 (1926).",
+    "note": "PARTIAL. Tulips scan is the second printing, March 1924, of the 1923 Seltzer edition. Also on IA: is 5 (bwb_Y0-EFR-343, 'Copyright, 1926, by Horace Liveright', read). & (1925) and XLI Poems (1925) not searched. Typography matters for cummings -- OCR will need checking."
+   },
+   {
+    "n": [
+     1286
+    ],
+    "bloom_title": "Complete Poems",
+    "kind": "ia",
+    "id": "bwb_Y0-EFR-343",
+    "title": "is 5",
+    "translator": "",
+    "year": "1926 (verso 'COPYRIGHT, 1926, BY HORACE LIVERIGHT')",
+    "djvu": "",
+    "evidence": "djvu verso read",
+    "slug": "cummings-is-5",
+    "case": "Bloom lists cummings's Complete Poems (not PD as a whole). His first books are PD: Tulips and Chimneys (1923) and is 5 (1926).",
+    "note": "PARTIAL. Tulips scan is the second printing, March 1924, of the 1923 Seltzer edition. Also on IA: is 5 (bwb_Y0-EFR-343, 'Copyright, 1926, by Horace Liveright', read). & (1925) and XLI Poems (1925) not searched. Typography matters for cummings -- OCR will need checking."
+   }
+  ]
+ },
+ {
+  "author": "Hart Crane",
+  "shelf": "hart-crane",
+  "new": true,
+  "surname": [
+   "crane",
+   "hart crane"
+  ],
+  "rows": [
+   {
+    "n": [
+     1291
+    ],
+    "bloom_title": "Complete Poems and Selected Letters and Prose",
+    "kind": "pg",
+    "id": "77837",
+    "title": "White Buildings",
+    "translator": "",
+    "year": "1926 (PG title page 'BONI & LIVERIGHT, 1926'; 'COPYRIGHT 1926')",
+    "djvu": "",
+    "evidence": "PG header + title page read",
+    "slug": "crane-white-buildings",
+    "case": "Bloom lists Crane's Complete Poems and Selected Letters and Prose (1966, not PD). Both books of poems Crane published -- White Buildings (1926) and The Bridge (1930) -- are PD, i.e. nearly all the poetry.",
+    "note": "PARTIAL only in that the letters/prose and uncollected poems are excluded. The Selected Letters part is not covered (PG lists a 1952 Letters ed. Weber, 76626 -- not checked, and not needed for the poems)."
+   },
+   {
+    "n": [
+     1291
+    ],
+    "bloom_title": "Complete Poems and Selected Letters and Prose",
+    "kind": "ia",
+    "id": "bridge0000hart",
+    "title": "The Bridge: A Poem",
+    "translator": "",
+    "year": "1930 (title page 'New York Horace Liveright'; '1930, by Horace Liveright, Inc. Copyright')",
+    "djvu": "",
+    "evidence": "djvu title page read; Carnegie-Mellon copy, internetarchivebooks",
+    "slug": "crane-bridge",
+    "case": "Bloom lists Crane's Complete Poems and Selected Letters and Prose (1966, not PD). Both books of poems Crane published -- White Buildings (1926) and The Bridge (1930) -- are PD, i.e. nearly all the poetry.",
+    "note": "PARTIAL only in that the letters/prose and uncollected poems are excluded. The Selected Letters part is not covered (PG lists a 1952 Letters ed. Weber, 76626 -- not checked, and not needed for the poems)."
+   }
+  ]
+ },
+ {
+  "author": "William Faulkner",
+  "shelf": "william-faulkner",
+  "new": true,
+  "surname": [
+   "faulkner",
+   "william faulkner"
+  ],
+  "rows": [
+   {
+    "n": [
+     1300
+    ],
+    "bloom_title": "The Sound and the Fury",
+    "kind": "pg",
+    "id": "75170",
+    "title": "The sound and the fury",
+    "translator": "",
+    "year": "1929 (PG verso 'Copyright, 1929, by William Faulkner'; renewed 1956)",
+    "djvu": "",
+    "evidence": "PG header 'Original publication: New York: Random House, 1929' + verso read",
+    "slug": "faulkner-sound-fury",
+    "case": "Bloom lists The Sound and the Fury (1929). PG has it.",
+    "note": "PG's source copy is a later Random House printing (verso 'Copyright, 1929 ... Copyright renewed, 1956'), apparently the uncorrected original text (not the 1984 Polk text) -- worth a spot check."
+   }
+  ]
+ },
+ {
+  "author": "Ernest Hemingway",
+  "shelf": "hemingway",
+  "new": false,
+  "surname": [
+   "hemingway",
+   "ernest hemingway"
+  ],
+  "rows": [
+   {
+    "n": [
+     1304
+    ],
+    "bloom_title": "Complete Short Stories",
+    "kind": "ia",
+    "id": "inourtimestories00hemi_1",
+    "title": "In Our Time: Stories",
+    "translator": "",
+    "year": "1925 (verso 'COPYRIGHT 1925 BY BONI & LIVERIGHT, Inc.')",
+    "djvu": "",
+    "evidence": "djvu grep: copyright line and 'Indian Camp' read; BYU copy, americana",
+    "slug": "hemingway-our-time",
+    "case": "Bloom lists Hemingway's Complete Short Stories (1987, not PD). The two pre-1931 collections -- In Our Time (1925) and Men Without Women (1927) -- are PD and hold many of his best stories.",
+    "note": "PARTIAL. Held already: The Sun Also Rises, A Farewell to Arms (hemingway shelf, relay). PG 61085 is the 1924 Paris 'in our time' vignettes only, not the 1925 story collection. The 1925 IA scan's first page is noisy OCR but the text from 'Indian Camp' on reads cleanly. PG 59603 Three Stories & Ten Poems (1923) also PD."
+   },
+   {
+    "n": [
+     1304
+    ],
+    "bloom_title": "Complete Short Stories",
+    "kind": "pg",
+    "id": "69683",
+    "title": "Men without women",
+    "translator": "",
+    "year": "1927 (PG title page 'CHARLES SCRIBNER'S SONS 1927'; 'COPYRIGHT, 1927')",
+    "djvu": "",
+    "evidence": "PG header + title page read",
+    "slug": "hemingway-men-without-women",
+    "case": "Bloom lists Hemingway's Complete Short Stories (1987, not PD). The two pre-1931 collections -- In Our Time (1925) and Men Without Women (1927) -- are PD and hold many of his best stories.",
+    "note": "PARTIAL. Held already: The Sun Also Rises, A Farewell to Arms (hemingway shelf, relay). PG 61085 is the 1924 Paris 'in our time' vignettes only, not the 1925 story collection. The 1925 IA scan's first page is noisy OCR but the text from 'Indian Camp' on reads cleanly. PG 59603 Three Stories & Ten Poems (1923) also PD."
+   }
+  ]
+ },
+ {
+  "author": "Langston Hughes",
+  "shelf": "langston-hughes",
+  "new": true,
+  "surname": [
+   "hughes",
+   "langston hughes"
+  ],
+  "rows": [
+   {
+    "n": [
+     1319
+    ],
+    "bloom_title": "Selected Poems",
+    "kind": "pg",
+    "id": "74745",
+    "title": "The weary blues",
+    "translator": "",
+    "year": "1926 (PG title page 'Alfred A. Knopf 1926'; 'COPYRIGHT, 1926')",
+    "djvu": "",
+    "evidence": "PG header + title page read",
+    "slug": "hughes-weary-blues",
+    "case": "Bloom lists Hughes's Selected Poems (1959, not PD). The Weary Blues (1926) is PD and on PG.",
+    "note": "PARTIAL. Fine Clothes to the Jew (1927) is also PD; not searched."
+   }
+  ]
+ },
+ {
+  "author": "Abraham Cahan",
+  "shelf": "abraham-cahan",
+  "new": true,
+  "surname": [
+   "cahan",
+   "abraham cahan"
+  ],
+  "rows": [
+   {
+    "n": [
+     1327
+    ],
+    "bloom_title": "The Rise of David Levinsky",
+    "kind": "pg",
+    "id": "2803",
+    "title": "The Rise of David Levinsky",
+    "translator": "",
+    "year": "unread",
+    "djvu": "",
+    "evidence": "PG header read",
+    "slug": "cahan-rise-david-levinsky",
+    "case": "Bloom lists The Rise of David Levinsky (1917). PG has it.",
+    "note": "Year not on the PG text; 1917 Harper first edition is well known but unread here."
+   }
+  ]
+ },
+ {
+  "author": "William Styron",
+  "shelf": "william-styron",
+  "new": true,
+  "surname": [
+   "styron",
+   "william styron"
+  ],
+  "rows": [
+   {
+    "n": [
+     1380
+    ],
+    "bloom_title": "The Long March",
+    "kind": "pg",
+    "id": "76604",
+    "title": "The long march",
+    "translator": "",
+    "year": "1952 (PG header 'Original publication: New York: Random House, 1952'; title-page verso '(c) Copyright, 1952, by William Styron')",
+    "djvu": "",
+    "evidence": "Read the PG header and the front matter. PG released it 2025-08-01 from HathiTrust images, i.e. PG cleared it as US public domain: a 1952 copyright that was evidently not renewed.",
+    "slug": "styron-long-march",
+    "case": "Bloom lists The Long March. It is US public domain because the 1952 copyright was not renewed, not because of its date, and Project Gutenberg hosts the clean Random House 1952 text.",
+    "note": "DECISION FOR ADAM: this passes the real test (US public domain) but not the pre-1931 date rule. It is the only such case in chunk 8. If the shelf is strictly 'published before 1931', treat it as not_pd. Vidal also has three non-renewed novels on PG (Williwaw, In a Yellow Wood, Messiah), but Bloom does not list them, so they are not suggested."
+   }
+  ]
+ },
+ {
+  "author": "Edwin Justus Mayer",
+  "shelf": "edwin-justus-mayer",
+  "new": true,
+  "surname": [
+   "mayer",
+   "edwin justus mayer"
+  ],
+  "rows": [
+   {
+    "n": [
+     1396
+    ],
+    "bloom_title": "Children of Darkness",
+    "kind": "ia",
+    "id": "childernofdarkne00edwi",
+    "title": "Children of Darkness: An Original Tragi-Comedy, by Edwin Justus Mayer (Horace Liveright, New York)",
+    "translator": "",
+    "year": "1929 (title page; verso reads 'COPYRIGHT, 1929 By Edwin Justus Mayer')",
+    "djvu": "",
+    "evidence": "Read djvu title page: 'CHILDREN OF DARKNESS / An Original Tragi-Comedy / by EDWIN JUSTUS MAYER / Author of The Firebrand / Suggested by Henry Fielding's ... Jonathan Wild the Great / HORACE LIVERIGHT NEW YORK 1929', then cast list and Act I. IA metadata collections: internetarchivebooks, americana (not lending). Note IA's title field is misspelled 'Childern Of Darkness'.",
+    "slug": "mayer-children-darkness",
+    "case": "Bloom lists Mayer's Children of Darkness; the Liveright first edition of 1929 is US public domain and IA has a full scan with OCR text, the only edition needed.",
+    "note": "The machine's 'author' match was a false hit (gt.py finds only Conrad's 'Almayer's Folly'); nothing by Mayer is held. Not on Project Gutenberg. OCR is freshly scanned (2026) and will need ordinary cleanup; stage directions are bracketed italics. This is the one pre-1931 work in chunk 8."
+   }
+  ]
+ }
+]

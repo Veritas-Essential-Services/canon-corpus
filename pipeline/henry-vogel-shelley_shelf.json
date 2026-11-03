@@ -1,0 +1,32 @@
+{
+ "_about": "Henry Vogel Shelley, raw IA OCR of his University of Pennsylvania thesis A Study of Piety in the Greek Tragic Chorus (Philadelphia, 1919; US public domain by date). Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Henry Vogel Shelley",
+ "_name_words": [
+  "shelley"
+ ],
+ "_surname": [
+  "henry vogel shelley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henry-vogel-shelley-piety-greek-tragic-chorus-1919": [
+   "studyofpietyingr00shelrich",
+   "A Study of Piety in the Greek Tragic Chorus, by Henry Vogel Shelley (University of Pennsylvania thesis; Philadelphia, 1919)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "henry-vogel-shelley-piety-greek-tragic-chorus-1919": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry vogel shelley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

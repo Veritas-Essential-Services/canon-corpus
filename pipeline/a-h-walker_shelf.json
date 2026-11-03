@@ -1,0 +1,33 @@
+{
+ "_about": "A. H. Walker, formerly scholar of Hertford College, Oxford, raw IA OCR of A Primer of Greek Constitutional History (1902); not E. M. Walker, whose shelf is e-m-walker. Greek political antiquities (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "A. H. Walker",
+ "_name_words": [
+  "walker"
+ ],
+ "_surname": [
+  "a. h. walker",
+  "walker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "a-h-walker-primer-greek-constitutional-history-1902": [
+   "aprimergreekcon00walkgoog",
+   "A Primer of Greek Constitutional History, by A. H. Walker (Oxford: B. H. Blackwell, 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "a-h-walker-primer-greek-constitutional-history-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. h. walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
