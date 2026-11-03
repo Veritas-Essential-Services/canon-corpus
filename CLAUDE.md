@@ -220,6 +220,8 @@ The living truth for project state is the Obsidian vault:
     python3 tests/brewer_plates_test.py                # the plates catalog, offline
     python3 pipeline/build_stories.py [--check]        # Illustrated Classics story layer: scenes + figures -> uids (mint 0)
     python3 tests/stories_test.py                      # data/stories/ and data/art/illustrated-classics/, offline
+    python3 pipeline/build_kipling_shelf.py [--check]  # the Kipling shelf's work uids (kipling:<work>); --check mints 0
+    python3 tests/kipling_shelf_test.py                # the Kipling ledger, offline
     python3 pipeline/build_dictionary_links.py --fetch # the dictionaries' edges (+ Character Sketches scans)
     python3 pipeline/build_dictionary_links.py --check # data/dictionaries/ byte-identical
     python3 tests/dictionary_links_test.py             # the edge parsers, offline
@@ -834,6 +836,16 @@ The living truth for project state is the Obsidian vault:
   shelf with one body rule for all (`YEAR0_BODY_RULE`). The Word Hoard's My Reading page links a
   child's Year 0 books to them (wordhoard `data/ao/year0-armarium.json`). Milne's four are PD but were
   not reachable to check: the completeness note is beside the dict.
+
+- The Kipling shelf (2026-11-03): `pipeline/kipling_shelf.json` is the ledger. 43 prose books from the
+  GITenberg mirror of Project Gutenberg, PINNED to a commit and a sha256 (fetch_sources.kipling_books /
+  fetch_kipling; a latin-1 file is transcoded after its sha256 is checked), built by the Chesterton
+  converter into data/books/kipling-*.json; Kim and The Light That Failed name their chapter heading in
+  the ledger (`chapters`). His seven books of verse are NOT built here: they are Poetry Hoard volumes
+  (wordhoard apps/poetryhoard/data/volumes.json, shelf "kipling"), listed under `poetry_hoard`. Every
+  book has a work uid, cited `kipling:<work>` (build_kipling_shelf.py), and an `edition_check` against an
+  archive.org scan. `_waiting` (1932-1940 books, on the house release queue), `_pending` and `_excluded`
+  are the completeness note.
 
 - unscanner/ — the Unscanner, Phase A (2026-10-16): a scanned PD book -> tesseract hOCR -> layout
   (indent = paragraph, folios and running heads by position, plates from the ink) -> reflowed HTML,

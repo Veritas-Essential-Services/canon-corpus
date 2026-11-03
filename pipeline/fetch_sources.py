@@ -2451,6 +2451,44 @@ YEAR0_GUTENBERG = {
 for _slug, (_gid, _t, _a) in YEAR0_GUTENBERG.items():
     GUTENBERG_EXTRA[_slug] = _gid
 
+# The Kipling shelf (2026-11-03, Adam: "Give me a kippling shelf"): the ledger is pipeline/kipling_shelf.json,
+# read here, never copied into this file. Its `gutenberg` rows are Rudyard Kipling's prose books, each a
+# Project Gutenberg text from the GITenberg mirror PINNED to a commit and a sha256 (gutenberg.org revises
+# its files in place, and was not reachable from the session that added them). Saved as
+# data/corpus/kipling/<slug>.txt, always UTF-8: a row marked `"encoding": "latin-1"` is transcoded AFTER
+# its sha256 is checked against the file as the mirror holds it. Every header was read for "COPYRIGHTED
+# Project Gutenberg" (none); every book was first published in 1930 or before. His verse books are not
+# here: they are volumes in the Poetry Hoard (wordhoard apps/poetryhoard/data/volumes.json, shelf
+# "kipling"), which the Armarium binds as volumes. The ledger's `_waiting`, `_pending` and `_excluded`
+# are the completeness note.
+KIPLING_LEDGER = os.path.join(os.path.dirname(os.path.abspath(__file__)), "kipling_shelf.json")
+
+def kipling_books():
+    """{slug: row} for the Kipling shelf's prose books, in the ledger's order."""
+    import json
+    with open(KIPLING_LEDGER, encoding="utf-8") as f:
+        return json.load(f)["gutenberg"]
+
+def fetch_kipling(slug, row):
+    import hashlib
+    dest = os.path.join(CORPUS, "kipling", slug + ".txt")
+    if os.path.exists(dest) and os.path.getsize(dest) > 1000:
+        return "skip"
+    repo = row["mirror"].rstrip("/").rsplit("/", 1)[1]
+    req = urllib.request.Request(GITENBERG_RAW.format(repo=repo, commit=row["commit"], fn=row["file"]), headers=UA)
+    with urllib.request.urlopen(req, timeout=60) as r:
+        raw = r.read()
+    got = hashlib.sha256(raw).hexdigest()
+    if got != row["sha256"]:
+        raise RuntimeError(f"sha256 {got[:12]}... is not the ledger's {row['sha256'][:12]}...; refused")
+    if row.get("encoding") == "latin-1":
+        raw = raw.decode("latin-1").encode("utf-8")
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    with open(dest + ".tmp", "wb") as f:      # atomic, rule 5
+        f.write(raw)
+    os.replace(dest + ".tmp", dest)
+    return f"{len(raw):,} bytes (sha256 checked)"
+
 UA = {"User-Agent": "Canon-Corpus/0.1 (personal library research)"}
 
 def fetch(url, dest):
@@ -2534,6 +2572,8 @@ def main():
             print(f"gitenberg/{slug}: " + " + ".join(f"{r}@{c[:7]}" for r, c, f in parts))
         for slug, (ident, fn, ext, title, author) in ARCHIVE_LAYOUT.items():
             print(f"archive/{slug}: {ident} -- {title}")
+        for slug, row in kipling_books().items():
+            print(f"kipling/{slug}: pg{row['id']} {row['title']} ({row['year']}) @{row['commit'][:7]}")
         for slug, (sha, recipe, fn, shipped, psha, note) in LOCAL_SOURCES.items():
             print(f"local/{slug}: {note}")
         for slug, (src, recipe, fn, shipped, psha, note) in SHIPPED_WORKING_TEXT.items():
@@ -2596,6 +2636,12 @@ def main():
             except Exception as e:
                 failures.append(slug); print(f"gitenberg/{slug}.{i}: FAIL {e}")
             time.sleep(0.5)
+    for slug, row in kipling_books().items():
+        try:
+            print(f"kipling/{slug}: {fetch_kipling(slug, row)}")
+        except Exception as e:
+            failures.append(slug); print(f"kipling/{slug}: FAIL {e}")
+        time.sleep(0.3)
     for slug, (ident, fn, note) in ARCHIVE_OCR.items():
         dest = os.path.join(CORPUS, "archive", slug + ".txt")
         try:
