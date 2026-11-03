@@ -1,0 +1,37 @@
+{
+ "_about": "Reuben Gold Thwaites (1853-1913), The Colonies 1492-1750 (Epochs of American History); from Adam's Libronix inventory; Internet Archive OCR, raw; title, edition and imprint read from each scan's title page, 2026-11-03. Added by lane A. No uids minted. Copyright 1890-1910; this is the 26th impression, 1920, so US public domain.",
+ "_name_words": [
+  "thwaites"
+ ],
+ "_surname": [
+  "thwaites"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thwaites-colonies": [
+   "colonies14921750thwa",
+   "The Colonies, 1492-1750, Epochs of American History, 26th impression (New York: Longmans, Green, 1920)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "thwaites-colonies": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "thwaites",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
