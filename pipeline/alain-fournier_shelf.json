@@ -1,0 +1,50 @@
+{
+ "_about": "Alain-Fournier. Bloom's Western Canon (1994) lists: Le Grand Meaulnes. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Alain-Fournier",
+ "_name_words": [
+  "alain",
+  "fournier"
+ ],
+ "_surname": [
+  "fournier",
+  "alain-fournier"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "alainfournier-wanderer": [
+   79827,
+   "The Wanderer",
+   "tr. Françoise Roussel Delisle"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "alainfournier-wanderer": "Delisle"
+ },
+ "_bloom": {
+  "alainfournier-wanderer": {
+   "bloom_n": [
+    748
+   ],
+   "bloom_title": "Le Grand Meaulnes",
+   "year": "1928 (PG title page: Houghton Mifflin, 1928; 'COPYRIGHT, 1928')",
+   "evidence": "PG header and title page read; intro by Havelock Ellis",
+   "case": "Delisle's 1928 The Wanderer is the first English Grand Meaulnes and is on PG.",
+   "note": "Havelock Ellis's introduction is part of the 1928 edition, so it's PD too."
+  }
+ },
+ "_checks": {
+  "alainfournier-wanderer": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "fournier",
+   "translator_claimed": "Delisle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Françoise Roussel Delisle",
+   "translator_match": true
+  }
+ }
+}
