@@ -1,0 +1,43 @@
+{
+ "_about": "Wilfred Owen. Bloom's Western Canon (1994) lists: Collected Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Wilfred Owen",
+ "_name_words": [
+  "wilfred",
+  "owen"
+ ],
+ "_surname": [
+  "owen",
+  "wilfred owen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "owen-poems": [
+   1034,
+   "Poems, by Wilfred Owen, with an introduction by Siegfried Sassoon"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "owen-poems": {
+   "bloom_n": [
+    895
+   ],
+   "bloom_title": "Collected Poems",
+   "year": "unread (PG header has no date)",
+   "evidence": "PG header and Sassoon introduction read",
+   "case": "Bloom lists Owen's Collected Poems. The PD core is the 1920 Poems edited by Sassoon, on PG.",
+   "note": "Later editions (Blunden 1931, Day Lewis 1963) add poems and are NOT PD."
+  }
+ },
+ "_checks": {
+  "owen-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "owen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
