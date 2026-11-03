@@ -8,5 +8,3286 @@
  ],
  "index_from_page": 0,
  "note": "Hand readings from the page images, applied by overnight/divines/tools-D/ocr/run.sh. Each row is [page, OCR token(s), reading]; an empty reading deletes picture or ornament noise. Word-level fixes only, by Adam's ruling of 2026-10-23.",
- "reads": []
+ "reads": [
+  [
+   14,
+   "ee Ob R CE ASU OR EB °C AE Sit",
+   "THE TREASURE CHEST"
+  ],
+  [
+   15,
+   "M Y B OO UK HOUSE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   16,
+   "fee VN EA SUR Eo CH ES cE",
+   "THE TREASURE CHEST"
+  ],
+  [
+   17,
+   "BOO K He O (US SB",
+   "MY BOOK HOUSE"
+  ],
+  [
+   18,
+   "Woe? TE Roe A SOU R B.C H ES tk",
+   "THE TREASURE CHEST"
+  ],
+  [
+   19,
+   "M Y BO Oakes He On Ue Ss)",
+   "MY BOOK HOUSE"
+  ],
+  [
+   20,
+   "tte he PY RRA SURE CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   21,
+   "Me WY. B O20;%s HMSO T Ue ara",
+   "MY BOOK HOUSE"
+  ],
+  [
+   23,
+   "M Y BO On Ks HO re SB",
+   "MY BOOK HOUSE"
+  ],
+  [
+   25,
+   "IY. BOOK HO: USS TE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   26,
+   "ee LRA SURE Con E Ser",
+   "THE TREASURE CHEST"
+  ],
+  [
+   27,
+   "Mov eo BEO OK har Onuas eh",
+   "MY BOOK HOUSE"
+  ],
+  [
+   28,
+   "fone se Ree es SEU REC H ESE",
+   "THE TREASURE CHEST"
+  ],
+  [
+   29,
+   "Vee Ns BO Ok HY O.A0eSseE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   30,
+   "tele Behe AGS. URE? iC HE Sok",
+   "THE TREASURE CHEST"
+  ],
+  [
+   31,
+   "MEY BOOK HiyO-0 USE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   32,
+   "He PRE A SURE “CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   33,
+   "Ve - B. O7O°cK EO. eae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   34,
+   "Pie PREEASURE oC HE ST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   35,
+   "Via BY O40 GK HeOoeUe os",
+   "MY BOOK HOUSE"
+  ],
+  [
+   36,
+   "een Pay hoe A SEU RR EC HE Sof",
+   "THE TREASURE CHEST"
+  ],
+  [
+   37,
+   "Me ¥ BO OK HAG Ceo",
+   "MY BOOK HOUSE"
+  ],
+  [
+   38,
+   "Pome wine A ae R hy oC Hee Sye",
+   "THE TREASURE CHEST"
+  ],
+  [
+   39,
+   "M BOO BOOK HO. Ue Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   41,
+   "M Y BO ON\" HS O UPSe8",
+   "MY BOOK HOUSE"
+  ],
+  [
+   42,
+   "Rais PRR ASU R EO oC AE Sri",
+   "THE TREASURE CHEST"
+  ],
+  [
+   43,
+   "ME CY BOO NK Hier O: os ee",
+   "MY BOOK HOUSE"
+  ],
+  [
+   44,
+   "iottobe PRB AS UCR EB CWE. Sr",
+   "THE TREASURE CHEST"
+  ],
+  [
+   47,
+   "Mey BOOK HY OvsUe see",
+   "MY BOOK HOUSE"
+  ],
+  [
+   48,
+   "feet TC RENOSURE (CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   50,
+   "Poh ee RB A SUR EOC H Boek",
+   "THE TREASURE CHEST"
+  ],
+  [
+   51,
+   "VWieoy BY OF cO Gk He O Se see",
+   "MY BOOK HOUSE"
+  ],
+  [
+   52,
+   "ere in RE ACS URE. CHE Sei",
+   "THE TREASURE CHEST"
+  ],
+  [
+   53,
+   "M Y BO 4077 He © US Sree",
+   "MY BOOK HOUSE"
+  ],
+  [
+   54,
+   "Poo oR AS UR EC HE ST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   55,
+   "Mey: Bo Or HOr UPSre",
+   "MY BOOK HOUSE"
+  ],
+  [
+   56,
+   "We ie ie ASU RE CH Sut",
+   "THE TREASURE CHEST"
+  ],
+  [
+   57,
+   "M Y BO) Ok HO Urs 28",
+   "MY BOOK HOUSE"
+  ],
+  [
+   58,
+   "Pere or ROE ALS US RE IC He ie Sak",
+   "THE TREASURE CHEST"
+  ],
+  [
+   60,
+   "Pe een eA SUR EC HE Sof",
+   "THE TREASURE CHEST"
+  ],
+  [
+   61,
+   "NES BY. O20 HY Oo Wigs",
+   "MY BOOK HOUSE"
+  ],
+  [
+   62,
+   "tee, DREASURE CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   63,
+   "M Y BOO K.* HO. USE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   64,
+   "ter bo RB AS UCR Ee CHE Sif",
+   "THE TREASURE CHEST"
+  ],
+  [
+   65,
+   "VEY. BOOK HOU eae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   66,
+   "Tie PRE ASU RE CH E Sot",
+   "THE TREASURE CHEST"
+  ],
+  [
+   67,
+   "M Y BY O70. HO Urs ee",
+   "MY BOOK HOUSE"
+  ],
+  [
+   68,
+   "temper Ol Reb AS UR BSC HE Se",
+   "THE TREASURE CHEST"
+  ],
+  [
+   69,
+   "Nie Yer BO 90) He Hi OUP S ce",
+   "MY BOOK HOUSE"
+  ],
+  [
+   70,
+   "Pre he hoe, Ae UR EC HB Ser",
+   "THE TREASURE CHEST"
+  ],
+  [
+   71,
+   "M Y Bao 70 7k HO Utss 2",
+   "MY BOOK HOUSE"
+  ],
+  [
+   73,
+   "M Y BO K OK oie OO a",
+   "MY BOOK HOUSE"
+  ],
+  [
+   74,
+   "eee et Te Rey SURE °C H BS",
+   "THE TREASURE CHEST"
+  ],
+  [
+   75,
+   "M Y BOO CK PQ: USS ee",
+   "MY BOOK HOUSE"
+  ],
+  [
+   77,
+   "Whey Be Of OF 1s HH Oo UL Ser",
+   "MY BOOK HOUSE"
+  ],
+  [
+   78,
+   "Poe or eee A ALR ESCH bo",
+   "THE TREASURE CHEST"
+  ],
+  [
+   79,
+   "Mry BO. OK HY O-US Sek",
+   "MY BOOK HOUSE"
+  ],
+  [
+   80,
+   "tne PRE AS UR BE CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   81,
+   "Bev BO 707K Hi: On Sk.",
+   "MY BOOK HOUSE"
+  ],
+  [
+   82,
+   "Reet hy a nae, AS UORAB 2H Si",
+   "THE TREASURE CHEST"
+  ],
+  [
+   83,
+   "My. Bo OF0 -K HO Uta ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   84,
+   "THe Par A SUR BP OCH E Sit",
+   "THE TREASURE CHEST"
+  ],
+  [
+   85,
+   "Mie B: O70 3K Hit: 0: UR Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   86,
+   "ire TREASURE “CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   87,
+   "4 5 PWN Shige fll",
+   "MY BOOK HOUSE"
+  ],
+  [
+   88,
+   "tei bo Ree A SOU CR EC HES?",
+   "THE TREASURE CHEST"
+  ],
+  [
+   89,
+   "Moy, Bi On O--K HY Or US",
+   "MY BOOK HOUSE"
+  ],
+  [
+   90,
+   "fo te a ROB A SUR EOC Heb So",
+   "THE TREASURE CHEST"
+  ],
+  [
+   91,
+   "M Y Bee Ou HO US Sr",
+   "MY BOOK HOUSE"
+  ],
+  [
+   92,
+   "ieee eh Pe RE A SUR Bb CHE Sef",
+   "THE TREASURE CHEST"
+  ],
+  [
+   93,
+   "Nex: BO. OK tO US",
+   "MY BOOK HOUSE"
+  ],
+  [
+   94,
+   "Perel ae hik A SURE CHE Se",
+   "THE TREASURE CHEST"
+  ],
+  [
+   95,
+   "MIY.) BR OCO Ky (930 Usare",
+   "MY BOOK HOUSE"
+  ],
+  [
+   96,
+   "te er ere, or RB Cr Bek,",
+   "THE TREASURE CHEST"
+  ],
+  [
+   97,
+   "Ney: B O-O°%K HYRO SU ito. a",
+   "MY BOOK HOUSE"
+  ],
+  [
+   98,
+   "Padre 4) Reb A SOU BOC Hb ook",
+   "THE TREASURE CHEST"
+  ],
+  [
+   100,
+   "i eed Kore ASSTUAR Ee o-C HE Sit",
+   "THE TREASURE CHEST"
+  ],
+  [
+   101,
+   "M 2Y' B O70 7K Hy OU See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   102,
+   "Pero Ci hae UPR te CH BE Sar",
+   "THE TREASURE CHEST"
+  ],
+  [
+   104,
+   "Pree CRE ASURE ‘CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   105,
+   "M Y Bo One ats HG US ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   106,
+   "feb Ree AS UR Bb oC HE Sek",
+   "THE TREASURE CHEST"
+  ],
+  [
+   107,
+   "MY BOO K Hi O UPS E",
+   "MY BOOK HOUSE"
+  ],
+  [
+   109,
+   "MY. By OSOtdks HO Uses",
+   "MY BOOK HOUSE"
+  ],
+  [
+   110,
+   "Pie TRE A SURE (CH Sa",
+   "THE TREASURE CHEST"
+  ],
+  [
+   111,
+   "M Y BOO UK HY O° UTS e",
+   "MY BOOK HOUSE"
+  ],
+  [
+   113,
+   "VEN B30 707K EO US",
+   "MY BOOK HOUSE"
+  ],
+  [
+   114,
+   "Peete hoe AS eR ih CCH Eb Sal",
+   "THE TREASURE CHEST"
+  ],
+  [
+   115,
+   "V] oN BQ 07K EE’ OU an es",
+   "MY BOOK HOUSE"
+  ],
+  [
+   116,
+   "Pero AP RO AS UCR EC HE Sel",
+   "THE TREASURE CHEST"
+  ],
+  [
+   117,
+   "icy. Be Ove0 2K HO .Ur oere",
+   "MY BOOK HOUSE"
+  ],
+  [
+   118,
+   "Pobhie Ran A MURR OC. He RIS",
+   "THE TREASURE CHEST"
+  ],
+  [
+   120,
+   "Pee eee AS URIBE CH Eo Sa",
+   "THE TREASURE CHEST"
+  ],
+  [
+   121,
+   "Mey BOO K HIQ. OVS 78",
+   "MY BOOK HOUSE"
+  ],
+  [
+   124,
+   "Gol ite GRE A SUR E. 7C HE Se",
+   "THE TREASURE CHEST"
+  ],
+  [
+   125,
+   "NY BOOK HO UNS)",
+   "MY BOOK HOUSE"
+  ],
+  [
+   126,
+   "Poe ee hee A UR EB OCH EB Sol",
+   "THE TREASURE CHEST"
+  ],
+  [
+   127,
+   "MY B O70°K HOP Ure",
+   "MY BOOK HOUSE"
+  ],
+  [
+   128,
+   "PRE DREASURE CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   131,
+   "Mi Y BOOK Hi 0° Ue sE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   133,
+   "M Y BYVOVOUCK HO Uta ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   136,
+   "Prt? TREASURE CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   137,
+   "Way: BO\" OK (i pHi O Oa",
+   "MY BOOK HOUSE"
+  ],
+  [
+   138,
+   "roe ROE A SOWUCR EC HE Sof",
+   "THE TREASURE CHEST"
+  ],
+  [
+   140,
+   "tie Rr Aree oR BOC Web sa",
+   "THE TREASURE CHEST"
+  ],
+  [
+   141,
+   "M Y BOOK HO Uae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   142,
+   "Poet wae her A Se ROR VCH By Sak",
+   "THE TREASURE CHEST"
+  ],
+  [
+   143,
+   "Me:¥ BO 0 AW H“2Q) USE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   144,
+   "poi al Rik AS UTR-E. iC HE Ser",
+   "THE TREASURE CHEST"
+  ],
+  [
+   145,
+   "MEY. BOO K HO Sr",
+   "MY BOOK HOUSE"
+  ],
+  [
+   146,
+   "mele rok BEAR Seu cR: Es “CoH EE. Seb",
+   "THE TREASURE CHEST"
+  ],
+  [
+   147,
+   "M Y BOOK HY O USE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   148,
+   "Paes SRA SURE. OC HE S:T",
+   "THE TREASURE CHEST"
+  ],
+  [
+   149,
+   "Me Yi BO Oak H O.-U: See8",
+   "MY BOOK HOUSE"
+  ],
+  [
+   151,
+   "M Y BOOK HY Oo Ua ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   155,
+   "Nts BOO K HO -UGsse",
+   "MY BOOK HOUSE"
+  ],
+  [
+   157,
+   "; He 1 wo",
+   "MY BOOK HOUSE"
+  ],
+  [
+   158,
+   "Po ee ieee Aor Re iC HE Sik",
+   "THE TREASURE CHEST"
+  ],
+  [
+   159,
+   "NY BO SOCK He Ouse Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   160,
+   "Pee URE A SURE OC HW EeSilt",
+   "THE TREASURE CHEST"
+  ],
+  [
+   161,
+   "Mev iB @ O'R HOUSE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   162,
+   "ote Reb AY SUR Ee He Sr",
+   "THE TREASURE CHEST"
+  ],
+  [
+   163,
+   "EON. B O3001K He (Ov Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   164,
+   "eee none BC A Sak",
+   "THE TREASURE CHEST"
+  ],
+  [
+   165,
+   "WEY. B OOK 2.3 GO Uae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   166,
+   "Taner Dass COH See",
+   "THE TREASURE CHEST"
+  ],
+  [
+   168,
+   "en an Rea ADU RE CH Se",
+   "THE TREASURE CHEST"
+  ],
+  [
+   169,
+   "MY BO 0° K << GH Ga awe",
+   "MY BOOK HOUSE"
+  ],
+  [
+   170,
+   "foie MP Re AS UR Bo CVE ST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   172,
+   "Pie Ren ASU eR EB oC Hobe SL",
+   "THE TREASURE CHEST"
+  ],
+  [
+   173,
+   "M Y BO GOCUNK HO PU Sirk",
+   "MY BOOK HOUSE"
+  ],
+  [
+   174,
+   "Pee eR hoACSee (ROR OCH BE Sik",
+   "THE TREASURE CHEST"
+  ],
+  [
+   175,
+   "NY BOOK He OU eae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   177,
+   "Be OO Kk HO Uae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   178,
+   "(epee Re Avo UR boo C HR Sct",
+   "THE TREASURE CHEST"
+  ],
+  [
+   179,
+   "MOV 1 oR 0 O00 (3a orton see",
+   "MY BOOK HOUSE"
+  ],
+  [
+   180,
+   "fey Ri A STUTR BE. OCH EST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   181,
+   "ale B O30 ik Hi © Ut st",
+   "MY BOOK HOUSE"
+  ],
+  [
+   183,
+   "M Y BO 0 Uk HAO Uist",
+   "MY BOOK HOUSE"
+  ],
+  [
+   184,
+   "irks PRE ASHUR EE sCHE ST?",
+   "THE TREASURE CHEST"
+  ],
+  [
+   186,
+   "feo Aker A SUR DP ¢C HE Sit",
+   "THE TREASURE CHEST"
+  ],
+  [
+   187,
+   "M Y BOOK HO” UN Sie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   188,
+   "whee VRE A SUR BE CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   190,
+   "ives PRE A SIUIR b oC HE Sit",
+   "THE TREASURE CHEST"
+  ],
+  [
+   191,
+   "M Y BOOK Hi O.UTStE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   192,
+   "mies URE ASIUTR BE. AE ST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   193,
+   "BOOK HO Unst 2",
+   "MY BOOK HOUSE"
+  ],
+  [
+   194,
+   "Poe 2 RE A SIUCRE SC HE Si",
+   "THE TREASURE CHEST"
+  ],
+  [
+   195,
+   "Me ¥ i GB OS0UK A AHP O Ue",
+   "MY BOOK HOUSE"
+  ],
+  [
+   196,
+   "Pere ten A oe ROE CH ES ff",
+   "THE TREASURE CHEST"
+  ],
+  [
+   197,
+   "atl eine Se ee",
+   "MY BOOK HOUSE"
+  ],
+  [
+   198,
+   "ies DRE AS URE CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   199,
+   "Wie Ye ot 2 Oe oO aS He Oa",
+   "MY BOOK HOUSE"
+  ],
+  [
+   200,
+   "po beck Rin A otUR Bo COHOE Seb",
+   "THE TREASURE CHEST"
+  ],
+  [
+   201,
+   "BOOK } BVO a",
+   "MY BOOK HOUSE"
+  ],
+  [
+   202,
+   "Pee heh A UR Ee oC HB Ser",
+   "THE TREASURE CHEST"
+  ],
+  [
+   203,
+   "M Y De) AO Tae FS. Oo SU Seer",
+   "MY BOOK HOUSE"
+  ],
+  [
+   204,
+   "fete ee Ren A SU Roe COH BSE",
+   "THE TREASURE CHEST"
+  ],
+  [
+   205,
+   "Mecy BAO 78 Ae He OU Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   206,
+   "Pre ha A aU ROB OCH BE Scr",
+   "THE TREASURE CHEST"
+  ],
+  [
+   207,
+   "Nie yy B.O 0 K HO Lusi",
+   "MY BOOK HOUSE"
+  ],
+  [
+   208,
+   "Tetag ee Den A or Ro CCH ES",
+   "THE TREASURE CHEST"
+  ],
+  [
+   209,
+   "MEY: BOO K H..O Uses 7E",
+   "MY BOOK HOUSE"
+  ],
+  [
+   210,
+   "THE TREASURE “CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   212,
+   "Pret TRE AUR: CHE Sof",
+   "THE TREASURE CHEST"
+  ],
+  [
+   213,
+   "Ne Y: BO. 30008 Hi OSU Sake",
+   "MY BOOK HOUSE"
+  ],
+  [
+   214,
+   "Fite TREASURE NCH ES",
+   "THE TREASURE CHEST"
+  ],
+  [
+   217,
+   "M Y BOOK HO; Us Sek",
+   "MY BOOK HOUSE"
+  ],
+  [
+   218,
+   "Poh 2 Wak aS sR Be eC HE Si",
+   "THE TREASURE CHEST"
+  ],
+  [
+   219,
+   "M Y BOO RK HOUSE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   220,
+   "fee ee A STU RB SCH ES T",
+   "THE TREASURE CHEST"
+  ],
+  [
+   221,
+   "Ne Y BO. OK Hi Oo Utsiie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   222,
+   "Sree REA SUR Ee Core E Sok",
+   "THE TREASURE CHEST"
+  ],
+  [
+   223,
+   "Ney BOOK HO Up Sek",
+   "MY BOOK HOUSE"
+  ],
+  [
+   224,
+   "DHE TREASURE CH fist",
+   "THE TREASURE CHEST"
+  ],
+  [
+   225,
+   "M Y B 007% HEVOOU tS",
+   "MY BOOK HOUSE"
+  ],
+  [
+   226,
+   "feb IRE A SSUAR BC H ESF",
+   "THE TREASURE CHEST"
+  ],
+  [
+   227,
+   "MY BOO K-) Hig uceea",
+   "MY BOOK HOUSE"
+  ],
+  [
+   228,
+   "Pree era A osUa ke. CORE SD",
+   "THE TREASURE CHEST"
+  ],
+  [
+   229,
+   "MY¥ ‘BOO k 10. =",
+   "MY BOOK HOUSE"
+  ],
+  [
+   231,
+   "Wey BO OF Kk EPO US",
+   "MY BOOK HOUSE"
+  ],
+  [
+   232,
+   "More hE A SUR EB COH Be Sid",
+   "THE TREASURE CHEST"
+  ],
+  [
+   233,
+   "M Y B O\"07K HO USE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   234,
+   "Pee AE ORB ATSAU IR EC Hek Sef",
+   "THE TREASURE CHEST"
+  ],
+  [
+   235,
+   "M Y BO: O°CK H 0O- USE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   236,
+   "fie? PR EAS UR B oC H BE Sir",
+   "THE TREASURE CHEST"
+  ],
+  [
+   237,
+   "M Y BOO K HO°UTST",
+   "MY BOOK HOUSE"
+  ],
+  [
+   238,
+   "Vth PREA SUR E OCH EST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   239,
+   "Wey: BOOK HH? OU SE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   240,
+   "pete aie Pe SUR EOC AYES OF",
+   "THE TREASURE CHEST"
+  ],
+  [
+   242,
+   "THe PRA SHER ERICH E ST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   243,
+   "MV (8B 0°0 72K 10 Uree",
+   "MY BOOK HOUSE"
+  ],
+  [
+   245,
+   "VEEN ORY vik De) ee HO Wiser",
+   "MY BOOK HOUSE"
+  ],
+  [
+   246,
+   "ete eB AS UR BE COH Eo Set",
+   "THE TREASURE CHEST"
+  ],
+  [
+   248,
+   "Here RE A SUR BC HER. Sof",
+   "THE TREASURE CHEST"
+  ],
+  [
+   249,
+   "WE eM BOO 1k Hi:O Ua Sao",
+   "MY BOOK HOUSE"
+  ],
+  [
+   250,
+   "aie ee Dy ALR Bs: CH FS Fr",
+   "THE TREASURE CHEST"
+  ],
+  [
+   251,
+   "M Y B: OF ak HO? Ups",
+   "MY BOOK HOUSE"
+  ],
+  [
+   252,
+   "Piero PR EAS URE OC HE Sf",
+   "THE TREASURE CHEST"
+  ],
+  [
+   253,
+   "M Y B O-O TK iO FURS ee",
+   "MY BOOK HOUSE"
+  ],
+  [
+   254,
+   "otitis be Re ATS UCR SE °C H ES TP",
+   "THE TREASURE CHEST"
+  ],
+  [
+   255,
+   "M Y BOO K HO (USE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   256,
+   "ROGET lh ACS WORE tC HB Sib",
+   "THE TREASURE CHEST"
+  ],
+  [
+   257,
+   "VEY BO 40 Kk HOV UMS iE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   258,
+   "Poteet her A SUR oC HE Si.",
+   "THE TREASURE CHEST"
+  ],
+  [
+   260,
+   "Pareto win SOU RE OC HVE Sel",
+   "THE TREASURE CHEST"
+  ],
+  [
+   261,
+   "Wee BOOK He Oo Oma e",
+   "MY BOOK HOUSE"
+  ],
+  [
+   262,
+   "one Doak. SUR BE coCe EB SIT.",
+   "THE TREASURE CHEST"
+  ],
+  [
+   264,
+   "Pa net Ree ASTUR BOC HR Skt",
+   "THE TREASURE CHEST"
+  ],
+  [
+   265,
+   "Mey B- OOUK EO ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   266,
+   ". a Tee le",
+   "THE TREASURE CHEST"
+  ],
+  [
+   267,
+   "Nias B O70 UK HO Uae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   268,
+   "Meh eer RE AS UU ROE. oC Tr Bs Sik",
+   "THE TREASURE CHEST"
+  ],
+  [
+   269,
+   "MY BOO K He ONO vs te",
+   "MY BOOK HOUSE"
+  ],
+  [
+   271,
+   "M Y BOO KK HO Ui are",
+   "MY BOOK HOUSE"
+  ],
+  [
+   272,
+   "Pee ihe A SUR eC HOR Sof",
+   "THE TREASURE CHEST"
+  ],
+  [
+   273,
+   "M Y B O20\" BK He OF We Sr",
+   "MY BOOK HOUSE"
+  ],
+  [
+   274,
+   "Ars aL Ba es UR Con BS. 7",
+   "THE TREASURE CHEST"
+  ],
+  [
+   275,
+   "M Y BOO K Hy OryUr Sea",
+   "MY BOOK HOUSE"
+  ],
+  [
+   276,
+   "epee ele Paso Gs Ron CH be Sf",
+   "THE TREASURE CHEST"
+  ],
+  [
+   277,
+   "M Y BO 1OUCK Ho OC Ursh",
+   "MY BOOK HOUSE"
+  ],
+  [
+   278,
+   "Peete Re A SURE (CHE Sy",
+   "THE TREASURE CHEST"
+  ],
+  [
+   279,
+   "M Y Bo OOO AK Hse OA as eae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   280,
+   "a hey a Ree A SIUTR EE. (CHE Sif",
+   "THE TREASURE CHEST"
+  ],
+  [
+   281,
+   "DER. BO as HO Uesie",
+   "MY BOOK HOUSE"
+  ],
+  [
+   283,
+   "Mr Y¥ B O70 K Hi-O Oe Sr",
+   "MY BOOK HOUSE"
+  ],
+  [
+   284,
+   "age oe eA UCR Bo. Ce Sop",
+   "THE TREASURE CHEST"
+  ],
+  [
+   287,
+   "ct \\s. Me ot",
+   "MY BOOK HOUSE"
+  ],
+  [
+   288,
+   "eet at Nh OU TRB oY CHR Sof",
+   "THE TREASURE CHEST"
+  ],
+  [
+   289,
+   "M Y BO OK He OU Sr",
+   "MY BOOK HOUSE"
+  ],
+  [
+   291,
+   "M Y BB OFno oak He O° UPS ee",
+   "MY BOOK HOUSE"
+  ],
+  [
+   292,
+   "fetes AE RRA S URE GH BE -Sit",
+   "THE TREASURE CHEST"
+  ],
+  [
+   293,
+   "M Y By O-O %K HO Urs -2",
+   "MY BOOK HOUSE"
+  ],
+  [
+   295,
+   "Vie -Y: Bo O70 3K TH O° a",
+   "MY BOOK HOUSE"
+  ],
+  [
+   296,
+   "See VE A SiUak Be © Heh Saf",
+   "THE TREASURE CHEST"
+  ],
+  [
+   297,
+   "WE Yt BR) oS ake He Ue See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   298,
+   "Pepe tee AOU RM CH Ee Sok",
+   "THE TREASURE CHEST"
+  ],
+  [
+   299,
+   "Woy B070O° K HO UvSee",
+   "MY BOOK HOUSE"
+  ],
+  [
+   300,
+   "ee be oO RAB A SOUR: BOC AOE Su?",
+   "THE TREASURE CHEST"
+  ],
+  [
+   301,
+   "IVE SY, BOOK HV Oe ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   302,
+   "Pobre i eA eR BR Con Ee Sod",
+   "THE TREASURE CHEST"
+  ],
+  [
+   303,
+   "MAY. By OVO Kk HO: Use",
+   "MY BOOK HOUSE"
+  ],
+  [
+   305,
+   "My, BOOK HOU Ur S, 2",
+   "MY BOOK HOUSE"
+  ],
+  [
+   307,
+   "MOY 5B O30 7K “HO ass",
+   "MY BOOK HOUSE"
+  ],
+  [
+   308,
+   "Pee mR ASR E “CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   309,
+   "M Y Be ORO Kk Hi OU Sor",
+   "MY BOOK HOUSE"
+  ],
+  [
+   310,
+   "Pee ero hee ASU RE CBee Set",
+   "THE TREASURE CHEST"
+  ],
+  [
+   311,
+   "vie Ys BOO K HO Us SVE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   312,
+   "fete reais or U RE 2C HE Ser",
+   "THE TREASURE CHEST"
+  ],
+  [
+   314,
+   "iow tei A oeUR BOC HE Sf",
+   "THE TREASURE CHEST"
+  ],
+  [
+   315,
+   "Mey USB 0 Ok § =HtOar oar",
+   "MY BOOK HOUSE"
+  ],
+  [
+   316,
+   "eee eRe br eRe CHR SE",
+   "THE TREASURE CHEST"
+  ],
+  [
+   317,
+   "M Y B O70 K Eb? OF i See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   319,
+   "Misic¥. BO -OGK HS OEUP sre",
+   "MY BOOK HOUSE"
+  ],
+  [
+   320,
+   "Merete wl mon awk Boe iC® H BoS<k",
+   "THE TREASURE CHEST"
+  ],
+  [
+   321,
+   "M Y BO\") vas HO eae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   322,
+   "eee Ree AG UR Eo CH ES 7",
+   "THE TREASURE CHEST"
+  ],
+  [
+   323,
+   "NEY Bo OF OK TH Oo ee,",
+   "MY BOOK HOUSE"
+  ],
+  [
+   324,
+   "Peete Ree A oUt R EC HE Seb",
+   "THE TREASURE CHEST"
+  ],
+  [
+   325,
+   "M Y Bi OA ie He .O) Usa Sk",
+   "MY BOOK HOUSE"
+  ],
+  [
+   326,
+   "Plt i hen A SOU R Bere HE Sf",
+   "THE TREASURE CHEST"
+  ],
+  [
+   327,
+   "Way BOO KK HCO scd es ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   328,
+   "Reber Mh ee Ao UR tC Eb Sib",
+   "THE TREASURE CHEST"
+  ],
+  [
+   329,
+   "MOV OBO 00K 4 Ub Olt",
+   "MY BOOK HOUSE"
+  ],
+  [
+   330,
+   "a Poe oes yo URE CHE S?7T",
+   "THE TREASURE CHEST"
+  ],
+  [
+   331,
+   "M Y BOO He: OU See",
+   "MY BOOK HOUSE"
+  ],
+  [
+   332,
+   "Poe ob hab A SU. RB iC HE Ss",
+   "THE TREASURE CHEST"
+  ],
+  [
+   333,
+   "ME’ .¥ Be (OO aks HOUR ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   334,
+   "fore PR EAS UR CHE So",
+   "THE TREASURE CHEST"
+  ],
+  [
+   335,
+   "M Y BO) Oi He-O: URS",
+   "MY BOOK HOUSE"
+  ],
+  [
+   336,
+   "ei te Ree AUR eC HOR Ste",
+   "THE TREASURE CHEST"
+  ],
+  [
+   337,
+   "iA ‘er fj cs : Se Le SN age i gp",
+   ""
+  ],
+  [
+   338,
+   "ieee Ree ASU R Bow H EB Str",
+   "THE TREASURE CHEST"
+  ],
+  [
+   339,
+   "VEN B OO dk FOF Ue ore",
+   "MY BOOK HOUSE"
+  ],
+  [
+   340,
+   "Es ar eee LE",
+   "THE TREASURE CHEST"
+  ],
+  [
+   341,
+   "M Y B° OO. O0 cK HOO\" Una",
+   "MY BOOK HOUSE"
+  ],
+  [
+   342,
+   "Pebteee boner or Uk Cron Sef",
+   "THE TREASURE CHEST"
+  ],
+  [
+   343,
+   "NEY, BO Uae BO. Cea",
+   "MY BOOK HOUSE"
+  ],
+  [
+   345,
+   "VEY B O-0O K HO “USS",
+   "MY BOOK HOUSE"
+  ],
+  [
+   347,
+   "M Y BA QO) aS Hei Oo Ge ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   349,
+   "M Y BOO K He Oe User",
+   "MY BOOK HOUSE"
+  ],
+  [
+   350,
+   "pon eon SUR be A BSP",
+   "THE TREASURE CHEST"
+  ],
+  [
+   351,
+   "MYO B K HO ve Wien",
+   "MY BOOK HOUSE"
+  ],
+  [
+   352,
+   "Pte eA Oe OU Reve HE Seb",
+   "THE TREASURE CHEST"
+  ],
+  [
+   353,
+   "M Y BEOSOCKK A O2 0 as",
+   "MY BOOK HOUSE"
+  ],
+  [
+   354,
+   "ieee Reb ASU R EB eC. HR’ S:T",
+   "THE TREASURE CHEST"
+  ],
+  [
+   355,
+   "Vey! BOO as BO) a seek",
+   "MY BOOK HOUSE"
+  ],
+  [
+   356,
+   "fete ee hee A OU ROR ACOH EB Sid",
+   "THE TREASURE CHEST"
+  ],
+  [
+   357,
+   "NEY: BOOK HO US SE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   358,
+   "Pe eee oe URE iC ey Sl",
+   "THE TREASURE CHEST"
+  ],
+  [
+   359,
+   "NEY BOOK PO Us Saere",
+   "MY BOOK HOUSE"
+  ],
+  [
+   360,
+   "Pores RE AS URE «CG H-E-S:T",
+   "THE TREASURE CHEST"
+  ],
+  [
+   362,
+   "imei non. Ree. SG HE Sey",
+   "THE TREASURE CHEST"
+  ],
+  [
+   363,
+   "MM ¥ BOOK H O-U: SE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   364,
+   "fone ecw Oru ek Boe Heh Sol",
+   "THE TREASURE CHEST"
+  ],
+  [
+   366,
+   "Tee TREASURE -CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   367,
+   "M Y BOOK Heo Use",
+   "MY BOOK HOUSE"
+  ],
+  [
+   368,
+   "Wide ih orl R Bt Hb Si",
+   "THE TREASURE CHEST"
+  ],
+  [
+   369,
+   "Mic BO; OK H'\"O: Uae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   370,
+   "fier RE ASIURE CHES T",
+   "THE TREASURE CHEST"
+  ],
+  [
+   371,
+   "M Y BO. 071% PEO eS ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   372,
+   "Were enor oS UR BC HR Sif",
+   "THE TREASURE CHEST"
+  ],
+  [
+   373,
+   "M Y BOOK HO UR SES",
+   "MY BOOK HOUSE"
+  ],
+  [
+   374,
+   "Pepe Te ORAS UG ROE 2c H Bb Se",
+   "THE TREASURE CHEST"
+  ],
+  [
+   375,
+   "NEC ON EDS BG oe IS He OW se ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   376,
+   "tober Ree A orUIR E.G HE Sef",
+   "THE TREASURE CHEST"
+  ],
+  [
+   377,
+   "NAY BOO eK Hy: O: Ue Sao",
+   "MY BOOK HOUSE"
+  ],
+  [
+   378,
+   "Pole eRe AS SCUER Bo oC HE Sof",
+   "THE TREASURE CHEST"
+  ],
+  [
+   379,
+   "Vieey B O7WOUK He @ Oy Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   380,
+   "of os Se oy BC A Re Sf",
+   "THE TREASURE CHEST"
+  ],
+  [
+   381,
+   "DUS BOO sas O° Uno",
+   "MY BOOK HOUSE"
+  ],
+  [
+   382,
+   "mie Ryka Ss ULR E-OCH E ST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   384,
+   "minis, REA STUTR Cn E Sor",
+   "THE TREASURE CHEST"
+  ],
+  [
+   385,
+   "MY B°O30 ke * iG Users",
+   "MY BOOK HOUSE"
+  ],
+  [
+   388,
+   "ome ee ROR Ae Uo Rb GH BE Sel",
+   "THE TREASURE CHEST"
+  ],
+  [
+   389,
+   "hie B: OOK HH OF Us srr",
+   "MY BOOK HOUSE"
+  ],
+  [
+   391,
+   "WIC y Be 30) ik Eis (Os 08 oe ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   392,
+   "ler i heen Sei, bes CH ESE",
+   "THE TREASURE CHEST"
+  ],
+  [
+   393,
+   "Meay BOO) K He OO; Ug ore",
+   "MY BOOK HOUSE"
+  ],
+  [
+   394,
+   "Meer Ts TREASURE i ee eh",
+   "THE TREASURE CHEST"
+  ],
+  [
+   396,
+   "fe Ge oe ei Aes COH BS ES",
+   "THE TREASURE CHEST"
+  ],
+  [
+   397,
+   "M Y BOO K HO Ugo",
+   "MY BOOK HOUSE"
+  ],
+  [
+   398,
+   "Ger eds Rok eA aU RE eC Be SFP",
+   "THE TREASURE CHEST"
+  ],
+  [
+   399,
+   "Mer Y BOUOUK HH?) OCCU Sh",
+   "MY BOOK HOUSE"
+  ],
+  [
+   401,
+   "M Y BLO GOS He OF sO",
+   "MY BOOK HOUSE"
+  ],
+  [
+   402,
+   "Pon be a we AV SAUR BE SC HOH Sof",
+   "THE TREASURE CHEST"
+  ],
+  [
+   403,
+   "M Y B OOTP He Oe Con Sno",
+   "MY BOOK HOUSE"
+  ],
+  [
+   404,
+   "Mite PRE ASU RE “CHEST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   405,
+   "M Y BQ 07K HO UR sre",
+   "MY BOOK HOUSE"
+  ],
+  [
+   407,
+   "SY B On OT AS HY OCU SE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   408,
+   "ee ae ny NR OC AE Sab",
+   "THE TREASURE CHEST"
+  ],
+  [
+   409,
+   "Me Y BO VO UK HO 3 UE Sek",
+   "MY BOOK HOUSE"
+  ],
+  [
+   410,
+   "Pipers, beeen ol ROR C HE Sel",
+   "THE TREASURE CHEST"
+  ],
+  [
+   412,
+   "Pie eh hee A UPR EB eC HE Sor",
+   "THE TREASURE CHEST"
+  ],
+  [
+   413,
+   "WIRY SB a) FPO Ue Se",
+   "MY BOOK HOUSE"
+  ],
+  [
+   415,
+   "M Y BOO K He O° Ure SB",
+   "MY BOOK HOUSE"
+  ],
+  [
+   416,
+   "ieee b Ree oor REO HE SP",
+   "THE TREASURE CHEST"
+  ],
+  [
+   418,
+   "heh Ney Wi R BOC AR Sof",
+   "THE TREASURE CHEST"
+  ],
+  [
+   419,
+   "M Y B O40 HO UtSe8",
+   "MY BOOK HOUSE"
+  ],
+  [
+   420,
+   "foes Whee oe URE CH EST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   421,
+   "Mey BO: O°7K HH: O 10437 8",
+   "MY BOOK HOUSE"
+  ],
+  [
+   423,
+   "WEY B OCO7K Hi O UsSs78",
+   "MY BOOK HOUSE"
+  ],
+  [
+   424,
+   "Poe oP bee Aes URI aC H ES: 7",
+   "THE TREASURE CHEST"
+  ],
+  [
+   425,
+   "Ney. BOO FO ak HO. Ut 3",
+   "MY BOOK HOUSE"
+  ],
+  [
+   427,
+   "Mey B Ofna Hp Or Ses",
+   "MY BOOK HOUSE"
+  ],
+  [
+   428,
+   "ieee ce he eo UR REEE oe HE Sie",
+   "THE TREASURE CHEST"
+  ],
+  [
+   429,
+   "M Y BOO K Fhe Wear ae",
+   "MY BOOK HOUSE"
+  ],
+  [
+   430,
+   "Bebe er de a JER Be C HE ST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   431,
+   "MY * B O30uK) Ht Ose",
+   "MY BOOK HOUSE"
+  ],
+  [
+   432,
+   "ee eo haen ou RB eGo Sel",
+   "THE TREASURE CHEST"
+  ],
+  [
+   433,
+   "MEOY BVO 80\" HOU Se.8",
+   "MY BOOK HOUSE"
+  ],
+  [
+   434,
+   "Tobe eee URE: CHE St",
+   "THE TREASURE CHEST"
+  ],
+  [
+   435,
+   "Mie! BO 7OCK Hi O- US5a is",
+   "MY BOOK HOUSE"
+  ],
+  [
+   436,
+   "ie he A oe RRC HE Sir",
+   "THE TREASURE CHEST"
+  ],
+  [
+   437,
+   "MEV 1B 00 1 . HO Ula",
+   "MY BOOK HOUSE"
+  ],
+  [
+   438,
+   "be oe oe Uk Ey oC Hy Sak",
+   "THE TREASURE CHEST"
+  ],
+  [
+   440,
+   "in Ey Abeer AS URE (OCH EST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   441,
+   "MY BOO K HOUSE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   442,
+   "fo oD not Re iC HOB. Ser",
+   "THE TREASURE CHEST"
+  ],
+  [
+   443,
+   "MoV\" B 0 100k 7 SH Ot see",
+   "MY BOOK HOUSE"
+  ],
+  [
+   444,
+   "iyi ee oe Rea SUR Bc H E Set",
+   "THE TREASURE CHEST"
+  ],
+  [
+   446,
+   "Pie PR AS URE 3 CH EST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   447,
+   "NWLe7¥ B O-VOUK He O° Ut SFE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   448,
+   "frees oe hee Noo RB SC Hee SL",
+   "THE TREASURE CHEST"
+  ],
+  [
+   450,
+   "Str ie ASU RB CH esr",
+   "THE TREASURE CHEST"
+  ],
+  [
+   22,
+   "fee oh ROE ASSURE &C HE ST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   46,
+   "Perea wt Rib A So UCR a CHE Sol",
+   "THE TREASURE CHEST"
+  ],
+  [
+   49,
+   "Meyer) BOO Re 0) Utes",
+   "MY BOOK HOUSE"
+  ],
+  [
+   76,
+   "Petre Pork Ao Bee Hee oak",
+   "THE TREASURE CHEST"
+  ],
+  [
+   108,
+   "Peer Geo A SUR EC Heb Sal",
+   "THE TREASURE CHEST"
+  ],
+  [
+   122,
+   "pear Toke AS OR EB? cC Boo",
+   "THE TREASURE CHEST"
+  ],
+  [
+   123,
+   "M Y BOOK HOW yore",
+   "MY BOOK HOUSE"
+  ],
+  [
+   129,
+   "Wee y BOO K Hy OURS",
+   "MY BOOK HOUSE"
+  ],
+  [
+   132,
+   "oho hE OAS URIBE CON Bes f",
+   "THE TREASURE CHEST"
+  ],
+  [
+   134,
+   "Pee Re EA SUCRE SC HOE Sak",
+   "THE TREASURE CHEST"
+  ],
+  [
+   154,
+   "Pee lei A SURE. CH ES",
+   "THE TREASURE CHEST"
+  ],
+  [
+   156,
+   "Poe. eRe A SURE. CH B Sif.",
+   "THE TREASURE CHEST"
+  ],
+  [
+   176,
+   "Ate Rib SURE. CHE St",
+   "THE TREASURE CHEST"
+  ],
+  [
+   182,
+   "ftiete ORE ASAURE (CH Sit",
+   "THE TREASURE CHEST"
+  ],
+  [
+   189,
+   "Wey BOO us HO\" Usa",
+   "MY BOOK HOUSE"
+  ],
+  [
+   211,
+   "M<Y BOO) aK HO\" User",
+   "MY BOOK HOUSE"
+  ],
+  [
+   230,
+   "Pee eRe AS UR Bs eC HES oT",
+   "THE TREASURE CHEST"
+  ],
+  [
+   263,
+   "MEN, BOO a6 Hy Ooo UR Saar",
+   "MY BOOK HOUSE"
+  ],
+  [
+   282,
+   "Wb Bee eA SU ORES CUR EST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   286,
+   "Sine et ion SOUR Bs Cony ESP",
+   "THE TREASURE CHEST"
+  ],
+  [
+   290,
+   "Poe Roe A SURE °° CH E'S T",
+   "THE TREASURE CHEST"
+  ],
+  [
+   294,
+   "Tia REA SURE «CH PST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   304,
+   "Oe oe od, ASS ORE eC Bo Sid",
+   "THE TREASURE CHEST"
+  ],
+  [
+   313,
+   "Macy B70 (Oak HO MSE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   344,
+   "Hie PRE ASSURE CHES T",
+   "THE TREASURE CHEST"
+  ],
+  [
+   346,
+   "foe ne Aeon R ee COH ER Sot",
+   "THE TREASURE CHEST"
+  ],
+  [
+   348,
+   "Wie PRA SURE NCH EST",
+   "THE TREASURE CHEST"
+  ],
+  [
+   365,
+   "NEO: BOO K Py Oe Ur sea",
+   "MY BOOK HOUSE"
+  ],
+  [
+   386,
+   "eb ie Ree worn BIG Hb Sop",
+   "THE TREASURE CHEST"
+  ],
+  [
+   422,
+   "re re i ieee UR Es CHE Sot",
+   "THE TREASURE CHEST"
+  ],
+  [
+   439,
+   "Nia BOO 0s HO USS",
+   "MY BOOK HOUSE"
+  ],
+  [
+   451,
+   "IVY BOO K HO“ U4SiE",
+   "MY BOOK HOUSE"
+  ],
+  [
+   0,
+   "=",
+   ""
+  ],
+  [
+   1,
+   ">",
+   ""
+  ],
+  [
+   1,
+   "—_",
+   ""
+  ],
+  [
+   1,
+   "=)",
+   ""
+  ],
+  [
+   1,
+   "(¥",
+   ""
+  ],
+  [
+   1,
+   "=~",
+   ""
+  ],
+  [
+   1,
+   "=\\S.",
+   ""
+  ],
+  [
+   1,
+   ">.",
+   ""
+  ],
+  [
+   1,
+   "»)",
+   ""
+  ],
+  [
+   1,
+   ">",
+   ""
+  ],
+  [
+   1,
+   "=",
+   ""
+  ],
+  [
+   1,
+   "=",
+   ""
+  ],
+  [
+   1,
+   "=",
+   ""
+  ],
+  [
+   1,
+   "—<—————",
+   ""
+  ],
+  [
+   1,
+   "°",
+   ""
+  ],
+  [
+   1,
+   "=~",
+   ""
+  ],
+  [
+   1,
+   "=",
+   ""
+  ],
+  [
+   1,
+   "—Sj_",
+   ""
+  ],
+  [
+   1,
+   "(|",
+   ""
+  ],
+  [
+   1,
+   "»",
+   ""
+  ],
+  [
+   1,
+   "<2\",",
+   ""
+  ],
+  [
+   1,
+   "-~T",
+   ""
+  ],
+  [
+   1,
+   "(\\F",
+   ""
+  ],
+  [
+   1,
+   "=",
+   ""
+  ],
+  [
+   8,
+   "<5.",
+   ""
+  ],
+  [
+   8,
+   "=...",
+   ""
+  ],
+  [
+   8,
+   ">",
+   ""
+  ],
+  [
+   9,
+   "§=~",
+   ""
+  ],
+  [
+   9,
+   "~—s",
+   ""
+  ],
+  [
+   9,
+   "1.0,",
+   ""
+  ],
+  [
+   10,
+   "|’.",
+   ""
+  ],
+  [
+   11,
+   "D+",
+   ""
+  ],
+  [
+   11,
+   "«.",
+   ""
+  ],
+  [
+   11,
+   "«.",
+   ""
+  ],
+  [
+   11,
+   "«.",
+   ""
+  ],
+  [
+   18,
+   "~s",
+   ""
+  ],
+  [
+   27,
+   "‘|",
+   ""
+  ],
+  [
+   29,
+   "@",
+   ""
+  ],
+  [
+   35,
+   "=",
+   ""
+  ],
+  [
+   35,
+   ">",
+   ""
+  ],
+  [
+   35,
+   "~—",
+   ""
+  ],
+  [
+   35,
+   "—=-",
+   ""
+  ],
+  [
+   35,
+   "=)",
+   ""
+  ],
+  [
+   39,
+   ">A",
+   ""
+  ],
+  [
+   46,
+   "|)",
+   ""
+  ],
+  [
+   74,
+   "~a",
+   ""
+  ],
+  [
+   84,
+   "=",
+   ""
+  ],
+  [
+   85,
+   "#",
+   ""
+  ],
+  [
+   87,
+   "=e",
+   ""
+  ],
+  [
+   88,
+   "aS)",
+   ""
+  ],
+  [
+   88,
+   "=",
+   ""
+  ],
+  [
+   91,
+   "mM}",
+   ""
+  ],
+  [
+   101,
+   "¢",
+   ""
+  ],
+  [
+   111,
+   "¢",
+   ""
+  ],
+  [
+   111,
+   "¢",
+   ""
+  ],
+  [
+   132,
+   "{>",
+   ""
+  ],
+  [
+   140,
+   "=",
+   ""
+  ],
+  [
+   145,
+   "=",
+   ""
+  ],
+  [
+   145,
+   "~—,",
+   ""
+  ],
+  [
+   166,
+   "-%",
+   ""
+  ],
+  [
+   166,
+   "<S¢PHINEAS",
+   "PHINEAS"
+  ],
+  [
+   173,
+   "S@.",
+   ""
+  ],
+  [
+   173,
+   "°",
+   ""
+  ],
+  [
+   177,
+   "=",
+   ""
+  ],
+  [
+   188,
+   "=",
+   ""
+  ],
+  [
+   188,
+   "=",
+   ""
+  ],
+  [
+   188,
+   "°",
+   ""
+  ],
+  [
+   188,
+   "aH}",
+   ""
+  ],
+  [
+   188,
+   "Y/",
+   ""
+  ],
+  [
+   193,
+   "=",
+   ""
+  ],
+  [
+   193,
+   "»)",
+   ""
+  ],
+  [
+   193,
+   "4/4}",
+   ""
+  ],
+  [
+   196,
+   "=",
+   ""
+  ],
+  [
+   197,
+   "©",
+   ""
+  ],
+  [
+   206,
+   "=",
+   ""
+  ],
+  [
+   206,
+   "¥59",
+   ""
+  ],
+  [
+   212,
+   "~!",
+   ""
+  ],
+  [
+   212,
+   "|}",
+   ""
+  ],
+  [
+   220,
+   "#",
+   ""
+  ],
+  [
+   220,
+   "|i",
+   ""
+  ],
+  [
+   220,
+   "#-—~35-8S*",
+   ""
+  ],
+  [
+   227,
+   "=",
+   ""
+  ],
+  [
+   230,
+   ">",
+   ""
+  ],
+  [
+   234,
+   "23%",
+   ""
+  ],
+  [
+   249,
+   "%,",
+   ""
+  ],
+  [
+   273,
+   "px|",
+   ""
+  ],
+  [
+   286,
+   "=.",
+   ""
+  ],
+  [
+   286,
+   "=7",
+   ""
+  ],
+  [
+   286,
+   "=",
+   ""
+  ],
+  [
+   286,
+   "=",
+   ""
+  ],
+  [
+   286,
+   "<=",
+   ""
+  ],
+  [
+   286,
+   "=",
+   ""
+  ],
+  [
+   286,
+   "=",
+   ""
+  ],
+  [
+   286,
+   "4,\\",
+   ""
+  ],
+  [
+   286,
+   "%",
+   ""
+  ],
+  [
+   287,
+   "-|",
+   ""
+  ],
+  [
+   322,
+   "=",
+   ""
+  ],
+  [
+   323,
+   "#",
+   ""
+  ],
+  [
+   323,
+   "M4@",
+   ""
+  ],
+  [
+   331,
+   ">——$_=",
+   ""
+  ],
+  [
+   331,
+   "Sor-—__<e",
+   ""
+  ],
+  [
+   337,
+   "+3",
+   ""
+  ],
+  [
+   338,
+   "%",
+   ""
+  ],
+  [
+   338,
+   "|.",
+   ""
+  ],
+  [
+   338,
+   "[{/",
+   ""
+  ],
+  [
+   338,
+   "\\4",
+   ""
+  ],
+  [
+   338,
+   "}\\",
+   ""
+  ],
+  [
+   348,
+   "{|",
+   ""
+  ],
+  [
+   350,
+   "°",
+   ""
+  ],
+  [
+   352,
+   "i>",
+   ""
+  ],
+  [
+   355,
+   "“|",
+   ""
+  ],
+  [
+   355,
+   "<-#44",
+   ""
+  ],
+  [
+   370,
+   "™~",
+   ""
+  ],
+  [
+   381,
+   ">",
+   ""
+  ],
+  [
+   393,
+   "+",
+   ""
+  ],
+  [
+   409,
+   "6\\",
+   ""
+  ],
+  [
+   409,
+   "D\\",
+   ""
+  ],
+  [
+   410,
+   "»",
+   ""
+  ],
+  [
+   413,
+   "=377]",
+   ""
+  ],
+  [
+   413,
+   "2]O",
+   ""
+  ],
+  [
+   413,
+   "e=4",
+   ""
+  ],
+  [
+   430,
+   "¢",
+   ""
+  ],
+  [
+   433,
+   "./",
+   ""
+  ],
+  [
+   435,
+   "=",
+   ""
+  ],
+  [
+   435,
+   "2#",
+   ""
+  ],
+  [
+   453,
+   "<<",
+   ""
+  ],
+  [
+   453,
+   "==",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "<a",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "B=",
+   ""
+  ],
+  [
+   453,
+   "———_",
+   ""
+  ],
+  [
+   453,
+   "@",
+   ""
+  ],
+  [
+   453,
+   "=~",
+   ""
+  ],
+  [
+   453,
+   "—ZE=_",
+   ""
+  ],
+  [
+   453,
+   "Ze»",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "—<———_——",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "=p",
+   ""
+  ],
+  [
+   453,
+   "==",
+   ""
+  ],
+  [
+   453,
+   "=~",
+   ""
+  ],
+  [
+   453,
+   "=)",
+   ""
+  ],
+  [
+   453,
+   "S=>",
+   ""
+  ],
+  [
+   453,
+   "=S",
+   ""
+  ],
+  [
+   453,
+   "W/O",
+   ""
+  ],
+  [
+   453,
+   "(|",
+   ""
+  ],
+  [
+   453,
+   "—<—SSs",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "£!’?_&L—--\\",
+   ""
+  ],
+  [
+   453,
+   "=D,",
+   ""
+  ],
+  [
+   453,
+   "—=—S==",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "<",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   453,
+   "=",
+   ""
+  ],
+  [
+   454,
+   "38-296",
+   ""
+  ],
+  [
+   454,
+   ">",
+   ""
+  ],
+  [
+   454,
+   "=",
+   ""
+  ],
+  [
+   1,
+   "7B",
+   ""
+  ],
+  [
+   6,
+   "BO@DKHOUSE",
+   "BOOKHOUSE"
+  ],
+  [
+   8,
+   "O2e",
+   ""
+  ],
+  [
+   8,
+   "BoyHoop",
+   "BOYHOOD"
+  ],
+  [
+   8,
+   "oF",
+   "OF"
+  ],
+  [
+   8,
+   "CaporE,",
+   "CADORE,"
+  ],
+  [
+   9,
+   "LittLE-Man-As-Bic-As-",
+   "LITTLE-MAN-AS-BIG-AS-"
+  ],
+  [
+   9,
+   "pAlfved",
+   "Alfred"
+  ],
+  [
+   9,
+   "Zu2",
+   ""
+  ],
+  [
+   10,
+   "TuRTLE’s",
+   "TURTLE’S"
+  ],
+  [
+   10,
+   "NicHts",
+   "NIGHTS"
+  ],
+  [
+   10,
+   "saniCoohaee",
+   ""
+  ],
+  [
+   10,
+   "DRAKE’sS",
+   "DRAKE’S"
+  ],
+  [
+   11,
+   "oR",
+   ""
+  ],
+  [
+   11,
+   "AESO3",
+   "ALSO"
+  ],
+  [
+   15,
+   "I2",
+   "12"
+  ],
+  [
+   18,
+   "oC",
+   ""
+  ],
+  [
+   35,
+   "Seo5",
+   ""
+  ],
+  [
+   35,
+   "eZ",
+   ""
+  ],
+  [
+   35,
+   "iS",
+   ""
+  ],
+  [
+   40,
+   "“T’11—”",
+   "“I’ll—”"
+  ],
+  [
+   46,
+   "aA",
+   ""
+  ],
+  [
+   60,
+   "Persia.in",
+   "Persia in"
+  ],
+  [
+   73,
+   "7O",
+   "70"
+  ],
+  [
+   79,
+   "perceived.a",
+   "perceived a"
+  ],
+  [
+   88,
+   "‘‘No:matter",
+   "‘‘No matter"
+  ],
+  [
+   94,
+   "gI",
+   "91"
+  ],
+  [
+   95,
+   "g2",
+   "92"
+  ],
+  [
+   99,
+   "music,above",
+   "music above"
+  ],
+  [
+   103,
+   "I0o",
+   "100"
+  ],
+  [
+   105,
+   "I02",
+   "102"
+  ],
+  [
+   111,
+   "&’come",
+   "come"
+  ],
+  [
+   115,
+   "II2",
+   "112"
+  ],
+  [
+   117,
+   "II4",
+   "114"
+  ],
+  [
+   118,
+   "II5",
+   "115"
+  ],
+  [
+   121,
+   "say/’’",
+   "say!’’"
+  ],
+  [
+   123,
+   "I20",
+   "120"
+  ],
+  [
+   124,
+   "I21I",
+   "121"
+  ],
+  [
+   125,
+   "I22",
+   "122"
+  ],
+  [
+   127,
+   "I24",
+   "124"
+  ],
+  [
+   131,
+   "_bull-",
+   "bull-"
+  ],
+  [
+   144,
+   "I4I",
+   "141"
+  ],
+  [
+   145,
+   "oN",
+   ""
+  ],
+  [
+   145,
+   "oY",
+   ""
+  ],
+  [
+   145,
+   "rA.0.C.",
+   ""
+  ],
+  [
+   180,
+   "and»",
+   "and"
+  ],
+  [
+   188,
+   "2a",
+   ""
+  ],
+  [
+   188,
+   "uSAiie",
+   ""
+  ],
+  [
+   188,
+   "aN",
+   ""
+  ],
+  [
+   188,
+   "oN",
+   ""
+  ],
+  [
+   197,
+   "cRane—",
+   ""
+  ],
+  [
+   197,
+   "ToLstoy",
+   "TOLSTOY"
+  ],
+  [
+   206,
+   "Martin®",
+   "Martin"
+  ],
+  [
+   207,
+   "MacDONALD",
+   "MACDONALD"
+  ],
+  [
+   221,
+   "mind—lI",
+   "mind—I"
+  ],
+  [
+   224,
+   "aS”",
+   ""
+  ],
+  [
+   224,
+   "iT",
+   ""
+  ],
+  [
+   230,
+   "A00",
+   ""
+  ],
+  [
+   234,
+   "_was",
+   "was"
+  ],
+  [
+   264,
+   "1am",
+   "I am"
+  ],
+  [
+   264,
+   "and.if",
+   "and if"
+  ],
+  [
+   266,
+   "oC",
+   ""
+  ],
+  [
+   266,
+   "oH",
+   ""
+  ],
+  [
+   278,
+   "heard:a",
+   "heard a"
+  ],
+  [
+   286,
+   "oF",
+   ""
+  ],
+  [
+   286,
+   "oS",
+   ""
+  ],
+  [
+   286,
+   "eB",
+   ""
+  ],
+  [
+   287,
+   "oI",
+   ""
+  ],
+  [
+   289,
+   "_crown",
+   "crown"
+  ],
+  [
+   289,
+   "handwork.of",
+   "handwork of"
+  ],
+  [
+   297,
+   "now/!”’",
+   "now!”’"
+  ],
+  [
+   337,
+   "\"7a",
+   ""
+  ],
+  [
+   337,
+   "fA",
+   ""
+  ],
+  [
+   355,
+   "\\!As",
+   "As"
+  ],
+  [
+   360,
+   "~The",
+   "The"
+  ],
+  [
+   366,
+   "_Even",
+   "Even"
+  ],
+  [
+   368,
+   "sure\\of",
+   "sure of"
+  ],
+  [
+   384,
+   "|moc.",
+   ""
+  ],
+  [
+   387,
+   "sO",
+   ""
+  ],
+  [
+   390,
+   "Monda’/min,",
+   "Mondá-min,"
+  ],
+  [
+   396,
+   "did|",
+   "did"
+  ],
+  [
+   399,
+   "yet.on",
+   "yet on"
+  ],
+  [
+   400,
+   "Johnson’s_",
+   "Johnson’s"
+  ],
+  [
+   406,
+   "Am/or-ites,",
+   "Am´or-ites,"
+  ],
+  [
+   410,
+   "yD",
+   ""
+  ],
+  [
+   410,
+   "oF",
+   ""
+  ],
+  [
+   415,
+   "Dan/a-e",
+   "Dan´a-e"
+  ],
+  [
+   420,
+   "BZZzay==s",
+   ""
+  ],
+  [
+   433,
+   "Am/a-zons,",
+   "Am´a-zons,"
+  ],
+  [
+   439,
+   "aS",
+   ""
+  ],
+  [
+   453,
+   "cS",
+   ""
+  ],
+  [
+   453,
+   "oS",
+   ""
+  ],
+  [
+   453,
+   "P25",
+   ""
+  ],
+  [
+   453,
+   "eeeeea“0ry",
+   ""
+  ],
+  [
+   453,
+   "WaSSY{EFZ",
+   ""
+  ],
+  [
+   453,
+   "eS",
+   ""
+  ]
+ ]
 }
