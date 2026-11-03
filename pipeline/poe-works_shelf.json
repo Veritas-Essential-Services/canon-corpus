@@ -1,5 +1,5 @@
 {
- "_about": "Edgar Allan Poe's tales, poems and criticism not already on another shelf (the reading-list poe shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_about": "Edgar Allan Poe's tales, poems and criticism not already on another shelf (the reading-list poe shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated. Bloom addition 2026-11-03 (Bloom's Western Canon): poe-complete-works, poe-virginia-edition-vol-xvi.",
  "_author": "Edgar Allan Poe",
  "_name_words": [
   "poe"
@@ -73,7 +73,16 @@
    "The poetical works of Edgar Allan Poe"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "poe-complete-works": [
+   "completeworksofe08poee",
+   "The Complete Works of Edgar Allan Poe, ed. James A. Harrison (Virginia Edition), vol. VIII: Literary Criticism, vol. I"
+  ],
+  "poe-virginia-edition-vol-xvi": [
+   "completeworksofe00poee",
+   "Virginia Edition vol. XVI: Marginalia; Eureka"
+  ]
+ },
  "_excluded": {
   "repeat-editions": "PG 17192: second Gutenberg editions of titles already on the shelf.",
   "held-elsewhere": "PG 2147, 2148, 2149, 2150, 2151: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
@@ -82,7 +91,7 @@
  "_checks": {
   "poe-fall-of-the-house-of-usher": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -91,7 +100,7 @@
   },
   "poe-first-project-gutenberg-collection-of-edgar-allan-poe": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -100,7 +109,7 @@
   },
   "poe-cask-of-amontillado": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -109,7 +118,7 @@
   },
   "poe-masque-of-the-red-death": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -118,7 +127,7 @@
   },
   "poe-raven": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -127,7 +136,7 @@
   },
   "poe-complete-poetical-works-of-edgar-allan-poe-including-ess": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -136,7 +145,7 @@
   },
   "poe-works-of-edgar-allan-poe-the-raven-edition-table-of-cont": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -145,7 +154,7 @@
   },
   "poe-eureka": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -154,7 +163,7 @@
   },
   "poe-raven-illustrated": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -163,7 +172,7 @@
   },
   "poe-bells-and-other-poems": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -172,7 +181,7 @@
   },
   "poe-narrative-of-arthur-gordon-pym-of-nantucket-comprising-t": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -181,7 +190,7 @@
   },
   "poe-raven-and-the-philosophy-of-composition": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -190,7 +199,7 @@
   },
   "poe-conchologists-first-book-a-system-of-testaceous-malacolo": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -199,7 +208,7 @@
   },
   "poe-poems-of-edgar-allan-poe": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
@@ -208,12 +217,56 @@
   },
   "poe-poetical-works-of-edgar-allan-poe": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-11-03",
    "name_check": "surname",
    "author_seen": "edgar allan poe",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "poe-complete-works": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "poe-virginia-edition-vol-xvi": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_bloom": {
+  "poe-complete-works": {
+   "bloom_n": [
+    635
+   ],
+   "bloom_title": "Essays and Reviews",
+   "year": "1902 (title page: New York, Thomas Y. Crowell; 'Copyright, 1902')",
+   "evidence": "djvu title page and contents read (reviews of Bryant, Horse-Shoe Robinson, I Promessi Sposi...); collection BYU/americana",
+   "case": "The Virginia Edition's five Literary Criticism volumes (VIII-XII) plus Marginalia (XVI) are the fullest pre-1931 Poe criticism. The held Raven Edition carries only a few essays.",
+   "note": "Vols IX-XII still to pick; IA has completeworksed00harrgoog (vol. IX) and completeworksed05poegoog (vol. XII) per IA metadata, unread. The machine's held hit (Hodge, Princeton Review) is a false match."
+  },
+  "poe-virginia-edition-vol-xvi": {
+   "bloom_n": [
+    635
+   ],
+   "bloom_title": "Essays and Reviews",
+   "year": "1902 (title page: Crowell, 'Copyright, 1902')",
+   "evidence": "djvu title page read",
+   "case": "The Virginia Edition's five Literary Criticism volumes (VIII-XII) plus Marginalia (XVI) are the fullest pre-1931 Poe criticism. The held Raven Edition carries only a few essays.",
+   "note": "Vols IX-XII still to pick; IA has completeworksed00harrgoog (vol. IX) and completeworksed05poegoog (vol. XII) per IA metadata, unread. The machine's held hit (Hodge, Princeton Review) is a false match."
   }
  }
 }
