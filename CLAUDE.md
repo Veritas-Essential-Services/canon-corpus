@@ -335,8 +335,8 @@ The living truth for project state is the Obsidian vault:
   Candidates for a full-network lane: docs/pending-sources.md.
 - pipeline/build_parallel_index.py → data/parallel/kjv-parallel.tsv (COMMITTED,
   generated): one row per KJV verse (with its uid), naming the verse(s) that
-  hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt; the John 1
-  pilot on this branch), and each shelf version, in that version's own
+  hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt, the whole
+  NT), and each shelf version, in that version's own
   numbering. Read off the committed maps and the built books' `kjv`; no new
   judgement. A version's verse with no KJV verse is in no row. Its rights
   note is data/parallel/README.md: the hebrew, vulgate, douay and brenton

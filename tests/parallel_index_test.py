@@ -55,8 +55,9 @@ check("Phil 1:16 is the Vulgate's, Darby's and the ASV's 1:17 (the Greek's order
       all(C("Phil.1.16", c) == ["Phil.1.17"] for c in ("vulgate", "douay", "darby", "asv")))
 check("Acts 8:37: empty for Darby and the ASV, which leave it out",
       C("Acts.8.37", "darby") == [] == C("Acts.8.37", "asv") and C("Acts.8.37", "ylt") == ["Acts.8.37"])
-check("the Greek NT column holds the John 1:1-18 pilot only on this branch",
-      sum(bool(r["greek_nt"]) for r in rows.values()) == 18 and C("John.1.1", "greek_nt") == ["John.1.1"])
+check("the Greek NT column covers the whole NT but the four verses the Byzantine text lacks",
+      sum(bool(r["greek_nt"]) for r in rows.values()) == 7953 and C("John.1.1", "greek_nt") == ["John.1.1"]
+      and all(not C(v, "greek_nt") for v in ("Luke.17.36", "Acts.8.37", "Acts.15.34", "Acts.24.7")))
 check("the Old Testament has no Greek NT cell and the New no Hebrew cell",
       not C("Gen.1.1", "greek_nt") and not C("Matt.1.1", "hebrew") and not C("Matt.1.1", "brenton"))
 
@@ -120,8 +121,8 @@ readme = open(os.path.join(ROOT, "data", "parallel", "README.md"), encoding="utf
 check("the rights note travels with the index: TVTMS named, CC BY 4.0, attributed",
       "CC BY 4.0" in readme and "TVTMS" in readme and "www.STEPBible.org" in readme
       and "redistribute_whole: false" in readme)
-check("the rights note says the greek_nt column is the John 1 pilot only, so an empty cell is "
-      "not 'no Greek'", "John\n  1:1-18 only" in readme or "John 1:1-18 only" in readme)
+check("the rights note says an empty greek_nt cell is a verse the Byzantine text lacks",
+      "Acts 8:37" in readme)
 
 print(f"\n{passed} passed, {fails} failed")
 sys.exit(1 if fails else 0)

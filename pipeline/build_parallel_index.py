@@ -25,9 +25,8 @@ WHERE EACH COLUMN COMES FROM (nothing here is a new judgement):
   hebrew    data/versification/bhs-kjv.json (the WLC's verse list, TVTMS)
   greek_nt  data/nt/passages.jsonl + witnesses.jsonl: the RP2018 Greek is a
             witness of the KJV verse's own passage, so its ref is the KJV's.
-            On this branch only the John 1:1-18 pilot; the whole Greek NT
-            (PR #8, one folder per book: both layouts are read) fills the
-            column when it lands. Rebuild the index after #8 merges.
+            The whole Greek NT (one folder per book; the old flat John 1
+            pilot layout is read too).
   vulgate, douay, brenton, geneva, tyndale, ylt, darby, asv
             each unit's `kjv` in data/books/<slug>.json (gitignored: built by
             structure_texts.py from the pinned sources, through the committed
