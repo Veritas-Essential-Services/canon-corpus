@@ -1,0 +1,78 @@
+{
+ "_about": "Knut Hamsun. Bloom's Western Canon (1994) lists: Hunger; Pan. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Knut Hamsun",
+ "_name_words": [
+  "knut",
+  "hamsun"
+ ],
+ "_surname": [
+  "hamsun",
+  "knut hamsun"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hamsun-hunger": [
+   76692,
+   "Hunger",
+   "tr. George Egerton"
+  ],
+  "hamsun-pan": [
+   7214,
+   "Pan",
+   "tr. W. W. Worster"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "hamsun-hunger": "Egerton",
+  "hamsun-pan": "Worster"
+ },
+ "_bloom": {
+  "hamsun-hunger": {
+   "bloom_n": [
+    1081
+   ],
+   "bloom_title": "Hunger",
+   "year": "1920 (title page in PG text: New York, Alfred A. Knopf, 1920; \"Published, October, 1920\")",
+   "evidence": "PG header and transcribed title page/copyright page read; intro by Edwin Björkman; produced from HathiTrust images.",
+   "case": "Bloom lists Hunger; Egerton's is the classic English translation, first published 1899, and the Knopf 1920 text is cleanly PD. Prefer PG 76692 (proofread, title page transcribed).",
+   "note": "Both PG texts are the Knopf text, which (per PG 8387 note) is bowdlerised relative to Egerton's 1899 London edition. If an unexpurgated 1899 text is wanted, look for the Smithers 1899 edition on IA (not searched)."
+  },
+  "hamsun-pan": {
+   "bloom_n": [
+    1082
+   ],
+   "bloom_title": "Pan",
+   "year": "1921 (PG transcribed page: Knopf 1927 fifth printing; \"Published July, 1921\")",
+   "evidence": "PG header and transcribed title/printing page read: New York, Alfred A. Knopf, 1927; printings July 1921 to January 1927; intro by Edwin Björkman.",
+   "case": "Bloom lists Pan; Worster's 1921 Knopf translation is the standard early English one and is US-PD.",
+   "note": "Scan is a 1927 reprint of the unrevised 1921 edition."
+  }
+ },
+ "_checks": {
+  "hamsun-hunger": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hamsun",
+   "translator_claimed": "Egerton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Egerton",
+   "translator_match": true
+  },
+  "hamsun-pan": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "hamsun",
+   "translator_claimed": "Worster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. J. Alexander Worster",
+   "translator_match": true
+  }
+ }
+}
