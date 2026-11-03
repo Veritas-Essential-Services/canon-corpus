@@ -1,0 +1,57 @@
+{
+ "_about": "John Cowper Powys. Bloom's Western Canon (1994) lists: Wolf Solent. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "John Cowper Powys",
+ "_name_words": [
+  "john",
+  "cowper",
+  "powys"
+ ],
+ "_surname": [
+  "powys",
+  "john cowper powys"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "powys-wolf-solent": [
+   "wolfsolentanovel031128mbp",
+   "Wolf Solent: a novel"
+  ]
+ },
+ "_rights_checked": {
+  "powys-wolf-solent": "Bloom addition 2026-11-03: 1929 (title page: New York, Simon and Schuster 1929; 'First printing, May 1929 ... Fourth printing, June 1929'). Read title page, copyright and contents (both volumes in one scan); collection universallibrary, not lending."
+ },
+ "_bloom": {
+  "powys-wolf-solent": {
+   "bloom_n": [
+    887
+   ],
+   "bloom_title": "Wolf Solent",
+   "year": "1929 (title page: New York, Simon and Schuster 1929; 'First printing, May 1929 ... Fourth printing, June 1929')",
+   "evidence": "Read title page, copyright and contents (both volumes in one scan); collection universallibrary, not lending.",
+   "case": "Bloom lists Wolf Solent; it was first published in New York in 1929, so it is US-PD. The 1929 Simon and Schuster first edition is on IA.",
+   "note": ""
+  }
+ },
+ "_checks": {
+  "powys-wolf-solent": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "povys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Bloom addition 2026-11-03: 1929 (title page: New York, Simon and Schuster 1929; 'First printing, May 1929 ... Fourth printing, June 1929'). Read title page, copyright and contents (both volumes in one scan); collection universallibrary, not lending."
+  }
+ },
+ "_surname_by_slug": {
+  "powys-wolf-solent": [
+   "powys",
+   "povys",
+   "john cowper"
+  ]
+ }
+}
