@@ -1,0 +1,65 @@
+{
+ "_about": "Alexander Pope. Bloom's Western Canon (1994) lists: Poems. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Alexander Pope",
+ "_name_words": [
+  "pope"
+ ],
+ "_surname": [
+  "alexander pope",
+  "pope"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pope-poetical-works": [
+   9413,
+   "The Poetical Works of Alexander Pope, Volume 1 (Gilfillan)"
+  ],
+  "pope-poetical-works-2": [
+   9601,
+   "The Poetical Works of Alexander Pope, Volume 2 (Gilfillan)"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "pope-poetical-works": {
+   "bloom_n": [
+    213
+   ],
+   "bloom_title": "Poems",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "We hold two slim Pope selections; Gilfillan's 2-vol Poetical Works gives the whole poetry (Dunciad, Epistles, Windsor Forest, etc.).",
+   "note": "Elwin-Courthope Works (PG 32190, 43271) is the scholarly alternative but incomplete on PG."
+  },
+  "pope-poetical-works-2": {
+   "bloom_n": [
+    213
+   ],
+   "bloom_title": "Poems",
+   "year": "unread",
+   "evidence": "PG catalogue.",
+   "case": "We hold two slim Pope selections; Gilfillan's 2-vol Poetical Works gives the whole poetry (Dunciad, Epistles, Windsor Forest, etc.).",
+   "note": "Elwin-Courthope Works (PG 32190, 43271) is the scholarly alternative but incomplete on PG."
+  }
+ },
+ "_checks": {
+  "pope-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "alexander pope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pope-poetical-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "alexander pope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
