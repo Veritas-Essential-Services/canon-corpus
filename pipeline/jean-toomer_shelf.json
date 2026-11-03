@@ -1,0 +1,43 @@
+{
+ "_about": "Jean Toomer. Bloom's Western Canon (1994) lists: Cane. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Jean Toomer",
+ "_name_words": [
+  "jean",
+  "toomer"
+ ],
+ "_surname": [
+  "toomer",
+  "jean toomer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "toomer-cane": [
+   60093,
+   "Cane"
+  ]
+ },
+ "internet_archive": {},
+ "_bloom": {
+  "toomer-cane": {
+   "bloom_n": [
+    1280
+   ],
+   "bloom_title": "Cane",
+   "year": "1923 (PG title page '© 1923 BY BONI & LIVERIGHT', renewed 1951; later printing)",
+   "evidence": "PG header + title page read",
+   "case": "Bloom lists Cane (1923). PG has a proofed text.",
+   "note": "PG's transcribed title page is a later Liveright printing (shows '(c) 1923 by Boni & Liveright', '(R) 1951 by Jean Toomer', a 1.98765 printing line and an SBN number) -- the text is the unrevised 1923 book, but the source copy is a modern printing."
+  }
+ },
+ "_checks": {
+  "toomer-cane": {
+   "kind": "gutenberg",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "toomer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
