@@ -1,0 +1,45 @@
+{
+ "_about": "Philip Massinger. Bloom's Western Canon (1994) lists: A New Way to Pay Old Debts. Bloom addition 2026-11-03 under Adam's Bloom-only ruling; each row is US public domain (title page, Gutenberg header or IA metadata read, recorded in _bloom).",
+ "_author": "Philip Massinger",
+ "_name_words": [
+  "philip",
+  "massinger"
+ ],
+ "_surname": [
+  "massinger",
+  "philip massinger"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "massinger-new-way-to-pay": [
+   "anewwaytopayold01massgoog",
+   "A New Way to Pay Old Debts"
+  ]
+ },
+ "_bloom": {
+  "massinger-new-way-to-pay": {
+   "bloom_n": [
+    192
+   ],
+   "bloom_title": "A New Way to Pay Old Debts",
+   "year": "1893 (front matter: 'London 1893')",
+   "evidence": "Grep of djvu: 'MASSINGER'S ... LONDON 1893' and life of Massinger.",
+   "case": "A school edition of the play; PD.",
+   "note": "PG 48440 (Massinger vol. I, 1830) does not contain this play. The Mermaid Massinger vol. 1 (Symons) also has it, not checked."
+  }
+ },
+ "_checks": {
+  "massinger-new-way-to-pay": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "massinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
