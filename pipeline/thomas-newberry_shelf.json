@@ -1,0 +1,42 @@
+{
+ "_about": "Thomas Newberry (1811-1901), The Englishman's Bible, combining the English-Hebrew Bible and the English-Greek Testament (the Authorized Version marked for the Hebrew and Greek). Undated Hodder and Stoughton issue printed at Oxford by Horace Hart (Printer to the University 1883-1915); the Digital Library of India record dates it 1930. Added 2026-11-03 by lane A from Adam's Libronix inventory; Internet Archive OCR, raw; title and imprint read from the scan's title page. No uids minted. Newberry died 1901 and the printing is pre-1931, so US public domain. Its marking signs are typographic and will not survive OCR well.",
+ "_name_words": [
+  "newberry",
+  "englishman's bible"
+ ],
+ "_surname": [
+  "newberry"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "newberry-englishmans-bible": [
+   "dli.ministry.12439",
+   "The Englishman's Bible (London: Hodder and Stoughton; Weston-super-Mare: Davies Brothers; Oxford: Horace Hart, undated)",
+   "E01138_The_Englishman%27s_Bible_djvu.txt"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {
+  "newberry-englishmans-bible": "The DLI record says 1930, but the title page is undated and names Horace Hart as Printer to the University (Oxford), an office he held 1883-1915; Newberry died 1901. Either way it was published before 1931, so US public domain"
+ },
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "newberry-englishmans-bible": {
+   "kind": "ia",
+   "checked": "2026-11-03",
+   "name_check": "surname",
+   "author_seen": "newberry",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "The DLI record says 1930, but the title page is undated and names Horace Hart as Printer to the University (Oxford), an office he held 1883-1915; Newberry died 1901. Either way it was published before 1931, so US public domain"
+  }
+ }
+}
