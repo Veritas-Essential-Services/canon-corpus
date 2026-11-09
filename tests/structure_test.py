@@ -917,6 +917,36 @@ check("thml: a verse keeps its lineation",
 check("thml: Heretics stays out (its read-along timings name its units)",
       "chesterton-heretics" not in st.THML_KEEP_SHORT | st.THML_VERSE)
 
+# Verse CCEL set as <argument id="<p id>.N"> lines after a paragraph (2026-11-09:
+# Heretics' cider song was missing from the Armarium). Opted-in books gain one
+# unit per run, after its paragraph; no id moves, no text changes. Invented text.
+_AR = ('<ThML><head><DC><DC.Title>T</DC.Title></DC></head><ThML.body>'
+       '<div1 title="Title Page" id="i"><p id="i-p1">A title page comfortably longer than forty characters.</p></div1>'
+       '<div1 title="CHAPTER I" id="ii"><p id="ii-p1">A paragraph comfortably longer than forty characters, then a song &#8212;</p>'
+       ' <argument id="ii-p1.1"> First line of the song, </argument><argument id="ii-p1.2"> And the second. </argument>'
+       '<p id="ii-p2">Another paragraph comfortably longer than forty characters.</p>'
+       '<argument id="ii-p2.1">One short line</argument></div1>'
+       '</ThML.body></ThML>')
+with _tf.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_AR)
+_saved = set(st.THML_ARGUMENT_VERSE)
+st.THML_ARGUMENT_VERSE = set()
+_aoff = st.convert_thml(_fh.name, "t")["units"]
+st.THML_ARGUMENT_VERSE = {"t"}
+_aon = st.convert_thml(_fh.name, "t")["units"]
+st.THML_ARGUMENT_VERSE = _saved
+os.unlink(_fh.name)
+check("thml: <argument> verse is not read unless a book opts in (the old rule)",
+      [u["id"] for u in _aoff] == ["t:i-p1", "t:ii-p1", "t:ii-p2"])
+check("thml: <argument> verse adds a unit after its paragraph, CCEL's first-line id",
+      [u["id"] for u in _aon] == ["t:i-p1", "t:ii-p1", "t:ii-p1.1", "t:ii-p2", "t:ii-p2.1"])
+check("thml: <argument> verse keeps its lineation; a short line is kept",
+      _aon[2]["text"] == "First line of the song,\nAnd the second." and _aon[4]["text"] == "One short line")
+check("thml: <argument> verse moves no id and changes no text",
+      all(u == next(v for v in _aon if v["id"] == u["id"]) for u in _aoff))
+check("thml: <argument> verse is read in Heretics and Orthodoxy only",
+      st.THML_ARGUMENT_VERSE == {"chesterton-heretics", "chesterton-orthodoxy"})
+
 # A Christmas Carol (2026-10-16): the stave headings become clean ids and refs,
 # the Contents and the title page are not text, and the default id rule (the
 # Chesterton shelf above) is untouched. Fixture is invented text in PG 46's shape.
