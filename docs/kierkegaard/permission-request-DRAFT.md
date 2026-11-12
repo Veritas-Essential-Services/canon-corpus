@@ -50,8 +50,8 @@ What that would look like:
 - The Hong text shown for reading, paragraph by paragraph, beside the Danish.
 - Full credit on every page: translators, Postscript, Inc., Princeton University
   Press, and a link to buy the book.
-- No downloads of whole volumes. No resale. [The Armarium is non-commercial: no
-  ads, no fees, nothing for sale. ADAM: confirm this line, or change it.]
+- No downloads of whole volumes. No resale. The Armarium is non-commercial: no
+  ads, no fees, nothing for sale.
 - We'd take anything down the day you ask.
 
 [OPTIONAL, strike if you'd rather keep the ask narrow: A few works never had an
@@ -104,7 +104,7 @@ Adam [surname]
 
 ## Before sending: three checks for Adam
 
-1. **Non-commercial?** Keep the bracketed line only if it's true. **Your surname** is a placeholder too: I didn't guess it.
+1. **Non-commercial:** confirmed by Adam 2026-11-12; the line is now plain. **Your surname** is still a placeholder: I didn't guess it.
 2. **Postscript, Inc.:** look it up at the Minnesota Secretary of State
    (mblsportal.sos.state.mn.us, search "Postscript"). If it lists an officer and
    an address, you could send Email 1 to them directly as well, with Princeton

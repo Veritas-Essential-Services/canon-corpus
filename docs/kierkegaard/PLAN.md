@@ -192,8 +192,7 @@ today. Both drafts are in the draft file.
 
 ## Open questions for Adam
 
-1. **Is the Armarium non-commercial?** The draft says so in brackets. I did not
-   assume it: no ads, no fees, no sales? Confirm or change the line.
+1. ~~Is the Armarium non-commercial?~~ Answered 2026-11-12: yes, non-commercial. The draft now says so plainly.
 2. **The four London Lowrie volumes:** shelve now, or hold to their dates?
 3. **Scope of the Hong ask:** the draft asks only to bridge the gap until each
    Swenson/Lowrie twin opens (what you asked). Some Hong volumes have no free
