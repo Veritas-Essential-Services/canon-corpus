@@ -2976,6 +2976,17 @@ THML_KEEP_SHORT = {
 THML_VERSE = {"chesterton-thursday"}
 RE_VERSE = re.compile(r"<verse\b[^>]*>(.*?)</verse>", re.S | re.I)
 RE_VLINE = re.compile(r"<l\b[^>]*>(.*?)</l>", re.S | re.I)
+# Books where CCEL set quoted verse as a run of <argument id="<p id>.N">
+# lines after a paragraph (Heretics' cider song, ch. VII; Kipling, ch. III;
+# Addison's Cato, ch. V; Orthodoxy's Swinburne, chs. VIII and XI). convert_thml
+# read only <p>, so these lines were lost (found 2026-11-09). One unit per run,
+# lines kept, id = CCEL's id of its first line (`vii-p4.1`), placed after its
+# paragraph. Opt-in per slug. Both books have read-along timings: they name
+# their units by id and check each one's text hash, so a NEW unit moves no id,
+# changes no text, and is simply not highlighted while it is read.
+THML_ARGUMENT_VERSE = {"chesterton-heretics", "chesterton-orthodoxy"}
+RE_ARG_RUN = re.compile(r'(?:<argument\b[^>]*\bid="([^"]+?)\.(\d+)"[^>]*>.*?</argument>\s*)+', re.S | re.I)
+RE_ARG_LINE = re.compile(r'<argument\b[^>]*\bid="([^"]+?)\.(\d+)"[^>]*>(.*?)</argument>', re.S | re.I)
 RE_FURNITURE = re.compile(r"copyright|all rights reserved|knickerbocker press|"
                           r"^printed (in|by)\b", re.I)
 
@@ -3019,6 +3030,21 @@ def convert_thml(path, slug):
                                   "ref": f"{dtitle}, verse {k}",
                                   "text": "\n".join(lines), "links": [],
                                   "_at": vm.start()})
+        if slug in THML_ARGUMENT_VERSE:
+            for am in RE_ARG_RUN.finditer(seg):
+                run = RE_ARG_LINE.findall(am.group(0))
+                base = run[0][0]
+                if any(b != base for b, _, _ in run):
+                    raise ValueError(f"{slug}: one <argument> run quotes after two paragraphs: {run}")
+                lines = [clean(t) for _, _, t in run]
+                lines = [l for l in lines if l]
+                if not lines:
+                    continue
+                pn = base.rsplit("-p", 1)[-1]
+                units.append({"id": f"{slug}:{base}.{run[0][1]}",
+                              "ref": f"{dtitle}, par. {pn}, verse quoted",
+                              "text": "\n".join(lines), "links": [],
+                              "_at": am.start()})
         units[first:] = sorted(units[first:], key=lambda u: u["_at"])
         for u in units[first:]:
             del u["_at"]

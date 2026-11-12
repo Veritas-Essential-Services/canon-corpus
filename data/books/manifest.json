@@ -981,7 +981,7 @@
   "author": "Gilbert K. Chesterton",
   "format": "thml",
   "sha256": "4ded32f2de5ebc70f42e86d5665e980e9fc9193c647bc090f459cd43de64005c",
-  "units": 231,
+  "units": 234,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
@@ -1065,7 +1065,7 @@
   "author": "Gilbert K. Chesterton",
   "format": "thml",
   "sha256": "c99bdca8881f1b749c1515e3feac8376ff35fb160222670557d9c0bfe6d233f4",
-  "units": 237,
+  "units": 239,
   "scheme": {
    "citation": "CCEL section id + paragraph",
    "resolution": "paragraph",
