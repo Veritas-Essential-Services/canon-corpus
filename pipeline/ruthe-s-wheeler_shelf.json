@@ -1,0 +1,75 @@
+{
+ "_about": "Ruthe S. Wheeler, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 10 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Ruthe S. Wheeler's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "wheeler"
+ ],
+ "_surname": [
+  "ruthe s. wheeler",
+  "wheeler"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wheeler-janet-hardy-in-radio-city": [
+   33567,
+   "Janet Hardy in Radio City (1935)"
+  ],
+  "wheeler-jane-stewardess-of-the-air-lines": [
+   33976,
+   "Jane, Stewardess of the Air Lines (1934)"
+  ],
+  "wheeler-helen-in-the-editor-s-chair": [
+   42015,
+   "Helen in the Editor's Chair (1932)"
+  ],
+  "wheeler-janet-hardy-in-hollywood": [
+   42069,
+   "Janet Hardy in Hollywood (1935)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "wheeler-janet-hardy-in-radio-city": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1935 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1962-63): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wheeler-jane-stewardess-of-the-air-lines": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1934'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wheeler-helen-in-the-editor-s-chair": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1932'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wheeler-janet-hardy-in-hollywood": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1935 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1962-63): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "wheeler-janet-hardy-in-radio-city": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruthe s. wheeler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wheeler-jane-stewardess-of-the-air-lines": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruthe s. wheeler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wheeler-helen-in-the-editor-s-chair": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruthe s. wheeler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wheeler-janet-hardy-in-hollywood": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruthe s. wheeler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

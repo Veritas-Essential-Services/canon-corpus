@@ -1,0 +1,61 @@
+{
+ "_about": "Don Palmer, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 10 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Don Palmer's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted. The Boy Scout Explorers books, written as Don Palmer with C. R. Schaare.",
+ "_name_words": [
+  "palmer"
+ ],
+ "_surname": [
+  "don palmer",
+  "palmer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "palmer-boy-scout-explorers-at-headless-hollow": [
+   54632,
+   "Boy Scout Explorers at Headless Hollow (1957)"
+  ],
+  "palmer-the-boy-scout-explorers-at-treasure-mountain": [
+   55415,
+   "The Boy Scout Explorers at Treasure Mountain (1955)"
+  ],
+  "palmer-boy-scout-explorers-at-emerald-valley": [
+   63506,
+   "Boy Scout Explorers at Emerald Valley (1955)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "palmer-boy-scout-explorers-at-headless-hollow": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1957, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "palmer-the-boy-scout-explorers-at-treasure-mountain": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1955, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1982-83): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "palmer-boy-scout-explorers-at-emerald-valley": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1955, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1982-83): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "palmer-boy-scout-explorers-at-headless-hollow": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "don palmer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "palmer-the-boy-scout-explorers-at-treasure-mountain": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "don palmer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "palmer-boy-scout-explorers-at-emerald-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "don palmer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

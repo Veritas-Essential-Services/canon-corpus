@@ -260,9 +260,38 @@ Twentieth Centuries* (first printed by Penguin in England, and his other
 books were renewed), federal government publications (public domain
 anyway), and the pulp and western magazine pieces.
 
+## Batch 10 (2026-11-15): authors with no death date in Gutenberg's catalogue
+
+Method: English texts numbered 20000+ whose author has no death year in the
+catalogue (batch 8 needed one), copyright line 1931-1963 in the header: 210
+rows. Kept 91 real books; every one cleared renewal_check (none renewed). Two
+near misses, both other works: the renewal of *Ticktock and Jim, Deputy
+Sheriffs* (1949) is the sequel, not the 1948 *Ticktock and Jim*; the renewal of
+*The Mennonite Hymnary* (1940) is the hymnary, not Hostetler's 1949
+*Handbook*. Eight new shelves for authors with three or more: ruthe-s-wheeler
+(4), harriet-pyne-grove (Betty Lee, 4), noel-sainsbury (8: Bill Bolton, and
+Dorothy Dixon under his pen name Dorothy Wayne), edith-lavell (4),
+carl-saxon (Camp Lenape, 3), van-powell (Mystery Boys, 4), jean-l-mckechnie
+(5: Jean Craig as Kay Lyttleton, and Penny Allen),
+don-palmer-boy-scout-explorers (3). The other 56 went onto nonrenewal-singles
+(267 now): the Virginia 350th booklets (1957), *My Father's Dragon* (1948),
+*David and the Phoenix* (1957), *Mr. Wicker's Window* (1952), Potts's two
+prayer books, Cumming's *Assyrian and Hebrew Hymns of Praise* (1934),
+Koppenhaver's *Martin Luther* (1953), Heath's *Mourt's Relation* (1963),
+Teller and Latter's *Our Nuclear Future* (1958), Gekle's *Arthur Machen*
+(1949), Murie's *Mammals of Mount McKinley* (1962) and others. Left out:
+trade booklets (cookbooks, crochet patterns, appliance manuals), park road
+guides, copyright-office catalogues, Thomas Hoover's books (their copyright
+lines are quotations; he is post-1963), the Nuremberg volumes, a Weird Tales
+poem (C. A. Butz, 1936: pulp), and the lesbian pulp paperbacks (Bannon,
+Herbert), which wait on Adam with the other held titles.
+
 ## Resume point
 
 Next, in order:
+0. Gutenberg releases numbered below 20000 with a 1931-1963 copyright
+   line (batches 6-10 covered 20000 and up). Pulp magazine stories (about
+   1,300) are Lane D's call: send the count, do not shelve.
 1. Scans for the `_pending` items above (HathiTrust full view, or a DLI copy).
 2. Batch 3 read every `_excluded`/`_pending`/`_held` note naming a year
    1931-1963 (dumped by a one-off script); what remains is reprint questions

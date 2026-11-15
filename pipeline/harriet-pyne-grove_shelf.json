@@ -1,0 +1,75 @@
+{
+ "_about": "Harriet Pyne Grove, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 10 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Harriet Pyne Grove's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "grove"
+ ],
+ "_surname": [
+  "harriet pyne grove",
+  "grove"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "grove-betty-lee-freshman": [
+   34605,
+   "Betty Lee, Freshman (1931)"
+  ],
+  "grove-betty-lee-sophomore": [
+   34728,
+   "Betty Lee, Sophomore (1931)"
+  ],
+  "grove-betty-lee-junior": [
+   44804,
+   "Betty Lee, Junior (1931)"
+  ],
+  "grove-betty-lee-senior": [
+   44808,
+   "Betty Lee, Senior (1931)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "grove-betty-lee-freshman": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "grove-betty-lee-sophomore": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "grove-betty-lee-junior": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "grove-betty-lee-senior": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "grove-betty-lee-freshman": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "harriet pyne grove",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grove-betty-lee-sophomore": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "harriet pyne grove",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grove-betty-lee-junior": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "harriet pyne grove",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grove-betty-lee-senior": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "harriet pyne grove",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

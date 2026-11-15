@@ -1,0 +1,92 @@
+{
+ "_about": "Jean Lyttleton McKechnie, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 10 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Jean Lyttleton McKechnie's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted. She wrote the Jean Craig books as 'Kay Lyttleton' (Gutenberg's catalogue gives her middle name, Lyttleton) and Penny Allen under her own name.",
+ "_name_words": [
+  "mckechnie",
+  "lyttleton"
+ ],
+ "_surname": [
+  "jean l. mckechnie",
+  "mckechnie",
+  "kay lyttleton",
+  "lyttleton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mckechnie-penny-allen-and-the-mystery-of-the-hidden-treasure": [
+   53198,
+   "Penny Allen and the Mystery of the Hidden Treasure (1950)"
+  ],
+  "lyttleton-jean-craig-in-new-york": [
+   65135,
+   "Jean Craig in New York (1948)"
+  ],
+  "lyttleton-jean-craig-grows-up": [
+   65427,
+   "Jean Craig Grows Up (1948)"
+  ],
+  "lyttleton-jean-craig-finds-romance": [
+   65581,
+   "Jean Craig Finds Romance (1948)"
+  ],
+  "lyttleton-jean-craig-graduate-nurse": [
+   66017,
+   "Jean Craig, Graduate Nurse (1950)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "mckechnie-penny-allen-and-the-mystery-of-the-hidden-treasure": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1950 BY THE WORLD PUBLISHING COMPANY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "lyttleton-jean-craig-in-new-york": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1948 BY THE WORLD PUBLISHING COMPANY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1975-76): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "lyttleton-jean-craig-grows-up": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1948 BY THE WORLD PUBLISHING COMPANY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1975-76): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "lyttleton-jean-craig-finds-romance": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1948 BY THE WORLD PUBLISHING COMPANY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1975-76): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "lyttleton-jean-craig-graduate-nurse": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Original publication: United States: World Publishing Company, 1950'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "mckechnie-penny-allen-and-the-mystery-of-the-hidden-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "jean l. mckechnie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lyttleton-jean-craig-in-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "kay lyttleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lyttleton-jean-craig-grows-up": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "kay lyttleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lyttleton-jean-craig-finds-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "kay lyttleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lyttleton-jean-craig-graduate-nurse": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "kay lyttleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

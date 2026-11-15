@@ -1,0 +1,61 @@
+{
+ "_about": "Carl Saxon, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 10 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Carl Saxon's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted. Copyright lines read 1931/1935 and 1940 (Books, Inc. reissue); neither registration was renewed.",
+ "_name_words": [
+  "saxon"
+ ],
+ "_surname": [
+  "carl saxon",
+  "saxon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "saxon-blackie-thorne-at-camp-lenape": [
+   51539,
+   "Blackie Thorne at Camp Lenape (1940)"
+  ],
+  "saxon-camp-lenape-on-the-long-trail": [
+   54630,
+   "Camp Lenape on the Long Trail (1940)"
+  ],
+  "saxon-the-mystery-at-camp-lenape": [
+   54826,
+   "The Mystery at Camp Lenape (1940)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "saxon-blackie-thorne-at-camp-lenape": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1940, 1931 BY BOOKS, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1967-68): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "saxon-camp-lenape-on-the-long-trail": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1940, 1935 BY BOOKS, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1967-68): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "saxon-the-mystery-at-camp-lenape": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1940, 1931 BY BOOKS, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1967-68): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "saxon-blackie-thorne-at-camp-lenape": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "carl saxon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saxon-camp-lenape-on-the-long-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "carl saxon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saxon-the-mystery-at-camp-lenape": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "carl saxon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

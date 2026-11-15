@@ -1,5 +1,5 @@
 {
- "_about": "Non-renewal sweep, batches 6-9 (2026-11-15; Adam 2026-11-03: \"I want everything that was not renewed\"): single US books of 1931-1963 whose copyright was never renewed, taken from Project Gutenberg's recent releases (each text's 'Original publication' line read) and checked one by one against NYPL's cce-renewals with pipeline/renewal_check.py. Authors with one or two titles; an author with three or more goes to a shelf of their own. American authors and US first editions only (URAA does not reach them). No uids minted.",
+ "_about": "Non-renewal sweep, batches 6-10 (2026-11-15; Adam 2026-11-03: \"I want everything that was not renewed\"): single US books of 1931-1963 whose copyright was never renewed, taken from Project Gutenberg's recent releases (each text's 'Original publication' line read) and checked one by one against NYPL's cce-renewals with pipeline/renewal_check.py. Authors with one or two titles; an author with three or more goes to a shelf of their own. American authors and US first editions only (URAA does not reach them). No uids minted.",
  "_name_words": [],
  "_surname": [
   "a. harold castonguay",
@@ -7,16 +7,20 @@
   "a. scott crossfield",
   "aaberg",
   "adams",
+  "adolph murie",
   "alberta powell graham",
   "alfred bester",
   "alfred charles michaud",
   "alice brayton",
   "alice payne hackett",
   "allan neal",
+  "alta halverson seymour",
+  "ambrose newcomb",
   "anderson",
   "andre norton",
   "aniol",
   "anne pence davis",
+  "annie lash jester",
   "archer taylor",
   "august derleth",
   "bagar",
@@ -25,6 +29,7 @@
   "baldwin",
   "bales",
   "bancroft",
+  "bardwell",
   "barker",
   "barry goldwater",
   "beal",
@@ -35,7 +40,9 @@
   "berge",
   "berkeley",
   "bernadine bailey",
+  "bernice kohn",
   "berry",
+  "bess moyer",
   "bester",
   "biancolli",
   "bigelow",
@@ -63,16 +70,21 @@
   "caldwell",
   "cameron",
   "carl e. jepson",
+  "carl e. koppenhaver",
   "carl parcher russell",
+  "carley dawson",
   "carlisle",
   "caroline bancroft",
+  "carrie hunter willis",
   "carrier",
   "caruthers",
   "casey",
   "castonguay",
   "cerinda w. evans",
   "chamberlain",
+  "charles e. hatch",
   "charles f. pfeiffer",
+  "charles gordon cumming",
   "charles nodier",
   "charles sears baldwin",
   "chubb",
@@ -85,24 +97,30 @@
   "corporation",
   "cory",
   "coxe",
+  "craine",
   "crane",
   "crane brinton",
   "craven",
   "crosby",
   "crossfield",
+  "cumming",
   "cyril clemens",
   "d. s. halacy",
   "dan smoot",
   "david cory",
   "davis",
+  "dawson",
   "derleth",
   "dobie",
   "don whitehead",
   "donald culross peattie",
   "donald h. menzel",
+  "dorothy margaret torpey",
   "duellman",
   "duryee",
+  "dwight b. heath",
   "e. g. swem",
+  "e. j. craine",
   "earle l. reynolds",
   "edgar pangborn",
   "edholm",
@@ -113,8 +131,11 @@
   "edward ernest swanstrom",
   "edward herbert cameron",
   "edward j. van liere",
+  "edward ormondroyd",
+  "edward teller",
   "edwin d. mckee",
   "elam",
+  "elbert m. hoppenstedt",
   "eliot",
   "elizabeth enright",
   "elizabeth hazelton haight",
@@ -133,12 +154,15 @@
   "ferdinand c. lane",
   "ferguson",
   "fleischer",
+  "florance walton taylor",
   "forman",
+  "foster",
   "francis",
   "francis f. beirne",
   "francis russell",
   "frank",
   "frank bell",
+  "frank v. martinek",
   "franklin",
   "fred c. kelly",
   "frederick d. wilhelmsen",
@@ -146,14 +170,21 @@
   "friedman",
   "fuermann",
   "g. maclaren brydon",
+  "g. melvin herndon",
+  "gannett",
   "ganoe",
   "garis",
   "garrison",
+  "gay montague moore",
   "gaylord du bois",
+  "gekle",
+  "george a. warren",
   "george fuermann",
   "george harmon coxe",
   "george marion",
+  "george s. may",
   "george w. bain",
+  "gillette",
   "goldsmith",
   "goldwater",
   "goodwin",
@@ -162,33 +193,47 @@
   "graham",
   "grant",
   "grose evans",
+  "h. a. ripley",
   "h. t.  irwin",
   "hackett",
   "haight",
   "halacy",
   "hale",
+  "hammond",
   "harold l. goodwin",
   "harold m. sherman",
+  "harrison bardwell",
   "hart crane",
+  "hatch",
   "hay",
   "hazel hutchins wilson",
   "hazlitt",
+  "heath",
   "helen r. hull",
+  "helen randolph",
   "helen t. briggs",
   "helga sandburg",
+  "henry",
   "henry chandlee forman",
   "henry f. howe",
   "henry hazlitt",
+  "henry s. gillette",
   "herbert l. risteen",
+  "herndon",
+  "herrick",
   "heyliger",
   "hiden",
+  "hobart donald swiggett",
   "hogan",
   "hollingworth",
   "hoover",
+  "hoppenstedt",
   "horace m. kallen",
   "horn",
+  "hostetler",
   "howard h. quint",
   "howe",
+  "hughes",
   "hull",
   "hume",
   "hurok",
@@ -202,14 +247,19 @@
   "j. frank dobie",
   "j. j. thornber",
   "j. malcolm smith",
+  "j. manning potts",
   "jack johnson",
   "james",
   "james d. bales",
+  "james h. foster",
   "james westaway mccue",
+  "james wharton",
   "jean thomas",
   "jean toomer",
   "jelks",
   "jepson",
+  "jesse littleton rogers",
+  "jester",
   "jim ray",
   "john g. neihardt",
   "john hay",
@@ -219,16 +269,22 @@
   "jorgenson",
   "joseph blotner",
   "joseph payne brennan",
+  "juanita savage",
   "kalashnikoff",
   "kallen",
   "karl f. brown",
+  "katharine elliott wilkie",
+  "keith robertson",
   "kelly",
   "kemp",
   "kenneth macgowan",
   "kirk",
   "knight",
+  "kohn",
+  "koppenhaver",
   "kunstler",
   "l'engle",
+  "lamers",
   "lane",
   "lapaz",
   "laurence",
@@ -236,6 +292,7 @@
   "lawrence foushee london",
   "lefevre",
   "legette blythe",
+  "lester hostetler",
   "leta stetter hollingworth",
   "licht",
   "liere",
@@ -247,6 +304,7 @@
   "louis biancolli",
   "louis wiltz kemp",
   "lyman carrier",
+  "mabel williamson",
   "macgowan",
   "mackendrick",
   "madeleine l'engle",
@@ -259,11 +317,15 @@
   "marshall mcclintock",
   "martha w. hiden",
   "martin m. goldsmith",
+  "martinek",
   "mary french caldwell",
   "mary knight",
+  "mary lamers",
   "mary rawlings",
+  "may",
   "mcclintock",
   "mccue",
+  "mcintyre",
   "mckee",
   "menzel",
   "mercy otis warren",
@@ -274,20 +336,26 @@
   "mody c. boatright",
   "mollenhoff",
   "moody",
+  "moore",
   "morton pennypacker",
   "mott",
+  "moyer",
   "murdock",
+  "murie",
   "muste",
   "myrtle cheney murdock",
   "nat fleischer",
   "neal",
   "neihardt",
+  "nelle e. moore",
   "neville",
+  "newcomb",
   "nicholas kalashnikoff",
   "nodier",
   "north",
   "norton",
   "o'connor",
+  "ormondroyd",
   "ostier",
   "pangborn",
   "patrick o'connor",
@@ -303,10 +371,13 @@
   "pfeiffer",
   "philip hale",
   "pocahontas wight edmunds",
+  "potts",
   "poul anderson",
   "pratt",
+  "price",
   "quint",
   "radford",
+  "randolph",
   "rawlings",
   "ray",
   "reba paeff mirsky",
@@ -314,24 +385,32 @@
   "reynolds",
   "richard m. elam",
   "richard m. weaver",
+  "ripley",
   "risteen",
   "robert c. bagar",
   "robert j. braidwood",
   "robert j. casey",
   "robert lefevre",
   "robert sparks walker",
+  "robertson",
+  "robinson",
   "roger sessions",
+  "rogers",
   "ruby lorraine radford",
   "russell",
   "russell kirk",
+  "ruth a. mcintyre",
   "ruth ellis messenger",
   "ruth fox hume",
+  "ruth stiles gannett",
   "samuel chamberlain",
   "sandburg",
   "sanger",
+  "savage",
   "sawyer",
   "scott dudley breckinridge",
   "sessions",
+  "seymour",
   "sheehy",
   "sherman",
   "shirley barker",
@@ -345,43 +424,62 @@
   "stefansson",
   "sterling a. brown",
   "sterling north",
+  "storrick",
   "stuart brent",
   "styron",
   "sutton",
   "swanstrom",
   "swem",
+  "swiggett",
   "sydney v. james",
   "t. a. bisson",
   "tannehill",
   "taylor",
+  "teller",
   "theresa v. francis",
   "thomas",
   "thomas caldecot chubb",
   "thomas carr howe",
+  "thomas proctor hughes",
+  "thomas r. henry",
   "thornber",
   "toomer",
+  "torpey",
   "vilhjalmur stefansson",
   "virginia 350th anniversary celebration corporation",
+  "w. c. storrick",
   "waldo david frank",
   "walker",
   "walter merriam pratt",
+  "walter stitt robinson",
   "warren",
+  "warren crocker herrick",
+  "warren f. robinson",
+  "washburn",
   "weaver",
   "wendell berge",
   "wesley frank craven",
+  "wharton",
   "white",
   "whitehead",
   "whitehouse",
+  "wilcomb e. washburn",
   "wilhelmsen",
+  "wilkie",
   "william addleman ganoe",
   "william b. duryee",
   "william caruthers",
   "william edward duellman",
   "william f. bigelow",
+  "william f. gekle",
+  "william h. price",
   "william heyliger",
+  "william jackson hammond",
   "william l. laurence",
   "william m. kunstler",
   "william styron",
+  "williamson",
+  "willis",
   "wilson",
   "winfred ernest garrison",
   "winthrop",
@@ -1232,6 +1330,230 @@
   "winthrop-john-winthrop-jr-on-indian-corn": [
    "john winthrop",
    "winthrop"
+  ],
+  "williamson-have-we-no-rights": [
+   "mabel williamson",
+   "williamson"
+  ],
+  "wilkie-daniel-boone-taming-the-wilds": [
+   "katharine elliott wilkie",
+   "wilkie"
+  ],
+  "wharton-the-bounty-of-the-chesapeake": [
+   "james wharton",
+   "wharton"
+  ],
+  "herrick-frank-h-nelson-of-cincinnati": [
+   "warren crocker herrick",
+   "herrick"
+  ],
+  "herndon-tobacco-in-colonial-virginia": [
+   "g. melvin herndon",
+   "herndon"
+  ],
+  "jester-domestic-life-in-virginia-in-the-seventeenth-century": [
+   "annie lash jester",
+   "jester"
+  ],
+  "savage-bandit-love": [
+   "juanita savage",
+   "savage"
+  ],
+  "ormondroyd-david-and-the-phoenix": [
+   "edward ormondroyd",
+   "ormondroyd"
+  ],
+  "hughes-medicine-in-virginia": [
+   "thomas proctor hughes",
+   "hughes"
+  ],
+  "robinson-mother-earth-land-grants-in-virginia": [
+   "walter stitt robinson",
+   "robinson"
+  ],
+  "dawson-mr-wicker-s-window": [
+   "carley dawson",
+   "dawson"
+  ],
+  "washburn-virginia-under-charles-i-and-cromwell": [
+   "wilcomb e. washburn",
+   "washburn"
+  ],
+  "gannett-my-father-s-dragon": [
+   "ruth stiles gannett",
+   "gannett"
+  ],
+  "hatch-the-first-seventeen-years-virginia": [
+   "charles e. hatch",
+   "hatch"
+  ],
+  "moore-seaport-in-virginia": [
+   "gay montague moore",
+   "moore"
+  ],
+  "willis-legends-of-the-skyline-drive": [
+   "carrie hunter willis",
+   "willis"
+  ],
+  "price-the-civil-war-centennial-handbook": [
+   "william h. price",
+   "price"
+  ],
+  "foster-the-forest-of-mystery": [
+   "james h. foster",
+   "foster"
+  ],
+  "foster-captured-by-the-arabs": [
+   "james h. foster",
+   "foster"
+  ],
+  "torpey-hallowed-heritage": [
+   "dorothy margaret torpey",
+   "torpey"
+  ],
+  "randolph-crossed-trails-in-mexico": [
+   "helen randolph",
+   "randolph"
+  ],
+  "robertson-ticktock-and-jim": [
+   "keith robertson",
+   "robertson"
+  ],
+  "craine-airplane-boys-in-the-black-woods": [
+   "e. j. craine",
+   "craine"
+  ],
+  "craine-airplane-boys-at-platinum-river": [
+   "e. j. craine",
+   "craine"
+  ],
+  "martinek-don-winslow-of-the-navy": [
+   "frank v. martinek",
+   "martinek"
+  ],
+  "moore-near-the-top-of-the-world": [
+   "nelle e. moore",
+   "moore"
+  ],
+  "newcomb-flying-the-coast-skyways": [
+   "ambrose newcomb",
+   "newcomb"
+  ],
+  "newcomb-trackers-of-the-fog-pack": [
+   "ambrose newcomb",
+   "newcomb"
+  ],
+  "moyer-gypsies-of-the-air": [
+   "bess moyer",
+   "moyer"
+  ],
+  "moyer-on-adventure-island": [
+   "bess moyer",
+   "moyer"
+  ],
+  "cumming-the-assyrian-and-hebrew-hymns-of-praise": [
+   "charles gordon cumming",
+   "cumming"
+  ],
+  "potts-prayers-of-the-early-church": [
+   "j. manning potts",
+   "potts"
+  ],
+  "potts-prayers-of-the-middle-ages": [
+   "j. manning potts",
+   "potts"
+  ],
+  "storrick-the-battle-of-gettysburg": [
+   "w. c. storrick",
+   "storrick"
+  ],
+  "ripley-minute-mysteries": [
+   "h. a. ripley",
+   "ripley"
+  ],
+  "warren-the-banner-boy-scouts-in-the-air": [
+   "george a. warren",
+   "warren"
+  ],
+  "koppenhaver-martin-luther": [
+   "carl e. koppenhaver",
+   "koppenhaver"
+  ],
+  "swiggett-james-oliver-curwood-disciple-of-the-wilds": [
+   "hobart donald swiggett",
+   "swiggett"
+  ],
+  "lamers-cottage-on-the-curve": [
+   "mary lamers",
+   "lamers"
+  ],
+  "hostetler-handbook-to-the-mennonite-hymnary": [
+   "lester hostetler",
+   "hostetler"
+  ],
+  "gillette-leonardo-da-vinci-pathfinder-of-science": [
+   "henry s. gillette",
+   "gillette"
+  ],
+  "bardwell-the-mystery-of-seal-islands": [
+   "harrison bardwell",
+   "bardwell"
+  ],
+  "may-the-doctor-s-secret-journal": [
+   "george s. may",
+   "may"
+  ],
+  "hammond-la-reunion-a-french-settlement-in-texas": [
+   "william jackson hammond",
+   "hammond"
+  ],
+  "murie-mammals-of-mount-mckinley-national-park": [
+   "adolph murie",
+   "murie"
+  ],
+  "rogers-the-civil-war-battles-of-chickamauga-and-chattanooga": [
+   "jesse littleton rogers",
+   "rogers"
+  ],
+  "taylor-jim-long-knife": [
+   "florance walton taylor",
+   "taylor"
+  ],
+  "hoppenstedt-the-mystery-of-the-deserted-village": [
+   "elbert m. hoppenstedt",
+   "hoppenstedt"
+  ],
+  "heath-a-journal-of-the-pilgrims-at-plymouth": [
+   "dwight b. heath",
+   "heath"
+  ],
+  "teller-our-nuclear-future": [
+   "edward teller",
+   "teller"
+  ],
+  "henry-the-strangest-things-in-the-world": [
+   "thomas r. henry",
+   "henry"
+  ],
+  "gekle-arthur-machen-weaver-of-fantasy": [
+   "william f. gekle",
+   "gekle"
+  ],
+  "seymour-arne-and-the-christmas-star": [
+   "alta halverson seymour",
+   "seymour"
+  ],
+  "kohn-the-peaceful-atom": [
+   "bernice kohn",
+   "kohn"
+  ],
+  "mcintyre-debts-hopeful-and-desperate": [
+   "ruth a. mcintyre",
+   "mcintyre"
+  ],
+  "robinson-the-g-man-s-son-at-porpoise-island": [
+   "warren f. robinson",
+   "robinson"
   ]
  },
  "_surname_note": "Per title: the author's name forms.",
@@ -2080,6 +2402,230 @@
   "winthrop-john-winthrop-jr-on-indian-corn": [
    78645,
    "John Winthrop, John Winthrop, Jr., on Indian Corn (Norwood, Mass.: The Plimpton Press, 1937)"
+  ],
+  "williamson-have-we-no-rights": [
+   24528,
+   "Mabel Williamson, Have We No Rights (1957)"
+  ],
+  "wilkie-daniel-boone-taming-the-wilds": [
+   24730,
+   "Katharine Elliott Wilkie, Daniel Boone Taming the Wilds (1960)"
+  ],
+  "wharton-the-bounty-of-the-chesapeake": [
+   26632,
+   "James Wharton, The Bounty of the Chesapeake (1957)"
+  ],
+  "herrick-frank-h-nelson-of-cincinnati": [
+   26980,
+   "Warren Crocker Herrick, Frank H. Nelson of Cincinnati (1945)"
+  ],
+  "herndon-tobacco-in-colonial-virginia": [
+   27117,
+   "G. Melvin Herndon, Tobacco in Colonial Virginia (1957)"
+  ],
+  "jester-domestic-life-in-virginia-in-the-seventeenth-century": [
+   27482,
+   "Annie Lash Jester, Domestic Life in Virginia in the Seventeenth Century (1957)"
+  ],
+  "savage-bandit-love": [
+   27856,
+   "Juanita Savage, Bandit Love (1931)"
+  ],
+  "ormondroyd-david-and-the-phoenix": [
+   27922,
+   "Edward Ormondroyd, David and the Phoenix (1957)"
+  ],
+  "hughes-medicine-in-virginia": [
+   28390,
+   "Thomas Proctor Hughes, Medicine in Virginia (1957)"
+  ],
+  "robinson-mother-earth-land-grants-in-virginia": [
+   28499,
+   "Walter Stitt Robinson, Mother Earth Land Grants in Virginia (1957)"
+  ],
+  "dawson-mr-wicker-s-window": [
+   28952,
+   "Carley Dawson, Mr. Wicker's Window (1952)"
+  ],
+  "washburn-virginia-under-charles-i-and-cromwell": [
+   29348,
+   "Wilcomb E. Washburn, Virginia Under Charles I and Cromwell (1957)"
+  ],
+  "gannett-my-father-s-dragon": [
+   30017,
+   "Ruth Stiles Gannett, My Father's Dragon (1948)"
+  ],
+  "hatch-the-first-seventeen-years-virginia": [
+   30780,
+   "Charles E. Hatch, The First Seventeen Years Virginia (1957)"
+  ],
+  "moore-seaport-in-virginia": [
+   30747,
+   "Gay Montague Moore, Seaport in Virginia (1949)"
+  ],
+  "willis-legends-of-the-skyline-drive": [
+   33018,
+   "Carrie Hunter Willis, Legends of the Skyline Drive (1940)"
+  ],
+  "price-the-civil-war-centennial-handbook": [
+   37740,
+   "William H. Price, The Civil War Centennial Handbook (1961)"
+  ],
+  "foster-the-forest-of-mystery": [
+   43269,
+   "James H. Foster, The Forest of Mystery (1935)"
+  ],
+  "foster-captured-by-the-arabs": [
+   43267,
+   "James H. Foster, Captured by the Arabs (1933)"
+  ],
+  "torpey-hallowed-heritage": [
+   43884,
+   "Dorothy Margaret Torpey, Hallowed Heritage (1961)"
+  ],
+  "randolph-crossed-trails-in-mexico": [
+   44061,
+   "Helen Randolph, Crossed Trails in Mexico (1936)"
+  ],
+  "robertson-ticktock-and-jim": [
+   44400,
+   "Keith Robertson, Ticktock and Jim (1948)"
+  ],
+  "craine-airplane-boys-in-the-black-woods": [
+   45494,
+   "E. J. Craine, Airplane Boys in the Black Woods (1932)"
+  ],
+  "craine-airplane-boys-at-platinum-river": [
+   56746,
+   "E. J. Craine, Airplane Boys at Platinum River (1931)"
+  ],
+  "martinek-don-winslow-of-the-navy": [
+   45613,
+   "Frank V. Martinek, Don Winslow of the Navy (1940)"
+  ],
+  "moore-near-the-top-of-the-world": [
+   45588,
+   "Nelle E. Moore, Near the Top of the World (1936)"
+  ],
+  "newcomb-flying-the-coast-skyways": [
+   45680,
+   "Ambrose Newcomb, Flying the Coast Skyways (1931)"
+  ],
+  "newcomb-trackers-of-the-fog-pack": [
+   45973,
+   "Ambrose Newcomb, Trackers of the Fog Pack (1931)"
+  ],
+  "moyer-gypsies-of-the-air": [
+   47554,
+   "Bess Moyer, Gypsies of the Air (1932)"
+  ],
+  "moyer-on-adventure-island": [
+   48146,
+   "Bess Moyer, On Adventure Island (1932)"
+  ],
+  "cumming-the-assyrian-and-hebrew-hymns-of-praise": [
+   47864,
+   "Charles Gordon Cumming, The Assyrian and Hebrew Hymns of Praise (1934)"
+  ],
+  "potts-prayers-of-the-early-church": [
+   48247,
+   "J. Manning Potts, Prayers of the Early Church (1953)"
+  ],
+  "potts-prayers-of-the-middle-ages": [
+   48242,
+   "J. Manning Potts, Prayers of the Middle Ages (1954)"
+  ],
+  "storrick-the-battle-of-gettysburg": [
+   50504,
+   "W. C. Storrick, The Battle of Gettysburg (1935)"
+  ],
+  "ripley-minute-mysteries": [
+   50603,
+   "H. A. Ripley, Minute Mysteries (1932)"
+  ],
+  "warren-the-banner-boy-scouts-in-the-air": [
+   52394,
+   "George A. Warren, The Banner Boy Scouts in the Air (1937)"
+  ],
+  "koppenhaver-martin-luther": [
+   53499,
+   "Carl E. Koppenhaver, Martin Luther (1953)"
+  ],
+  "swiggett-james-oliver-curwood-disciple-of-the-wilds": [
+   53834,
+   "Hobart Donald Swiggett, James Oliver Curwood Disciple of the Wilds (1943)"
+  ],
+  "lamers-cottage-on-the-curve": [
+   54946,
+   "Mary Lamers, Cottage on the Curve (1945)"
+  ],
+  "hostetler-handbook-to-the-mennonite-hymnary": [
+   54966,
+   "Lester Hostetler, Handbook to the Mennonite Hymnary (1949)"
+  ],
+  "gillette-leonardo-da-vinci-pathfinder-of-science": [
+   54827,
+   "Henry S. Gillette, Leonardo da Vinci Pathfinder of Science (1962)"
+  ],
+  "bardwell-the-mystery-of-seal-islands": [
+   57224,
+   "Harrison Bardwell, The Mystery of Seal Islands (1931)"
+  ],
+  "may-the-doctor-s-secret-journal": [
+   57817,
+   "George S. May, The Doctor's Secret Journal (1960)"
+  ],
+  "hammond-la-reunion-a-french-settlement-in-texas": [
+   58590,
+   "William Jackson Hammond, La Reunion a French Settlement in Texas (1958)"
+  ],
+  "murie-mammals-of-mount-mckinley-national-park": [
+   61433,
+   "Adolph Murie, Mammals of Mount McKinley National Park (1962)"
+  ],
+  "rogers-the-civil-war-battles-of-chickamauga-and-chattanooga": [
+   62977,
+   "Jesse Littleton Rogers, The Civil War Battles of Chickamauga and Chattanooga (1942)"
+  ],
+  "taylor-jim-long-knife": [
+   65942,
+   "Florance Walton Taylor, Jim Long-Knife (1959)"
+  ],
+  "hoppenstedt-the-mystery-of-the-deserted-village": [
+   66341,
+   "Elbert M. Hoppenstedt, The Mystery of the Deserted Village (1960)"
+  ],
+  "heath-a-journal-of-the-pilgrims-at-plymouth": [
+   66359,
+   "Dwight B. Heath, A Journal of the Pilgrims at Plymouth (1963)"
+  ],
+  "teller-our-nuclear-future": [
+   66408,
+   "Edward Teller, Our Nuclear Future (1958)"
+  ],
+  "henry-the-strangest-things-in-the-world": [
+   67223,
+   "Thomas R. Henry, The Strangest Things in the World (1958)"
+  ],
+  "gekle-arthur-machen-weaver-of-fantasy": [
+   67820,
+   "William F. Gekle, Arthur Machen Weaver of Fantasy (1949)"
+  ],
+  "seymour-arne-and-the-christmas-star": [
+   69115,
+   "Alta Halverson Seymour, Arne and the Christmas Star (1952)"
+  ],
+  "kohn-the-peaceful-atom": [
+   70047,
+   "Bernice Kohn, The Peaceful Atom (1963)"
+  ],
+  "mcintyre-debts-hopeful-and-desperate": [
+   70625,
+   "Ruth A. McIntyre, Debts Hopeful and Desperate (1963)"
+  ],
+  "robinson-the-g-man-s-son-at-porpoise-island": [
+   71459,
+   "Warren F. Robinson, The G-man's Son at Porpoise Island (1937)"
   ]
  },
  "internet_archive": {},
@@ -2294,7 +2840,63 @@
   "lane-on-old-cape-cod": "Non-renewal sweep batch 9, 2026-11-15. Orleans, Mass.: The Cape Codder Printery, 1961 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
   "brayton-trading-in-scrabbletown": "Non-renewal sweep batch 9, 2026-11-15. Newport, RI: Ward Printing Company, 1952 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
   "mccue-joe-lincoln-of-cape-cod": "Non-renewal sweep batch 9, 2026-11-15. Silver Lake P. O., Mass.: The Cape Cod Publishers, 1949 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
-  "winthrop-john-winthrop-jr-on-indian-corn": "Non-renewal sweep batch 9, 2026-11-15. Norwood, Mass.: The Plimpton Press, 1937 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1964-65): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Winthrop's text (1662) is old; Fulmer Mood's 1937 edition matter was never renewed. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+  "winthrop-john-winthrop-jr-on-indian-corn": "Non-renewal sweep batch 9, 2026-11-15. Norwood, Mass.: The Plimpton Press, 1937 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1964-65): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Winthrop's text (1662) is old; Fulmer Mood's 1937 edition matter was never renewed. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "williamson-have-we-no-rights": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright (C), 1957, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wilkie-daniel-boone-taming-the-wilds": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright (C) 1960 by Katherine E. Wilkie. Copyright (C) 1961 by Scholastic'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wharton-the-bounty-of-the-chesapeake": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright(C) 1957 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "herrick-frank-h-nelson-of-cincinnati": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1945, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1972-73): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "herndon-tobacco-in-colonial-virginia": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright(C), 1957 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "jester-domestic-life-in-virginia-in-the-seventeenth-century": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright(C), 1957 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "savage-bandit-love": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1931, BY DIAL PRESS, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "ormondroyd-david-and-the-phoenix": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright 1957, by Edward Ormondroyd_'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hughes-medicine-in-virginia": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT(C), 1957 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "robinson-mother-earth-land-grants-in-virginia": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT(C), 1957 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "dawson-mr-wicker-s-window": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1952, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "washburn-virginia-under-charles-i-and-cromwell": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT(C), 1957 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "gannett-my-father-s-dragon": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1948 BY RANDOM HOUSE, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1975-76): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hatch-the-first-seventeen-years-virginia": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT(C), 1957 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "moore-seaport-in-virginia": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright (C) 1949 by The Rector and the Visitors of'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "willis-legends-of-the-skyline-drive": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1940'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1967-68): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "price-the-civil-war-centennial-handbook": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1961'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "foster-the-forest-of-mystery": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1935, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1962-63): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "foster-captured-by-the-arabs": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1933, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "torpey-hallowed-heritage": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1961 by Dorothy M. Torpey'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "randolph-crossed-trails-in-mexico": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1936 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1963-64): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "robertson-ticktock-and-jim": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright, 1948, by The John C. Winston Company'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1975-76): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. The renewal R671249 (1977) is of the sequel, Ticktock and Jim, Deputy Sheriffs (1949); this 1948 book has none. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "craine-airplane-boys-in-the-black-woods": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1932'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "craine-airplane-boys-at-platinum-river": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "martinek-don-winslow-of-the-navy": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1940, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1967-68): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "moore-near-the-top-of-the-world": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1936, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1963-64): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "newcomb-flying-the-coast-skyways": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "newcomb-trackers-of-the-fog-pack": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "moyer-gypsies-of-the-air": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1932'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "moyer-on-adventure-island": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1932'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "cumming-the-assyrian-and-hebrew-hymns-of-praise": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1934'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "potts-prayers-of-the-early-church": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1953'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "potts-prayers-of-the-middle-ages": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: '© Copyright, 1954'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1981-82): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "storrick-the-battle-of-gettysburg": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1935, by J. Horace McFarland Company'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1962-63): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "ripley-minute-mysteries": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1932, BY HOUGHTON MIFFLIN COMPANY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "warren-the-banner-boy-scouts-in-the-air": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1937'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1964-65): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "koppenhaver-martin-luther": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1953, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "swiggett-james-oliver-curwood-disciple-of-the-wilds": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1943'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "lamers-cottage-on-the-curve": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1945'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1972-73): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hostetler-handbook-to-the-mennonite-hymnary": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1949, by the General Conference of Mennonites,'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. The renewal R451663 (1968) is of The Mennonite Hymnary (1940) itself; this 1949 Handbook to it has none. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "gillette-leonardo-da-vinci-pathfinder-of-science": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1962 by Franklin Watts, Inc.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bardwell-the-mystery-of-seal-islands": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "may-the-doctor-s-secret-journal": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1960 by The Fort Mackinac Division Press'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Daniel Morison's journal (1769-72) is old; George S. May's 1960 edition matter was never renewed. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hammond-la-reunion-a-french-settlement-in-texas": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1958'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "murie-mammals-of-mount-mckinley-national-park": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright August, 1962 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "rogers-the-civil-war-battles-of-chickamauga-and-chattanooga": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1942'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "taylor-jim-long-knife": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1959 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hoppenstedt-the-mystery-of-the-deserted-village": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Original publication: United States: Franklin Watts, 1960'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "heath-a-journal-of-the-pilgrims-at-plymouth": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Original publication: United States: Corinth Books, 1963'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Mourt's Relation (1622) is old; Heath's 1963 edition matter was never renewed (due 1991). US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "teller-our-nuclear-future": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1958, by Criterion Books, Inc.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Written with Albert L. Latter. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "henry-the-strangest-things-in-the-world": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Original publication: United States: Public Affairs Press, 1958'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "gekle-arthur-machen-weaver-of-fantasy": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Original publication: United States: Round Table Press, 1949'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "seymour-arne-and-the-christmas-star": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Original publication: United States: Willcox and Follett, 1952'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kohn-the-peaceful-atom": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Original publication: United States: Prentice Hall Inc., 1963'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Bernice Kohn Hunt, writing as Bernice Kohn. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "mcintyre-debts-hopeful-and-desperate": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Original publication: United States: Plimoth Plantation, Inc., 1963'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "robinson-the-g-man-s-son-at-porpoise-island": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Original publication: United States: The Goldsmith Publishing Company, 1937'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1964-65): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
  },
  "_excluded": {
   "pg-72716": "Ellsberg, Hell on Ice (1938): RENEWED, A114312 -> R355571 (1965), though Gutenberg released it. Not taken.",
@@ -4196,6 +4798,510 @@
    "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "john winthrop",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "williamson-have-we-no-rights": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mabel williamson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilkie-daniel-boone-taming-the-wilds": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "katharine elliott wilkie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wharton-the-bounty-of-the-chesapeake": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "james wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "herrick-frank-h-nelson-of-cincinnati": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "warren crocker herrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "herndon-tobacco-in-colonial-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "g. melvin herndon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jester-domestic-life-in-virginia-in-the-seventeenth-century": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "annie lash jester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "savage-bandit-love": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "juanita savage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ormondroyd-david-and-the-phoenix": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edward ormondroyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hughes-medicine-in-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "thomas proctor hughes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "robinson-mother-earth-land-grants-in-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "walter stitt robinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dawson-mr-wicker-s-window": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "carley dawson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "washburn-virginia-under-charles-i-and-cromwell": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "wilcomb e. washburn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gannett-my-father-s-dragon": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruth stiles gannett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hatch-the-first-seventeen-years-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "charles e. hatch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moore-seaport-in-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "gay montague moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "willis-legends-of-the-skyline-drive": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "carrie hunter willis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "price-the-civil-war-centennial-handbook": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william h. price",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "foster-the-forest-of-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "james h. foster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "foster-captured-by-the-arabs": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "james h. foster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "torpey-hallowed-heritage": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "dorothy margaret torpey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "randolph-crossed-trails-in-mexico": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "helen randolph",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "robertson-ticktock-and-jim": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "keith robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craine-airplane-boys-in-the-black-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "e. j. craine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craine-airplane-boys-at-platinum-river": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "e. j. craine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "martinek-don-winslow-of-the-navy": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "frank v. martinek",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moore-near-the-top-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "nelle e. moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "newcomb-flying-the-coast-skyways": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ambrose newcomb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "newcomb-trackers-of-the-fog-pack": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ambrose newcomb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moyer-gypsies-of-the-air": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bess moyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moyer-on-adventure-island": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bess moyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cumming-the-assyrian-and-hebrew-hymns-of-praise": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "charles gordon cumming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "potts-prayers-of-the-early-church": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "j. manning potts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "potts-prayers-of-the-middle-ages": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "j. manning potts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "storrick-the-battle-of-gettysburg": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "w. c. storrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ripley-minute-mysteries": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "h. a. ripley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warren-the-banner-boy-scouts-in-the-air": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "george a. warren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "koppenhaver-martin-luther": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "carl e. koppenhaver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swiggett-james-oliver-curwood-disciple-of-the-wilds": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "hobart donald swiggett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lamers-cottage-on-the-curve": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mary lamers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hostetler-handbook-to-the-mennonite-hymnary": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "lester hostetler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gillette-leonardo-da-vinci-pathfinder-of-science": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "henry s. gillette",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bardwell-the-mystery-of-seal-islands": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "harrison bardwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "may-the-doctor-s-secret-journal": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "george s. may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hammond-la-reunion-a-french-settlement-in-texas": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william jackson hammond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "murie-mammals-of-mount-mckinley-national-park": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "adolph murie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rogers-the-civil-war-battles-of-chickamauga-and-chattanooga": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "jesse littleton rogers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "taylor-jim-long-knife": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "florance walton taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hoppenstedt-the-mystery-of-the-deserted-village": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "elbert m. hoppenstedt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "heath-a-journal-of-the-pilgrims-at-plymouth": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "dwight b. heath",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "teller-our-nuclear-future": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edward teller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henry-the-strangest-things-in-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "thomas r. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gekle-arthur-machen-weaver-of-fantasy": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william f. gekle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seymour-arne-and-the-christmas-star": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "alta halverson seymour",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kohn-the-peaceful-atom": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bernice kohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcintyre-debts-hopeful-and-desperate": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruth a. mcintyre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "robinson-the-g-man-s-son-at-porpoise-island": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "warren f. robinson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

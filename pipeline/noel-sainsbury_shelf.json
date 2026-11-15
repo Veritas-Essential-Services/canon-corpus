@@ -1,0 +1,134 @@
+{
+ "_about": "Noel Sainsbury, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 10 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Noel Sainsbury's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted. Sainsbury (b. 1884) also wrote the Dorothy Dixon books as 'Dorothy Wayne' (Library of Congress and Gutenberg give the pen name his birth year); both are here.",
+ "_name_words": [
+  "sainsbury",
+  "wayne"
+ ],
+ "_surname": [
+  "noel sainsbury",
+  "sainsbury",
+  "dorothy wayne",
+  "wayne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sainsbury-bill-bolton-flying-midshipman": [
+   35858,
+   "Bill Bolton Flying Midshipman (1933)"
+  ],
+  "sainsbury-bill-bolton-and-hidden-danger": [
+   54413,
+   "Bill Bolton and Hidden Danger (1933)"
+  ],
+  "sainsbury-bill-bolton-and-the-winged-cartwheels": [
+   58407,
+   "Bill Bolton and the Winged Cartwheels (1933)"
+  ],
+  "sainsbury-bill-bolton-and-the-flying-fish": [
+   63394,
+   "Bill Bolton and the Flying Fish (1933)"
+  ],
+  "wayne-dorothy-dixon-and-the-mystery-plane": [
+   44782,
+   "Dorothy Dixon and the Mystery Plane (1933)"
+  ],
+  "wayne-dorothy-dixon-and-the-double-cousin": [
+   44670,
+   "Dorothy Dixon and the Double Cousin (1933)"
+  ],
+  "wayne-dorothy-dixon-wins-her-wings": [
+   45174,
+   "Dorothy Dixon Wins Her Wings (1933)"
+  ],
+  "wayne-dorothy-dixon-solves-the-conway-case": [
+   45417,
+   "Dorothy Dixon Solves the Conway Case (1933)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "sainsbury-bill-bolton-flying-midshipman": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright_, 1933'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sainsbury-bill-bolton-and-hidden-danger": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1933'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sainsbury-bill-bolton-and-the-winged-cartwheels": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1933'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sainsbury-bill-bolton-and-the-flying-fish": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1933'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wayne-dorothy-dixon-and-the-mystery-plane": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1933'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wayne-dorothy-dixon-and-the-double-cousin": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1933'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wayne-dorothy-dixon-wins-her-wings": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1933'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wayne-dorothy-dixon-solves-the-conway-case": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1933'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "sainsbury-bill-bolton-flying-midshipman": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "noel sainsbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sainsbury-bill-bolton-and-hidden-danger": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "noel sainsbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sainsbury-bill-bolton-and-the-winged-cartwheels": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "noel sainsbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sainsbury-bill-bolton-and-the-flying-fish": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "noel sainsbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wayne-dorothy-dixon-and-the-mystery-plane": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "dorothy wayne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wayne-dorothy-dixon-and-the-double-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "dorothy wayne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wayne-dorothy-dixon-wins-her-wings": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "noel sainsbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wayne-dorothy-dixon-solves-the-conway-case": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "dorothy wayne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
