@@ -52,6 +52,10 @@
   "pusey-first-letter-newman-1869": [
    "a605134700puseuoft",
    "First Letter to the Very Rev. J. H. Newman, D.D., in Explanation Chiefly in Regard to the Reverential Love Due to the Ever-Blessed Theotokos (Oxford: J. Parker, 1869)"
+  ],
+  "pusey-notes-questions-brinckman-1891": [
+   "notesquestionson0000unse",
+   "Notes and Questions on the Catholic Faith and Religion, the notes and answers compiled chiefly from the works and in the words of Dr. Pusey [by Arthur Brinckman], preface by T. T. Carter (London: A. D. Innes, 1891)"
   ]
  },
  "_alternates": {
@@ -159,6 +163,17 @@
    "ia_rights": "ok: published 1869",
    "ia_date": "1869",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pusey-notes-questions-brinckman-1891": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "e. b. pusey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
