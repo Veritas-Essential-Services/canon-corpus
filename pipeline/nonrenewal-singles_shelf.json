@@ -1,43 +1,161 @@
 {
- "_about": "Non-renewal sweep, batch 6 (2026-11-15; Adam 2026-11-03: \"I want everything that was not renewed\"): single US books of 1931-1963 whose copyright was never renewed, taken from Project Gutenberg's recent releases (each text's 'Original publication' line read) and checked one by one against NYPL's cce-renewals with pipeline/renewal_check.py. One title per author; an author with more goes to a shelf of their own. American authors and US first editions only (URAA does not reach them). No uids minted.",
+ "_about": "Non-renewal sweep, batches 6-7 (2026-11-15; Adam 2026-11-03: \"I want everything that was not renewed\"): single US books of 1931-1963 whose copyright was never renewed, taken from Project Gutenberg's recent releases (each text's 'Original publication' line read) and checked one by one against NYPL's cce-renewals with pipeline/renewal_check.py. One title per author; an author with more goes to a shelf of their own. American authors and US first editions only (URAA does not reach them). No uids minted.",
  "_name_words": [],
  "_surname": [
   "a. j. muste",
+  "a. scott crossfield",
+  "adams",
+  "alberta powell graham",
+  "alfred bester",
+  "alfred charles michaud",
+  "alice payne hackett",
+  "august derleth",
   "baldwin",
+  "bales",
+  "barker",
   "barry goldwater",
+  "berge",
+  "berkeley",
+  "bester",
+  "bisson",
+  "blotner",
+  "breckinridge",
+  "brent",
+  "briand",
   "brinton",
+  "brown",
+  "bruce jay friedman",
   "buck",
+  "burchard",
+  "casey",
   "charles sears baldwin",
+  "chubb",
+  "clark r. mollenhoff",
+  "clifford r. adams",
+  "coblentz",
+  "coxe",
+  "crane",
   "crane brinton",
+  "crossfield",
+  "d. s. halacy",
+  "derleth",
+  "dobie",
+  "don whitehead",
+  "donald h. menzel",
+  "earle l. reynolds",
+  "edmund callis berkeley",
+  "edward ernest swanstrom",
+  "edward j. van liere",
   "elizabeth enright",
   "engle",
   "enright",
+  "eugene e. wilson",
+  "eugenia smith",
+  "fannie hurst",
+  "ferguson",
+  "fleischer",
+  "francis russell",
+  "frank",
   "fred c. kelly",
   "frederick d. wilhelmsen",
+  "fredric brown",
+  "friedman",
+  "ganoe",
+  "george harmon coxe",
+  "george marion",
+  "goldsmith",
   "goldwater",
+  "graham",
+  "hackett",
+  "halacy",
+  "hart crane",
+  "hay",
   "hazlitt",
+  "helen r. hull",
+  "helga sandburg",
   "henry hazlitt",
+  "herbert l. risteen",
+  "hoover",
   "horace m. kallen",
+  "howard h. quint",
+  "howe",
+  "hull",
+  "hurok",
+  "hurst",
+  "j. de lancey ferguson",
+  "j. edgar hoover",
+  "j. frank dobie",
+  "j. malcolm smith",
+  "james d. bales",
   "john g. neihardt",
+  "john hay",
+  "joseph blotner",
   "kalashnikoff",
   "kallen",
   "kelly",
   "kirk",
+  "knight",
+  "kunstler",
   "l'engle",
+  "laurence",
+  "lefevre",
+  "liere",
   "madeleine l'engle",
   "marguerite henry",
+  "marion",
+  "martin m. goldsmith",
+  "mary knight",
+  "menzel",
+  "michaud",
+  "mirsky",
+  "mollenhoff",
+  "morton pennypacker",
   "muste",
+  "nat fleischer",
   "neihardt",
   "nicholas kalashnikoff",
+  "o'connor",
+  "patrick o'connor",
+  "paul l., jr. briand",
   "pearl s. buck",
+  "pennypacker",
+  "peter burchard",
+  "quint",
+  "reba paeff mirsky",
+  "reynolds",
   "richard m. weaver",
+  "risteen",
+  "robert j. casey",
+  "robert lefevre",
+  "roger sessions",
+  "russell",
   "russell kirk",
+  "sandburg",
+  "scott dudley breckinridge",
+  "sessions",
+  "shirley barker",
+  "smith",
+  "sol hurok",
+  "stanton a. coblentz",
   "stefansson",
+  "sterling a. brown",
+  "stuart brent",
   "styron",
+  "swanstrom",
+  "t. a. bisson",
+  "thomas caldecot chubb",
+  "thomas carr howe",
   "vilhjalmur stefansson",
+  "waldo david frank",
   "weaver",
+  "wendell berge",
+  "whitehead",
   "wilhelmsen",
-  "william styron"
+  "william addleman ganoe",
+  "william l. laurence",
+  "william m. kunstler",
+  "william styron",
+  "wilson"
  ],
  "_surname_by_slug": {
   "weaver-ethics-of-rhetoric": [
@@ -114,6 +232,262 @@
   "hazlitt-free-mans-library": [
    "henry hazlitt",
    "hazlitt"
+  ],
+  "howe-salt-mines-and-castles": [
+   "thomas carr howe",
+   "howe"
+  ],
+  "berkeley-giant-brains": [
+   "edmund callis berkeley",
+   "berkeley"
+  ],
+  "blotner-the-political-novel": [
+   "joseph blotner",
+   "blotner"
+  ],
+  "menzel-the-world-of-flying-saucers": [
+   "donald h. menzel",
+   "menzel"
+  ],
+  "barker-the-road-to-bunker-hill": [
+   "shirley barker",
+   "barker"
+  ],
+  "russell-tragedy-in-dedham": [
+   "francis russell",
+   "russell"
+  ],
+  "brown-the-negro-in-american-fiction": [
+   "sterling a. brown",
+   "brown"
+  ],
+  "dobie-stories-of-christmas-and-the-bowie-knife": [
+   "j. frank dobie",
+   "dobie"
+  ],
+  "hay-the-great-beach": [
+   "john hay",
+   "hay"
+  ],
+  "hay-nature-s-year": [
+   "john hay",
+   "hay"
+  ],
+  "hay-the-run": [
+   "john hay",
+   "hay"
+  ],
+  "derleth-arkham-house": [
+   "august derleth",
+   "derleth"
+  ],
+  "crane-the-letters-of-hart-crane-1916-1932": [
+   "hart crane",
+   "crane"
+  ],
+  "sandburg-the-wheel-of-earth": [
+   "helga sandburg",
+   "sandburg"
+  ],
+  "sessions-reflections-on-the-music-life-in-the-united-states": [
+   "roger sessions",
+   "sessions"
+  ],
+  "hurok-s-hurok-presents": [
+   "sol hurok",
+   "hurok"
+  ],
+  "burchard-north-by-night": [
+   "peter burchard",
+   "burchard"
+  ],
+  "briand-daughter-of-the-sky": [
+   "paul l., jr. briand",
+   "briand"
+  ],
+  "frank-in-the-american-jungle-1925-1936": [
+   "waldo david frank",
+   "frank"
+  ],
+  "hull-with-the-one-coin-for-fee": [
+   "helen r. hull",
+   "hull"
+  ],
+  "hull-and-life-is-better": [
+   "helen r. hull",
+   "hull"
+  ],
+  "hull-the-debt": [
+   "helen r. hull",
+   "hull"
+  ],
+  "chubb-the-byzantines": [
+   "thomas caldecot chubb",
+   "chubb"
+  ],
+  "mirsky-thirty-one-brothers-and-sisters": [
+   "reba paeff mirsky",
+   "mirsky"
+  ],
+  "halacy-computers-the-machines-we-think-with": [
+   "d. s. halacy",
+   "halacy"
+  ],
+  "ferguson-pride-and-passion": [
+   "j. de lancey ferguson",
+   "ferguson"
+  ],
+  "friedman-stern": [
+   "bruce jay friedman",
+   "friedman"
+  ],
+  "brown-knock-three-one-two": [
+   "fredric brown",
+   "brown"
+  ],
+  "coxe-mission-of-fear": [
+   "george harmon coxe",
+   "coxe"
+  ],
+  "bester-who-he": [
+   "alfred bester",
+   "bester"
+  ],
+  "lefevre-anarchy": [
+   "robert lefevre",
+   "lefevre"
+  ],
+  "hurst-no-food-with-my-meals": [
+   "fannie hurst",
+   "hurst"
+  ],
+  "crossfield-always-another-dawn": [
+   "a. scott crossfield",
+   "crossfield"
+  ],
+  "bisson-shadow-over-asia": [
+   "t. a. bisson",
+   "bisson"
+  ],
+  "fleischer-50-years-at-ringside": [
+   "nat fleischer",
+   "fleischer"
+  ],
+  "breckinridge-sword-play-based-upon-the-french-school-of-the": [
+   "scott dudley breckinridge",
+   "breckinridge"
+  ],
+  "hackett-60-years-of-best-sellers-1895-1955": [
+   "alice payne hackett",
+   "hackett"
+  ],
+  "mollenhoff-washington-cover-up": [
+   "clark r. mollenhoff",
+   "mollenhoff"
+  ],
+  "wilson-slipstream": [
+   "eugene e. wilson",
+   "wilson"
+  ],
+  "casey-give-the-man-room": [
+   "robert j. casey",
+   "casey"
+  ],
+  "reynolds-all-in-the-same-boat": [
+   "earle l. reynolds",
+   "reynolds"
+  ],
+  "laurence-the-hell-bomb": [
+   "william l. laurence",
+   "laurence"
+  ],
+  "hoover-masters-of-deceit": [
+   "j. edgar hoover",
+   "hoover"
+  ],
+  "liere-a-doctor-enjoys-sherlock-holmes": [
+   "edward j. van liere",
+   "liere"
+  ],
+  "graham-great-bands-of-america": [
+   "alberta powell graham",
+   "graham"
+  ],
+  "whitehead-border-guard": [
+   "don whitehead",
+   "whitehead"
+  ],
+  "coblentz-my-life-in-poetry": [
+   "stanton a. coblentz",
+   "coblentz"
+  ],
+  "ganoe-soldiers-unmasked": [
+   "william addleman ganoe",
+   "ganoe"
+  ],
+  "kunstler-and-justice-for-all": [
+   "william m. kunstler",
+   "kunstler"
+  ],
+  "goldsmith-double-jeopardy": [
+   "martin m. goldsmith",
+   "goldsmith"
+  ],
+  "o-connor-the-black-tiger": [
+   "patrick o'connor",
+   "o'connor"
+  ],
+  "risteen-black-hawk-s-warpath": [
+   "herbert l. risteen",
+   "risteen"
+  ],
+  "brent-the-seven-stairs": [
+   "stuart brent",
+   "brent"
+  ],
+  "knight-red-blight": [
+   "mary knight",
+   "knight"
+  ],
+  "smith-anastasia": [
+   "eugenia smith",
+   "smith"
+  ],
+  "adams-how-to-pick-a-mate": [
+   "clifford r. adams",
+   "adams"
+  ],
+  "marion-the-free-press": [
+   "george marion",
+   "marion"
+  ],
+  "michaud-our-coming-world": [
+   "alfred charles michaud",
+   "michaud"
+  ],
+  "berge-cartels": [
+   "wendell berge",
+   "berge"
+  ],
+  "swanstrom-pilgrims-of-the-night": [
+   "edward ernest swanstrom",
+   "swanstrom"
+  ],
+  "bales-senator-fulbright-s-secret-memorandum": [
+   "james d. bales",
+   "bales"
+  ],
+  "smith-powers-of-the-president-during-crises": [
+   "j. malcolm smith",
+   "smith"
+  ],
+  "quint-profile-in-black-and-white": [
+   "howard h. quint",
+   "quint"
+  ],
+  "pennypacker-general-washington-s-spies-on-long-island-and-in": [
+   "morton pennypacker",
+   "pennypacker"
   ]
  },
  "_surname_note": "Per title: the author's name forms.",
@@ -194,6 +568,262 @@
   "hazlitt-free-mans-library": [
    78474,
    "Henry Hazlitt, The Free Man's Library (Princeton: D. Van Nostrand, 1956)"
+  ],
+  "howe-salt-mines-and-castles": [
+   68150,
+   "Thomas Carr Howe, Salt mines and castles (United States: Bobbs-Merrill Co., 1946)"
+  ],
+  "berkeley-giant-brains": [
+   68991,
+   "Edmund Callis Berkeley, Giant brains (United States: John Wiley & Sons, 1949)"
+  ],
+  "blotner-the-political-novel": [
+   68060,
+   "Joseph Blotner, The political novel (United States: Doubleday, 1955)"
+  ],
+  "menzel-the-world-of-flying-saucers": [
+   66639,
+   "Donald H. Menzel, The World of Flying Saucers (United States: Doubleday & Company, 1963)"
+  ],
+  "barker-the-road-to-bunker-hill": [
+   66623,
+   "Shirley Barker, The Road to Bunker Hill (United States: Duell, Sloan and Pearce, 1962)"
+  ],
+  "russell-tragedy-in-dedham": [
+   70970,
+   "Francis Russell, Tragedy in Dedham (United States: McGraw-Hill, 1962)"
+  ],
+  "brown-the-negro-in-american-fiction": [
+   71171,
+   "Sterling A. Brown, The Negro in American fiction (United States: Kennikat Press, 1938)"
+  ],
+  "dobie-stories-of-christmas-and-the-bowie-knife": [
+   69245,
+   "J. Frank Dobie, Stories of Christmas and the Bowie knife (United States: The Steck Company, 1953)"
+  ],
+  "hay-the-great-beach": [
+   75895,
+   "John Hay, The great beach (Garden City, New York: Doubleday & Company, Inc., 1963)"
+  ],
+  "hay-nature-s-year": [
+   76613,
+   "John Hay, Nature's year (Garden City, New York: Doubleday & Company, Inc., 1961)"
+  ],
+  "hay-the-run": [
+   77074,
+   "John Hay, The run (Garden City, New York: Doubleday & Company, Inc., 1959)"
+  ],
+  "derleth-arkham-house": [
+   76245,
+   "August Derleth, Arkham House (Sauk City, WI: Arkham House, 1959)"
+  ],
+  "crane-the-letters-of-hart-crane-1916-1932": [
+   76626,
+   "Hart Crane, The letters of Hart Crane, 1916-1932 (New York: Hermitage House, 1952)"
+  ],
+  "sandburg-the-wheel-of-earth": [
+   78102,
+   "Helga Sandburg, The wheel of earth (New York: McDowell, Obolensky, 1958)"
+  ],
+  "sessions-reflections-on-the-music-life-in-the-united-states": [
+   67239,
+   "Roger Sessions, Reflections on the Music Life in the United States (United States: Merlin Press, 1956)"
+  ],
+  "hurok-s-hurok-presents": [
+   68861,
+   "Sol Hurok, S. Hurok Presents (United States: Hermitage House, 1953)"
+  ],
+  "burchard-north-by-night": [
+   69865,
+   "Peter Burchard, North by night (United States: Coward-McCann, Inc., 1962)"
+  ],
+  "briand-daughter-of-the-sky": [
+   70263,
+   "Paul L., Jr. Briand, Daughter of the sky (United States: Duell, Sloan and Pearce, 1960)"
+  ],
+  "frank-in-the-american-jungle-1925-1936": [
+   78957,
+   "Waldo David Frank, In the American jungle [1925-1936] (New York: Farrar & Rinehart, 1937)"
+  ],
+  "hull-with-the-one-coin-for-fee": [
+   79230,
+   "Helen R. Hull, With the one coin for fee (New York: Coward-McCann, 1940)"
+  ],
+  "hull-and-life-is-better": [
+   79335,
+   "Helen R. Hull, And life is better (New York: Hearst Magazines Inc., 1947)"
+  ],
+  "hull-the-debt": [
+   79923,
+   "Helen R. Hull, The debt (New York: Hearst Magazines Inc., 1943)"
+  ],
+  "chubb-the-byzantines": [
+   70596,
+   "Thomas Caldecot Chubb, The Byzantines (United States: The World Publishing Co., 1959)"
+  ],
+  "mirsky-thirty-one-brothers-and-sisters": [
+   74529,
+   "Reba Paeff Mirsky, Thirty-one brothers and sisters (Chicago: Wilcox and Follett, 1952)"
+  ],
+  "halacy-computers-the-machines-we-think-with": [
+   72572,
+   "D. S. Halacy, Computers—the machines we think with (New York: Harper & Row, 1962)"
+  ],
+  "ferguson-pride-and-passion": [
+   69857,
+   "J. De Lancey Ferguson, Pride and Passion (United States: Oxford University Press, 1939)"
+  ],
+  "friedman-stern": [
+   66477,
+   "Bruce Jay Friedman, Stern (United States: Simon and Schuster, 1962)"
+  ],
+  "brown-knock-three-one-two": [
+   70944,
+   "Fredric Brown, Knock three-one-two (United States: E. P. Dutton & Co., Inc, 1959)"
+  ],
+  "coxe-mission-of-fear": [
+   77148,
+   "George Harmon Coxe, Mission of fear (New York: Alfred A. Knopf, 1962)"
+  ],
+  "bester-who-he": [
+   75234,
+   "Alfred Bester, \"Who he?\" (New York: The Dial Press, 1953)"
+  ],
+  "lefevre-anarchy": [
+   72001,
+   "Robert LeFevre, Anarchy (Colorado Springs: The Freedom School, 1959)"
+  ],
+  "hurst-no-food-with-my-meals": [
+   78225,
+   "Fannie Hurst, No food with my meals (New York: Harper & Brothers, 1935)"
+  ],
+  "crossfield-always-another-dawn": [
+   78431,
+   "A. Scott Crossfield, Always another dawn (New York: The World Publishing Company, 1960)"
+  ],
+  "bisson-shadow-over-asia": [
+   78440,
+   "T. A. Bisson, Shadow over Asia (New York: The Foreign Policy Association, 1941)"
+  ],
+  "fleischer-50-years-at-ringside": [
+   78585,
+   "Nat Fleischer, 50 years at ringside (New York: Fleet Publishing, 1958)"
+  ],
+  "breckinridge-sword-play-based-upon-the-french-school-of-the": [
+   79503,
+   "Scott Dudley Breckinridge, Sword play, based upon the French school of the foil (New York: A. S. Barnes & Co., 1941)"
+  ],
+  "hackett-60-years-of-best-sellers-1895-1955": [
+   79660,
+   "Alice Payne Hackett, 60 years of best sellers, 1895-1955 (New York: R. R. Bowker, 1956)"
+  ],
+  "mollenhoff-washington-cover-up": [
+   70368,
+   "Clark R. Mollenhoff, Washington cover-up (United States: Doubleday & Company, 1962)"
+  ],
+  "wilson-slipstream": [
+   70689,
+   "Eugene E. Wilson, Slipstream (United States: McGraw-Hill Book Company, Inc., 1950)"
+  ],
+  "casey-give-the-man-room": [
+   74349,
+   "Robert J. Casey, Give the man room (Indianapolis: The Bobbs-Merrill Co., 1952)"
+  ],
+  "reynolds-all-in-the-same-boat": [
+   74535,
+   "Earle L. Reynolds, All in the same boat (United States: David McKay Company, Inc., 1962)"
+  ],
+  "laurence-the-hell-bomb": [
+   75243,
+   "William L. Laurence, The hell bomb (New York: Alfred A. Knopf, 1950)"
+  ],
+  "hoover-masters-of-deceit": [
+   75796,
+   "J. Edgar Hoover, Masters of deceit (New York: Pocket Books, Inc., 1958)"
+  ],
+  "liere-a-doctor-enjoys-sherlock-holmes": [
+   75869,
+   "Edward J. Van Liere, A doctor enjoys Sherlock Holmes (New York: Vantage Press, 1959)"
+  ],
+  "graham-great-bands-of-america": [
+   70831,
+   "Alberta Powell Graham, Great bands of America (United States: Thomas Nelson & Sons, 1951)"
+  ],
+  "whitehead-border-guard": [
+   72689,
+   "Don Whitehead, Border guard (United States: McGraw-Hill Book Company, Inc., 1963)"
+  ],
+  "coblentz-my-life-in-poetry": [
+   77413,
+   "Stanton A. Coblentz, My life in poetry (New York: Bookman Associates, 1959)"
+  ],
+  "ganoe-soldiers-unmasked": [
+   77647,
+   "William Addleman Ganoe, Soldiers unmasked (Harrisburg, PA: Military Service Publishing Co., 1939)"
+  ],
+  "kunstler-and-justice-for-all": [
+   78229,
+   "William M. Kunstler, ... and justice for all (Dobbs Ferry, NY: Oceana Publications, 1963)"
+  ],
+  "goldsmith-double-jeopardy": [
+   79047,
+   "Martin M. Goldsmith, Double jeopardy (New York: The Macaulay Company, 1938)"
+  ],
+  "o-connor-the-black-tiger": [
+   67571,
+   "Patrick O'Connor, The Black Tiger (United States: Ives Washburn, Inc., 1956)"
+  ],
+  "risteen-black-hawk-s-warpath": [
+   67128,
+   "Herbert L. Risteen, Black Hawk's Warpath (United States: Cupples and Leon Company, 1950)"
+  ],
+  "brent-the-seven-stairs": [
+   69175,
+   "Stuart Brent, The seven stairs (United States: Houghton Mifflin Company, 1962)"
+  ],
+  "knight-red-blight": [
+   69684,
+   "Mary Knight, Red blight (United States: Lorin L. Morrison, 1951)"
+  ],
+  "smith-anastasia": [
+   68616,
+   "Eugenia Smith, Anastasia (United States: Robert Speller & Sons, 1963)"
+  ],
+  "adams-how-to-pick-a-mate": [
+   67472,
+   "Clifford R. Adams, How to Pick a Mate (United States: E. P. Dutton & Company, 1946)"
+  ],
+  "marion-the-free-press": [
+   70107,
+   "George Marion, The \"free press\" (United States: New Century Publishers, 1946)"
+  ],
+  "michaud-our-coming-world": [
+   72638,
+   "Alfred Charles Michaud, Our coming world (Philadelphia: World Publication Press, 1951)"
+  ],
+  "berge-cartels": [
+   78077,
+   "Wendell Berge, Cartels (Washington: Public Affairs Press, 1946)"
+  ],
+  "swanstrom-pilgrims-of-the-night": [
+   78506,
+   "Edward Ernest Swanstrom, Pilgrims of the night (New York: Sheed and Ward, 1950)"
+  ],
+  "bales-senator-fulbright-s-secret-memorandum": [
+   78918,
+   "James D. Bales, Senator Fulbright's secret memorandum (Searcy, AR: Bales Bookstore, 1962)"
+  ],
+  "smith-powers-of-the-president-during-crises": [
+   74067,
+   "J. Malcolm Smith, Powers of the President during crises (Washington, DC: Public Affairs Press, 1960)"
+  ],
+  "quint-profile-in-black-and-white": [
+   71378,
+   "Howard H. Quint, Profile in black and white (Washington: Public Affairs Press, 1958)"
+  ],
+  "pennypacker-general-washington-s-spies-on-long-island-and-in": [
+   70129,
+   "Morton Pennypacker, General Washington's spies on Long Island and in New York (United States: Long Island Historical Society, 1939)"
   ]
  },
  "internet_archive": {},
@@ -216,7 +846,71 @@
   "goldwater-conscience-of-a-conservative": "Non-renewal sweep batch 6, 2026-11-15. Shepherdsville, Ky.: Victor Publishing, 1960 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
   "stefansson-adventures-in-error": "Non-renewal sweep batch 6, 2026-11-15. New York: Robert M. McBride, 1936 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1963-64): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. Stefansson (born in Canada, American from childhood) renewed later books (Unsolved Mysteries of the Arctic, R392358; Iceland, R390356); not this one. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
   "csbaldwin-renaissance-literary-theory": "Non-renewal sweep batch 6, 2026-11-15. New York: Columbia University Press (PG text: Peter Smith), 1939 (Gutenberg's 'Original publication' line). American author (died 1935; published posthumously, ed. D. L. Clark), first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
-  "hazlitt-free-mans-library": "Non-renewal sweep batch 6, 2026-11-15. Princeton: D. Van Nostrand, 1956 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1983-84): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+  "hazlitt-free-mans-library": "Non-renewal sweep batch 6, 2026-11-15. Princeton: D. Van Nostrand, 1956 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1983-84): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "howe-salt-mines-and-castles": "Non-renewal sweep batch 7, 2026-11-15. United States: Bobbs-Merrill Co., 1946 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1973-74): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "berkeley-giant-brains": "Non-renewal sweep batch 7, 2026-11-15. United States: John Wiley & Sons, 1949 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "blotner-the-political-novel": "Non-renewal sweep batch 7, 2026-11-15. United States: Doubleday, 1955 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1982-83): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "menzel-the-world-of-flying-saucers": "Non-renewal sweep batch 7, 2026-11-15. United States: Doubleday & Company, 1963 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "barker-the-road-to-bunker-hill": "Non-renewal sweep batch 7, 2026-11-15. United States: Duell, Sloan and Pearce, 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "russell-tragedy-in-dedham": "Non-renewal sweep batch 7, 2026-11-15. United States: McGraw-Hill, 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "brown-the-negro-in-american-fiction": "Non-renewal sweep batch 7, 2026-11-15. United States: Kennikat Press, 1938 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1965-66): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "dobie-stories-of-christmas-and-the-bowie-knife": "Non-renewal sweep batch 7, 2026-11-15. United States: The Steck Company, 1953 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hay-the-great-beach": "Non-renewal sweep batch 7, 2026-11-15. Garden City, New York: Doubleday & Company, Inc., 1963 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hay-nature-s-year": "Non-renewal sweep batch 7, 2026-11-15. Garden City, New York: Doubleday & Company, Inc., 1961 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hay-the-run": "Non-renewal sweep batch 7, 2026-11-15. Garden City, New York: Doubleday & Company, Inc., 1959 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "derleth-arkham-house": "Non-renewal sweep batch 7, 2026-11-15. Sauk City, WI: Arkham House, 1959 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "crane-the-letters-of-hart-crane-1916-1932": "Non-renewal sweep batch 7, 2026-11-15. New York: Hermitage House, 1952 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Crane died in 1932; his letters were first published here, edited by Brom Weber, with notice; not renewed. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sandburg-the-wheel-of-earth": "Non-renewal sweep batch 7, 2026-11-15. New York: McDowell, Obolensky, 1958 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sessions-reflections-on-the-music-life-in-the-united-states": "Non-renewal sweep batch 7, 2026-11-15. United States: Merlin Press, 1956 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1983-84): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hurok-s-hurok-presents": "Non-renewal sweep batch 7, 2026-11-15. United States: Hermitage House, 1953 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "burchard-north-by-night": "Non-renewal sweep batch 7, 2026-11-15. United States: Coward-McCann, Inc., 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "briand-daughter-of-the-sky": "Non-renewal sweep batch 7, 2026-11-15. United States: Duell, Sloan and Pearce, 1960 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "frank-in-the-american-jungle-1925-1936": "Non-renewal sweep batch 7, 2026-11-15. New York: Farrar & Rinehart, 1937 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1964-65): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hull-with-the-one-coin-for-fee": "Non-renewal sweep batch 7, 2026-11-15. New York: Coward-McCann, 1940 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1967-68): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hull-and-life-is-better": "Non-renewal sweep batch 7, 2026-11-15. New York: Hearst Magazines Inc., 1947 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1974-75): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hull-the-debt": "Non-renewal sweep batch 7, 2026-11-15. New York: Hearst Magazines Inc., 1943 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. The two 'The Debt' renewals are A. E. van Vogt's and E. Mayne Hull's, other works. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "chubb-the-byzantines": "Non-renewal sweep batch 7, 2026-11-15. United States: The World Publishing Co., 1959 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "mirsky-thirty-one-brothers-and-sisters": "Non-renewal sweep batch 7, 2026-11-15. Chicago: Wilcox and Follett, 1952 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "halacy-computers-the-machines-we-think-with": "Non-renewal sweep batch 7, 2026-11-15. New York: Harper & Row, 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "ferguson-pride-and-passion": "Non-renewal sweep batch 7, 2026-11-15. United States: Oxford University Press, 1939 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "friedman-stern": "Non-renewal sweep batch 7, 2026-11-15. United States: Simon and Schuster, 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "brown-knock-three-one-two": "Non-renewal sweep batch 7, 2026-11-15. United States: E. P. Dutton & Co., Inc, 1959 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "coxe-mission-of-fear": "Non-renewal sweep batch 7, 2026-11-15. New York: Alfred A. Knopf, 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bester-who-he": "Non-renewal sweep batch 7, 2026-11-15. New York: The Dial Press, 1953 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Bester's The Demolished Man and other books carry renewals; not this one. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "lefevre-anarchy": "Non-renewal sweep batch 7, 2026-11-15. Colorado Springs: The Freedom School, 1959 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hurst-no-food-with-my-meals": "Non-renewal sweep batch 7, 2026-11-15. New York: Harper & Brothers, 1935 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1962-63): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "crossfield-always-another-dawn": "Non-renewal sweep batch 7, 2026-11-15. New York: The World Publishing Company, 1960 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bisson-shadow-over-asia": "Non-renewal sweep batch 7, 2026-11-15. New York: The Foreign Policy Association, 1941 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "fleischer-50-years-at-ringside": "Non-renewal sweep batch 7, 2026-11-15. New York: Fleet Publishing, 1958 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "breckinridge-sword-play-based-upon-the-french-school-of-the": "Non-renewal sweep batch 7, 2026-11-15. New York: A. S. Barnes & Co., 1941 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hackett-60-years-of-best-sellers-1895-1955": "Non-renewal sweep batch 7, 2026-11-15. New York: R. R. Bowker, 1956 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1983-84): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "mollenhoff-washington-cover-up": "Non-renewal sweep batch 7, 2026-11-15. United States: Doubleday & Company, 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wilson-slipstream": "Non-renewal sweep batch 7, 2026-11-15. United States: McGraw-Hill Book Company, Inc., 1950 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "casey-give-the-man-room": "Non-renewal sweep batch 7, 2026-11-15. Indianapolis: The Bobbs-Merrill Co., 1952 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "reynolds-all-in-the-same-boat": "Non-renewal sweep batch 7, 2026-11-15. United States: David McKay Company, Inc., 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "laurence-the-hell-bomb": "Non-renewal sweep batch 7, 2026-11-15. New York: Alfred A. Knopf, 1950 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hoover-masters-of-deceit": "Non-renewal sweep batch 7, 2026-11-15. New York: Pocket Books, Inc., 1958 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "liere-a-doctor-enjoys-sherlock-holmes": "Non-renewal sweep batch 7, 2026-11-15. New York: Vantage Press, 1959 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "graham-great-bands-of-america": "Non-renewal sweep batch 7, 2026-11-15. United States: Thomas Nelson & Sons, 1951 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "whitehead-border-guard": "Non-renewal sweep batch 7, 2026-11-15. United States: McGraw-Hill Book Company, Inc., 1963 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "coblentz-my-life-in-poetry": "Non-renewal sweep batch 7, 2026-11-15. New York: Bookman Associates, 1959 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "ganoe-soldiers-unmasked": "Non-renewal sweep batch 7, 2026-11-15. Harrisburg, PA: Military Service Publishing Co., 1939 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kunstler-and-justice-for-all": "Non-renewal sweep batch 7, 2026-11-15. Dobbs Ferry, NY: Oceana Publications, 1963 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "goldsmith-double-jeopardy": "Non-renewal sweep batch 7, 2026-11-15. New York: The Macaulay Company, 1938 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1965-66): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "o-connor-the-black-tiger": "Non-renewal sweep batch 7, 2026-11-15. United States: Ives Washburn, Inc., 1956 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1983-84): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Patrick O'Connor is Leonard Wibberley's pen name (Irish-born, living and publishing in the US); his later Black Tiger books (1960, 1962) were renewed, this first one was not. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "risteen-black-hawk-s-warpath": "Non-renewal sweep batch 7, 2026-11-15. United States: Cupples and Leon Company, 1950 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "brent-the-seven-stairs": "Non-renewal sweep batch 7, 2026-11-15. United States: Houghton Mifflin Company, 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "knight-red-blight": "Non-renewal sweep batch 7, 2026-11-15. United States: Lorin L. Morrison, 1951 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "smith-anastasia": "Non-renewal sweep batch 7, 2026-11-15. United States: Robert Speller & Sons, 1963 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "adams-how-to-pick-a-mate": "Non-renewal sweep batch 7, 2026-11-15. United States: E. P. Dutton & Company, 1946 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1973-74): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "marion-the-free-press": "Non-renewal sweep batch 7, 2026-11-15. United States: New Century Publishers, 1946 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1973-74): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "michaud-our-coming-world": "Non-renewal sweep batch 7, 2026-11-15. Philadelphia: World Publication Press, 1951 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "berge-cartels": "Non-renewal sweep batch 7, 2026-11-15. Washington: Public Affairs Press, 1946 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1973-74): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "swanstrom-pilgrims-of-the-night": "Non-renewal sweep batch 7, 2026-11-15. New York: Sheed and Ward, 1950 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bales-senator-fulbright-s-secret-memorandum": "Non-renewal sweep batch 7, 2026-11-15. Searcy, AR: Bales Bookstore, 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "smith-powers-of-the-president-during-crises": "Non-renewal sweep batch 7, 2026-11-15. Washington, DC: Public Affairs Press, 1960 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "quint-profile-in-black-and-white": "Non-renewal sweep batch 7, 2026-11-15. Washington: Public Affairs Press, 1958 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "pennypacker-general-washington-s-spies-on-long-island-and-in": "Non-renewal sweep batch 7, 2026-11-15. United States: Long Island Historical Society, 1939 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
  },
  "_excluded": {
   "pg-72716": "Ellsberg, Hell on Ice (1938): RENEWED, A114312 -> R355571 (1965), though Gutenberg released it. Not taken.",
@@ -390,6 +1084,582 @@
    "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "henry hazlitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howe-salt-mines-and-castles": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "thomas carr howe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "berkeley-giant-brains": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edmund callis berkeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blotner-the-political-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "joseph blotner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "menzel-the-world-of-flying-saucers": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "donald h. menzel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "barker-the-road-to-bunker-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "shirley barker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-tragedy-in-dedham": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "francis russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brown-the-negro-in-american-fiction": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "sterling a. brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dobie-stories-of-christmas-and-the-bowie-knife": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "j. frank dobie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hay-the-great-beach": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "john hay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hay-nature-s-year": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "john hay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hay-the-run": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "john hay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "derleth-arkham-house": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "august derleth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crane-the-letters-of-hart-crane-1916-1932": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "hart crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sandburg-the-wheel-of-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "helga sandburg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sessions-reflections-on-the-music-life-in-the-united-states": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "roger sessions",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hurok-s-hurok-presents": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "sol hurok",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burchard-north-by-night": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "peter burchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "briand-daughter-of-the-sky": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "briand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frank-in-the-american-jungle-1925-1936": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "waldo david frank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hull-with-the-one-coin-for-fee": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "helen r. hull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hull-and-life-is-better": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "helen r. hull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hull-the-debt": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "helen r. hull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chubb-the-byzantines": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "thomas caldecot chubb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mirsky-thirty-one-brothers-and-sisters": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "reba paeff mirsky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "halacy-computers-the-machines-we-think-with": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "d. s. halacy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ferguson-pride-and-passion": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "j. de lancey ferguson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "friedman-stern": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bruce jay friedman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brown-knock-three-one-two": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "fredric brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coxe-mission-of-fear": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "george harmon coxe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bester-who-he": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "alfred bester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lefevre-anarchy": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "robert lefevre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hurst-no-food-with-my-meals": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "fannie hurst",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crossfield-always-another-dawn": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "a. scott crossfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bisson-shadow-over-asia": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "t. a. bisson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fleischer-50-years-at-ringside": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "nat fleischer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "breckinridge-sword-play-based-upon-the-french-school-of-the": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "scott dudley breckinridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hackett-60-years-of-best-sellers-1895-1955": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "alice payne hackett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mollenhoff-washington-cover-up": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "clark r. mollenhoff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilson-slipstream": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "eugene e. wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "casey-give-the-man-room": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "robert j. casey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "reynolds-all-in-the-same-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "earle l. reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "laurence-the-hell-bomb": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william l. laurence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hoover-masters-of-deceit": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "j. edgar hoover",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "liere-a-doctor-enjoys-sherlock-holmes": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edward j. van liere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "graham-great-bands-of-america": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "alberta powell graham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitehead-border-guard": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "don whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coblentz-my-life-in-poetry": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "stanton a. coblentz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ganoe-soldiers-unmasked": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william addleman ganoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kunstler-and-justice-for-all": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william m. kunstler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldsmith-double-jeopardy": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "martin m. goldsmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "o-connor-the-black-tiger": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "patrick o'connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "risteen-black-hawk-s-warpath": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "herbert l. risteen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brent-the-seven-stairs": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "stuart brent",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "knight-red-blight": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mary knight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smith-anastasia": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "eugenia smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adams-how-to-pick-a-mate": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "clifford r. adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "marion-the-free-press": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "george marion",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "michaud-our-coming-world": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "alfred charles michaud",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "berge-cartels": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "wendell berge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swanstrom-pilgrims-of-the-night": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edward ernest swanstrom",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bales-senator-fulbright-s-secret-memorandum": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "james d. bales",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smith-powers-of-the-president-during-crises": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "j. malcolm smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "quint-profile-in-black-and-white": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "howard h. quint",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pennypacker-general-washington-s-spies-on-long-island-and-in": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "morton pennypacker",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

@@ -199,6 +199,25 @@ On the shelves now (new `nonrenewal-singles` shelf unless named):
 Ellsberg, *Hell on Ice* (1938, R355571); Shirley Graham, *There Was Once a
 Slave* (1947, R574012).
 
+## Batch 7 (2026-11-15): 64 more from the same 152
+
+Same method and checks as batch 6, onto `nonrenewal-singles` (83 titles now;
+each slug's evidence under `_nonrenewal`). Among them: Howe's *Salt Mines and
+Castles* (1946), Berkeley's *Giant Brains* (1949), Blotner's *The Political
+Novel* (1955), Menzel's *World of Flying Saucers* (1963), Sterling Brown's *The
+Negro in American Fiction* (1937), Dobie's *Stories of Christmas and the Bowie
+Knife* (1953), John Hay's three Cape Cod books, *The Letters of Hart Crane*
+(1952), Chubb's *The Byzantines* (1959), Mirsky's *Thirty-One Brothers and
+Sisters* (1952), Bester's *Who He?* (1953), J. Edgar Hoover's *Masters of
+Deceit* (1958), Hurok's memoir (1953), and Helen Hull's three novels.
+
+Found unrenewed but left for Adam (content, not rights): *The Price of Salt*
+(Highsmith as Claire Morgan, 1952), *Women's Barracks* (1950), *The Scorpion*
+(Weirauch tr., 1932: a German work, also a URAA question), two Nightstand
+paperbacks (1960-61), Foster's and Garde's literature bibliographies (1956,
+1959), Putnam's *Race and Reason* (1961). Also left: the US government
+publications in the list (PD anyway as federal works, not by non-renewal).
+
 ## Resume point
 
 Next, in order:
