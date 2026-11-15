@@ -111,14 +111,48 @@ For Lane B (Loebs, Harvard and London at once): no renewal of Shorey's
 *Republic* vol. II (1935) or Nixon's *Plautus* vols. IV-V (1932, 1938); both
 are American translators. Lane B owns those shelves.
 
+## Batch 4 (2026-11-15): Gutenberg books by shelved authors
+
+Method: every English Gutenberg text (PG's `pg_catalog.csv`, fetched
+2026-11-15) whose author is named on a shelf, whose number no shelf lists
+anywhere, and whose author died 1955 or later (so could have published in
+1931-1963). About 30 shelves match; most hits are pre-1931 books (PD by date,
+and not this sweep's business) or British authors (URAA).
+
+On the shelves now:
+
+| shelf | book | renewal |
+|---|---|---|
+| ca-manning | *Ukrainian Literature* (Ukrainian National Association, 1944), PG 77771 | none |
+| ca-manning | *Taras Shevchenko, the Poet of Ukraine* (UNA, 1945), PG 78316 (was `_excluded` on the old "after 1930" rule) | none |
+| ca-manning | *The Story of the Ukraine* (Philosophical Library, 1947), PG 78161 | none |
+| ca-manning | *Ukraine under the Soviets* (Bookman Associates, 1953), PG 79579 | none |
+| ca-manning | *A History of Slavic Studies in the United States* (Marquette, 1957), PG 75446 | none |
+
+Manning was American and every imprint is American. His *Marko, the King's
+Son* (1932, R261912) and *Forgotten Republics* (1952, RE64670) were renewed:
+not taken.
+
+Seen and left: Frederic Arnold Kummer **Jr.** (1913-1990) has four 1940s-50s
+pulp stories on Gutenberg (61781, 61869, 61958, 62085); the
+frederic-arnold-kummer shelf is his father's, so these would need a shelf of
+their own (Lane D's call). Checked and pre-1931 (PD by date, so not this
+sweep's; left to each shelf's owner): Underwood's *The Taste of Honey*
+(Mosher, 1930, PG 71882), *Garden of Desire* (1913), *Book of Dear Dead Women*
+(1909); Howard's *Deems Taylor* (1927); Munro's *Social Civics* (1922).
+
 ## Resume point
 
 Next, in order:
 1. Scans for the `_pending` items above (HathiTrust full view, or a DLI copy).
 2. Batch 3 read every `_excluded`/`_pending`/`_held` note naming a year
    1931-1963 (dumped by a one-off script); what remains is reprint questions
-   ("later printing"), not new works. Next source of candidates: Gutenberg's
-   1931-63 books by shelved US authors that no shelf lists yet.
+   ("later printing"), not new works. Batch 4 began the next source,
+   Gutenberg's books by shelved authors: Manning done. Next in that list,
+   read each hit's "Original publication" line (PG's header) and keep only
+   1931-1963 US imprints. Recreate the list with the script described under
+   Batch 4 (catalog x shelf `_surname`, author died >= 1955); then widen to
+   authors with no shelf yet (PG's 1931-63 US books are cleared the same way).
 3. Ironside's and Pink's 1931-1950 books one by one (Loizeaux renewed some,
    not all).
 4. Loeb volumes of 1931-1963 published in Cambridge, Mass. at the same time as
