@@ -1,0 +1,37 @@
+{
+ "_about": "Samuel Ridout (1855-1930), American Brethren Bible teacher (Loizeaux Brothers), for the Word Hoard. Added 2026-11-15 from Adam's Libronix list ('Libronix authors - reconciled.md' and its companion manifests: Serious Christian Volumes, add-on SER), which carries his King Saul, How to Study the Bible and The Bible the True University. Not George W. Ridout, the Methodist holiness writer (Amazing Grace, 1923; Spiritual Gifts, 1900), whose books share the surname on archive.org. No uids minted.",
+ "_name_words": [
+  "ridout"
+ ],
+ "_surname": [
+  "samuel ridout",
+  "s. ridout",
+  "ridout"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sridout-person-work-holy-spirit-1900": [
+   "personworkofholy00rido",
+   "The Person and Work of the Holy Spirit: Seven Lectures (New York: Loizeaux Bros., 1900)"
+  ]
+ },
+ "_pending": {
+  "sridout-book-of-job": "The Book of Job (Loizeaux, first edition March 1919): the only open scan, bookofjob0000srid_m8g1, is the second edition of July 1943. Kept off until someone reads whether the 1943 edition adds matter.",
+  "sridout-ser-titles": "King Saul; How to Study the Bible; The Bible the True University; Gleanings from Ruth (Goodly Heritage): no open pre-1931 scan found 2026-11-15. STEM Publishing has texts, which would need a fetcher."
+ },
+ "_excluded": {},
+ "_checks": {
+  "sridout-person-work-holy-spirit-1900": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "s. ridout",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
