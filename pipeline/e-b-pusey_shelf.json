@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain E. B. Pusey (1800-1882, Regius Professor of Hebrew at Oxford, a leader of the Oxford Movement) for the Word Hoard: The Minor Prophets with a commentary (Oxford: Parker, catalogued 1860), Daniel the Prophet (1868) and Lenten Sermons (1874), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain E. B. Pusey (1800-1882, Regius Professor of Hebrew at Oxford, a leader of the Oxford Movement) for the Word Hoard: The Minor Prophets with a commentary (Oxford: Parker, catalogued 1860), Daniel the Prophet (1868) and Lenten Sermons (1874), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted. Filled out 2026-11-15 from the Oxford Movement Historical Theology Collection on Adam's Libronix list ('Libronix authors - reconciled.md', add-on OXF). Pusey's five OXF titles, plus the Eirenicon of 1865 (its first part).",
  "_ccel_author": "p/pusey",
  "_name_words": [
   "pusey",
@@ -28,6 +28,30 @@
   "pusey-lenten-sermons-1874": [
    "a605295900puseuoft",
    "Lenten Sermons, Preached Chiefly to Young Men at the Universities (Oxford: J. Parker, 1874)"
+  ],
+  "pusey-letter-bishop-oxford-1839": [
+   "alettertorich00puseuoft",
+   "A Letter to Richard, Lord Bishop of Oxford, on the Tendency to Romanism (Oxford: J. H. Parker, 1839)"
+  ],
+  "pusey-letter-archbishop-1842": [
+   "lettertohisgrace00puserich",
+   "A Letter to His Grace the Archbishop of Canterbury, on Some Circumstances Connected with the Present Crisis in the English Church (Oxford: J. H. Parker, 1842)"
+  ],
+  "pusey-real-presence-fathers-1855": [
+   "thedoctrineofthe00puseuoft",
+   "The Doctrine of the Real Presence, as Contained in the Fathers (Oxford: J. H. Parker, 1855)"
+  ],
+  "pusey-councils-1857": [
+   "a604990300puseuoft",
+   "The Councils of the Church, from the Council of Jerusalem, A.D. 51, to the Council of Constantinople, A.D. 381 (Oxford: J. H. Parker, 1857)"
+  ],
+  "pusey-eirenicon-1865": [
+   "aneireniconinale00puseuoft",
+   "An Eirenicon, in a Letter to the Author of 'The Christian Year' (Oxford: J. H. and J. Parker, 1865)"
+  ],
+  "pusey-first-letter-newman-1869": [
+   "a605134700puseuoft",
+   "First Letter to the Very Rev. J. H. Newman, D.D., in Explanation Chiefly in Regard to the Reverential Love Due to the Ever-Blessed Theotokos (Oxford: J. Parker, 1869)"
   ]
  },
  "_alternates": {
@@ -40,7 +64,7 @@
  "_checks": {
   "pusey-minor-prophets-1860": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "pusey",
    "identity": "ok",
@@ -51,7 +75,7 @@
   },
   "pusey-daniel-1868": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "e. b. pusey",
    "identity": "ok",
@@ -62,12 +86,78 @@
   },
   "pusey-lenten-sermons-1874": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "pusey",
    "identity": "ok",
    "ia_rights": "ok: published 1874",
    "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pusey-letter-bishop-oxford-1839": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "e. b. pusey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pusey-letter-archbishop-1842": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "e. b. pusey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pusey-real-presence-fathers-1855": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "e. b. pusey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pusey-councils-1857": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "e. b. pusey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pusey-eirenicon-1865": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "e. b. pusey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pusey-first-letter-newman-1869": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "e. b. pusey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
