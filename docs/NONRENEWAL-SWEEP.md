@@ -154,7 +154,7 @@ On the shelves now:
 |---|---|---|
 | gore-vidal (new) | Vidal, *Messiah* (Dutton, 1954), PG 73527 | none, while every other Vidal book of 1948-60 shows its renewal |
 
-Unrenewed, not yet shelved (needs an owner shelf): La Barre, *The Peyote
+Also shelved (new weston-la-barre shelf): La Barre, *The Peyote
 Cult* (Yale Publications in Anthropology 19, 1938; Shoe String reprint 1959,
 PG 77791): no renewal of either printing, while his *Human Animal* (1954,
 RE135555) shows one. American author, US imprints. The 1950s pulp stories in

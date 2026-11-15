@@ -1,0 +1,38 @@
+{
+ "_about": "Weston La Barre (1911-1996), American anthropologist, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep (Adam 2026-11-03: \"I want everything that was not renewed\"). Only The Peyote Cult is taken: his Human Animal (1954) was renewed (RE135555). No uids minted.",
+ "_name_words": [
+  "barre"
+ ],
+ "_surname": [
+  "weston la barre",
+  "weston labarre",
+  "la barre",
+  "labarre"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "labarre-peyote-cult": [
+   77791,
+   "The Peyote Cult (Yale University Publications in Anthropology 19, 1938; reprinted Hamden, Conn.: Shoe String Press, copyright 1959)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "labarre-peyote-cult": "Non-renewal sweep batch 5, 2026-11-15. First published by Yale University (New Haven, 1938), reprinted by permission by the Shoe String Press (Hamden, Conn., (c) 1959): the Gutenberg text's own pages. La Barre was American and both printings are American, so URAA does not reach it. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (the 1938 book's renewal was due 1965-66, the 1959 printing's 1986-87), author plus title words, --title-only 'The peyote cult', and --surname barre / labarre: no renewal of either, while The Human Animal (1954) shows RE135555. US public domain by non-renewal."
+ },
+ "_waiting": {
+  "labarre-human-animal": "The Human Animal (1954): A149839, renewed RE135555 (1982)."
+ },
+ "_excluded": {},
+ "_checks": {
+  "labarre-peyote-cult": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "weston la barre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
