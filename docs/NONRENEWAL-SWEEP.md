@@ -249,6 +249,17 @@ the Bible* (1963), MacKendrick's *The Mute Stones Speak* (1960), Haight's
 Two Wirt titles of 1940 have renewals, but those renew 1958 re-registrations
 of revised editions; the 1940 texts were never renewed (noted per slug).
 
+## Batch 9 (2026-11-15): the rest of the 60000+ books
+
+33 more of the batch-6 list went onto nonrenewal-singles (211 now). They are
+regional history (Plymouth, Cape Cod, Nantucket, Chattanooga, Texas tall
+tales), museum and university reports, Cyril Clemens's *Chesterton as Seen by
+His Contemporaries* (1939), and Warren's and Winthrop's old texts in their
+1950s and 1930s editions. Left out: Hitchcock's *Architecture: Nineteenth and
+Twentieth Centuries* (first printed by Penguin in England, and his other
+books were renewed), federal government publications (public domain
+anyway), and the pulp and western magazine pieces.
+
 ## Resume point
 
 Next, in order:

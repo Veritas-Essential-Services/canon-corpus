@@ -1,7 +1,8 @@
 {
- "_about": "Non-renewal sweep, batches 6-8 (2026-11-15; Adam 2026-11-03: \"I want everything that was not renewed\"): single US books of 1931-1963 whose copyright was never renewed, taken from Project Gutenberg's recent releases (each text's 'Original publication' line read) and checked one by one against NYPL's cce-renewals with pipeline/renewal_check.py. Authors with one or two titles; an author with three or more goes to a shelf of their own. American authors and US first editions only (URAA does not reach them). No uids minted.",
+ "_about": "Non-renewal sweep, batches 6-9 (2026-11-15; Adam 2026-11-03: \"I want everything that was not renewed\"): single US books of 1931-1963 whose copyright was never renewed, taken from Project Gutenberg's recent releases (each text's 'Original publication' line read) and checked one by one against NYPL's cce-renewals with pipeline/renewal_check.py. Authors with one or two titles; an author with three or more goes to a shelf of their own. American authors and US first editions only (URAA does not reach them). No uids minted.",
  "_name_words": [],
  "_surname": [
+  "a. harold castonguay",
   "a. j. muste",
   "a. scott crossfield",
   "aaberg",
@@ -9,7 +10,9 @@
   "alberta powell graham",
   "alfred bester",
   "alfred charles michaud",
+  "alice brayton",
   "alice payne hackett",
+  "allan neal",
   "anderson",
   "andre norton",
   "aniol",
@@ -37,34 +40,45 @@
   "biancolli",
   "bigelow",
   "bisson",
+  "bittinger",
   "blotner",
   "blythe",
+  "boatright",
   "bois",
   "braidwood",
+  "brayton",
   "breckinridge",
+  "brennan",
   "brent",
   "brewster",
   "briand",
+  "briggs",
   "brinton",
   "brown",
   "bruce jay friedman",
+  "bryant",
   "brydon",
   "buck",
   "burchard",
   "caldwell",
+  "cameron",
   "carl e. jepson",
   "carl parcher russell",
+  "carlisle",
   "caroline bancroft",
   "carrier",
   "caruthers",
   "casey",
+  "castonguay",
   "cerinda w. evans",
   "chamberlain",
   "charles f. pfeiffer",
+  "charles nodier",
   "charles sears baldwin",
   "chubb",
   "clark r. mollenhoff",
   "claude b. aniol",
+  "clemens",
   "cleo f. garis",
   "clifford r. adams",
   "coblentz",
@@ -74,7 +88,9 @@
   "crane",
   "crane brinton",
   "craven",
+  "crosby",
   "crossfield",
+  "cyril clemens",
   "d. s. halacy",
   "dan smoot",
   "david cory",
@@ -84,6 +100,7 @@
   "don whitehead",
   "donald culross peattie",
   "donald h. menzel",
+  "duellman",
   "duryee",
   "e. g. swem",
   "earle l. reynolds",
@@ -92,7 +109,9 @@
   "edmund callis berkeley",
   "edmund j. sawyer",
   "edmunds",
+  "edward b. jelks",
   "edward ernest swanstrom",
+  "edward herbert cameron",
   "edward j. van liere",
   "edwin d. mckee",
   "elam",
@@ -105,10 +124,13 @@
   "erick berry",
   "ethel cook eliot",
   "eugene e. wilson",
+  "eugene p. sheehy",
   "eugenia smith",
   "eula whitehouse",
   "evans",
+  "everett uberto crosby",
   "fannie hurst",
+  "ferdinand c. lane",
   "ferguson",
   "fleischer",
   "forman",
@@ -135,9 +157,12 @@
   "goldsmith",
   "goldwater",
   "goodwin",
+  "gordon grant",
   "grace dunlop peter",
   "graham",
+  "grant",
   "grose evans",
+  "h. t.  irwin",
   "hackett",
   "haight",
   "halacy",
@@ -149,12 +174,15 @@
   "hazel hutchins wilson",
   "hazlitt",
   "helen r. hull",
+  "helen t. briggs",
   "helga sandburg",
   "henry chandlee forman",
+  "henry f. howe",
   "henry hazlitt",
   "herbert l. risteen",
   "heyliger",
   "hiden",
+  "hogan",
   "hollingworth",
   "hoover",
   "horace m. kallen",
@@ -165,6 +193,8 @@
   "hume",
   "hurok",
   "hurst",
+  "inez hogan",
+  "irwin",
   "ivan ray tannehill",
   "j. c. aaberg",
   "j. de lancey ferguson",
@@ -172,16 +202,23 @@
   "j. frank dobie",
   "j. j. thornber",
   "j. malcolm smith",
+  "jack johnson",
+  "james",
   "james d. bales",
+  "james westaway mccue",
   "jean thomas",
   "jean toomer",
+  "jelks",
   "jepson",
   "jim ray",
   "john g. neihardt",
   "john hay",
   "john l. spivak",
+  "john winthrop",
+  "johnson",
   "jorgenson",
   "joseph blotner",
+  "joseph payne brennan",
   "kalashnikoff",
   "kallen",
   "karl f. brown",
@@ -192,15 +229,21 @@
   "knight",
   "kunstler",
   "l'engle",
+  "lane",
   "lapaz",
   "laurence",
   "laurence b. white",
+  "lawrence foushee london",
   "lefevre",
   "legette blythe",
   "leta stetter hollingworth",
+  "licht",
   "liere",
+  "lilian baker carlisle",
   "lincoln lapaz",
+  "linwood w. moody",
   "lizette m. edholm",
+  "london",
   "louis biancolli",
   "louis wiltz kemp",
   "lyman carrier",
@@ -210,6 +253,8 @@
   "margaret sanger",
   "margaret sutton",
   "marguerite henry",
+  "marianne ostier",
+  "marillis bittinger",
   "marion",
   "marshall mcclintock",
   "martha w. hiden",
@@ -218,27 +263,37 @@
   "mary knight",
   "mary rawlings",
   "mcclintock",
+  "mccue",
   "mckee",
   "menzel",
+  "mercy otis warren",
   "merrill d. beal",
   "messenger",
   "michaud",
   "mirsky",
+  "mody c. boatright",
   "mollenhoff",
+  "moody",
   "morton pennypacker",
   "mott",
+  "murdock",
   "muste",
+  "myrtle cheney murdock",
   "nat fleischer",
+  "neal",
   "neihardt",
   "neville",
   "nicholas kalashnikoff",
+  "nodier",
   "north",
   "norton",
   "o'connor",
+  "ostier",
   "pangborn",
   "patrick o'connor",
   "paul l., jr. briand",
   "paul lachlan mackendrick",
+  "paul w. bryant",
   "paul work",
   "pearl s. buck",
   "peattie",
@@ -249,6 +304,7 @@
   "philip hale",
   "pocahontas wight edmunds",
   "poul anderson",
+  "pratt",
   "quint",
   "radford",
   "rawlings",
@@ -263,6 +319,7 @@
   "robert j. braidwood",
   "robert j. casey",
   "robert lefevre",
+  "robert sparks walker",
   "roger sessions",
   "ruby lorraine radford",
   "russell",
@@ -275,8 +332,10 @@
   "sawyer",
   "scott dudley breckinridge",
   "sessions",
+  "sheehy",
   "sherman",
   "shirley barker",
+  "sidney licht",
   "smith",
   "smoot",
   "sol hurok",
@@ -291,6 +350,7 @@
   "sutton",
   "swanstrom",
   "swem",
+  "sydney v. james",
   "t. a. bisson",
   "tannehill",
   "taylor",
@@ -303,6 +363,9 @@
   "vilhjalmur stefansson",
   "virginia 350th anniversary celebration corporation",
   "waldo david frank",
+  "walker",
+  "walter merriam pratt",
+  "warren",
   "weaver",
   "wendell berge",
   "wesley frank craven",
@@ -313,6 +376,7 @@
   "william addleman ganoe",
   "william b. duryee",
   "william caruthers",
+  "william edward duellman",
   "william f. bigelow",
   "william heyliger",
   "william l. laurence",
@@ -320,6 +384,7 @@
   "william styron",
   "wilson",
   "winfred ernest garrison",
+  "winthrop",
   "work"
  ],
  "_surname_by_slug": {
@@ -1035,6 +1100,138 @@
   "hume-the-lion-of-poland": [
    "ruth fox hume",
    "hume"
+  ],
+  "jelks-the-harroun-site": [
+   "edward b. jelks",
+   "jelks"
+  ],
+  "james-three-visitors-to-early-plymouth": [
+   "sydney v. james",
+   "james"
+  ],
+  "nodier-the-book-collector": [
+   "charles nodier",
+   "nodier"
+  ],
+  "murdock-constantino-brumidi-michelangelo-of-the-united-state": [
+   "myrtle cheney murdock",
+   "murdock"
+  ],
+  "licht-music-in-medicine": [
+   "sidney licht",
+   "licht"
+  ],
+  "bryant-building-a-championship-football-team": [
+   "paul w. bryant",
+   "bryant"
+  ],
+  "hogan-nappy-has-a-new-friend": [
+   "inez hogan",
+   "hogan"
+  ],
+  "pratt-the-mayflower-society-house": [
+   "walter merriam pratt",
+   "pratt"
+  ],
+  "london-bishop-joseph-blount-cheshire": [
+   "lawrence foushee london",
+   "london"
+  ],
+  "ostier-jewels-and-the-woman": [
+   "marianne ostier",
+   "ostier"
+  ],
+  "irwin-excavations-at-the-lodaiska-site-in-the-denver-colorad": [
+   "h. t.  irwin",
+   "irwin"
+  ],
+  "bittinger-tall-tales-of-cape-cod": [
+   "marillis bittinger",
+   "bittinger"
+  ],
+  "carlisle-the-carriages-at-shelburne-museum": [
+   "lilian baker carlisle",
+   "carlisle"
+  ],
+  "briggs-a-guide-to-plymouth-and-its-history": [
+   "helen t. briggs",
+   "briggs"
+  ],
+  "sheehy-sherwood-anderson": [
+   "eugene p. sheehy",
+   "sheehy"
+  ],
+  "boatright-tall-tales-from-texas": [
+   "mody c. boatright",
+   "boatright"
+  ],
+  "walker-the-chickamauga-dam-and-its-environs": [
+   "robert sparks walker",
+   "walker"
+  ],
+  "cameron-of-yankee-granite": [
+   "edward herbert cameron",
+   "cameron"
+  ],
+  "castonguay-two-men-on-a-mill": [
+   "a. harold castonguay",
+   "castonguay"
+  ],
+  "brennan-h-p-lovecraft-an-evaluation": [
+   "joseph payne brennan",
+   "brennan"
+  ],
+  "howe-early-explorers-of-plymouth-harbor-1525-1619": [
+   "henry f. howe",
+   "howe"
+  ],
+  "warren-observations-on-the-new-constitution-and-on-the-feder": [
+   "mercy otis warren",
+   "warren"
+  ],
+  "duellman-type-specimens-of-amphibians-and-reptiles-in-the-mu": [
+   "william edward duellman",
+   "duellman"
+  ],
+  "neal-cape-cod-is-a-number-of-things": [
+   "allan neal",
+   "neal"
+  ],
+  "crosby-95-perfect": [
+   "everett uberto crosby",
+   "crosby"
+  ],
+  "grant-greasy-luck": [
+   "gordon grant",
+   "grant"
+  ],
+  "clemens-chesterton-as-seen-by-his-contemporaries": [
+   "cyril clemens",
+   "clemens"
+  ],
+  "moody-edaville-railroad": [
+   "linwood w. moody",
+   "moody"
+  ],
+  "johnson-stories-of-cape-cod": [
+   "jack johnson",
+   "johnson"
+  ],
+  "lane-on-old-cape-cod": [
+   "ferdinand c. lane",
+   "lane"
+  ],
+  "brayton-trading-in-scrabbletown": [
+   "alice brayton",
+   "brayton"
+  ],
+  "mccue-joe-lincoln-of-cape-cod": [
+   "james westaway mccue",
+   "mccue"
+  ],
+  "winthrop-john-winthrop-jr-on-indian-corn": [
+   "john winthrop",
+   "winthrop"
   ]
  },
  "_surname_note": "Per title: the author's name forms.",
@@ -1751,6 +1948,138 @@
   "hume-the-lion-of-poland": [
    59591,
    "Ruth Fox Hume, The Lion of Poland (1962)"
+  ],
+  "jelks-the-harroun-site": [
+   65983,
+   "Edward B. Jelks, The Harroun Site (United States: University of Texas, 1959)"
+  ],
+  "james-three-visitors-to-early-plymouth": [
+   66135,
+   "Sydney V. James, Three Visitors to Early Plymouth (United States: Plimoth Plantation, Inc., 1963)"
+  ],
+  "nodier-the-book-collector": [
+   66469,
+   "Charles Nodier, The Book Collector (United States: Crimson Printing Company, 1951)"
+  ],
+  "murdock-constantino-brumidi-michelangelo-of-the-united-state": [
+   67198,
+   "Myrtle Cheney Murdock, Constantino Brumidi, Michelangelo of the United States Capitol (United States: Monumental Press, 1950)"
+  ],
+  "licht-music-in-medicine": [
+   67545,
+   "Sidney Licht, Music in Medicine (United States: New England Conservatory of Music, 1946)"
+  ],
+  "bryant-building-a-championship-football-team": [
+   68466,
+   "Paul W. Bryant, Building a championship football team (United States: Prentice-Hall, 1960)"
+  ],
+  "hogan-nappy-has-a-new-friend": [
+   68563,
+   "Inez Hogan, Nappy has a new friend (United States: E. P. Dutton & Company, Inc., 1947)"
+  ],
+  "pratt-the-mayflower-society-house": [
+   68794,
+   "Walter Merriam Pratt, The Mayflower Society House (United States: Privately printed, University Press, 1950)"
+  ],
+  "london-bishop-joseph-blount-cheshire": [
+   68887,
+   "Lawrence Foushee London, Bishop Joseph Blount Cheshire (United States: The University of North Carolina Press, 1941)"
+  ],
+  "ostier-jewels-and-the-woman": [
+   69046,
+   "Marianne Ostier, Jewels and the woman (United States: Horizon Press, 1958)"
+  ],
+  "irwin-excavations-at-the-lodaiska-site-in-the-denver-colorad": [
+   69574,
+   "H. T.  Irwin, Excavations at the LoDaisKa Site in the Denver, Colorado area (United States: Denver Museum of Natural History, 1959)"
+  ],
+  "bittinger-tall-tales-of-cape-cod": [
+   69718,
+   "Marillis Bittinger, Tall tales of Cape Cod (United States: The Memorial Press, 1948)"
+  ],
+  "carlisle-the-carriages-at-shelburne-museum": [
+   70206,
+   "Lilian Baker Carlisle, The carriages at Shelburne Museum (United States: The Shelburne Museum, 1956)"
+  ],
+  "briggs-a-guide-to-plymouth-and-its-history": [
+   70046,
+   "Helen T. Briggs, A guide to Plymouth and its history (United States: The Pilgrim Society and the Plymouth Antiquarian Society, 1938)"
+  ],
+  "sheehy-sherwood-anderson": [
+   70906,
+   "Eugene P. Sheehy, Sherwood Anderson (United States: Talisman Press, 1960)"
+  ],
+  "boatright-tall-tales-from-texas": [
+   71089,
+   "Mody C. Boatright, Tall tales from Texas (United States: The Southwest Press, 1934)"
+  ],
+  "walker-the-chickamauga-dam-and-its-environs": [
+   71437,
+   "Robert Sparks Walker, The Chickamauga Dam and its environs (Chattanooga, TN: Andrews Printing Company, 1949)"
+  ],
+  "cameron-of-yankee-granite": [
+   71777,
+   "Edward Herbert Cameron, Of Yankee granite (Boston: Bunker Hill Monument Association, 1952)"
+  ],
+  "castonguay-two-men-on-a-mill": [
+   71957,
+   "A. Harold Castonguay, Two men on a mill (South Yarmouth, MA: The Wayside Studio, 1962)"
+  ],
+  "brennan-h-p-lovecraft-an-evaluation": [
+   72004,
+   "Joseph Payne Brennan, H.P. Lovecraft, an evaluation (New Haven, CT: Macabre House, 1955)"
+  ],
+  "howe-early-explorers-of-plymouth-harbor-1525-1619": [
+   72138,
+   "Henry F. Howe, Early explorers of Plymouth Harbor, 1525-1619 (Plymouth, MA: Plimoth Plantation, Inc. and the Pilgrim Society, 1953)"
+  ],
+  "warren-observations-on-the-new-constitution-and-on-the-feder": [
+   72627,
+   "Mercy Otis Warren, Observations on the new constitution, and on the Federal and State conventions, by a Columbian patriot (Boston: The Old South Association, 1955)"
+  ],
+  "duellman-type-specimens-of-amphibians-and-reptiles-in-the-mu": [
+   73551,
+   "William Edward Duellman, Type specimens of amphibians and reptiles in the Museum of Natural History, the University of Kansas (Lawrence KS: University of Kansas, 1962)"
+  ],
+  "neal-cape-cod-is-a-number-of-things": [
+   74413,
+   "Allan Neal, Cape Cod is a number of things (Yarmouth Port, Mass.: The Register Press, 1954)"
+  ],
+  "crosby-95-perfect": [
+   74940,
+   "Everett Uberto Crosby, \"95% perfect\" (Nantucket, Mass.: The Inquirer and Mirror Press, 1937)"
+  ],
+  "grant-greasy-luck": [
+   74903,
+   "Gordon Grant, Greasy luck (Jamaica, NY: Caravan Maritime Books, 1932)"
+  ],
+  "clemens-chesterton-as-seen-by-his-contemporaries": [
+   75165,
+   "Cyril Clemens, Chesterton, as seen by his contemporaries (Webster Groves, MO: International Mark Twain Society, 1939)"
+  ],
+  "moody-edaville-railroad": [
+   75376,
+   "Linwood W. Moody, Edaville Railroad (South Carver, Massachusetts: Ellis D. Atwood, 1947)"
+  ],
+  "johnson-stories-of-cape-cod": [
+   75918,
+   "Jack Johnson, Stories of Cape Cod (Plymouth, Massachusetts: The Memorial Press, 1944)"
+  ],
+  "lane-on-old-cape-cod": [
+   76602,
+   "Ferdinand C. Lane, On old Cape Cod (Orleans, Mass.: The Cape Codder Printery, 1961)"
+  ],
+  "brayton-trading-in-scrabbletown": [
+   77038,
+   "Alice Brayton, Trading in Scrabbletown (Newport, RI: Ward Printing Company, 1952)"
+  ],
+  "mccue-joe-lincoln-of-cape-cod": [
+   77475,
+   "James Westaway McCue, Joe Lincoln of Cape Cod (Silver Lake P. O., Mass.: The Cape Cod Publishers, 1949)"
+  ],
+  "winthrop-john-winthrop-jr-on-indian-corn": [
+   78645,
+   "John Winthrop, John Winthrop, Jr., on Indian Corn (Norwood, Mass.: The Plimpton Press, 1937)"
   ]
  },
  "internet_archive": {},
@@ -1932,7 +2261,40 @@
   "fuermann-houston": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1962 by George Fuermann'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Fuermann's renewal RE20729 is of Houston: Land of the Big Rich (1951), another work. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
   "beal-the-story-of-man-in-yellowstone": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1949'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
   "anderson-the-golden-slave": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1960, by Poul Anderson'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
-  "hume-the-lion-of-poland": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright (c) 1962 by Hawthorn Books, Inc. Copyright under International'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+  "hume-the-lion-of-poland": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright (c) 1962 by Hawthorn Books, Inc. Copyright under International'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "jelks-the-harroun-site": "Non-renewal sweep batch 9, 2026-11-15. United States: University of Texas, 1959 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "james-three-visitors-to-early-plymouth": "Non-renewal sweep batch 9, 2026-11-15. United States: Plimoth Plantation, Inc., 1963 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "nodier-the-book-collector": "Non-renewal sweep batch 9, 2026-11-15. United States: Crimson Printing Company, 1951 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Nodier's French text is old; the 1951 English translation and Philip Hofer's matter, printed in Cambridge, Mass., were never renewed. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "murdock-constantino-brumidi-michelangelo-of-the-united-state": "Non-renewal sweep batch 9, 2026-11-15. United States: Monumental Press, 1950 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "licht-music-in-medicine": "Non-renewal sweep batch 9, 2026-11-15. United States: New England Conservatory of Music, 1946 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1973-74): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bryant-building-a-championship-football-team": "Non-renewal sweep batch 9, 2026-11-15. United States: Prentice-Hall, 1960 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hogan-nappy-has-a-new-friend": "Non-renewal sweep batch 9, 2026-11-15. United States: E. P. Dutton & Company, Inc., 1947 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1974-75): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "pratt-the-mayflower-society-house": "Non-renewal sweep batch 9, 2026-11-15. United States: Privately printed, University Press, 1950 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "london-bishop-joseph-blount-cheshire": "Non-renewal sweep batch 9, 2026-11-15. United States: The University of North Carolina Press, 1941 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "ostier-jewels-and-the-woman": "Non-renewal sweep batch 9, 2026-11-15. United States: Horizon Press, 1958 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "irwin-excavations-at-the-lodaiska-site-in-the-denver-colorad": "Non-renewal sweep batch 9, 2026-11-15. United States: Denver Museum of Natural History, 1959 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bittinger-tall-tales-of-cape-cod": "Non-renewal sweep batch 9, 2026-11-15. United States: The Memorial Press, 1948 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1975-76): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "carlisle-the-carriages-at-shelburne-museum": "Non-renewal sweep batch 9, 2026-11-15. United States: The Shelburne Museum, 1956 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1983-84): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "briggs-a-guide-to-plymouth-and-its-history": "Non-renewal sweep batch 9, 2026-11-15. United States: The Pilgrim Society and the Plymouth Antiquarian Society, 1938 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1965-66): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sheehy-sherwood-anderson": "Non-renewal sweep batch 9, 2026-11-15. United States: Talisman Press, 1960 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "boatright-tall-tales-from-texas": "Non-renewal sweep batch 9, 2026-11-15. United States: The Southwest Press, 1934 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "walker-the-chickamauga-dam-and-its-environs": "Non-renewal sweep batch 9, 2026-11-15. Chattanooga, TN: Andrews Printing Company, 1949 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "cameron-of-yankee-granite": "Non-renewal sweep batch 9, 2026-11-15. Boston: Bunker Hill Monument Association, 1952 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "castonguay-two-men-on-a-mill": "Non-renewal sweep batch 9, 2026-11-15. South Yarmouth, MA: The Wayside Studio, 1962 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "brennan-h-p-lovecraft-an-evaluation": "Non-renewal sweep batch 9, 2026-11-15. New Haven, CT: Macabre House, 1955 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1982-83): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "howe-early-explorers-of-plymouth-harbor-1525-1619": "Non-renewal sweep batch 9, 2026-11-15. Plymouth, MA: Plimoth Plantation, Inc. and the Pilgrim Society, 1953 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "warren-observations-on-the-new-constitution-and-on-the-feder": "Non-renewal sweep batch 9, 2026-11-15. Boston: The Old South Association, 1955 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1982-83): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Mercy Otis Warren's 1788 text is old; the 1955 edition's editorial matter (Lawrence Towner) was never renewed. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "duellman-type-specimens-of-amphibians-and-reptiles-in-the-mu": "Non-renewal sweep batch 9, 2026-11-15. Lawrence KS: University of Kansas, 1962 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "neal-cape-cod-is-a-number-of-things": "Non-renewal sweep batch 9, 2026-11-15. Yarmouth Port, Mass.: The Register Press, 1954 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1981-82): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "crosby-95-perfect": "Non-renewal sweep batch 9, 2026-11-15. Nantucket, Mass.: The Inquirer and Mirror Press, 1937 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1964-65): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "grant-greasy-luck": "Non-renewal sweep batch 9, 2026-11-15. Jamaica, NY: Caravan Maritime Books, 1932 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "clemens-chesterton-as-seen-by-his-contemporaries": "Non-renewal sweep batch 9, 2026-11-15. Webster Groves, MO: International Mark Twain Society, 1939 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "moody-edaville-railroad": "Non-renewal sweep batch 9, 2026-11-15. South Carver, Massachusetts: Ellis D. Atwood, 1947 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1974-75): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "johnson-stories-of-cape-cod": "Non-renewal sweep batch 9, 2026-11-15. Plymouth, Massachusetts: The Memorial Press, 1944 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "lane-on-old-cape-cod": "Non-renewal sweep batch 9, 2026-11-15. Orleans, Mass.: The Cape Codder Printery, 1961 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "brayton-trading-in-scrabbletown": "Non-renewal sweep batch 9, 2026-11-15. Newport, RI: Ward Printing Company, 1952 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "mccue-joe-lincoln-of-cape-cod": "Non-renewal sweep batch 9, 2026-11-15. Silver Lake P. O., Mass.: The Cape Cod Publishers, 1949 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "winthrop-john-winthrop-jr-on-indian-corn": "Non-renewal sweep batch 9, 2026-11-15. Norwood, Mass.: The Plimpton Press, 1937 (Gutenberg's 'Original publication' line). American author or editor, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1964-65): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Winthrop's text (1662) is old; Fulmer Mood's 1937 edition matter was never renewed. US public domain by non-renewal; Project Gutenberg released it on the same reading."
  },
  "_excluded": {
   "pg-72716": "Ellsberg, Hell on Ice (1938): RENEWED, A114312 -> R355571 (1965), though Gutenberg released it. Not taken.",
@@ -3537,6 +3899,303 @@
    "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "ruth fox hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jelks-the-harroun-site": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edward b. jelks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "james-three-visitors-to-early-plymouth": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "sydney v. james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nodier-the-book-collector": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "charles nodier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Barbara F. Sessions"
+  },
+  "murdock-constantino-brumidi-michelangelo-of-the-united-state": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "myrtle cheney murdock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "licht-music-in-medicine": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "sidney licht",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bryant-building-a-championship-football-team": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "paul w. bryant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hogan-nappy-has-a-new-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "inez hogan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pratt-the-mayflower-society-house": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "walter merriam pratt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "london-bishop-joseph-blount-cheshire": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "lawrence foushee london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ostier-jewels-and-the-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "marianne ostier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irwin-excavations-at-the-lodaiska-site-in-the-denver-colorad": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "h. t.  irwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bittinger-tall-tales-of-cape-cod": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "marillis bittinger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carlisle-the-carriages-at-shelburne-museum": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "lilian baker carlisle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "briggs-a-guide-to-plymouth-and-its-history": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "helen t. briggs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sheehy-sherwood-anderson": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "eugene p. sheehy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "boatright-tall-tales-from-texas": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mody c. boatright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "walker-the-chickamauga-dam-and-its-environs": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "robert sparks walker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cameron-of-yankee-granite": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edward herbert cameron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castonguay-two-men-on-a-mill": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "a. harold castonguay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brennan-h-p-lovecraft-an-evaluation": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "joseph payne brennan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howe-early-explorers-of-plymouth-harbor-1525-1619": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "henry f. howe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warren-observations-on-the-new-constitution-and-on-the-feder": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mercy otis warren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duellman-type-specimens-of-amphibians-and-reptiles-in-the-mu": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william edward duellman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "neal-cape-cod-is-a-number-of-things": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "allan neal",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crosby-95-perfect": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "everett uberto crosby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grant-greasy-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "gordon grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clemens-chesterton-as-seen-by-his-contemporaries": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "cyril clemens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moody-edaville-railroad": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "linwood w. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnson-stories-of-cape-cod": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "jack johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lane-on-old-cape-cod": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ferdinand c. lane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brayton-trading-in-scrabbletown": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "alice brayton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mccue-joe-lincoln-of-cape-cod": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "james westaway mccue",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "winthrop-john-winthrop-jr-on-indian-corn": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "john winthrop",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
