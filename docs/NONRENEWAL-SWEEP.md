@@ -141,6 +141,25 @@ sweep's; left to each shelf's owner): Underwood's *The Taste of Honey*
 (Mosher, 1930, PG 71882), *Garden of Desire* (1913), *Book of Dear Dead Women*
 (1909); Howard's *Deems Taylor* (1927); Munro's *Social Civics* (1922).
 
+## Batch 5 (2026-11-15): Gutenberg religion-subject books no shelf lists
+
+Method: PG catalog rows with a religion subject or LoCC, number 20000+, an
+author dying 1958 or later, and no shelf listing the number (115 texts); each
+one's "Original publication" header line read, kept if 1931-1963. Older
+releases lack that line (83 of 115), so they still need reading by hand.
+
+On the shelves now:
+
+| shelf | book | renewal |
+|---|---|---|
+| gore-vidal (new) | Vidal, *Messiah* (Dutton, 1954), PG 73527 | none, while every other Vidal book of 1948-60 shows its renewal |
+
+Unrenewed, not yet shelved (needs an owner shelf): La Barre, *The Peyote
+Cult* (Yale Publications in Anthropology 19, 1938; Shoe String reprint 1959,
+PG 77791): no renewal of either printing, while his *Human Animal* (1954,
+RE135555) shows one. American author, US imprints. The 1950s pulp stories in
+the same hit list (PG 67455, 67497, 68529, 72614, 78935) are Lane D's.
+
 ## Resume point
 
 Next, in order:
