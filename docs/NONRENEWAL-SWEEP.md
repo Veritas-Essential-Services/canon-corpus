@@ -160,6 +160,45 @@ PG 77791): no renewal of either printing, while his *Human Animal* (1954,
 RE135555) shows one. American author, US imprints. The 1950s pulp stories in
 the same hit list (PG 67455, 67497, 68529, 72614, 78935) are Lane D's.
 
+## Batch 6 (2026-11-15): Gutenberg's recent releases, non-fiction and books
+
+Method: every English Gutenberg text numbered 60000 or above, by an author
+dying 1955 or later (born 1870 or later), that no shelf lists (3,069 texts).
+Each one's "Original publication" header line was read (2,049 have one) and
+kept if it gives 1931-1963: about 1,450. Most are pulp magazine stories (science
+fiction, westerns, horror), put aside below. The 152 left are books; this batch
+took the ones that suit the Word Hoard and checked each with
+`renewal_check.py` (author plus title words, the title's key words under any
+name, and every renewal under the surname).
+
+On the shelves now (new `nonrenewal-singles` shelf unless named):
+
+| book | year | note |
+|---|---|---|
+| Weaver, *The Ethics of Rhetoric* | 1953 | |
+| Brinton, *The Anatomy of Revolution* | 1938 | the 1952 revision was renewed; the 1938 text was not |
+| Pearl S. Buck, *The Mother* | 1934 | her 1933 and 1935 books were renewed |
+| L'Engle, *And Both Were Young* | 1949 | |
+| Enright, *Return to Gone-Away* | 1961 | her *Gone-Away Lake* (1957) was renewed |
+| Marguerite Henry, *Stormy, Misty's Foal* and *Gaudenzia* | 1963, 1960 | |
+| Russell Kirk, *Old House of Fear* | 1961 | |
+| Neihardt, *When the Tree Flowered* | 1951 | |
+| Styron, *The Long March* | 1952 | |
+| Muste, *Of Holy Disobedience* | 1952 | |
+| Fred C. Kelly, *The Wright Brothers* | 1943 | |
+| Kalashnikoff, *The Defender* (Newbery Honor) | 1951 | US first edition |
+| Wilhelmsen, *Hilaire Belloc: No Alienated Man* | 1953 | |
+| Kallen, *College Prolongs Infancy* | 1932 | |
+| Goldwater, *The Conscience of a Conservative* | 1960 | |
+| Stefansson, *Adventures in Error* | 1936 | |
+| C. S. Baldwin, *Renaissance Literary Theory and Practice* | 1939 | |
+| Hazlitt, *The Free Man's Library* | 1956 | |
+| Vidal, *Williwaw* (gore-vidal shelf) | 1946 | RE492396 renews only the 1962 omnibus |
+
+**Renewed, though Gutenberg released them** (not taken; worth telling PG):
+Ellsberg, *Hell on Ice* (1938, R355571); Shirley Graham, *There Was Once a
+Slave* (1947, R574012).
+
 ## Resume point
 
 Next, in order:

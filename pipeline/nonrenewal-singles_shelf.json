@@ -1,0 +1,398 @@
+{
+ "_about": "Non-renewal sweep, batch 6 (2026-11-15; Adam 2026-11-03: \"I want everything that was not renewed\"): single US books of 1931-1963 whose copyright was never renewed, taken from Project Gutenberg's recent releases (each text's 'Original publication' line read) and checked one by one against NYPL's cce-renewals with pipeline/renewal_check.py. One title per author; an author with more goes to a shelf of their own. American authors and US first editions only (URAA does not reach them). No uids minted.",
+ "_name_words": [],
+ "_surname": [
+  "a. j. muste",
+  "baldwin",
+  "barry goldwater",
+  "brinton",
+  "buck",
+  "charles sears baldwin",
+  "crane brinton",
+  "elizabeth enright",
+  "engle",
+  "enright",
+  "fred c. kelly",
+  "frederick d. wilhelmsen",
+  "goldwater",
+  "hazlitt",
+  "henry hazlitt",
+  "horace m. kallen",
+  "john g. neihardt",
+  "kalashnikoff",
+  "kallen",
+  "kelly",
+  "kirk",
+  "l'engle",
+  "madeleine l'engle",
+  "marguerite henry",
+  "muste",
+  "neihardt",
+  "nicholas kalashnikoff",
+  "pearl s. buck",
+  "richard m. weaver",
+  "russell kirk",
+  "stefansson",
+  "styron",
+  "vilhjalmur stefansson",
+  "weaver",
+  "wilhelmsen",
+  "william styron"
+ ],
+ "_surname_by_slug": {
+  "weaver-ethics-of-rhetoric": [
+   "richard m. weaver",
+   "weaver"
+  ],
+  "brinton-anatomy-of-revolution-1938": [
+   "crane brinton",
+   "brinton"
+  ],
+  "buck-the-mother": [
+   "pearl s. buck",
+   "buck"
+  ],
+  "lengle-and-both-were-young": [
+   "madeleine l'engle",
+   "l'engle",
+   "engle"
+  ],
+  "enright-return-to-gone-away": [
+   "elizabeth enright",
+   "enright"
+  ],
+  "mhenry-stormy-mistys-foal": [
+   "marguerite henry"
+  ],
+  "mhenry-gaudenzia": [
+   "marguerite henry"
+  ],
+  "kirk-old-house-of-fear": [
+   "russell kirk",
+   "kirk"
+  ],
+  "neihardt-when-the-tree-flowered": [
+   "john g. neihardt",
+   "neihardt"
+  ],
+  "styron-the-long-march": [
+   "william styron",
+   "styron"
+  ],
+  "muste-of-holy-disobedience": [
+   "a. j. muste",
+   "muste"
+  ],
+  "fckelly-wright-brothers": [
+   "fred c. kelly",
+   "kelly"
+  ],
+  "kalashnikoff-the-defender": [
+   "nicholas kalashnikoff",
+   "kalashnikoff"
+  ],
+  "wilhelmsen-hilaire-belloc": [
+   "frederick d. wilhelmsen",
+   "wilhelmsen"
+  ],
+  "kallen-college-prolongs-infancy": [
+   "horace m. kallen",
+   "kallen"
+  ],
+  "goldwater-conscience-of-a-conservative": [
+   "barry goldwater",
+   "goldwater"
+  ],
+  "stefansson-adventures-in-error": [
+   "vilhjalmur stefansson",
+   "stefansson"
+  ],
+  "csbaldwin-renaissance-literary-theory": [
+   "charles sears baldwin",
+   "baldwin"
+  ],
+  "hazlitt-free-mans-library": [
+   "henry hazlitt",
+   "hazlitt"
+  ]
+ },
+ "_surname_note": "Per title: the author's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "weaver-ethics-of-rhetoric": [
+   68421,
+   "Richard M. Weaver, The Ethics of Rhetoric (Chicago: Henry Regnery, 1953)"
+  ],
+  "brinton-anatomy-of-revolution-1938": [
+   78065,
+   "Crane Brinton, The Anatomy of Revolution (first edition) (New York: W. W. Norton, 1938)"
+  ],
+  "buck-the-mother": [
+   68577,
+   "Pearl S. Buck, The Mother (New York: John Day, 1934)"
+  ],
+  "lengle-and-both-were-young": [
+   72403,
+   "Madeleine L'Engle, And Both Were Young (New York: Lothrop, Lee & Shepard, 1949)"
+  ],
+  "enright-return-to-gone-away": [
+   67199,
+   "Elizabeth Enright, Return to Gone-Away (New York: Harcourt, Brace & World, 1961)"
+  ],
+  "mhenry-stormy-mistys-foal": [
+   67298,
+   "Marguerite Henry, Stormy, Misty's Foal (Chicago: Rand McNally, 1963)"
+  ],
+  "mhenry-gaudenzia": [
+   67783,
+   "Marguerite Henry, Gaudenzia, Pride of the Palio (Chicago: Rand McNally, 1960)"
+  ],
+  "kirk-old-house-of-fear": [
+   77800,
+   "Russell Kirk, Old House of Fear (New York: Fleet Publishing, 1961)"
+  ],
+  "neihardt-when-the-tree-flowered": [
+   71247,
+   "John G. Neihardt, When the Tree Flowered (New York: Macmillan, 1951)"
+  ],
+  "styron-the-long-march": [
+   76604,
+   "William Styron, The Long March (New York: Random House, 1952)"
+  ],
+  "muste-of-holy-disobedience": [
+   72786,
+   "A. J. Muste, Of Holy Disobedience (Pendle Hill Pamphlet 64) (Wallingford, Pa.: Pendle Hill, 1952)"
+  ],
+  "fckelly-wright-brothers": [
+   67672,
+   "Fred C. Kelly, The Wright Brothers: A Biography Authorized by Orville Wright (New York: Harcourt, Brace, 1943)"
+  ],
+  "kalashnikoff-the-defender": [
+   77051,
+   "Nicholas Kalashnikoff, The Defender (Newbery Honor, 1952) (New York: Charles Scribner's Sons, 1951)"
+  ],
+  "wilhelmsen-hilaire-belloc": [
+   66856,
+   "Frederick D. Wilhelmsen, Hilaire Belloc: No Alienated Man (New York: Sheed and Ward, 1953)"
+  ],
+  "kallen-college-prolongs-infancy": [
+   68570,
+   "Horace M. Kallen, College Prolongs Infancy (New York: John Day, 1932)"
+  ],
+  "goldwater-conscience-of-a-conservative": [
+   74319,
+   "Barry Goldwater, The Conscience of a Conservative (Shepherdsville, Ky.: Victor Publishing, 1960)"
+  ],
+  "stefansson-adventures-in-error": [
+   78443,
+   "Vilhjalmur Stefansson, Adventures in Error (New York: Robert M. McBride, 1936)"
+  ],
+  "csbaldwin-renaissance-literary-theory": [
+   72647,
+   "Charles Sears Baldwin, Renaissance Literary Theory and Practice, ed. Donald Lemen Clark (New York: Columbia University Press (PG text: Peter Smith), 1939)"
+  ],
+  "hazlitt-free-mans-library": [
+   78474,
+   "Henry Hazlitt, The Free Man's Library (Princeton: D. Van Nostrand, 1956)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "weaver-ethics-of-rhetoric": "Non-renewal sweep batch 6, 2026-11-15. Chicago: Henry Regnery, 1953 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "brinton-anatomy-of-revolution-1938": "Non-renewal sweep batch 6, 2026-11-15. New York: W. W. Norton, 1938 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1965-66): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. The revised edition of 1952 was renewed (A67492, RE47335); the 1938 first edition, the text here, was not. Only the 1938 text is taken. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "buck-the-mother": "Non-renewal sweep batch 6, 2026-11-15. New York: John Day, 1934 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. Buck renewed The First Wife (1933, R258898) and A House Divided (1935, R307978); the only 'Mutter' renewal is the German translation's own (AF28445). US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "lengle-and-both-were-young": "Non-renewal sweep batch 6, 2026-11-15. New York: Lothrop, Lee & Shepard, 1949 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "enright-return-to-gone-away": "Non-renewal sweep batch 6, 2026-11-15. New York: Harcourt, Brace & World, 1961 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. Her Gone-Away Lake (1957, RE253696) and Tatsinda (1963, RE561977) were renewed; this one was not. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "mhenry-stormy-mistys-foal": "Non-renewal sweep batch 6, 2026-11-15. Chicago: Rand McNally, 1963 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "mhenry-gaudenzia": "Non-renewal sweep batch 6, 2026-11-15. Chicago: Rand McNally, 1960 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kirk-old-house-of-fear": "Non-renewal sweep batch 6, 2026-11-15. New York: Fleet Publishing, 1961 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "neihardt-when-the-tree-flowered": "Non-renewal sweep batch 6, 2026-11-15. New York: Macmillan, 1951 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "styron-the-long-march": "Non-renewal sweep batch 6, 2026-11-15. New York: Random House, 1952 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. Styron renewed Lie Down in Darkness (1951, RE33659) and Set This House on Fire (RE376434); not this. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "muste-of-holy-disobedience": "Non-renewal sweep batch 6, 2026-11-15. Wallingford, Pa.: Pendle Hill, 1952 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "fckelly-wright-brothers": "Non-renewal sweep batch 6, 2026-11-15. New York: Harcourt, Brace, 1943 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kalashnikoff-the-defender": "Non-renewal sweep batch 6, 2026-11-15. New York: Charles Scribner's Sons, 1951 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. Born in Russia, he lived and published in the US; this book's first edition is Scribner's, New York, so it is not a restorable foreign work. His Toyon (1950, RE1425) and earlier books were renewed; not this. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wilhelmsen-hilaire-belloc": "Non-renewal sweep batch 6, 2026-11-15. New York: Sheed and Ward, 1953 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kallen-college-prolongs-infancy": "Non-renewal sweep batch 6, 2026-11-15. New York: John Day, 1932 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "goldwater-conscience-of-a-conservative": "Non-renewal sweep batch 6, 2026-11-15. Shepherdsville, Ky.: Victor Publishing, 1960 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "stefansson-adventures-in-error": "Non-renewal sweep batch 6, 2026-11-15. New York: Robert M. McBride, 1936 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1963-64): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. Stefansson (born in Canada, American from childhood) renewed later books (Unsolved Mysteries of the Arctic, R392358; Iceland, R390356); not this one. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "csbaldwin-renaissance-literary-theory": "Non-renewal sweep batch 6, 2026-11-15. New York: Columbia University Press (PG text: Peter Smith), 1939 (Gutenberg's 'Original publication' line). American author (died 1935; published posthumously, ed. D. L. Clark), first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hazlitt-free-mans-library": "Non-renewal sweep batch 6, 2026-11-15. Princeton: D. Van Nostrand, 1956 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1983-84): author plus title words, the title's key words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {
+  "pg-72716": "Ellsberg, Hell on Ice (1938): RENEWED, A114312 -> R355571 (1965), though Gutenberg released it. Not taken.",
+  "pg-75237": "Shirley Graham, There Was Once a Slave (1947): RENEWED, R574012 (1974). Not taken."
+ },
+ "_checks": {
+  "weaver-ethics-of-rhetoric": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "richard m. weaver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brinton-anatomy-of-revolution-1938": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "crane brinton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "buck-the-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "pearl s. buck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lengle-and-both-were-young": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "madeleine l'engle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "enright-return-to-gone-away": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "elizabeth enright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhenry-stormy-mistys-foal": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "marguerite henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhenry-gaudenzia": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "marguerite henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kirk-old-house-of-fear": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "russell kirk",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "neihardt-when-the-tree-flowered": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "john g. neihardt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "styron-the-long-march": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william styron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "muste-of-holy-disobedience": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "a. j. muste",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fckelly-wright-brothers": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "fred c. kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kalashnikoff-the-defender": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "nicholas kalashnikoff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilhelmsen-hilaire-belloc": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "frederick d. wilhelmsen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kallen-college-prolongs-infancy": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "horace m. kallen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldwater-conscience-of-a-conservative": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "barry goldwater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stefansson-adventures-in-error": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "vilhjalmur stefansson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "csbaldwin-renaissance-literary-theory": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "charles sears baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hazlitt-free-mans-library": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "henry hazlitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "Gore Vidal (1925-2012), American novelist, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 5 (Adam 2026-11-03: \"I want everything that was not renewed\"). Only Messiah (1954) is US public domain: it was never renewed, while his other books of 1948-1960 (including the Edgar Box mysteries) all show their renewals (see _waiting). No uids minted.",
+ "_about": "Gore Vidal (1925-2012), American novelist, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 5 (Adam 2026-11-03: \"I want everything that was not renewed\"). Messiah (1954) and Williwaw (1946) are US public domain: neither was renewed, while his other books of 1948-1960 (including the Edgar Box mysteries) all show their renewals (see _waiting). No uids minted.",
  "_name_words": [
   "vidal"
  ],
@@ -12,11 +12,16 @@
   "vidal-messiah": [
    73527,
    "Messiah (New York: E. P. Dutton, copyright 1954)"
+  ],
+  "vidal-williwaw": [
+   66691,
+   "Williwaw: A Novel (New York: E. P. Dutton, 1946)"
   ]
  },
  "internet_archive": {},
  "_nonrenewal": {
-  "vidal-messiah": "Non-renewal sweep batch 5, 2026-11-15. New York: E. P. Dutton & Co., 1954 (Gutenberg's 'Original publication' line). Vidal was American and the book was first published in the US, so URAA does not reach it. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1981-82), author plus title words, --title-only 'Messiah', and --surname vidal: no renewal of this book, while The City and the Pillar (R632460), The Season of Comfort (R651065), A Search for the King (RE5624), Dark Green, Bright Red (RE5623), the three Edgar Box mysteries of 1952-54 (RE50523, RE87570, RE132418) and Visit to a Small Planet (RE222291) all show theirs. US public domain by non-renewal; Project Gutenberg released it on the same reading. The revised edition of 1965 is a different, later text and is not this one."
+  "vidal-messiah": "Non-renewal sweep batch 5, 2026-11-15. New York: E. P. Dutton & Co., 1954 (Gutenberg's 'Original publication' line). Vidal was American and the book was first published in the US, so URAA does not reach it. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1981-82), author plus title words, --title-only 'Messiah', and --surname vidal: no renewal of this book, while The City and the Pillar (R632460), The Season of Comfort (R651065), A Search for the King (RE5624), Dark Green, Bright Red (RE5623), the three Edgar Box mysteries of 1952-54 (RE50523, RE87570, RE132418) and Visit to a Small Planet (RE222291) all show theirs. US public domain by non-renewal; Project Gutenberg released it on the same reading. The revised edition of 1965 is a different, later text and is not this one.",
+  "vidal-williwaw": "Non-renewal sweep batch 6, 2026-11-15. New York: E. P. Dutton, 1946 (Gutenberg's 'Original publication' line), Vidal's first novel. American author, US first edition. Renewal search (due 1973-74): none for the 1946 book. The one renewal naming it, RE492396 (1990), renews the 1962 omnibus registration A579337 (Williwaw, A Thirsty Evil and Julian the Apostate), which covers only new matter of 1962. US public domain by non-renewal."
  },
  "_waiting": {
   "vidal-city-and-the-pillar": "The City and the Pillar (1948): A20219, renewed R632460.",
@@ -26,6 +31,15 @@
  "_excluded": {},
  "_checks": {
   "vidal-messiah": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "gore vidal",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vidal-williwaw": {
    "kind": "gutenberg",
    "checked": "2026-11-15",
    "name_check": "surname",
