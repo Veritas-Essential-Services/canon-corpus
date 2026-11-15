@@ -1,0 +1,75 @@
+{
+ "_about": "Rutherford G. Montgomery, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Rutherford G. Montgomery's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "montgomery"
+ ],
+ "_surname": [
+  "montgomery",
+  "rutherford g. montgomery"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "montgomery-a-yankee-flier-over-berlin": [
+   29774,
+   "A Yankee Flier Over Berlin (1944)"
+  ],
+  "montgomery-a-yankee-flier-in-italy": [
+   32288,
+   "A Yankee Flier in Italy (1944)"
+  ],
+  "montgomery-a-yankee-flier-with-the-r-a-f": [
+   32420,
+   "A Yankee Flier with the R.A.F. (1941)"
+  ],
+  "montgomery-a-yankee-flier-in-the-far-east": [
+   56895,
+   "A Yankee Flier in the Far East (1942)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "montgomery-a-yankee-flier-over-berlin": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1944, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "montgomery-a-yankee-flier-in-italy": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1944, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "montgomery-a-yankee-flier-with-the-r-a-f": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1941, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "montgomery-a-yankee-flier-in-the-far-east": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1942, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "montgomery-a-yankee-flier-over-berlin": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "montgomery-a-yankee-flier-in-italy": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "montgomery-a-yankee-flier-with-the-r-a-f": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "montgomery-a-yankee-flier-in-the-far-east": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

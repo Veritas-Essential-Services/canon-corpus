@@ -218,6 +218,37 @@ paperbacks (1960-61), Foster's and Garde's literature bibliographies (1956,
 1959), Putnam's *Race and Reason* (1961). Also left: the US government
 publications in the list (PD anyway as federal works, not by non-renewal).
 
+## Batch 8 (2026-11-15): older Gutenberg releases (20000-59999)
+
+Method: every English text numbered 20000-59999 by an author dying 1955 or
+later (born 1870 or later) that no shelf lists (3,345 texts). The first 40 KB
+of each was read for a 1931-63 copyright line or PG's note that "research did
+not uncover any evidence that the U.S. copyright on this publication was
+renewed" (478 hits). Leaving out science fiction, westerns, horror and
+mystery magazine stories left 201. Thirteen were dropped before checking: old
+books with renewal lines, Canadian and British-law works, later editions,
+two atheist tracts and a bibliography. Four pulp texts had no readable date.
+The other 184 were each checked with `renewal_check.py`, and all 184 were
+clear.
+
+New author shelves (three or more titles each): mildred-wirt (29; she wrote
+the first Nancy Drews as "Carolyn Keene"), robert-sidney-bowen (15, Dave
+Dawson), paul-hutchens (6, the Sugar Creek Gang), robert-leckie (6, Sandy
+Steele), t-j-wertenbaker (5, colonial Virginia), rutherford-g-montgomery,
+jim-kjelgaard, paul-linebarger, graham-m-dean (4 each), ethel-c-brill,
+natt-n-dodge, mary-elting, francis-lynde-kroll (3 each). The rest went onto
+nonrenewal-singles (178 titles now). Among them: Neville's *It's Like This,
+Cat* (1963, Newbery Medal), Messenger's *Christian Hymns of the First Three
+Centuries* (1942) and *The Medieval Latin Hymn* (1953), Aaberg's *Hymns and
+Hymnwriters of Denmark* (1945), Reuel Howe's *Herein Is Love* (1961), Toomer's
+*An Interpretation of Friends Worship* (1947), Pfeiffer's *Tell el Amarna and
+the Bible* (1963), MacKendrick's *The Mute Stones Speak* (1960), Haight's
+*Essays on the Greek Romances* (1943), Peattie's *Trees You Want to Know*
+(1934), and Andre Norton's *Ride Proud, Rebel!* (1961).
+
+Two Wirt titles of 1940 have renewals, but those renew 1958 re-registrations
+of revised editions; the 1940 texts were never renewed (noted per slug).
+
 ## Resume point
 
 Next, in order:

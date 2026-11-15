@@ -1,0 +1,75 @@
+{
+ "_about": "Graham M. Dean, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Graham M. Dean's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "dean"
+ ],
+ "_surname": [
+  "dean",
+  "graham m. dean"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dean-agent-nine-and-the-jewel-mystery": [
+   44786,
+   "Agent Nine and the Jewel Mystery (1935)"
+  ],
+  "dean-daring-wings": [
+   45491,
+   "Daring Wings (1931)"
+  ],
+  "dean-the-sky-trail": [
+   45485,
+   "The Sky Trail (1932)"
+  ],
+  "dean-the-treasure-hunt-of-the-s-18": [
+   46688,
+   "The Treasure Hunt of the S-18 (1934)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "dean-agent-nine-and-the-jewel-mystery": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright 1935, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1962-63): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "dean-daring-wings": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1931 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "dean-the-sky-trail": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1932'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "dean-the-treasure-hunt-of-the-s-18": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1934'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "dean-agent-nine-and-the-jewel-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "graham m. dean",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dean-daring-wings": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "graham m. dean",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dean-the-sky-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "graham m. dean",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dean-the-treasure-hunt-of-the-s-18": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "graham m. dean",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

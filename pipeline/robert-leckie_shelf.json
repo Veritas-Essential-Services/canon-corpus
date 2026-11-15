@@ -1,0 +1,103 @@
+{
+ "_about": "Robert Leckie, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Robert Leckie's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "leckie"
+ ],
+ "_surname": [
+  "leckie",
+  "robert leckie"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "leckie-danger-at-mormon-crossing": [
+   50225,
+   "Danger at Mormon Crossing (1959)"
+  ],
+  "leckie-black-treasure": [
+   50256,
+   "Black Treasure (1959)"
+  ],
+  "leckie-fire-at-red-lake": [
+   50257,
+   "Fire at Red Lake (1959)"
+  ],
+  "leckie-stormy-voyage": [
+   50238,
+   "Stormy Voyage (1959)"
+  ],
+  "leckie-secret-mission-to-alaska": [
+   50320,
+   "Secret Mission to Alaska (1959)"
+  ],
+  "leckie-troubled-waters": [
+   50353,
+   "Troubled Waters (1959)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "leckie-danger-at-mormon-crossing": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT © 1959 BY SIMON AND SCHUSTER, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "leckie-black-treasure": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT © 1959 BY SIMON AND SCHUSTER, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "leckie-fire-at-red-lake": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT © 1959 BY SIMON AND SCHUSTER, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "leckie-stormy-voyage": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1959 by Simon and Schuster, Inc.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "leckie-secret-mission-to-alaska": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT © 1959 BY SIMON AND SCHUSTER, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "leckie-troubled-waters": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1959 by Simon and Schuster, Inc.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "leckie-danger-at-mormon-crossing": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "leckie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leckie-black-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "leckie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leckie-fire-at-red-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "leckie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leckie-stormy-voyage": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "leckie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leckie-secret-mission-to-alaska": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "leckie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leckie-troubled-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "leckie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

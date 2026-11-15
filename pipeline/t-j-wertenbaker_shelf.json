@@ -1,0 +1,89 @@
+{
+ "_about": "Thomas Jefferson Wertenbaker, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Thomas Jefferson Wertenbaker's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "wertenbaker"
+ ],
+ "_surname": [
+  "thomas jefferson wertenbaker",
+  "wertenbaker"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wertenbaker-bacon-s-rebellion-1676": [
+   28010,
+   "Bacon's Rebellion, 1676 (1957)"
+  ],
+  "wertenbaker-patrician-and-plebeian": [
+   28472,
+   "Patrician and Plebeian (1958)"
+  ],
+  "wertenbaker-virginia-under-the-stuarts-1607-1688": [
+   30284,
+   "Virginia under the Stuarts 1607-1688 (1958)"
+  ],
+  "wertenbaker-the-planters-of-colonial-virginia": [
+   32507,
+   "The Planters of Colonial Virginia (1958)"
+  ],
+  "wertenbaker-give-me-liberty": [
+   34455,
+   "Give Me Liberty (1958)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "wertenbaker-bacon-s-rebellion-1676": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright(C), 1957 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wertenbaker-patrician-and-plebeian": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1910, 1958, 1959 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wertenbaker-virginia-under-the-stuarts-1607-1688": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1958, 1959 BY THOMAS J. WERTENBAKER'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wertenbaker-the-planters-of-colonial-virginia": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1958, 1959 BY THOMAS J. WERTENBAKER'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wertenbaker-give-me-liberty": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1958 BY THE AMERICAN PHILOSOPHICAL SOCIETY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "wertenbaker-bacon-s-rebellion-1676": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "thomas jefferson wertenbaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wertenbaker-patrician-and-plebeian": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "thomas jefferson wertenbaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wertenbaker-virginia-under-the-stuarts-1607-1688": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "thomas jefferson wertenbaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wertenbaker-the-planters-of-colonial-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "thomas jefferson wertenbaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wertenbaker-give-me-liberty": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "thomas jefferson wertenbaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

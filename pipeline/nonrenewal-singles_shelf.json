@@ -1,161 +1,326 @@
 {
- "_about": "Non-renewal sweep, batches 6-7 (2026-11-15; Adam 2026-11-03: \"I want everything that was not renewed\"): single US books of 1931-1963 whose copyright was never renewed, taken from Project Gutenberg's recent releases (each text's 'Original publication' line read) and checked one by one against NYPL's cce-renewals with pipeline/renewal_check.py. One title per author; an author with more goes to a shelf of their own. American authors and US first editions only (URAA does not reach them). No uids minted.",
+ "_about": "Non-renewal sweep, batches 6-8 (2026-11-15; Adam 2026-11-03: \"I want everything that was not renewed\"): single US books of 1931-1963 whose copyright was never renewed, taken from Project Gutenberg's recent releases (each text's 'Original publication' line read) and checked one by one against NYPL's cce-renewals with pipeline/renewal_check.py. Authors with one or two titles; an author with three or more goes to a shelf of their own. American authors and US first editions only (URAA does not reach them). No uids minted.",
  "_name_words": [],
  "_surname": [
   "a. j. muste",
   "a. scott crossfield",
+  "aaberg",
   "adams",
   "alberta powell graham",
   "alfred bester",
   "alfred charles michaud",
   "alice payne hackett",
+  "anderson",
+  "andre norton",
+  "aniol",
+  "anne pence davis",
+  "archer taylor",
   "august derleth",
+  "bagar",
+  "bailey",
+  "bain",
   "baldwin",
   "bales",
+  "bancroft",
   "barker",
   "barry goldwater",
+  "beal",
+  "beirne",
+  "bell",
+  "benjamin brewster",
+  "benjamin franklin",
   "berge",
   "berkeley",
+  "bernadine bailey",
+  "berry",
   "bester",
+  "biancolli",
+  "bigelow",
   "bisson",
   "blotner",
+  "blythe",
+  "bois",
+  "braidwood",
   "breckinridge",
   "brent",
+  "brewster",
   "briand",
   "brinton",
   "brown",
   "bruce jay friedman",
+  "brydon",
   "buck",
   "burchard",
+  "caldwell",
+  "carl e. jepson",
+  "carl parcher russell",
+  "caroline bancroft",
+  "carrier",
+  "caruthers",
   "casey",
+  "cerinda w. evans",
+  "chamberlain",
+  "charles f. pfeiffer",
   "charles sears baldwin",
   "chubb",
   "clark r. mollenhoff",
+  "claude b. aniol",
+  "cleo f. garis",
   "clifford r. adams",
   "coblentz",
+  "corporation",
+  "cory",
   "coxe",
   "crane",
   "crane brinton",
+  "craven",
   "crossfield",
   "d. s. halacy",
+  "dan smoot",
+  "david cory",
+  "davis",
   "derleth",
   "dobie",
   "don whitehead",
+  "donald culross peattie",
   "donald h. menzel",
+  "duryee",
+  "e. g. swem",
   "earle l. reynolds",
+  "edgar pangborn",
+  "edholm",
   "edmund callis berkeley",
+  "edmund j. sawyer",
+  "edmunds",
   "edward ernest swanstrom",
   "edward j. van liere",
+  "edwin d. mckee",
+  "elam",
+  "eliot",
   "elizabeth enright",
+  "elizabeth hazelton haight",
+  "emily neville",
   "engle",
   "enright",
+  "erick berry",
+  "ethel cook eliot",
   "eugene e. wilson",
   "eugenia smith",
+  "eula whitehouse",
+  "evans",
   "fannie hurst",
   "ferguson",
   "fleischer",
+  "forman",
+  "francis",
+  "francis f. beirne",
   "francis russell",
   "frank",
+  "frank bell",
+  "franklin",
   "fred c. kelly",
   "frederick d. wilhelmsen",
   "fredric brown",
   "friedman",
+  "fuermann",
+  "g. maclaren brydon",
   "ganoe",
+  "garis",
+  "garrison",
+  "gaylord du bois",
+  "george fuermann",
   "george harmon coxe",
   "george marion",
+  "george w. bain",
   "goldsmith",
   "goldwater",
+  "goodwin",
+  "grace dunlop peter",
   "graham",
+  "grose evans",
   "hackett",
+  "haight",
   "halacy",
+  "hale",
+  "harold l. goodwin",
+  "harold m. sherman",
   "hart crane",
   "hay",
+  "hazel hutchins wilson",
   "hazlitt",
   "helen r. hull",
   "helga sandburg",
+  "henry chandlee forman",
   "henry hazlitt",
   "herbert l. risteen",
+  "heyliger",
+  "hiden",
+  "hollingworth",
   "hoover",
   "horace m. kallen",
+  "horn",
   "howard h. quint",
   "howe",
   "hull",
+  "hume",
   "hurok",
   "hurst",
+  "ivan ray tannehill",
+  "j. c. aaberg",
   "j. de lancey ferguson",
   "j. edgar hoover",
   "j. frank dobie",
+  "j. j. thornber",
   "j. malcolm smith",
   "james d. bales",
+  "jean thomas",
+  "jean toomer",
+  "jepson",
+  "jim ray",
   "john g. neihardt",
   "john hay",
+  "john l. spivak",
+  "jorgenson",
   "joseph blotner",
   "kalashnikoff",
   "kallen",
+  "karl f. brown",
   "kelly",
+  "kemp",
+  "kenneth macgowan",
   "kirk",
   "knight",
   "kunstler",
   "l'engle",
+  "lapaz",
   "laurence",
+  "laurence b. white",
   "lefevre",
+  "legette blythe",
+  "leta stetter hollingworth",
   "liere",
+  "lincoln lapaz",
+  "lizette m. edholm",
+  "louis biancolli",
+  "louis wiltz kemp",
+  "lyman carrier",
+  "macgowan",
+  "mackendrick",
   "madeleine l'engle",
+  "margaret sanger",
+  "margaret sutton",
   "marguerite henry",
   "marion",
+  "marshall mcclintock",
+  "martha w. hiden",
   "martin m. goldsmith",
+  "mary french caldwell",
   "mary knight",
+  "mary rawlings",
+  "mcclintock",
+  "mckee",
   "menzel",
+  "merrill d. beal",
+  "messenger",
   "michaud",
   "mirsky",
   "mollenhoff",
   "morton pennypacker",
+  "mott",
   "muste",
   "nat fleischer",
   "neihardt",
+  "neville",
   "nicholas kalashnikoff",
+  "north",
+  "norton",
   "o'connor",
+  "pangborn",
   "patrick o'connor",
   "paul l., jr. briand",
+  "paul lachlan mackendrick",
+  "paul work",
   "pearl s. buck",
+  "peattie",
   "pennypacker",
+  "peter",
   "peter burchard",
+  "pfeiffer",
+  "philip hale",
+  "pocahontas wight edmunds",
+  "poul anderson",
   "quint",
+  "radford",
+  "rawlings",
+  "ray",
   "reba paeff mirsky",
+  "reuel l. howe",
   "reynolds",
+  "richard m. elam",
   "richard m. weaver",
   "risteen",
+  "robert c. bagar",
+  "robert j. braidwood",
   "robert j. casey",
   "robert lefevre",
   "roger sessions",
+  "ruby lorraine radford",
   "russell",
   "russell kirk",
+  "ruth ellis messenger",
+  "ruth fox hume",
+  "samuel chamberlain",
   "sandburg",
+  "sanger",
+  "sawyer",
   "scott dudley breckinridge",
   "sessions",
+  "sherman",
   "shirley barker",
   "smith",
+  "smoot",
   "sol hurok",
+  "spivak",
+  "stanley f. horn",
   "stanton a. coblentz",
   "stefansson",
   "sterling a. brown",
+  "sterling north",
   "stuart brent",
   "styron",
+  "sutton",
   "swanstrom",
+  "swem",
   "t. a. bisson",
+  "tannehill",
+  "taylor",
+  "theresa v. francis",
+  "thomas",
   "thomas caldecot chubb",
   "thomas carr howe",
+  "thornber",
+  "toomer",
   "vilhjalmur stefansson",
+  "virginia 350th anniversary celebration corporation",
   "waldo david frank",
   "weaver",
   "wendell berge",
+  "wesley frank craven",
+  "white",
   "whitehead",
+  "whitehouse",
   "wilhelmsen",
   "william addleman ganoe",
+  "william b. duryee",
+  "william caruthers",
+  "william f. bigelow",
+  "william heyliger",
   "william l. laurence",
   "william m. kunstler",
   "william styron",
-  "wilson"
+  "wilson",
+  "winfred ernest garrison",
+  "work"
  ],
  "_surname_by_slug": {
   "weaver-ethics-of-rhetoric": [
@@ -488,6 +653,388 @@
   "pennypacker-general-washington-s-spies-on-long-island-and-in": [
    "morton pennypacker",
    "pennypacker"
+  ],
+  "howe-herein-is-love": [
+   "reuel l. howe",
+   "howe"
+  ],
+  "smoot-the-invisible-government": [
+   "dan smoot",
+   "smoot"
+  ],
+  "bigelow-the-good-housekeeping-marriage-book": [
+   "william f. bigelow",
+   "bigelow"
+  ],
+  "spivak-secret-armies": [
+   "john l. spivak",
+   "spivak"
+  ],
+  "norton-ride-proud-rebel": [
+   "andre norton",
+   "norton"
+  ],
+  "toomer-an-interpretation-of-friends-worship": [
+   "jean toomer",
+   "toomer"
+  ],
+  "neville-it-s-like-this-cat": [
+   "emily neville",
+   "neville"
+  ],
+  "thomas-blue-ridge-country": [
+   "jean thomas",
+   "thomas"
+  ],
+  "wilson-jerry-s-charge-account": [
+   "hazel hutchins wilson",
+   "wilson"
+  ],
+  "peter-a-portrait-of-old-george-town": [
+   "grace dunlop peter",
+   "peter"
+  ],
+  "brydon-religious-life-of-virginia-in-the-seventeenth-century": [
+   "g. maclaren brydon",
+   "brydon"
+  ],
+  "craven-the-virginia-company-of-london-1606-1624": [
+   "wesley frank craven",
+   "craven"
+  ],
+  "carrier-agriculture-in-virginia-1607-1699": [
+   "lyman carrier",
+   "carrier"
+  ],
+  "sherman-interference-and-other-football-stories": [
+   "harold m. sherman",
+   "sherman"
+  ],
+  "sherman-tahara-among-african-tribes": [
+   "harold m. sherman",
+   "sherman"
+  ],
+  "aaberg-hymns-and-hymnwriters-of-denmark": [
+   "j. c. aaberg",
+   "aaberg"
+  ],
+  "edholm-the-merriweather-girls-and-the-mystery-of-the-queen-s": [
+   "lizette m. edholm",
+   "edholm"
+  ],
+  "goodwin-the-golden-skull": [
+   "harold l. goodwin",
+   "goodwin"
+  ],
+  "duryee-a-living-from-the-land": [
+   "william b. duryee",
+   "duryee"
+  ],
+  "messenger-christian-hymns-of-the-first-three-centuries": [
+   "ruth ellis messenger",
+   "messenger"
+  ],
+  "messenger-the-medieval-latin-hymn": [
+   "ruth ellis messenger",
+   "messenger"
+  ],
+  "cory-hawk-eye": [
+   "david cory",
+   "cory"
+  ],
+  "franklin-benjamin-franklin": [
+   "benjamin franklin",
+   "franklin",
+   "mott",
+   "jorgenson"
+  ],
+  "edmunds-the-pocahontas-john-smith-story": [
+   "pocahontas wight edmunds",
+   "edmunds"
+  ],
+  "corporation-the-three-charters-of-the-virginia-company-of-lo": [
+   "virginia 350th anniversary celebration corporation",
+   "corporation"
+  ],
+  "forman-virginia-architecture-in-the-seventeenth-century": [
+   "henry chandlee forman",
+   "forman"
+  ],
+  "work-the-tomato": [
+   "paul work",
+   "work"
+  ],
+  "hiden-how-justice-grew": [
+   "martha w. hiden",
+   "hiden"
+  ],
+  "pangborn-the-trial-of-callista-blake": [
+   "edgar pangborn",
+   "pangborn"
+  ],
+  "pangborn-wilderness-of-spring": [
+   "edgar pangborn",
+   "pangborn"
+  ],
+  "garis-missing-at-marshlands": [
+   "cleo f. garis",
+   "garis"
+  ],
+  "garis-the-mystery-of-jockey-hollow": [
+   "cleo f. garis",
+   "garis"
+  ],
+  "garis-the-orchard-secret": [
+   "cleo f. garis",
+   "garis"
+  ],
+  "bailey-little-greta-of-denmark": [
+   "bernadine bailey",
+   "bailey"
+  ],
+  "north-plowing-on-sunday": [
+   "sterling north",
+   "north"
+  ],
+  "thornber-the-fantastic-clan": [
+   "j. j. thornber",
+   "thornber"
+  ],
+  "davis-mimi-at-sheridan-school": [
+   "anne pence davis",
+   "davis"
+  ],
+  "taylor-a-history-of-bibliographies-of-bibliographies": [
+   "archer taylor",
+   "taylor"
+  ],
+  "evans-some-notes-on-shipbuilding-and-shipping-in-colonial-vi": [
+   "cerinda w. evans",
+   "evans"
+  ],
+  "evans-french-painting-of-the-19th-century-in-the-national-ga": [
+   "grose evans",
+   "evans"
+  ],
+  "haight-essays-on-the-greek-romances": [
+   "elizabeth hazelton haight",
+   "haight"
+  ],
+  "radford-nancy-dale-army-nurse": [
+   "ruby lorraine radford",
+   "radford"
+  ],
+  "radford-kitty-carter-canteen-girl": [
+   "ruby lorraine radford",
+   "radford"
+  ],
+  "hollingworth-children-above-180-iq-stanford-binet": [
+   "leta stetter hollingworth",
+   "hollingworth"
+  ],
+  "bois-barry-blake-of-the-flying-fortress": [
+   "gaylord du bois",
+   "bois"
+  ],
+  "sutton-the-yellow-phantom": [
+   "margaret sutton",
+   "sutton"
+  ],
+  "sutton-the-magic-makers-and-the-bramble-bush-man": [
+   "margaret sutton",
+   "sutton"
+  ],
+  "mckee-ancient-landscapes-of-the-grand-canyon-region": [
+   "edwin d. mckee",
+   "mckee"
+  ],
+  "mcclintock-dick-donnelly-of-the-paratroops": [
+   "marshall mcclintock",
+   "mcclintock"
+  ],
+  "mcclintock-march-anson-and-scoot-bailey-of-the-u-s-navy": [
+   "marshall mcclintock",
+   "mcclintock"
+  ],
+  "garrison-an-american-religious-movement": [
+   "winfred ernest garrison",
+   "garrison"
+  ],
+  "bagar-wagner-and-his-music-dramas": [
+   "robert c. bagar",
+   "bagar"
+  ],
+  "brewster-the-first-book-of-eskimos": [
+   "benjamin brewster",
+   "brewster"
+  ],
+  "rawlings-historical-guide-to-old-charlottesville": [
+   "mary rawlings",
+   "rawlings"
+  ],
+  "biancolli-serge-prokofieff-and-his-orchestral-music": [
+   "louis biancolli",
+   "biancolli"
+  ],
+  "biancolli-tschaikowsky-and-his-orchestral-music": [
+   "louis biancolli",
+   "biancolli"
+  ],
+  "caruthers-loafing-along-death-valley-trails": [
+   "william caruthers",
+   "caruthers"
+  ],
+  "bancroft-silver-queen": [
+   "caroline bancroft",
+   "bancroft"
+  ],
+  "aniol-san-antonio": [
+   "claude b. aniol",
+   "aniol"
+  ],
+  "eliot-green-doors": [
+   "ethel cook eliot",
+   "eliot"
+  ],
+  "eliot-ariel-dances": [
+   "ethel cook eliot",
+   "eliot"
+  ],
+  "braidwood-prehistoric-men": [
+   "robert j. braidwood",
+   "braidwood"
+  ],
+  "blythe-hear-me-pilate": [
+   "legette blythe",
+   "blythe"
+  ],
+  "lapaz-space-nomads": [
+   "lincoln lapaz",
+   "lapaz"
+  ],
+  "berry-cynthia-steps-out": [
+   "erick berry",
+   "berry"
+  ],
+  "whitehouse-texas-flowers-in-natural-colors": [
+   "eula whitehouse",
+   "whitehouse"
+  ],
+  "swem-a-selected-bibliography-of-virginia-1607-1699": [
+   "e. g. swem",
+   "swem"
+  ],
+  "white-life-in-the-shifting-dunes": [
+   "laurence b. white",
+   "white"
+  ],
+  "elam-young-stowaways-in-space": [
+   "richard m. elam",
+   "elam"
+  ],
+  "macgowan-early-man-in-the-new-world": [
+   "kenneth macgowan",
+   "macgowan"
+  ],
+  "jepson-wild-flowers-of-zion-and-bryce-canyon-national-parks": [
+   "carl e. jepson",
+   "jepson"
+  ],
+  "bell-flash-evans-and-the-darkroom-mystery": [
+   "frank bell",
+   "bell"
+  ],
+  "bell-flash-evans-camera-news-hawk": [
+   "frank bell",
+   "bell"
+  ],
+  "brown-california-missions": [
+   "karl f. brown",
+   "brown"
+  ],
+  "beirne-shout-treason": [
+   "francis f. beirne",
+   "beirne"
+  ],
+  "hale-philip-hale-s-boston-symphony-programme-notes": [
+   "philip hale",
+   "hale"
+  ],
+  "sanger-margaret-sanger": [
+   "margaret sanger",
+   "sanger"
+  ],
+  "heyliger-you-re-on-the-air": [
+   "william heyliger",
+   "heyliger"
+  ],
+  "horn-the-hermitage-home-of-old-hickory": [
+   "stanley f. horn",
+   "horn"
+  ],
+  "mackendrick-the-mute-stones-speak": [
+   "paul lachlan mackendrick",
+   "mackendrick"
+  ],
+  "chamberlain-lexington-and-concord": [
+   "samuel chamberlain",
+   "chamberlain"
+  ],
+  "bain-the-flow-of-time-in-the-connecticut-valley": [
+   "george w. bain",
+   "bain"
+  ],
+  "francis-crystal-river-saga": [
+   "theresa v. francis",
+   "francis"
+  ],
+  "kemp-the-battle-of-san-jacinto-and-the-san-jacinto-campaign": [
+   "louis wiltz kemp",
+   "kemp"
+  ],
+  "tannehill-the-hurricane-hunters": [
+   "ivan ray tannehill",
+   "tannehill"
+  ],
+  "pfeiffer-tell-el-amarna-and-the-bible": [
+   "charles f. pfeiffer",
+   "pfeiffer"
+  ],
+  "ray-the-story-of-american-aviation": [
+   "jim ray",
+   "ray"
+  ],
+  "caldwell-andrew-jackson-s-hermitage": [
+   "mary french caldwell",
+   "caldwell"
+  ],
+  "russell-one-hundred-years-in-yosemite": [
+   "carl parcher russell",
+   "russell"
+  ],
+  "peattie-trees-you-want-to-know": [
+   "donald culross peattie",
+   "peattie"
+  ],
+  "sawyer-bird-houses-baths-and-feeding-shelters": [
+   "edmund j. sawyer",
+   "sawyer"
+  ],
+  "fuermann-houston": [
+   "george fuermann",
+   "fuermann"
+  ],
+  "beal-the-story-of-man-in-yellowstone": [
+   "merrill d. beal",
+   "beal"
+  ],
+  "anderson-the-golden-slave": [
+   "poul anderson",
+   "anderson"
+  ],
+  "hume-the-lion-of-poland": [
+   "ruth fox hume",
+   "hume"
   ]
  },
  "_surname_note": "Per title: the author's name forms.",
@@ -824,6 +1371,386 @@
   "pennypacker-general-washington-s-spies-on-long-island-and-in": [
    70129,
    "Morton Pennypacker, General Washington's spies on Long Island and in New York (United States: Long Island Historical Society, 1939)"
+  ],
+  "howe-herein-is-love": [
+   20289,
+   "Reuel L. Howe, Herein is Love (1961)"
+  ],
+  "smoot-the-invisible-government": [
+   20224,
+   "Dan Smoot, The Invisible Government (1962)"
+  ],
+  "bigelow-the-good-housekeeping-marriage-book": [
+   20830,
+   "William F. Bigelow, The Good Housekeeping Marriage Book (1938)"
+  ],
+  "spivak-secret-armies": [
+   22682,
+   "John L. Spivak, Secret armies (1939)"
+  ],
+  "norton-ride-proud-rebel": [
+   23624,
+   "Andre Norton, Ride Proud, Rebel! (1961)"
+  ],
+  "toomer-an-interpretation-of-friends-worship": [
+   24576,
+   "Jean Toomer, An Interpretation of Friends Worship (1947)"
+  ],
+  "neville-it-s-like-this-cat": [
+   24921,
+   "Emily Neville, It's like this, cat (1963)"
+  ],
+  "thomas-blue-ridge-country": [
+   25413,
+   "Jean Thomas, Blue Ridge Country (1942)"
+  ],
+  "wilson-jerry-s-charge-account": [
+   27211,
+   "Hazel Hutchins Wilson, Jerry's Charge Account (1960)"
+  ],
+  "peter-a-portrait-of-old-george-town": [
+   27716,
+   "Grace Dunlop Peter, A portrait of Old George Town (1951)"
+  ],
+  "brydon-religious-life-of-virginia-in-the-seventeenth-century": [
+   28634,
+   "G. MacLaren Brydon, Religious Life of Virginia in the Seventeenth Century (1957)"
+  ],
+  "craven-the-virginia-company-of-london-1606-1624": [
+   28555,
+   "Wesley Frank Craven, The Virginia Company Of London, 1606-1624 (1957)"
+  ],
+  "carrier-agriculture-in-virginia-1607-1699": [
+   28730,
+   "Lyman Carrier, Agriculture in Virginia, 1607-1699 (1957)"
+  ],
+  "sherman-interference-and-other-football-stories": [
+   29705,
+   "Harold M. Sherman, Interference and Other Football Stories (1932)"
+  ],
+  "sherman-tahara-among-african-tribes": [
+   33233,
+   "Harold M. Sherman, Tahara Among African Tribes (1933)"
+  ],
+  "aaberg-hymns-and-hymnwriters-of-denmark": [
+   29666,
+   "J. C. Aaberg, Hymns and Hymnwriters of Denmark (1945)"
+  ],
+  "edholm-the-merriweather-girls-and-the-mystery-of-the-queen-s": [
+   30378,
+   "Lizette M. Edholm, The Merriweather Girls and the Mystery of the Queen's Fan (1932)"
+  ],
+  "goodwin-the-golden-skull": [
+   32270,
+   "Harold L. Goodwin, The Golden Skull (1954)"
+  ],
+  "duryee-a-living-from-the-land": [
+   33060,
+   "William B. Duryee, A Living from the Land (1934)"
+  ],
+  "messenger-christian-hymns-of-the-first-three-centuries": [
+   33160,
+   "Ruth Ellis Messenger, Christian Hymns of the First Three Centuries (1942)"
+  ],
+  "messenger-the-medieval-latin-hymn": [
+   54150,
+   "Ruth Ellis Messenger, The Medieval Latin Hymn (1953)"
+  ],
+  "cory-hawk-eye": [
+   33772,
+   "David Cory, Hawk Eye (1938)"
+  ],
+  "franklin-benjamin-franklin": [
+   35508,
+   "Benjamin Franklin, Benjamin Franklin (1936)"
+  ],
+  "edmunds-the-pocahontas-john-smith-story": [
+   35863,
+   "Pocahontas Wight Edmunds, The Pocahontas-John Smith Story (1956)"
+  ],
+  "corporation-the-three-charters-of-the-virginia-company-of-lo": [
+   36181,
+   "Virginia 350th Anniversary Celebration Corporation, The Three Charters of the Virginia Company of London (1957)"
+  ],
+  "forman-virginia-architecture-in-the-seventeenth-century": [
+   37288,
+   "Henry Chandlee Forman, Virginia Architecture in the Seventeenth Century (1957)"
+  ],
+  "work-the-tomato": [
+   38051,
+   "Paul Work, The Tomato (1942)"
+  ],
+  "hiden-how-justice-grew": [
+   39148,
+   "Martha W. Hiden, How Justice Grew (1957)"
+  ],
+  "pangborn-the-trial-of-callista-blake": [
+   39826,
+   "Edgar Pangborn, The Trial of Callista Blake (1961)"
+  ],
+  "pangborn-wilderness-of-spring": [
+   39907,
+   "Edgar Pangborn, Wilderness of Spring (1958)"
+  ],
+  "garis-missing-at-marshlands": [
+   40666,
+   "Cleo F. Garis, Missing at Marshlands (1934)"
+  ],
+  "garis-the-mystery-of-jockey-hollow": [
+   40667,
+   "Cleo F. Garis, The Mystery of Jockey Hollow (1934)"
+  ],
+  "garis-the-orchard-secret": [
+   40725,
+   "Cleo F. Garis, The Orchard Secret (1934)"
+  ],
+  "bailey-little-greta-of-denmark": [
+   40647,
+   "Bernadine Bailey, Little Greta of Denmark (1939)"
+  ],
+  "north-plowing-on-sunday": [
+   46200,
+   "Sterling North, Plowing On Sunday (1934)"
+  ],
+  "thornber-the-fantastic-clan": [
+   46155,
+   "J. J. Thornber, The Fantastic Clan (1932)"
+  ],
+  "davis-mimi-at-sheridan-school": [
+   46404,
+   "Anne Pence Davis, Mimi at Sheridan School (1935)"
+  ],
+  "taylor-a-history-of-bibliographies-of-bibliographies": [
+   46414,
+   "Archer Taylor, A History of Bibliographies of Bibliographies (1955)"
+  ],
+  "evans-some-notes-on-shipbuilding-and-shipping-in-colonial-vi": [
+   46731,
+   "Cerinda W. Evans, Some Notes on Shipbuilding and Shipping in Colonial Virginia (1957)"
+  ],
+  "evans-french-painting-of-the-19th-century-in-the-national-ga": [
+   59288,
+   "Grose Evans, French Painting of the 19th Century in the National Gallery of Art (1959)"
+  ],
+  "haight-essays-on-the-greek-romances": [
+   47022,
+   "Elizabeth Hazelton Haight, Essays on the Greek Romances (1943)"
+  ],
+  "radford-nancy-dale-army-nurse": [
+   47307,
+   "Ruby Lorraine Radford, Nancy Dale, Army Nurse (1944)"
+  ],
+  "radford-kitty-carter-canteen-girl": [
+   47775,
+   "Ruby Lorraine Radford, Kitty Carter, Canteen Girl (1944)"
+  ],
+  "hollingworth-children-above-180-iq-stanford-binet": [
+   47403,
+   "Leta Stetter Hollingworth, Children Above 180 IQ Stanford-Binet (1942)"
+  ],
+  "bois-barry-blake-of-the-flying-fortress": [
+   47696,
+   "Gaylord Du Bois, Barry Blake of the Flying Fortress (1943)"
+  ],
+  "sutton-the-yellow-phantom": [
+   47989,
+   "Margaret Sutton, The Yellow Phantom (1933)"
+  ],
+  "sutton-the-magic-makers-and-the-bramble-bush-man": [
+   58629,
+   "Margaret Sutton, The Magic Makers and the Bramble Bush Man (1936)"
+  ],
+  "mckee-ancient-landscapes-of-the-grand-canyon-region": [
+   48126,
+   "Edwin D. McKee, Ancient Landscapes of the Grand Canyon Region (1931)"
+  ],
+  "mcclintock-dick-donnelly-of-the-paratroops": [
+   48226,
+   "Marshall McClintock, Dick Donnelly of the Paratroops (1944)"
+  ],
+  "mcclintock-march-anson-and-scoot-bailey-of-the-u-s-navy": [
+   48549,
+   "Marshall McClintock, March Anson and Scoot Bailey of the U.S. Navy (1944)"
+  ],
+  "garrison-an-american-religious-movement": [
+   48241,
+   "Winfred Ernest Garrison, An American Religious Movement (1945)"
+  ],
+  "bagar-wagner-and-his-music-dramas": [
+   49174,
+   "Robert C. Bagar, Wagner and His Music-Dramas (1943)"
+  ],
+  "brewster-the-first-book-of-eskimos": [
+   49991,
+   "Benjamin Brewster, The First Book of Eskimos (1952)"
+  ],
+  "rawlings-historical-guide-to-old-charlottesville": [
+   49980,
+   "Mary Rawlings, Historical Guide to Old Charlottesville (1958)"
+  ],
+  "biancolli-serge-prokofieff-and-his-orchestral-music": [
+   50226,
+   "Louis Biancolli, Serge Prokofieff and his orchestral music (1953)"
+  ],
+  "biancolli-tschaikowsky-and-his-orchestral-music": [
+   50230,
+   "Louis Biancolli, Tschaikowsky and his orchestral music (1944)"
+  ],
+  "caruthers-loafing-along-death-valley-trails": [
+   51899,
+   "William Caruthers, Loafing along Death Valley trails (1951)"
+  ],
+  "bancroft-silver-queen": [
+   52398,
+   "Caroline Bancroft, Silver Queen (1950)"
+  ],
+  "aniol-san-antonio": [
+   52516,
+   "Claude B. Aniol, San Antonio (1942)"
+  ],
+  "eliot-green-doors": [
+   52531,
+   "Ethel Cook Eliot, Green Doors (1933)"
+  ],
+  "eliot-ariel-dances": [
+   58412,
+   "Ethel Cook Eliot, Ariel Dances (1931)"
+  ],
+  "braidwood-prehistoric-men": [
+   52664,
+   "Robert J. Braidwood, Prehistoric Men (1948)"
+  ],
+  "blythe-hear-me-pilate": [
+   52650,
+   "LeGette Blythe, Hear Me, Pilate! (1961)"
+  ],
+  "lapaz-space-nomads": [
+   52848,
+   "Lincoln LaPaz, Space Nomads (1961)"
+  ],
+  "berry-cynthia-steps-out": [
+   53197,
+   "Erick Berry, Cynthia Steps Out (1937)"
+  ],
+  "whitehouse-texas-flowers-in-natural-colors": [
+   53647,
+   "Eula Whitehouse, Texas Flowers in Natural Colors (1936)"
+  ],
+  "swem-a-selected-bibliography-of-virginia-1607-1699": [
+   54253,
+   "E. G. Swem, A Selected Bibliography of Virginia, 1607-1699 (1957)"
+  ],
+  "white-life-in-the-shifting-dunes": [
+   54566,
+   "Laurence B. White, Life in the Shifting Dunes (1960)"
+  ],
+  "elam-young-stowaways-in-space": [
+   54547,
+   "Richard M. Elam, Young Stowaways in Space (1960)"
+  ],
+  "macgowan-early-man-in-the-new-world": [
+   55434,
+   "Kenneth Macgowan, Early Man in the New World (1962)"
+  ],
+  "jepson-wild-flowers-of-zion-and-bryce-canyon-national-parks": [
+   55363,
+   "Carl E. Jepson, Wild Flowers of Zion and Bryce Canyon National Parks and Cedar Breaks National Monument (1958)"
+  ],
+  "bell-flash-evans-and-the-darkroom-mystery": [
+   55693,
+   "Frank Bell, Flash Evans and the Darkroom Mystery (1940)"
+  ],
+  "bell-flash-evans-camera-news-hawk": [
+   55694,
+   "Frank Bell, Flash Evans, Camera News Hawk (1940)"
+  ],
+  "brown-california-missions": [
+   55931,
+   "Karl F. Brown, California Missions (1939)"
+  ],
+  "beirne-shout-treason": [
+   56121,
+   "Francis F. Beirne, Shout treason (1959)"
+  ],
+  "hale-philip-hale-s-boston-symphony-programme-notes": [
+   56208,
+   "Philip Hale, Philip Hale's Boston Symphony Programme Notes (1935)"
+  ],
+  "sanger-margaret-sanger": [
+   56610,
+   "Margaret Sanger, Margaret Sanger (1938)"
+  ],
+  "heyliger-you-re-on-the-air": [
+   56660,
+   "William Heyliger, You're on the Air (1941)"
+  ],
+  "horn-the-hermitage-home-of-old-hickory": [
+   57231,
+   "Stanley F. Horn, The Hermitage, Home of Old Hickory (1950)"
+  ],
+  "mackendrick-the-mute-stones-speak": [
+   57308,
+   "Paul Lachlan MacKendrick, The Mute Stones Speak (1960)"
+  ],
+  "chamberlain-lexington-and-concord": [
+   57529,
+   "Samuel Chamberlain, Lexington and Concord (1939)"
+  ],
+  "bain-the-flow-of-time-in-the-connecticut-valley": [
+   57800,
+   "George W. Bain, The flow of time in the Connecticut valley (1942)"
+  ],
+  "francis-crystal-river-saga": [
+   57923,
+   "Theresa V. Francis, Crystal River Saga (1959)"
+  ],
+  "kemp-the-battle-of-san-jacinto-and-the-san-jacinto-campaign": [
+   57849,
+   "Louis Wiltz Kemp, The Battle of San Jacinto and the San Jacinto Campaign (1947)"
+  ],
+  "tannehill-the-hurricane-hunters": [
+   57973,
+   "Ivan Ray Tannehill, The Hurricane Hunters (1955)"
+  ],
+  "pfeiffer-tell-el-amarna-and-the-bible": [
+   58065,
+   "Charles F. Pfeiffer, Tell el Amarna and the Bible (1963)"
+  ],
+  "ray-the-story-of-american-aviation": [
+   58033,
+   "Jim Ray, The Story of American Aviation (1946)"
+  ],
+  "caldwell-andrew-jackson-s-hermitage": [
+   58035,
+   "Mary French Caldwell, Andrew Jackson's Hermitage (1949)"
+  ],
+  "russell-one-hundred-years-in-yosemite": [
+   58295,
+   "Carl Parcher Russell, One Hundred Years in Yosemite (1932)"
+  ],
+  "peattie-trees-you-want-to-know": [
+   58294,
+   "Donald Culross Peattie, Trees You Want to Know (1934)"
+  ],
+  "sawyer-bird-houses-baths-and-feeding-shelters": [
+   58586,
+   "Edmund J. Sawyer, Bird Houses, Baths and Feeding Shelters (1955)"
+  ],
+  "fuermann-houston": [
+   59068,
+   "George Fuermann, Houston (1962)"
+  ],
+  "beal-the-story-of-man-in-yellowstone": [
+   59092,
+   "Merrill D. Beal, The Story of Man In Yellowstone (1949)"
+  ],
+  "anderson-the-golden-slave": [
+   59258,
+   "Poul Anderson, The Golden Slave (1960)"
+  ],
+  "hume-the-lion-of-poland": [
+   59591,
+   "Ruth Fox Hume, The Lion of Poland (1962)"
   ]
  },
  "internet_archive": {},
@@ -910,7 +1837,102 @@
   "bales-senator-fulbright-s-secret-memorandum": "Non-renewal sweep batch 7, 2026-11-15. Searcy, AR: Bales Bookstore, 1962 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
   "smith-powers-of-the-president-during-crises": "Non-renewal sweep batch 7, 2026-11-15. Washington, DC: Public Affairs Press, 1960 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
   "quint-profile-in-black-and-white": "Non-renewal sweep batch 7, 2026-11-15. Washington: Public Affairs Press, 1958 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
-  "pennypacker-general-washington-s-spies-on-long-island-and-in": "Non-renewal sweep batch 7, 2026-11-15. United States: Long Island Historical Society, 1939 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+  "pennypacker-general-washington-s-spies-on-long-island-and-in": "Non-renewal sweep batch 7, 2026-11-15. United States: Long Island Historical Society, 1939 (Gutenberg's 'Original publication' line). American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "howe-herein-is-love": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '| Copyright (C) 1961 |'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "smoot-the-invisible-government": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '[Transcriber's note: Although copyrighted in 1962, the author did not'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bigelow-the-good-housekeeping-marriage-book": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1938, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1965-66): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "spivak-secret-armies": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1939 BY JOHN L. SPIVAK'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "norton-ride-proud-rebel": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright (C) 1961'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "toomer-an-interpretation-of-friends-worship": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1947'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1974-75): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "neville-it-s-like-this-cat": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1963 by Emily Neville'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "thomas-blue-ridge-country": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1942, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wilson-jerry-s-charge-account": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, (C), 1960, BY HAZEL WILSON'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "peter-a-portrait-of-old-george-town": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1951'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "brydon-religious-life-of-virginia-in-the-seventeenth-century": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT(C), 1957 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "craven-the-virginia-company-of-london-1606-1624": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT(C), 1957 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "carrier-agriculture-in-virginia-1607-1699": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'published in 1957'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sherman-interference-and-other-football-stories": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1932 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sherman-tahara-among-african-tribes": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1933 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "aaberg-hymns-and-hymnwriters-of-denmark": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1945'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1972-73): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "edholm-the-merriweather-girls-and-the-mystery-of-the-queen-s": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1932 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "goodwin-the-golden-skull": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1954, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1981-82): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "duryee-a-living-from-the-land": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright, 1934, by the_ MCGRAW-HILL BOOK COMPANY, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "messenger-christian-hymns-of-the-first-three-centuries": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1942, by Hymn Society of America'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "messenger-the-medieval-latin-hymn": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1953'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "cory-hawk-eye": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1938, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1965-66): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "franklin-benjamin-franklin": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1936, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1963-64): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Selections edited by Frank Luther Mott and Chester E. Jorgenson (American Writers Series, 1936): Franklin's text is old; the editors' matter was never renewed. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "edmunds-the-pocahontas-john-smith-story": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT (C) 1956, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1983-84): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "corporation-the-three-charters-of-the-virginia-company-of-lo": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT(C), 1957 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "forman-virginia-architecture-in-the-seventeenth-century": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT(C), 1957 BY HENRY CHANDLEE FORMAN'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "work-the-tomato": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1942, BY ORANGE JUDD PUBLISHING COMPANY, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hiden-how-justice-grew": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright(C), 1957 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "pangborn-the-trial-of-callista-blake": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright_ (C) _Edgar Pangborn 1961_'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "pangborn-wilderness-of-spring": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright _1958 by Edgar Pangborn'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "garis-missing-at-marshlands": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1934, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "garis-the-mystery-of-jockey-hollow": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1934, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "garis-the-orchard-secret": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1934, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bailey-little-greta-of-denmark": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1939, BY A. FLANAGAN COMPANY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "north-plowing-on-sunday": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright, 1934, by_'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "thornber-the-fantastic-clan": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1932,'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "davis-mimi-at-sheridan-school": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1935 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1962-63): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "taylor-a-history-of-bibliographies-of-bibliographies": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1955, by Archer Taylor.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1982-83): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "evans-some-notes-on-shipbuilding-and-shipping-in-colonial-vi": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT©, 1957 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "evans-french-painting-of-the-19th-century-in-the-national-ga": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright 1959_'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "haight-essays-on-the-greek-romances": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT · 1943'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "radford-nancy-dale-army-nurse": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright, 1944, by_'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "radford-kitty-carter-canteen-girl": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright, 1944, by_'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hollingworth-children-above-180-iq-stanford-binet": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1942.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bois-barry-blake-of-the-flying-fortress": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1943, by Whitman Publishing Company'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sutton-the-yellow-phantom": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1933, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sutton-the-magic-makers-and-the-bramble-bush-man": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1936, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1963-64): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "mckee-ancient-landscapes-of-the-grand-canyon-region": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "mcclintock-dick-donnelly-of-the-paratroops": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1944, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "mcclintock-march-anson-and-scoot-bailey-of-the-u-s-navy": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1944, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "garrison-an-american-religious-movement": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1945'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1972-73): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bagar-wagner-and-his-music-dramas": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1943, 1950'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "brewster-the-first-book-of-eskimos": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright 1952 by Franklin Watts, Inc._'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "rawlings-historical-guide-to-old-charlottesville": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1958'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "biancolli-serge-prokofieff-and-his-orchestral-music": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1953'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "biancolli-tschaikowsky-and-his-orchestral-music": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1944, 1950'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "caruthers-loafing-along-death-valley-trails": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1951 BY WILLIAM CARUTHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bancroft-silver-queen": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1950, 1955 by Caroline Bancroft'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "aniol-san-antonio": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1942, BY CLAUDE B. ANIOL'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "eliot-green-doors": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright, 1933_,'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1960-61): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "eliot-ariel-dances": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright, 1931_,'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "braidwood-prehistoric-men": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1948, 1951, and 1957 by Chicago Natural History Museum'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1975-76): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "blythe-hear-me-pilate": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1961 by LeGette Blythe'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "lapaz-space-nomads": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1961, BY LINCOLN LaPAZ & JEAN LaPAZ'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1988-89): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "berry-cynthia-steps-out": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1937, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1964-65): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "whitehouse-texas-flowers-in-natural-colors": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1936 and 1948, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1963-64): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "swem-a-selected-bibliography-of-virginia-1607-1699": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHTÂ© 1957 BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "white-life-in-the-shifting-dunes": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1960,'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "elam-young-stowaways-in-space": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1960 by Lantern Press, Inc.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "macgowan-early-man-in-the-new-world": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1962 by The American Museum of Natural History'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "jepson-wild-flowers-of-zion-and-bryce-canyon-national-parks": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Published and Copyright 1958'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1985-86): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bell-flash-evans-and-the-darkroom-mystery": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1940, By'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1967-68): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bell-flash-evans-camera-news-hawk": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1940, By'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1967-68): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "brown-california-missions": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1939 BY KARL F. BROWN AND FLOYD RAY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "beirne-shout-treason": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT © 1959 by HASTINGS HOUSE, PUBLISHERS, INC.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hale-philip-hale-s-boston-symphony-programme-notes": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1935'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1962-63): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sanger-margaret-sanger": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1938, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1965-66): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "heyliger-you-re-on-the-air": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1941, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "horn-the-hermitage-home-of-old-hickory": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1950, by Stanley F. Horn'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "mackendrick-the-mute-stones-speak": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1960 by Paul MacKendrick'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "chamberlain-lexington-and-concord": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright, 1939, by Samuel Chamberlain. Printed in the United States of'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1966-67): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Chamberlain's renewal R339251 is of The American Scene (1936), another work. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bain-the-flow-of-time-in-the-connecticut-valley": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1942, BY THE HAMPSHIRE BOOKSHOP'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "francis-crystal-river-saga": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT © 1959'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1986-87): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kemp-the-battle-of-san-jacinto-and-the-san-jacinto-campaign": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1947'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1974-75): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "tannehill-the-hurricane-hunters": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, © 1955 by Ivan Ray Tannehill'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1982-83): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "pfeiffer-tell-el-amarna-and-the-bible": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1963, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "ray-the-story-of-american-aviation": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright, 1946, by_'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1973-74): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "caldwell-andrew-jackson-s-hermitage": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1949'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "russell-one-hundred-years-in-yosemite": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1932'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "peattie-trees-you-want-to-know": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1934'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1961-62): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "sawyer-bird-houses-baths-and-feeding-shelters": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1955'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1982-83): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "fuermann-houston": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1962 by George Fuermann'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. Fuermann's renewal RE20729 is of Houston: Land of the Big Rich (1951), another work. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "beal-the-story-of-man-in-yellowstone": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1949'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "anderson-the-golden-slave": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1960, by Poul Anderson'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hume-the-lion-of-poland": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright (c) 1962 by Hawthorn Books, Inc. Copyright under International'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1989-90): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
  },
  "_excluded": {
   "pg-72716": "Ellsberg, Hell on Ice (1938): RENEWED, A114312 -> R355571 (1965), though Gutenberg released it. Not taken.",
@@ -1660,6 +2682,861 @@
    "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "morton pennypacker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howe-herein-is-love": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "reuel l. howe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smoot-the-invisible-government": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "dan smoot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bigelow-the-good-housekeeping-marriage-book": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william f. bigelow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spivak-secret-armies": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "john l. spivak",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "norton-ride-proud-rebel": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "andre norton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "toomer-an-interpretation-of-friends-worship": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "jean toomer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "neville-it-s-like-this-cat": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "emily neville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thomas-blue-ridge-country": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "jean thomas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilson-jerry-s-charge-account": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "hazel hutchins wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "peter-a-portrait-of-old-george-town": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "grace dunlop peter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brydon-religious-life-of-virginia-in-the-seventeenth-century": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "g. maclaren brydon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craven-the-virginia-company-of-london-1606-1624": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "wesley frank craven",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carrier-agriculture-in-virginia-1607-1699": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "lyman carrier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sherman-interference-and-other-football-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "harold m. sherman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sherman-tahara-among-african-tribes": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "harold m. sherman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aaberg-hymns-and-hymnwriters-of-denmark": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "j. c. aaberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edholm-the-merriweather-girls-and-the-mystery-of-the-queen-s": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "lizette m. edholm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goodwin-the-golden-skull": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "harold l. goodwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duryee-a-living-from-the-land": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william b. duryee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "messenger-christian-hymns-of-the-first-three-centuries": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruth ellis messenger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "messenger-the-medieval-latin-hymn": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruth ellis messenger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cory-hawk-eye": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "david cory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "franklin-benjamin-franklin": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "benjamin franklin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edmunds-the-pocahontas-john-smith-story": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "pocahontas wight edmunds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "corporation-the-three-charters-of-the-virginia-company-of-lo": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "virginia 350th anniversary celebration corporation",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "forman-virginia-architecture-in-the-seventeenth-century": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "henry chandlee forman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "work-the-tomato": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "paul work",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hiden-how-justice-grew": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "martha w. hiden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pangborn-the-trial-of-callista-blake": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edgar pangborn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pangborn-wilderness-of-spring": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edgar pangborn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-missing-at-marshlands": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "cleo f. garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-the-mystery-of-jockey-hollow": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "cleo f. garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-the-orchard-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "cleo f. garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bailey-little-greta-of-denmark": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bernadine bailey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "north-plowing-on-sunday": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "sterling north",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thornber-the-fantastic-clan": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "j. j. thornber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "davis-mimi-at-sheridan-school": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "anne pence davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "taylor-a-history-of-bibliographies-of-bibliographies": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "archer taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evans-some-notes-on-shipbuilding-and-shipping-in-colonial-vi": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "cerinda w. evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evans-french-painting-of-the-19th-century-in-the-national-ga": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "grose evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haight-essays-on-the-greek-romances": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "elizabeth hazelton haight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "radford-nancy-dale-army-nurse": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruby lorraine radford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "radford-kitty-carter-canteen-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruby lorraine radford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hollingworth-children-above-180-iq-stanford-binet": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "leta stetter hollingworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bois-barry-blake-of-the-flying-fortress": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "gaylord du bois",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sutton-the-yellow-phantom": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "margaret sutton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sutton-the-magic-makers-and-the-bramble-bush-man": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "margaret sutton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mckee-ancient-landscapes-of-the-grand-canyon-region": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edwin d. mckee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcclintock-dick-donnelly-of-the-paratroops": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "marshall mcclintock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcclintock-march-anson-and-scoot-bailey-of-the-u-s-navy": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "marshall mcclintock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garrison-an-american-religious-movement": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "winfred ernest garrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bagar-wagner-and-his-music-dramas": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "robert c. bagar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brewster-the-first-book-of-eskimos": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "benjamin brewster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rawlings-historical-guide-to-old-charlottesville": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mary rawlings",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "biancolli-serge-prokofieff-and-his-orchestral-music": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "louis biancolli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "biancolli-tschaikowsky-and-his-orchestral-music": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "louis biancolli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caruthers-loafing-along-death-valley-trails": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william caruthers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bancroft-silver-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "caroline bancroft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aniol-san-antonio": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "claude b. aniol",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eliot-green-doors": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ethel cook eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eliot-ariel-dances": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ethel cook eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braidwood-prehistoric-men": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "robert j. braidwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blythe-hear-me-pilate": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "legette blythe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lapaz-space-nomads": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "lincoln lapaz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "berry-cynthia-steps-out": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "erick berry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitehouse-texas-flowers-in-natural-colors": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "eula whitehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swem-a-selected-bibliography-of-virginia-1607-1699": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "e. g. swem",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "white-life-in-the-shifting-dunes": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "laurence b. white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elam-young-stowaways-in-space": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "richard m. elam",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macgowan-early-man-in-the-new-world": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "kenneth macgowan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jepson-wild-flowers-of-zion-and-bryce-canyon-national-parks": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "carl e. jepson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bell-flash-evans-and-the-darkroom-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "frank bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bell-flash-evans-camera-news-hawk": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "frank bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brown-california-missions": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "karl f. brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "beirne-shout-treason": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "francis f. beirne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hale-philip-hale-s-boston-symphony-programme-notes": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "philip hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sanger-margaret-sanger": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "margaret sanger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "heyliger-you-re-on-the-air": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william heyliger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "horn-the-hermitage-home-of-old-hickory": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "stanley f. horn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackendrick-the-mute-stones-speak": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "paul lachlan mackendrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chamberlain-lexington-and-concord": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "samuel chamberlain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bain-the-flow-of-time-in-the-connecticut-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "george w. bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "francis-crystal-river-saga": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "theresa v. francis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kemp-the-battle-of-san-jacinto-and-the-san-jacinto-campaign": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "louis wiltz kemp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tannehill-the-hurricane-hunters": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ivan ray tannehill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pfeiffer-tell-el-amarna-and-the-bible": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "charles f. pfeiffer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ray-the-story-of-american-aviation": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "jim ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caldwell-andrew-jackson-s-hermitage": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mary french caldwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-one-hundred-years-in-yosemite": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "carl parcher russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "peattie-trees-you-want-to-know": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "donald culross peattie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sawyer-bird-houses-baths-and-feeding-shelters": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "edmund j. sawyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fuermann-houston": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "george fuermann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "beal-the-story-of-man-in-yellowstone": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "merrill d. beal",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "anderson-the-golden-slave": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "poul anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hume-the-lion-of-poland": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "ruth fox hume",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

@@ -1,0 +1,428 @@
+{
+ "_about": "Mildred A. Wirt, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Mildred A. Wirt's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted. Mildred Wirt (later Mildred Wirt Benson) wrote the first Nancy Drew books as 'Carolyn Keene'; these are her books under her own name.",
+ "_name_words": [
+  "wirt"
+ ],
+ "_surname": [
+  "mildred a. wirt",
+  "mildred wirt",
+  "mildred benson",
+  "wirt",
+  "benson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wirt-the-clock-strikes-thirteen": [
+   34403,
+   "The Clock Strikes Thirteen (1942)"
+  ],
+  "wirt-ghost-beyond-the-gate": [
+   34395,
+   "Ghost Beyond the Gate (1943)"
+  ],
+  "wirt-the-cry-at-midnight": [
+   34441,
+   "The Cry at Midnight (1947)"
+  ],
+  "wirt-clue-of-the-silken-ladder": [
+   34591,
+   "Clue of the Silken Ladder (1941)"
+  ],
+  "wirt-danger-at-the-drawbridge": [
+   34552,
+   "Danger at the Drawbridge (1940)"
+  ],
+  "wirt-behind-the-green-door": [
+   34592,
+   "Behind the Green Door (1940)"
+  ],
+  "wirt-hoofbeats-on-the-turnpike": [
+   34691,
+   "Hoofbeats on the Turnpike (1944)"
+  ],
+  "wirt-the-wishing-well": [
+   34689,
+   "The Wishing Well (1942)"
+  ],
+  "wirt-guilt-of-the-brass-thieves": [
+   34831,
+   "Guilt of the Brass Thieves (1945)"
+  ],
+  "wirt-the-secret-pact": [
+   34682,
+   "The Secret Pact (1941)"
+  ],
+  "wirt-voice-from-the-cave": [
+   34832,
+   "Voice from the Cave (1944)"
+  ],
+  "wirt-whispering-walls": [
+   34975,
+   "Whispering Walls (1946)"
+  ],
+  "wirt-signal-in-the-dark": [
+   34850,
+   "Signal in the Dark (1946)"
+  ],
+  "wirt-swamp-island": [
+   35083,
+   "Swamp Island (1947)"
+  ],
+  "wirt-saboteurs-on-the-river": [
+   35082,
+   "Saboteurs on the River (1943)"
+  ],
+  "wirt-the-missing-formula": [
+   40033,
+   "The Missing Formula (1932)"
+  ],
+  "wirt-the-deserted-yacht": [
+   40042,
+   "The Deserted Yacht (1932)"
+  ],
+  "wirt-the-secret-of-the-sundial": [
+   40041,
+   "The Secret of the Sundial (1932)"
+  ],
+  "wirt-dan-carter-and-the-cub-honor": [
+   40721,
+   "Dan Carter and the Cub Honor (1952)"
+  ],
+  "wirt-dan-carter-and-the-great-carved-face": [
+   40722,
+   "Dan Carter and the Great Carved Face (1952)"
+  ],
+  "wirt-dan-carter-and-the-money-box": [
+   41261,
+   "Dan Carter and the Money Box (1950)"
+  ],
+  "wirt-dan-carter-and-the-haunted-castle": [
+   41259,
+   "Dan Carter and the Haunted Castle (1951)"
+  ],
+  "wirt-dan-carter-cub-scout-and-the-river-camp": [
+   41262,
+   "Dan Carter, Cub Scout, and the River Camp (1949)"
+  ],
+  "wirt-dan-carter-cub-scout": [
+   41260,
+   "Dan Carter-- Cub Scout (1949)"
+  ],
+  "wirt-the-brownie-scouts-in-the-cherry-festival": [
+   51693,
+   "The Brownie Scouts in the Cherry Festival (1950)"
+  ],
+  "wirt-the-brownie-scouts-at-silver-beach": [
+   51696,
+   "The Brownie Scouts at Silver Beach (1952)"
+  ],
+  "wirt-the-brownie-scouts-at-snow-valley": [
+   51744,
+   "The Brownie Scouts at Snow Valley (1949)"
+  ],
+  "wirt-the-brownie-scouts-and-their-tree-house": [
+   52255,
+   "The Brownie Scouts and Their Tree House (1951)"
+  ],
+  "wirt-the-brownie-scouts-at-windmill-farm": [
+   52254,
+   "The Brownie Scouts at Windmill Farm (1953)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "wirt-the-clock-strikes-thirteen": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1942, by Cupples and Leon Co.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-ghost-beyond-the-gate": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1943, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-cry-at-midnight": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1947, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1974-75): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-clue-of-the-silken-ladder": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1941, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-danger-at-the-drawbridge": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1940, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1967-68): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. The renewal RE311062 (1986) is of the 1958 re-registration A357157 (a revised edition under her pen name Mildred Benson); the 1940 Cupples & Leon text here was never renewed (due 1967-68). US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-behind-the-green-door": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1940, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1967-68): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. The renewal RE311061 (1986) is of the 1958 re-registration A357156 (a revised edition under her pen name Mildred Benson); the 1940 Cupples & Leon text here was never renewed (due 1967-68). US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-hoofbeats-on-the-turnpike": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1944, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-wishing-well": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1942, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-guilt-of-the-brass-thieves": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1945, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1972-73): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-secret-pact": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1941, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-voice-from-the-cave": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1944, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-whispering-walls": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1946, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1973-74): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-signal-in-the-dark": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1946, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1973-74): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-swamp-island": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1947, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1974-75): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-saboteurs-on-the-river": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1943, BY CUPPLES AND LEON CO.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-missing-formula": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1932'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-deserted-yacht": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1932'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-secret-of-the-sundial": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1932'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1959-60): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-dan-carter-and-the-cub-honor": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1952, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-dan-carter-and-the-great-carved-face": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1952, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-dan-carter-and-the-money-box": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1950, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-dan-carter-and-the-haunted-castle": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1951, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-dan-carter-cub-scout-and-the-river-camp": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1949, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-dan-carter-cub-scout": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1949, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-brownie-scouts-in-the-cherry-festival": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1950, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-brownie-scouts-at-silver-beach": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1952, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-brownie-scouts-at-snow-valley": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1949, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1976-77): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-brownie-scouts-and-their-tree-house": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1951, BY'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "wirt-the-brownie-scouts-at-windmill-farm": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1953, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "wirt-the-clock-strikes-thirteen": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-ghost-beyond-the-gate": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-cry-at-midnight": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-clue-of-the-silken-ladder": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-danger-at-the-drawbridge": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-behind-the-green-door": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-hoofbeats-on-the-turnpike": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-wishing-well": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-guilt-of-the-brass-thieves": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-secret-pact": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-voice-from-the-cave": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-whispering-walls": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-signal-in-the-dark": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-swamp-island": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-saboteurs-on-the-river": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-missing-formula": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-deserted-yacht": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-secret-of-the-sundial": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-dan-carter-and-the-cub-honor": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-dan-carter-and-the-great-carved-face": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-dan-carter-and-the-money-box": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-dan-carter-and-the-haunted-castle": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-dan-carter-cub-scout-and-the-river-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-dan-carter-cub-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-brownie-scouts-in-the-cherry-festival": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-brownie-scouts-at-silver-beach": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-brownie-scouts-at-snow-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-brownie-scouts-and-their-tree-house": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wirt-the-brownie-scouts-at-windmill-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "mildred a. wirt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
