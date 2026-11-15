@@ -136,7 +136,10 @@ not taken.
 Seen and left: Frederic Arnold Kummer **Jr.** (1913-1990) has four 1940s-50s
 pulp stories on Gutenberg (61781, 61869, 61958, 62085); the
 frederic-arnold-kummer shelf is his father's, so these would need a shelf of
-their own (Lane D's call).
+their own (Lane D's call). Checked and pre-1931 (PD by date, so not this
+sweep's; left to each shelf's owner): Underwood's *The Taste of Honey*
+(Mosher, 1930, PG 71882), *Garden of Desire* (1913), *Book of Dear Dead Women*
+(1909); Howard's *Deems Taylor* (1927); Munro's *Social Civics* (1922).
 
 ## Resume point
 
