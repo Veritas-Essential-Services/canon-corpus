@@ -1,0 +1,33 @@
+{
+ "_about": "William Patton (1798-1879), American Presbyterian minister and temperance writer, for the Word Hoard. Added 2026-11-15 from Adam's Libronix list ('Libronix authors - reconciled.md' and its companion manifests: Goodly Heritage Library, add-on GHL). Not Francis L. Patton (francis-l-patton shelf). No uids minted.",
+ "_name_words": [
+  "patton"
+ ],
+ "_surname": [
+  "william patton",
+  "patton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wpatton-bible-wines": [
+   "biblewinesorlaw00pattgoog",
+   "Bible Wines; or, The Laws of Fermentation and Wines of the Ancients (New York: National Temperance Society, 1874)"
+  ]
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_checks": {
+  "wpatton-bible-wines": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "william patton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

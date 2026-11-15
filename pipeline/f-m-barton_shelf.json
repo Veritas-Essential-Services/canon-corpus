@@ -1,0 +1,35 @@
+{
+ "_about": "Frederick M. Barton (fl. 1890-1920), Cleveland publisher of The Expositor, for the Word Hoard. Added 2026-11-15 from Adam's Libronix list ('Libronix authors - reconciled.md' and its companion manifests: Goodly Heritage Library, add-on GHL). No uids minted.",
+ "_name_words": [
+  "barton"
+ ],
+ "_surname": [
+  "frederick m. barton",
+  "f. m. barton",
+  "frederick barton",
+  "barton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fmbarton-favorite-scripture-texts": [
+   "favoritescriptur00bart",
+   "Favorite Scripture Texts of Famous People, including Interesting Facts and Incidents concerning Texts (Cleveland: F. M. Barton, 1900)"
+  ]
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_checks": {
+  "fmbarton-favorite-scripture-texts": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "frederick barton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
