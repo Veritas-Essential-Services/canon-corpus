@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Clarence A. Manning (1893-1972): Korolenko's Birds of Heaven and Other Stories (1919). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Clarence A. Manning (1893-1972): Korolenko's Birds of Heaven and Other Stories (1919). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted. Non-renewal sweep, batch 4 (2026-11-15, Adam 2026-11-03: \"I want everything that was not renewed\"): five of his own books of 1944-1957, all first published in the US and never renewed, added; his renewed books (Marko, the King's Son, 1932, R261912; Forgotten Republics, 1952, RE64670) are not.",
  "_name_words": [
   "clarence a. manning",
   "clarence augustus manning"
@@ -14,6 +14,26 @@
   "cam-60256": [
    60256,
    "Birds of Heaven, and Other Stories"
+  ],
+  "cam-ukrainian-literature": [
+   77771,
+   "Ukrainian Literature: Studies of the Leading Authors (Jersey City: Ukrainian National Association, copyright April 1944)"
+  ],
+  "cam-taras-shevchenko": [
+   78316,
+   "Taras Shevchenko, the Poet of Ukraine: Selected Poems, translated with an introduction (Jersey City: Ukrainian National Association, copyright 1945)"
+  ],
+  "cam-story-of-the-ukraine": [
+   78161,
+   "The Story of the Ukraine (New York: Philosophical Library, copyright 1947)"
+  ],
+  "cam-ukraine-under-the-soviets": [
+   79579,
+   "Ukraine under the Soviets (New York: Bookman Associates, copyright 1953 by Clarence A. Manning)"
+  ],
+  "cam-history-of-slavic-studies": [
+   75446,
+   "A History of Slavic Studies in the United States (Milwaukee: Marquette University Press, copyright 1957; Marquette Slavic Studies III)"
   ]
  },
  "internet_archive": {},
@@ -28,19 +48,62 @@
   }
  },
  "_pending": {},
- "_excluded": {
-  "pg-78316": "Taras Shevchenko, the Poet of Ukraine (1945): printed after 1930, not public domain on this lane's rule."
- },
+ "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "cam-60256": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "clarence augustus manning",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Clarence Augustus Manning"
+  },
+  "cam-ukrainian-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "clarence a. manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cam-taras-shevchenko": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "clarence a. manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clarence Augustus Manning"
+  },
+  "cam-story-of-the-ukraine": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "clarence a. manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cam-ukraine-under-the-soviets": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "clarence a. manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cam-history-of-slavic-studies": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "clarence a. manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
   }
  },
  "_verified": {
@@ -50,5 +113,12 @@
    "pg_translator": "Clarence Augustus Manning"
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_nonrenewal": {
+  "cam-ukrainian-literature": "Non-renewal sweep batch 4, 2026-11-15. Copyright 1944, US imprint (the Gutenberg text's own title page; PG produced it from HathiTrust images). Manning (1893-1972) was American (Columbia University), so URAA does not reach it. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72), author plus title words, --title-only, and --surname manning: no renewal of this book, while Marko, the King's Son (1932, R261912) and Forgotten Republics (1952, RE64670) show theirs. US public domain by non-renewal.",
+  "cam-taras-shevchenko": "Non-renewal sweep batch 4, 2026-11-15. Copyright 1945, US imprint (the Gutenberg text's own title page; PG produced it from HathiTrust images). Manning (1893-1972) was American (Columbia University), so URAA does not reach it. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1972-73), author plus title words, --title-only, and --surname manning: no renewal of this book, while Marko, the King's Son (1932, R261912) and Forgotten Republics (1952, RE64670) show theirs. US public domain by non-renewal.",
+  "cam-story-of-the-ukraine": "Non-renewal sweep batch 4, 2026-11-15. Copyright 1947, US imprint (the Gutenberg text's own title page; PG produced it from HathiTrust images). Manning (1893-1972) was American (Columbia University), so URAA does not reach it. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1974-75), author plus title words, --title-only, and --surname manning: no renewal of this book, while Marko, the King's Son (1932, R261912) and Forgotten Republics (1952, RE64670) show theirs. US public domain by non-renewal.",
+  "cam-ukraine-under-the-soviets": "Non-renewal sweep batch 4, 2026-11-15. Copyright 1953, US imprint (the Gutenberg text's own title page; PG produced it from HathiTrust images). Manning (1893-1972) was American (Columbia University), so URAA does not reach it. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81), author plus title words, --title-only, and --surname manning: no renewal of this book, while Marko, the King's Son (1932, R261912) and Forgotten Republics (1952, RE64670) show theirs. US public domain by non-renewal.",
+  "cam-history-of-slavic-studies": "Non-renewal sweep batch 4, 2026-11-15. Copyright 1957, US imprint (the Gutenberg text's own title page; PG produced it from HathiTrust images). Manning (1893-1972) was American (Columbia University), so URAA does not reach it. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85), author plus title words, --title-only, and --surname manning: no renewal of this book, while Marko, the King's Son (1932, R261912) and Forgotten Republics (1952, RE64670) show theirs. US public domain by non-renewal."
+ }
 }
