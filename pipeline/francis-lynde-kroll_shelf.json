@@ -1,0 +1,61 @@
+{
+ "_about": "Francis Lynde Kroll, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Francis Lynde Kroll's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "kroll"
+ ],
+ "_surname": [
+  "francis lynde kroll",
+  "kroll"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kroll-young-crow-raider": [
+   59069,
+   "Young Crow Raider (1954)"
+  ],
+  "kroll-young-sioux-warrior": [
+   59426,
+   "Young Sioux Warrior (1952)"
+  ],
+  "kroll-young-medicine-man": [
+   59747,
+   "Young Medicine Man (1956)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "kroll-young-crow-raider": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1954 by Lantern Press, Inc.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1981-82): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kroll-young-sioux-warrior": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1952 by Lantern Press, Inc.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kroll-young-medicine-man": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1956 by Lantern Press, Inc.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1983-84): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "kroll-young-crow-raider": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "francis lynde kroll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kroll-young-sioux-warrior": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "francis lynde kroll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kroll-young-medicine-man": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "francis lynde kroll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

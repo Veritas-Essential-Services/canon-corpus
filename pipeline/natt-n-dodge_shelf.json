@@ -1,0 +1,61 @@
+{
+ "_about": "Natt N. Dodge, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Natt N. Dodge's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "dodge"
+ ],
+ "_surname": [
+  "dodge",
+  "natt n. dodge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dodge-flowers-of-the-southwest-deserts": [
+   53432,
+   "Flowers of the Southwest Deserts (1951)"
+  ],
+  "dodge-poisonous-dwellers-of-the-desert": [
+   54548,
+   "Poisonous Dwellers of the Desert (1952)"
+  ],
+  "dodge-100-desert-wildflowers-in-natural-color": [
+   54631,
+   "100 Desert Wildflowers in Natural Color (1963)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "dodge-flowers-of-the-southwest-deserts": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright 1951, 1952, 1954'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1978-79): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "dodge-poisonous-dwellers-of-the-desert": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1952, by the Southwestern Monuments Association'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1979-80): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "dodge-100-desert-wildflowers-in-natural-color": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1963 by the Southwestern Monuments Association. All rights'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1990-91): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "dodge-flowers-of-the-southwest-deserts": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "dodge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dodge-poisonous-dwellers-of-the-desert": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "dodge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dodge-100-desert-wildflowers-in-natural-color": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "dodge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

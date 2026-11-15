@@ -1,0 +1,75 @@
+{
+ "_about": "Van Powell, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 10 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Van Powell's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "powell"
+ ],
+ "_surname": [
+  "van powell",
+  "powell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "powell-the-mystery-boys-and-the-inca-gold": [
+   52683,
+   "The Mystery Boys and the Inca Gold (1931)"
+  ],
+  "powell-the-mystery-of-the-fifteen-sounds": [
+   53214,
+   "The Mystery of the Fifteen Sounds (1937)"
+  ],
+  "powell-the-mystery-boys-and-captain-kidd-s-message": [
+   53515,
+   "The Mystery Boys and Captain Kidd's Message (1931)"
+  ],
+  "powell-the-mystery-boys-and-the-secret-of-the-golden-sun": [
+   58420,
+   "The Mystery Boys and the Secret of the Golden Sun (1931)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "powell-the-mystery-boys-and-the-inca-gold": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "powell-the-mystery-of-the-fifteen-sounds": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1937 by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1964-65): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "powell-the-mystery-boys-and-captain-kidd-s-message": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "powell-the-mystery-boys-and-the-secret-of-the-golden-sun": "Non-renewal sweep batch 10, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1931'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1958-59): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "powell-the-mystery-boys-and-the-inca-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "van powell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "powell-the-mystery-of-the-fifteen-sounds": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "van powell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "powell-the-mystery-boys-and-captain-kidd-s-message": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "van powell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "powell-the-mystery-boys-and-the-secret-of-the-golden-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "van powell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

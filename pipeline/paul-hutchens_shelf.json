@@ -1,0 +1,103 @@
+{
+ "_about": "Paul Hutchens, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Paul Hutchens's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "hutchens"
+ ],
+ "_surname": [
+  "hutchens",
+  "paul hutchens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hutchens-shenanigans-at-sugar-creek": [
+   27426,
+   "Shenanigans at Sugar Creek (1947)"
+  ],
+  "hutchens-the-sugar-creek-gang-goes-north": [
+   56554,
+   "The Sugar Creek Gang Goes North (1947)"
+  ],
+  "hutchens-the-sugar-creek-gang-digs-for-treasure": [
+   56553,
+   "The Sugar Creek Gang Digs for Treasure (1948)"
+  ],
+  "hutchens-the-green-tent-mystery-at-sugar-creek": [
+   58514,
+   "The Green Tent Mystery at Sugar Creek (1950)"
+  ],
+  "hutchens-watermelon-mystery-at-sugar-creek": [
+   58628,
+   "Watermelon Mystery at Sugar Creek (1955)"
+  ],
+  "hutchens-north-woods-manhunt-a-sugar-creek-gang-story": [
+   58626,
+   "North Woods Manhunt (A Sugar Creek Gang Story) (1948)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "hutchens-shenanigans-at-sugar-creek": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright 1947, by Wm. B. Eerdmans Publishing Company_'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1974-75): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hutchens-the-sugar-creek-gang-goes-north": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1947, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1974-75): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hutchens-the-sugar-creek-gang-digs-for-treasure": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1948, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1975-76): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hutchens-the-green-tent-mystery-at-sugar-creek": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1950, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1977-78): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hutchens-watermelon-mystery-at-sugar-creek": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright © 1955, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1982-83): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "hutchens-north-woods-manhunt-a-sugar-creek-gang-story": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1948, by'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1975-76): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "hutchens-shenanigans-at-sugar-creek": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "hutchens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hutchens-the-sugar-creek-gang-goes-north": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "hutchens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hutchens-the-sugar-creek-gang-digs-for-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "hutchens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hutchens-the-green-tent-mystery-at-sugar-creek": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "hutchens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hutchens-watermelon-mystery-at-sugar-creek": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "hutchens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hutchens-north-woods-manhunt-a-sugar-creek-gang-story": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "hutchens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

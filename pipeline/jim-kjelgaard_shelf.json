@@ -1,0 +1,75 @@
+{
+ "_about": "Jim Kjelgaard, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Jim Kjelgaard's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "kjelgaard"
+ ],
+ "_surname": [
+  "jim kjelgaard",
+  "kjelgaard"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kjelgaard-the-lost-wagon": [
+   34697,
+   "The Lost Wagon (1955)"
+  ],
+  "kjelgaard-we-were-there-at-the-oklahoma-land-run": [
+   34720,
+   "We Were There at the Oklahoma Land Run (1957)"
+  ],
+  "kjelgaard-the-duck-footed-hound": [
+   41723,
+   "The Duck-footed Hound (1960)"
+  ],
+  "kjelgaard-the-spell-of-the-white-sturgeon": [
+   41662,
+   "The Spell of the White Sturgeon (1953)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "kjelgaard-the-lost-wagon": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1955 by Jim Kjelgaard'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1982-83): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kjelgaard-we-were-there-at-the-oklahoma-land-run": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright JIM KJELGAARD 1957'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1984-85): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kjelgaard-the-duck-footed-hound": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: '_Copyright_ © _1960 by Eddy Kjelgaard_'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1987-88): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "kjelgaard-the-spell-of-the-white-sturgeon": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright, 1953'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1980-81): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "kjelgaard-the-lost-wagon": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "jim kjelgaard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kjelgaard-we-were-there-at-the-oklahoma-land-run": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "jim kjelgaard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kjelgaard-the-duck-footed-hound": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "jim kjelgaard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kjelgaard-the-spell-of-the-white-sturgeon": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "jim kjelgaard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

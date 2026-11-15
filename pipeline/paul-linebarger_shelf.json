@@ -1,0 +1,75 @@
+{
+ "_about": "Paul Myron Anthony Linebarger, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Paul Myron Anthony Linebarger's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted. Linebarger also wrote science fiction as Cordwainer Smith; only his non-fiction under his own name is here.",
+ "_name_words": [
+  "linebarger"
+ ],
+ "_surname": [
+  "linebarger",
+  "paul myron anthony linebarger"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "linebarger-the-political-doctrines-of-sun-yat-sen": [
+   39356,
+   "The Political Doctrines of Sun Yat-sen (1937)"
+  ],
+  "linebarger-government-in-republican-china": [
+   40350,
+   "Government in Republican China (1938)"
+  ],
+  "linebarger-psychological-warfare": [
+   48612,
+   "Psychological Warfare (1948)"
+  ],
+  "linebarger-the-china-of-chiang-k-ai-shek": [
+   50465,
+   "The China of Chiang K'ai-Shek (1942)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "linebarger-the-political-doctrines-of-sun-yat-sen": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1937, The Johns Hopkins Press'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1964-65): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "linebarger-government-in-republican-china": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1938 by The McGraw-Hill Book Company, Inc.'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1965-66): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "linebarger-psychological-warfare": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1948, 1954, BY PAUL M. A. LINEBARGER'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1975-76): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "linebarger-the-china-of-chiang-k-ai-shek": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'Copyright 1942 by World Peace Foundation'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "linebarger-the-political-doctrines-of-sun-yat-sen": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "linebarger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "linebarger-government-in-republican-china": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "linebarger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "linebarger-psychological-warfare": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "linebarger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "linebarger-the-china-of-chiang-k-ai-shek": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "linebarger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

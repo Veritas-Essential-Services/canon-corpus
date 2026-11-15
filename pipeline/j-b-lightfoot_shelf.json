@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain J. B. Lightfoot (1828-1889, Bishop of Durham, New Testament scholar) for the Word Hoard: The Apostolic Fathers in his translation clean from CCEL; the commentary on Colossians and Philemon, the Essays on 'Supernatural Religion' and Sermons from Project Gutenberg; and the commentaries on Galatians (tenth edition, 1890, in a 1921 reprint) and Philippians (fourth edition, 1878), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted. Overlap: PR #11's build_commentaries.py builds verse-keyed editions of Lightfoot on Galatians, Philippians, Colossians and Philemon; this shelf's copies of those are second copies, and Adam picks which is the reading of record. Greek in the text layers (2026-10-03): Galatians 58,702 Greek characters, Philippians 55,788, Colossians (Gutenberg) 113,616.",
+ "_about": "Public-domain J. B. Lightfoot (1828-1889, Bishop of Durham, New Testament scholar) for the Word Hoard: The Apostolic Fathers in his translation clean from CCEL; the commentary on Colossians and Philemon, the Essays on 'Supernatural Religion' and Sermons from Project Gutenberg; and the commentaries on Galatians (tenth edition, 1890, in a 1921 reprint) and Philippians (fourth edition, 1878), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted. Overlap: PR #11's build_commentaries.py builds verse-keyed editions of Lightfoot on Galatians, Philippians, Colossians and Philemon; this shelf's copies of those are second copies, and Adam picks which is the reading of record. Greek in the text layers (2026-10-03): Galatians 58,702 Greek characters, Philippians 55,788, Colossians (Gutenberg) 113,616. Filled out 2026-11-15 from the Oxford Movement Historical Theology Collection on Adam's Libronix list ('Libronix authors - reconciled.md', add-on OXF).",
  "_ccel_author": "l/lightfoot",
  "_name_words": [
   "lightfoot",
@@ -41,6 +41,10 @@
   "lightfoot-philippians-1878": [
    "saintpaulsepistl00ligh",
    "Saint Paul's Epistle to the Philippians: a revised text with introduction, notes and dissertations, fourth edition (London: Macmillan, 1878)"
+  ],
+  "lightfoot-dissertations-apostolic-age": [
+   "dissertationsona00lighuoft",
+   "Dissertations on the Apostolic Age, reprinted from editions of St. Paul's Epistles (London: Macmillan, 1892)"
   ]
  },
  "_alternates": {
@@ -58,7 +62,7 @@
  "_checks": {
   "lightfoot-apostolic-fathers": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "j. b. lightfoot",
    "translator_claimed": "lightfoot",
@@ -72,7 +76,7 @@
   },
   "lightfoot-colossians-philemon": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "j. b. lightfoot",
    "identity": "ok",
@@ -81,7 +85,7 @@
   },
   "lightfoot-supernatural-religion": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "j. b. lightfoot",
    "identity": "ok",
@@ -90,7 +94,7 @@
   },
   "lightfoot-sermons": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "j. b. lightfoot",
    "identity": "ok",
@@ -99,7 +103,7 @@
   },
   "lightfoot-galatians-1890": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "j. b. lightfoot",
    "identity": "ok",
@@ -110,12 +114,23 @@
   },
   "lightfoot-philippians-1878": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
    "ia_rights": "ok: published 1878",
    "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lightfoot-dissertations-apostolic-age": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "j. b. lightfoot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

@@ -1,0 +1,50 @@
+{
+ "_about": "F. C. Jennings (Frederick Charles Jennings, 1847-1948), Brethren Bible teacher, for the Word Hoard. Added 2026-11-15 from Adam's Libronix list ('Libronix authors - reconciled.md' and its companion manifests: Serious Christian Volumes, add-on SER), which carries his Old Groans and New Songs and Satan. Books printed before 1931 only. Satan (1917?) has no open scan yet. No uids minted.",
+ "_name_words": [
+  "jennings"
+ ],
+ "_surname": [
+  "f. c. jennings",
+  "frederick charles jennings",
+  "jennings"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fcjennings-old-groans-new-songs": [
+   29971,
+   "Old Groans and New Songs: Being Meditations on the Book of Ecclesiastes (New York: Our Hope, 1920)"
+  ]
+ },
+ "internet_archive": {
+  "fcjennings-world-conflict-1915": [
+   "worldconflictinl00jenn",
+   "The World Conflict in the Light of the Prophetic Word (New York: Publication Office 'Our Hope', 1915)"
+  ]
+ },
+ "_pending": {
+  "fcjennings-satan": "Satan: His Person, Work, Place and Destiny (New York: Our Hope): on the SER list; no open pre-1931 scan found 2026-11-15."
+ },
+ "_excluded": {},
+ "_checks": {
+  "fcjennings-old-groans-new-songs": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "f. c. jennings",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcjennings-world-conflict-1915": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "f. c. jennings",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

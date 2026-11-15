@@ -1,0 +1,229 @@
+{
+ "_about": "Robert Sidney Bowen, American author, for the Word Hoard. Added 2026-11-15 by the non-renewal sweep, batch 8 (Adam 2026-11-03: \"I want everything that was not renewed\"): the Gutenberg texts of Robert Sidney Bowen's 1931-1963 books that were never renewed, each checked in NYPL's cce-renewals. No uids minted.",
+ "_name_words": [
+  "bowen"
+ ],
+ "_surname": [
+  "bowen",
+  "robert sidney bowen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bowen-dave-dawson-at-casablanca": [
+   32331,
+   "Dave Dawson at Casablanca (1944)"
+  ],
+  "bowen-dave-dawson-at-dunkirk": [
+   32440,
+   "Dave Dawson at Dunkirk (1941)"
+  ],
+  "bowen-dave-dawson-on-guadalcanal": [
+   32542,
+   "Dave Dawson on Guadalcanal (1943)"
+  ],
+  "bowen-dave-dawson-with-the-r-a-f": [
+   41715,
+   "Dave Dawson with the R.A.F. (1941)"
+  ],
+  "bowen-dave-dawson-at-truk": [
+   41753,
+   "Dave Dawson at Truk (1946)"
+  ],
+  "bowen-dave-dawson-on-the-russian-front": [
+   41718,
+   "Dave Dawson on the Russian Front (1943)"
+  ],
+  "bowen-dave-dawson-with-the-commandos": [
+   42250,
+   "Dave Dawson with the Commandos (1942)"
+  ],
+  "bowen-dave-dawson-with-the-pacific-fleet": [
+   50217,
+   "Dave Dawson with the Pacific Fleet (1942)"
+  ],
+  "bowen-dave-dawson-with-the-flying-tigers": [
+   50259,
+   "Dave Dawson with the Flying Tigers (1943)"
+  ],
+  "bowen-dave-dawson-in-libya": [
+   50309,
+   "Dave Dawson in Libya (1941)"
+  ],
+  "bowen-dave-dawson-flight-lieutenant": [
+   50400,
+   "Dave Dawson, Flight Lieutenant (1941)"
+  ],
+  "bowen-dave-dawson-with-the-eighth-air-force": [
+   50635,
+   "Dave Dawson with the Eighth Air Force (1944)"
+  ],
+  "bowen-dave-dawson-at-singapore": [
+   50661,
+   "Dave Dawson at Singapore (1942)"
+  ],
+  "bowen-dave-dawson-on-convoy-patrol": [
+   50960,
+   "Dave Dawson on Convoy Patrol (1941)"
+  ],
+  "bowen-dave-dawson-with-the-air-corps": [
+   52095,
+   "Dave Dawson with the Air Corps (1942)"
+  ]
+ },
+ "internet_archive": {},
+ "_nonrenewal": {
+  "bowen-dave-dawson-at-casablanca": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT 1944 BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-at-dunkirk": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1941, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-on-guadalcanal": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1943, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-with-the-r-a-f": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1941, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-at-truk": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1946, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1973-74): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-on-the-russian-front": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1943, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-with-the-commandos": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1942, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-with-the-pacific-fleet": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1942, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-with-the-flying-tigers": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1943'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1970-71): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-in-libya": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1941, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-flight-lieutenant": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1941, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-with-the-eighth-air-force": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1944, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1971-72): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-at-singapore": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1942, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-on-convoy-patrol": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1941, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1968-69): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading.",
+  "bowen-dave-dawson-with-the-air-corps": "Non-renewal sweep batch 8, 2026-11-15. The Gutenberg text's own copyright line: 'COPYRIGHT, 1942, BY CROWN PUBLISHERS'. American author, first published in the US. Renewal search: pipeline/renewal_check.py over NYPL's cce-renewals (renewal was due 1969-70): author plus title words, the title's words under any name, and every renewal under the surname for 1931-63 works: none for this book. US public domain by non-renewal; Project Gutenberg released it on the same reading."
+ },
+ "_excluded": {},
+ "_checks": {
+  "bowen-dave-dawson-at-casablanca": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-at-dunkirk": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-on-guadalcanal": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-with-the-r-a-f": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-at-truk": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-on-the-russian-front": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-with-the-commandos": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-with-the-pacific-fleet": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-with-the-flying-tigers": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-in-libya": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-flight-lieutenant": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-with-the-eighth-air-force": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-at-singapore": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-on-convoy-patrol": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bowen-dave-dawson-with-the-air-corps": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

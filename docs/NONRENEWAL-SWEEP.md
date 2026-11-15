@@ -141,9 +141,157 @@ sweep's; left to each shelf's owner): Underwood's *The Taste of Honey*
 (Mosher, 1930, PG 71882), *Garden of Desire* (1913), *Book of Dear Dead Women*
 (1909); Howard's *Deems Taylor* (1927); Munro's *Social Civics* (1922).
 
+## Batch 5 (2026-11-15): Gutenberg religion-subject books no shelf lists
+
+Method: PG catalog rows with a religion subject or LoCC, number 20000+, an
+author dying 1958 or later, and no shelf listing the number (115 texts); each
+one's "Original publication" header line read, kept if 1931-1963. Older
+releases lack that line (83 of 115), so they still need reading by hand.
+
+On the shelves now:
+
+| shelf | book | renewal |
+|---|---|---|
+| gore-vidal (new) | Vidal, *Messiah* (Dutton, 1954), PG 73527 | none, while every other Vidal book of 1948-60 shows its renewal |
+
+Also shelved (new weston-la-barre shelf): La Barre, *The Peyote
+Cult* (Yale Publications in Anthropology 19, 1938; Shoe String reprint 1959,
+PG 77791): no renewal of either printing, while his *Human Animal* (1954,
+RE135555) shows one. American author, US imprints. The 1950s pulp stories in
+the same hit list (PG 67455, 67497, 68529, 72614, 78935) are Lane D's.
+
+## Batch 6 (2026-11-15): Gutenberg's recent releases, non-fiction and books
+
+Method: every English Gutenberg text numbered 60000 or above, by an author
+dying 1955 or later (born 1870 or later), that no shelf lists (3,069 texts).
+Each one's "Original publication" header line was read (2,049 have one) and
+kept if it gives 1931-1963: about 1,450. Most are pulp magazine stories (science
+fiction, westerns, horror), put aside below. The 152 left are books; this batch
+took the ones that suit the Word Hoard and checked each with
+`renewal_check.py` (author plus title words, the title's key words under any
+name, and every renewal under the surname).
+
+On the shelves now (new `nonrenewal-singles` shelf unless named):
+
+| book | year | note |
+|---|---|---|
+| Weaver, *The Ethics of Rhetoric* | 1953 | |
+| Brinton, *The Anatomy of Revolution* | 1938 | the 1952 revision was renewed; the 1938 text was not |
+| Pearl S. Buck, *The Mother* | 1934 | her 1933 and 1935 books were renewed |
+| L'Engle, *And Both Were Young* | 1949 | |
+| Enright, *Return to Gone-Away* | 1961 | her *Gone-Away Lake* (1957) was renewed |
+| Marguerite Henry, *Stormy, Misty's Foal* and *Gaudenzia* | 1963, 1960 | |
+| Russell Kirk, *Old House of Fear* | 1961 | |
+| Neihardt, *When the Tree Flowered* | 1951 | |
+| Styron, *The Long March* | 1952 | |
+| Muste, *Of Holy Disobedience* | 1952 | |
+| Fred C. Kelly, *The Wright Brothers* | 1943 | |
+| Kalashnikoff, *The Defender* (Newbery Honor) | 1951 | US first edition |
+| Wilhelmsen, *Hilaire Belloc: No Alienated Man* | 1953 | |
+| Kallen, *College Prolongs Infancy* | 1932 | |
+| Goldwater, *The Conscience of a Conservative* | 1960 | |
+| Stefansson, *Adventures in Error* | 1936 | |
+| C. S. Baldwin, *Renaissance Literary Theory and Practice* | 1939 | |
+| Hazlitt, *The Free Man's Library* | 1956 | |
+| Vidal, *Williwaw* (gore-vidal shelf) | 1946 | RE492396 renews only the 1962 omnibus |
+
+**Renewed, though Gutenberg released them** (not taken; worth telling PG):
+Ellsberg, *Hell on Ice* (1938, R355571); Shirley Graham, *There Was Once a
+Slave* (1947, R574012).
+
+## Batch 7 (2026-11-15): 64 more from the same 152
+
+Same method and checks as batch 6, onto `nonrenewal-singles` (83 titles now;
+each slug's evidence under `_nonrenewal`). Among them: Howe's *Salt Mines and
+Castles* (1946), Berkeley's *Giant Brains* (1949), Blotner's *The Political
+Novel* (1955), Menzel's *World of Flying Saucers* (1963), Sterling Brown's *The
+Negro in American Fiction* (1937), Dobie's *Stories of Christmas and the Bowie
+Knife* (1953), John Hay's three Cape Cod books, *The Letters of Hart Crane*
+(1952), Chubb's *The Byzantines* (1959), Mirsky's *Thirty-One Brothers and
+Sisters* (1952), Bester's *Who He?* (1953), J. Edgar Hoover's *Masters of
+Deceit* (1958), Hurok's memoir (1953), and Helen Hull's three novels.
+
+Found unrenewed but left for Adam (content, not rights): *The Price of Salt*
+(Highsmith as Claire Morgan, 1952), *Women's Barracks* (1950), *The Scorpion*
+(Weirauch tr., 1932: a German work, also a URAA question), two Nightstand
+paperbacks (1960-61), Foster's and Garde's literature bibliographies (1956,
+1959), Putnam's *Race and Reason* (1961). Also left: the US government
+publications in the list (PD anyway as federal works, not by non-renewal).
+
+## Batch 8 (2026-11-15): older Gutenberg releases (20000-59999)
+
+Method: every English text numbered 20000-59999 by an author dying 1955 or
+later (born 1870 or later) that no shelf lists (3,345 texts). The first 40 KB
+of each was read for a 1931-63 copyright line or PG's note that "research did
+not uncover any evidence that the U.S. copyright on this publication was
+renewed" (478 hits). Leaving out science fiction, westerns, horror and
+mystery magazine stories left 201. Thirteen were dropped before checking: old
+books with renewal lines, Canadian and British-law works, later editions,
+two atheist tracts and a bibliography. Four pulp texts had no readable date.
+The other 184 were each checked with `renewal_check.py`, and all 184 were
+clear.
+
+New author shelves (three or more titles each): mildred-wirt (29; she wrote
+the first Nancy Drews as "Carolyn Keene"), robert-sidney-bowen (15, Dave
+Dawson), paul-hutchens (6, the Sugar Creek Gang), robert-leckie (6, Sandy
+Steele), t-j-wertenbaker (5, colonial Virginia), rutherford-g-montgomery,
+jim-kjelgaard, paul-linebarger, graham-m-dean (4 each), ethel-c-brill,
+natt-n-dodge, mary-elting, francis-lynde-kroll (3 each). The rest went onto
+nonrenewal-singles (178 titles now). Among them: Neville's *It's Like This,
+Cat* (1963, Newbery Medal), Messenger's *Christian Hymns of the First Three
+Centuries* (1942) and *The Medieval Latin Hymn* (1953), Aaberg's *Hymns and
+Hymnwriters of Denmark* (1945), Reuel Howe's *Herein Is Love* (1961), Toomer's
+*An Interpretation of Friends Worship* (1947), Pfeiffer's *Tell el Amarna and
+the Bible* (1963), MacKendrick's *The Mute Stones Speak* (1960), Haight's
+*Essays on the Greek Romances* (1943), Peattie's *Trees You Want to Know*
+(1934), and Andre Norton's *Ride Proud, Rebel!* (1961).
+
+Two Wirt titles of 1940 have renewals, but those renew 1958 re-registrations
+of revised editions; the 1940 texts were never renewed (noted per slug).
+
+## Batch 9 (2026-11-15): the rest of the 60000+ books
+
+33 more of the batch-6 list went onto nonrenewal-singles (211 now). They are
+regional history (Plymouth, Cape Cod, Nantucket, Chattanooga, Texas tall
+tales), museum and university reports, Cyril Clemens's *Chesterton as Seen by
+His Contemporaries* (1939), and Warren's and Winthrop's old texts in their
+1950s and 1930s editions. Left out: Hitchcock's *Architecture: Nineteenth and
+Twentieth Centuries* (first printed by Penguin in England, and his other
+books were renewed), federal government publications (public domain
+anyway), and the pulp and western magazine pieces.
+
+## Batch 10 (2026-11-15): authors with no death date in Gutenberg's catalogue
+
+Method: English texts numbered 20000+ whose author has no death year in the
+catalogue (batch 8 needed one), copyright line 1931-1963 in the header: 210
+rows. Kept 91 real books; every one cleared renewal_check (none renewed). Two
+near misses, both other works: the renewal of *Ticktock and Jim, Deputy
+Sheriffs* (1949) is the sequel, not the 1948 *Ticktock and Jim*; the renewal of
+*The Mennonite Hymnary* (1940) is the hymnary, not Hostetler's 1949
+*Handbook*. Eight new shelves for authors with three or more: ruthe-s-wheeler
+(4), harriet-pyne-grove (Betty Lee, 4), noel-sainsbury (8: Bill Bolton, and
+Dorothy Dixon under his pen name Dorothy Wayne), edith-lavell (4),
+carl-saxon (Camp Lenape, 3), van-powell (Mystery Boys, 4), jean-l-mckechnie
+(5: Jean Craig as Kay Lyttleton, and Penny Allen),
+don-palmer-boy-scout-explorers (3). The other 56 went onto nonrenewal-singles
+(267 now): the Virginia 350th booklets (1957), *My Father's Dragon* (1948),
+*David and the Phoenix* (1957), *Mr. Wicker's Window* (1952), Potts's two
+prayer books, Cumming's *Assyrian and Hebrew Hymns of Praise* (1934),
+Koppenhaver's *Martin Luther* (1953), Heath's *Mourt's Relation* (1963),
+Teller and Latter's *Our Nuclear Future* (1958), Gekle's *Arthur Machen*
+(1949), Murie's *Mammals of Mount McKinley* (1962) and others. Left out:
+trade booklets (cookbooks, crochet patterns, appliance manuals), park road
+guides, copyright-office catalogues, Thomas Hoover's books (their copyright
+lines are quotations; he is post-1963), the Nuremberg volumes, a Weird Tales
+poem (C. A. Butz, 1936: pulp), and the lesbian pulp paperbacks (Bannon,
+Herbert), which wait on Adam with the other held titles.
+
 ## Resume point
 
 Next, in order:
+0. Gutenberg releases numbered below 20000 with a 1931-1963 copyright
+   line (batches 6-10 covered 20000 and up). Pulp magazine stories (about
+   1,300) are Lane D's call: send the count, do not shelve.
 1. Scans for the `_pending` items above (HathiTrust full view, or a DLI copy).
 2. Batch 3 read every `_excluded`/`_pending`/`_held` note naming a year
    1931-1963 (dumped by a one-off script); what remains is reprint questions

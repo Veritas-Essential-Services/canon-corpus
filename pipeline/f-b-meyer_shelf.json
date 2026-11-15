@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain F. B. Meyer (Frederick Brotherton Meyer, 1847-1929, Baptist minister in London) for the Word Hoard: The Secret of Guidance, Our Daily Homily (volume 2 only, 1 Samuel to Job; CCEL has no other volume) and The Way into the Holiest, clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain F. B. Meyer (Frederick Brotherton Meyer, 1847-1929, Baptist minister in London) for the Word Hoard: The Secret of Guidance, Our Daily Homily (volume 2 only, 1 Samuel to Job; CCEL has no other volume) and The Way into the Holiest, clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted. The Bells of Is added 2026-11-15 from Adam's Libronix list ('Libronix authors - reconciled.md' and its companion manifests: Goodly Heritage Library, add-on GHL).",
  "_ccel_author": "m/meyer",
  "_name_words": [
   "meyer",
@@ -31,7 +31,12 @@
   ]
  },
  "gutenberg": {},
- "internet_archive": {},
+ "internet_archive": {
+  "fbmeyer-bells-of-is": [
+   "bellsofisorvoice00meye",
+   "The Bells of Is; or, Voices of Human Need and Sorrow: Echoes from My Early Pastorate (New York: Revell, c1894)"
+  ]
+ },
  "_alternates": {},
  "_excluded": {},
  "_pending": {
@@ -40,7 +45,7 @@
  "_checks": {
   "meyer-guidance": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "f. b. meyer",
    "identity": "ok",
@@ -52,7 +57,7 @@
   },
   "meyer-into-holiest": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "f. b. meyer",
    "identity": "ok",
@@ -64,7 +69,7 @@
   },
   "meyer-daily-homily-2": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "f. b. meyer",
    "identity": "ok",
@@ -73,6 +78,17 @@
    "ccel_print_source": null,
    "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "fbmeyer-bells-of-is": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "f. b. meyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "[c1894]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
