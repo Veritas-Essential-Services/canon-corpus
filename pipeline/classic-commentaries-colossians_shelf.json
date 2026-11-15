@@ -51,13 +51,13 @@
  "_pending": {
   "ccc-cartwright": "Thomas Cartwright, Commentary upon Colossians (1612): no open scan found",
   "ccc-kelly-colossians": "William Kelly, Lectures on Colossians: no open scan found",
-  "ccc-peirce": "James Peirce, Paraphrase and Notes on Colossians (1725): the ECCO scan's text file returned HTTP 500 when its title page was read; retry"
+  "ccc-peirce": "James Peirce, Paraphrase and Notes on Colossians (London: J. Noon, 1725), scan bim_eighteenth-century_a-paraphrase-and-notes-_1725_0. The text file loads now (2026-11-15), but the scan never names Peirce: the title page is lost to the OCR and the dedication to Sir Peter King (Locke's kinsman) is unsigned in what survives. The attribution is the catalogue's (ESTC). Shelve on a look by eye, via _identity_checked."
  },
  "_translators": {},
  "_checks": {
   "ccc-elton-colossians": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "elton",
    "identity": "identity_override",
@@ -68,7 +68,7 @@
   },
   "ccc-gowen-christ-colosse": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -79,7 +79,7 @@
   },
   "ccc-hooper-sermon": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "hooper",
    "identity": "ok",
@@ -90,7 +90,7 @@
   },
   "ccc-dyke-two-treatises": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",

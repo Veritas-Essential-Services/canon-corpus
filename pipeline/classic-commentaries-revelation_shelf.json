@@ -89,6 +89,10 @@
   "ccr-todd-antichrist": [
    "sixdiscoursesonp00todd",
    "Six Discourses on the Prophecies relating to Antichrist in the Apocalypse of St. John, by James Henthorn Todd (catalogue: Dublin: University Press, 1846)"
+  ],
+  "ccr-smith-revelation": [
+   "commentaryonreve0703smit",
+   "Commentary on the Revelation, by Justin A. Smith, An American Commentary on the New Testament (Philadelphia: American Baptist Publication Society, 1884)"
   ]
  },
  "_alternates": {},
@@ -116,7 +120,8 @@
   },
   "ccr-wells-twenty-four": {
    "author": "Title page read 2026-11-03: 'TWENTY-FOUR LECTURES ON THE BOOK OF REVELATION. By JAMES WELLS. LONDON: E. BANKS ... 1870'; the fetched text's surname check misses it"
-  }
+  },
+  "ccr-smith-revelation": "title page read 2026-11-15: 'Commentary on the Revelation by Justin A. Smith, D. D., in consultation with James Robinson Boise ... Philadelphia: American Baptist Publication Society ... Entered ... 1884' (the surname check cannot use the common word 'smith')"
  },
  "_pending": {
   "ccr-giffard": "George Giffard, Sermons upon the Whole Booke of the Revelation (1596): no open scan found",
@@ -124,14 +129,13 @@
   "ccr-garratt": "Samuel Garratt, A Commentary on the Revelation: no open scan found",
   "ccr-james-kelly": "James Kelly, Apocalyptic Interpretation: no open scan found",
   "ccr-davidson": "Samuel Davidson, Outlines of a Commentary on Revelation: no open scan found",
-  "ccr-hoste": "William Hoste, The Visions of John the Divine: no open pre-1931 scan found",
-  "ccr-smith-revelation": "scan commentaryonreve0703smit (Commentary on the Revelation, An American Commentary on the New Testament, by Justin A. Smith (catalogue: Philadelphia: American Baptist Publication Society, 1884)) found, but archive.org returned HTTP 500 for its text file on 3 tries on 2026-11-03; retry later"
+  "ccr-hoste": "William Hoste, The Visions of John the Divine: no open pre-1931 scan found"
  },
  "_translators": {},
  "_checks": {
   "ccr-holland-epitome": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": null,
    "title_weak": true,
@@ -143,7 +147,7 @@
   },
   "ccr-knollys-revelation": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": null,
    "title_weak": true,
@@ -155,7 +159,7 @@
   },
   "ccr-daubuz-perpetual": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "holland",
    "identity": "ok",
@@ -166,7 +170,7 @@
   },
   "ccr-desprez-daniel-john": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "holland",
    "identity": "ok",
@@ -177,7 +181,7 @@
   },
   "ccr-maitland-enquiry": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "daubuz",
    "identity": "ok",
@@ -188,7 +192,7 @@
   },
   "ccr-cuninghame-seals-trumpets": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "holland",
    "identity": "ok",
@@ -199,7 +203,7 @@
   },
   "ccr-milligan-apocalypse": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "daubuz",
    "identity": "ok",
@@ -210,7 +214,7 @@
   },
   "ccr-hayden-ten-lectures": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "hayden",
    "identity": "ok",
@@ -221,7 +225,7 @@
   },
   "ccr-reid-lectures": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "holland",
    "identity": "ok",
@@ -232,7 +236,7 @@
   },
   "ccr-wells-twenty-four": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -243,7 +247,7 @@
   },
   "ccr-douglass-four-lectures": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "douglass",
    "identity": "ok",
@@ -254,7 +258,7 @@
   },
   "ccr-hsl-studies": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "cuninghame",
    "identity": "ok",
@@ -265,7 +269,7 @@
   },
   "ccr-benson-apocalypse": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "milligan",
    "identity": "ok",
@@ -276,7 +280,7 @@
   },
   "ccr-woodhouse-apocalypse": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "daubuz",
    "identity": "ok",
@@ -287,7 +291,7 @@
   },
   "ccr-milner-seven-churches": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "daubuz",
    "identity": "ok",
@@ -298,13 +302,24 @@
   },
   "ccr-todd-antichrist": {
    "kind": "ia",
-   "checked": "2026-11-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "daubuz",
    "identity": "ok",
    "ia_rights": "ok: published 1846",
    "ia_date": "1846",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ccr-smith-revelation": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
