@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain R. A. Torrey (1856-1928, evangelist, first superintendent of the Moody Bible Institute) for the Word Hoard: How to Pray, The Person and Work of the Holy Spirit and Revival Addresses, clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain R. A. Torrey (1856-1928, evangelist, first superintendent of the Moody Bible Institute) for the Word Hoard: How to Pray, The Person and Work of the Holy Spirit and Revival Addresses, clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted. Filled out 2026-11-15 toward the R. A. Torrey Collection (15 vols) on Adam's Libronix list ('Libronix authors - reconciled.md', add-on RAT): every title of it that has an open pre-1930 scan or a Gutenberg text, plus How to Bring Men to Christ (1893).",
  "_ccel_author": "t/torrey",
  "_name_words": [
   "torrey",
@@ -29,8 +29,58 @@
    ""
   ]
  },
- "gutenberg": {},
- "internet_archive": {},
+ "gutenberg": {
+  "torrey-fundamental-doctrines": [
+   52648,
+   "The Fundamental Doctrines of the Christian Faith (New York: Doran, copyright 1918)"
+  ],
+  "torrey-how-to-succeed": [
+   55743,
+   "How to Succeed in the Christian Life (New York: Revell, copyright 1906)"
+  ],
+  "torrey-bring-men-to-christ": [
+   51931,
+   "How to Bring Men to Christ (Chicago: Revell, 1893)"
+  ]
+ },
+ "internet_archive": {
+  "torrey-what-the-bible-teaches": [
+   "whatthebibletea00torruoft",
+   "What the Bible Teaches (New York: Revell, c1898)"
+  ],
+  "torrey-studies-life-teachings": [
+   "studiesinlifetea00torr",
+   "Studies in the Life and Teachings of Our Lord (Los Angeles: Biola Book Room, 1909)"
+  ],
+  "torrey-baptism-holy-spirit": [
+   "baptismwithholys00torr_0",
+   "The Baptism with the Holy Spirit (New York: Revell, 1897)"
+  ],
+  "torrey-proper-bible-study": [
+   "importancevalueo00torr",
+   "The Importance and Value of Proper Bible Study (New York: Doran, 1921)"
+  ],
+  "torrey-how-to-study-bible": [
+   "howtostudybible00torrgoog",
+   "How to Study the Bible for Greatest Profit (Revell, 1896)"
+  ],
+  "torrey-anecdotes": [
+   "anecdotesillustr00torr",
+   "Anecdotes and Illustrations (New York: Revell, 1907)"
+  ],
+  "torrey-talks-to-men": [
+   "talkstomen0000rato_g9o8",
+   "Talks to Men about the Bible and the Christ of the Bible (New York: Revell, copyright 1904)"
+  ],
+  "torrey-real-salvation": [
+   "realsalvationwho00torr",
+   "Real Salvation and Whole-Hearted Service (New York: Revell, 1905)"
+  ],
+  "torrey-gospel-for-today": [
+   "gospelfortodayne0000rato",
+   "The Gospel for To-day: New Evangelistic Sermons for a New Day (New York: Revell, copyright 1922)"
+  ]
+ },
  "_alternates": {},
  "_excluded": {
   "torrey-ttt": "Torrey's New Topical Textbook: a reference index of verses, not his prose"
@@ -38,7 +88,7 @@
  "_checks": {
   "torrey-pray": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "r. a. torrey",
    "identity": "ok",
@@ -50,7 +100,7 @@
   },
   "torrey-work-holy-spirit": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "r. a. torrey",
    "identity": "ok",
@@ -62,7 +112,7 @@
   },
   "torrey-revival": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-11-15",
    "name_check": "surname",
    "author_seen": "r. a. torrey",
    "identity": "ok",
@@ -71,6 +121,135 @@
    "ccel_print_source": "Chicago, New York: Fleming H. Revell, 1903",
    "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "torrey-fundamental-doctrines": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "torrey-how-to-succeed": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "torrey-bring-men-to-christ": {
+   "kind": "gutenberg",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "torrey-what-the-bible-teaches": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "c1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "torrey-studies-life-teachings": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "torrey-baptism-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "torrey-proper-bible-study": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "torrey-how-to-study-bible": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "torrey-anecdotes": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "torrey-talks-to-men": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "torrey-real-salvation": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "torrey-gospel-for-today": {
+   "kind": "ia",
+   "checked": "2026-11-15",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
+ },
+ "_pending": {
+  "torrey-how-to-work-for-christ": "How to Work for Christ (1901): the only scan found (personalwork0000torr, Personal Work) is a later Bible Institute Colportage printing 'by special permission'; wait for a first-edition scan."
  }
 }
