@@ -1,5 +1,5 @@
 {
- "_about": "Anthony Trollope's Barsetshire and Palliser novels and his other novels, stories and travels not already on another shelf: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_about": "Anthony Trollope's Barsetshire and Palliser novels and his other novels, stories and travels not already on another shelf: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated. Gap pass 2026-11-21 (Adam: \"Can we get all of his works into the Armarium?\"): all 47 novels are now held (The Warden on novels-rl-9, the rest here), and five books Gutenberg lacks were added from Internet Archive scans, raw OCR: Australia and New Zealand (1873, both volumes, the first edition; PG 70385 holds only its later South Australia and Western Australia portion), How the \"Mastiffs\" Went to Iceland (1878), British Sports and Pastimes (1868, which Trollope edited and introduced; its other essays are by other St Paul's Magazine contributors) and The Noble Jilt (written 1850, first printed 1923, with Michael Sadleir's preface).",
  "_author": "Anthony Trollope",
  "_name_words": [
   "trollope"
@@ -417,11 +417,39 @@
    "North America — Volume 2"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "atrollope-australia-and-new-zealand-v1-1873": [
+   "australiaandnew01trolgoog",
+   "Australia and New Zealand, vol. I (London: Chapman and Hall, 1873)"
+  ],
+  "atrollope-australia-and-new-zealand-v2-1873": [
+   "australiaandnew02trolgoog",
+   "Australia and New Zealand, vol. II (London: Chapman and Hall, 1873)"
+  ],
+  "atrollope-how-the-mastiffs-went-to-iceland-1878": [
+   "howmastiffswentt00trolrich",
+   "How the \"Mastiffs\" Went to Iceland (London: privately printed, 1878)"
+  ],
+  "atrollope-noble-jilt-1923": [
+   "noblejiltcomedye00troluoft",
+   "The Noble Jilt, a comedy, edited with a preface by Michael Sadleir (London: Constable, 1923)"
+  ],
+  "atrollope-british-sports-and-pastimes-1868": [
+   "britishsportspas00trol",
+   "British Sports and Pastimes, 1868, edited by Anthony Trollope (London: Virtue, 1868)"
+  ]
+ },
  "_excluded": {
   "pg-58383": "PG 58383: Gutenberg's index of the author's works, not a book.",
   "repeat-editions": "PG 3409: second Gutenberg editions of titles already on the shelf.",
-  "held-elsewhere": "PG 619: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+  "held-elsewhere": "PG 619: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "the-new-zealander": "The New Zealander (written 1855-56, first published 1972, ed. N. John Hall): a 1972 first publication is still in US copyright.",
+  "letters-1951": "The Letters of Anthony Trollope (ed. Bradford Booth, Oxford, 1951) and later editions: the letters were first published then; still in copyright.",
+  "tireless-traveler-1941": "The Tireless Traveler (1941, Booth): the twenty letters were printed in the Liverpool Mercury in 1875 (PD), but the only scans are lending-library copies with no open text; renewal of the 1941 editorial matter not checked.",
+  "four-lectures-1938": "Four Lectures (ed. Morris L. Parrish, 1938): no scan found; would need a renewal/URAA check.",
+  "not-found-on-ia": "Did He Steal It? (1869, privately printed play) and London Tradesmen (1927): no scan or transcription found on Gutenberg or the Internet Archive.",
+  "uncollected-stories": "Stories Trollope never collected (The Two Heroines of Plumplington, Not If I Know It, Catherine Carmichael, Christmas Day at Kirkby Cottage, and others) live in 1860s-80s magazines; the only book scans found are 1954 and 1981 editions with modern introductions, lending-only.",
+  "duplicate-portions": "Victoria and Tasmania, New South Wales and Queensland and New Zealand (1874): the later four-part issue of Australia and New Zealand, whose 1873 two-volume first edition is on this shelf."
  },
  "_checks": {
   "atrollope-hunting-sketches": {
@@ -1170,6 +1198,64 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "atrollope-australia-and-new-zealand-v1-1873": {
+   "kind": "ia",
+   "checked": "2026-11-21",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atrollope-australia-and-new-zealand-v2-1873": {
+   "kind": "ia",
+   "checked": "2026-11-21",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atrollope-how-the-mastiffs-went-to-iceland-1878": {
+   "kind": "ia",
+   "checked": "2026-11-21",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "atrollope-noble-jilt-1923": {
+   "kind": "ia",
+   "checked": "2026-11-21",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "atrollope-british-sports-and-pastimes-1868": {
+   "kind": "ia",
+   "checked": "2026-11-21",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
+ },
+ "_identity_checked": {
+  "atrollope-how-the-mastiffs-went-to-iceland-1878": "title page OCR reads 'Bv .\\^T11^)\\^' TR()L1,()I>E', i.e. 'By Anthony Trollope, with illustrations by Mrs. Hugh Blackburn'; the OCR garbles the name, the item record and imprint (1878) confirm it"
  }
 }
